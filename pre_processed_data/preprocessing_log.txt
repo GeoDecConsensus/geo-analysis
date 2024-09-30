@@ -1,0 +1,41 @@
+sui.csv rows: 48
+Dropping 0 rows with 0.00% of total stake.
+Number of rows merged due to same latitude, longitude: 5
+No. of rows post data cleaning: 43
+No. of rows post close proximity merge, under 20km: 42
+GDI calculation completed. DataFrame size: 42 rows
+File saved: pre_processed_data/sui.csv
+
+solana.csv rows: 2310
+Dropping 931 rows with 0.07% of total stake.
+Number of rows merged due to same latitude, longitude: 1220
+No. of rows post data cleaning: 159
+No. of rows post close proximity merge, under 20km: 118
+GDI calculation completed. DataFrame size: 118 rows
+File saved: pre_processed_data/solana.csv
+
+aptos.csv rows: 186
+Dropping 49 rows with 5.50% of total stake.
+Number of rows merged due to same latitude, longitude: 86
+No. of rows post data cleaning: 51
+No. of rows post close proximity merge, under 20km: 46
+GDI calculation completed. DataFrame size: 46 rows
+File saved: pre_processed_data/aptos.csv
+
+ethereum.csv rows: 10803
+Dropping 0 rows with 0.00% of total stake.
+Number of rows merged due to same latitude, longitude: 9168
+No. of rows post data cleaning: 1635
+No. of rows post close proximity merge, under 20km: 1046
+GDI calculation completed. DataFrame size: 1046 rows
+File saved: pre_processed_data/ethereum.csv
+
+avalanche.csv rows: 1468
+Dropping 482 rows with 31.57% of total stake.
+Number of rows merged due to same latitude, longitude: 863
+No. of rows post data cleaning: 123
+No. of rows post close proximity merge, under 20km: 99
+GDI calculation completed. DataFrame size: 99 rows
+File saved: pre_processed_data/avalanche.csv
+
+Files stored in: pre_processed_data/

@@ -3,9 +3,10 @@ import pandas as pd
 
 from data_cleaner import DataCleaner
 from gdi_calculator import GDI_Calculator
-from normalization import Normalization
+from opencage.geocoder import OpenCageGeocode
+
 class Preprocessing:
-    def __init__(self, input_folder='data/', output_folder='pre_processed_data/'):
+    def __init__(self, require_country=False, key='0', input_folder='data/', output_folder='pre_processed_data/'):
         self.input_folder = input_folder
         self.files = self._get_all_files()
         self.output_folder = output_folder
@@ -14,6 +15,10 @@ class Preprocessing:
         # Ensure the output folder exists
         if not os.path.exists(self.output_folder):
             os.makedirs(self.output_folder)
+        
+        self.require_country = require_country
+        if self.require_country:
+            self.geocoder = OpenCageGeocode(key)
     
     def _get_all_files(self):
         """
@@ -26,6 +31,17 @@ class Preprocessing:
         files = [f for f in os.listdir(self.input_folder) if os.path.isfile(os.path.join(self.input_folder, f))]
         return files
 
+    def get_country(self, lat, lon):
+        try:
+            result = self.geocoder.reverse_geocode(lat, lon)
+            if result:
+                return result[0]['components'].get('country', 'Unknown')
+            else:
+                return 'Unknown'
+        except Exception as e:
+            print(f"Error retrieving country for coordinates ({lat}, {lon}): {e}")
+            return 'Unknown'
+    
     
     def log_message(self, message):
         """
@@ -41,7 +57,7 @@ class Preprocessing:
         then save the processed files into the pre_processed_data folder.
         """
         for file in self.files:
-            df = pd.read_csv(os.path.join(self.input_folder, file))
+            df = pd.read_csv(os.path.join(self.input_folder, file),encoding='ISO-8859-1')
             self.log_message(f'{file} rows: {len(df)}')
 
             # Clean the data with the logger passed down
@@ -57,13 +73,14 @@ class Preprocessing:
             # NOTE: 20km is arbitrary, can be any value  
             gdi_calculator.merge_closest_validators(threshold_distance=20)
             gdi_results = gdi_calculator.calculate_GDI()
-
-            # Normalize 'GDI' and 'stake_weight' columns
-            normalized_df = Normalization.normalize_columns(gdi_results)
-
-            # Save normalized data to CSV
+            
+            if self.require_country:
+                gdi_results['country'] = gdi_results.apply(lambda row: self.get_country(row['latitude'], row['longitude']), axis=1)
+                self.log_message('Added country data using OpenCage API')
+                
+            # Save the data to CSV
             output_file_path = os.path.join(self.output_folder, file)
-            normalized_df.to_csv(output_file_path, index=False)
+            gdi_results.to_csv(output_file_path, index=False)
             self.log_message(f'File saved: {output_file_path}\n')
 
         # Print where the files are saved
@@ -82,7 +99,6 @@ class Preprocessing:
                 f.write(entry + '\n')
         print(f"Log saved to: {log_file}")
 
-
-# Example usage
-preprocessing = Preprocessing()
+# USAGE
+preprocessing = Preprocessing(require_country= True, key ='6b69ba29f2a546eb98e391c423257def') # Replace with your OpenCage API key if you need country data, else you do not need it. 
 preprocessing.process_files()

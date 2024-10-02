@@ -4,7 +4,17 @@ Number of rows merged due to same latitude, longitude: 5
 No. of rows post data cleaning: 43
 No. of rows post close proximity merge, under 20km: 42
 GDI calculation completed. DataFrame size: 42 rows
+Added country data using OpenCage API
 File saved: pre_processed_data/sui.csv
+
+ethernodes.csv rows: 5402
+Dropping 0 rows with 0.00% of total stake.
+Number of rows merged due to same latitude, longitude: 3926
+No. of rows post data cleaning: 1476
+No. of rows post close proximity merge, under 20km: 875
+GDI calculation completed. DataFrame size: 875 rows
+Added country data using OpenCage API
+File saved: pre_processed_data/ethernodes.csv
 
 solana.csv rows: 2310
 Dropping 931 rows with 0.07% of total stake.
@@ -12,6 +22,7 @@ Number of rows merged due to same latitude, longitude: 1220
 No. of rows post data cleaning: 159
 No. of rows post close proximity merge, under 20km: 118
 GDI calculation completed. DataFrame size: 118 rows
+Added country data using OpenCage API
 File saved: pre_processed_data/solana.csv
 
 aptos.csv rows: 186
@@ -20,6 +31,7 @@ Number of rows merged due to same latitude, longitude: 86
 No. of rows post data cleaning: 51
 No. of rows post close proximity merge, under 20km: 46
 GDI calculation completed. DataFrame size: 46 rows
+Added country data using OpenCage API
 File saved: pre_processed_data/aptos.csv
 
 ethereum.csv rows: 10803
@@ -28,6 +40,7 @@ Number of rows merged due to same latitude, longitude: 9168
 No. of rows post data cleaning: 1635
 No. of rows post close proximity merge, under 20km: 1046
 GDI calculation completed. DataFrame size: 1046 rows
+Added country data using OpenCage API
 File saved: pre_processed_data/ethereum.csv
 
 avalanche.csv rows: 1468
@@ -36,6 +49,7 @@ Number of rows merged due to same latitude, longitude: 863
 No. of rows post data cleaning: 123
 No. of rows post close proximity merge, under 20km: 99
 GDI calculation completed. DataFrame size: 99 rows
+Added country data using OpenCage API
 File saved: pre_processed_data/avalanche.csv
 
 Files stored in: pre_processed_data/

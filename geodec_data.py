@@ -4,10 +4,10 @@ import pandas as pd
 from geopy.distance import geodesic
 
 # Output file name
-OUTPUT_FILE = "geodec_data/ethereum/ethereum_final.csv"
+OUTPUT_FILE = "geodec_data/avalanche/avalanche_final.csv"
 
 # Setup logging
-logging.basicConfig(filename="geodec_data/ethereum/logs.txt", level=logging.INFO, format="%(asctime)s - %(message)s")
+logging.basicConfig(filename="geodec_data/avalanche/logs.txt", level=logging.INFO, format="%(asctime)s - %(message)s")
 
 
 # Function to calculate the distance between two sets of coordinates
@@ -16,7 +16,7 @@ def calculate_distance(lat1, lon1, lat2, lon2):
 
 
 # Step 1: Read the CSV files
-validator_df = pd.read_csv("data/pre_processed_data/ethereum.csv")
+validator_df = pd.read_csv("data/pre_processed_data/avalanche.csv")
 servers_df = pd.read_csv("geodec_data/servers.csv")
 
 

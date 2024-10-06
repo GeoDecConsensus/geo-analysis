@@ -1,5 +1,4 @@
 import pandas as pd
-import math
 import haversine as hs  # Install using: pip install haversine
 
 class GDI_Calculator:

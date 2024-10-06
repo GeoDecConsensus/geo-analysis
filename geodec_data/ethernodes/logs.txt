@@ -1,0 +1,1185 @@
+2024-10-06 14:56:23,242 - Validator 5e7c5636-8e9b-4c95-96f7-d42f48680685 merged with server 59 at distance 4.58 km.
+2024-10-06 14:56:23,261 - Validator 68485f5d-ab93-4231-a68e-b90f5af9c418 merged with server 59 at distance 21.77 km.
+2024-10-06 14:56:23,279 - Validator d68b0c9f-b397-48df-81f6-a558920b0f15 merged with server 1 at distance 600.37 km.
+2024-10-06 14:56:23,297 - Validator 6724e6d6-0852-4cd9-badb-e65bd4037617 merged with server 1 at distance 446.48 km.
+2024-10-06 14:56:23,315 - Validator ad653814-ddc7-456d-821c-4212bef521ef merged with server 139 at distance 0.05 km.
+2024-10-06 14:56:23,333 - Validator 87681097-00d2-498e-96bc-60e5a80d7701 merged with server 1 at distance 65.21 km.
+2024-10-06 14:56:23,351 - Validator bd6f6af3-dc41-40fc-8fdf-a4a2612534c2 merged with server 1 at distance 3.42 km.
+2024-10-06 14:56:23,370 - Validator b4a19692-8687-4cf4-a66f-dcda97a2e9ec merged with server 8 at distance 2.29 km.
+2024-10-06 14:56:23,388 - Validator e3308565-def6-46bb-8cf0-e7d7b4a493ba merged with server 1 at distance 160.35 km.
+2024-10-06 14:56:23,406 - Validator 104bc79a-7b3c-44ef-970e-5a40b2ee409b merged with server 105 at distance 1.49 km.
+2024-10-06 14:56:23,424 - Validator 84439d55-63eb-4561-a3ae-8c3fbb715765 merged with server 50 at distance 52.66 km.
+2024-10-06 14:56:23,442 - Validator 546c6b1a-caf7-417f-be97-e7bf8bb8915d merged with server 167 at distance 29.60 km.
+2024-10-06 14:56:23,460 - Validator 59aa025b-9ee1-44bb-8d94-e2bc57bde76d merged with server 50 at distance 1.13 km.
+2024-10-06 14:56:23,478 - Validator 0a1e4a48-c17a-496b-b33d-03e8187252e1 merged with server 107 at distance 99.23 km.
+2024-10-06 14:56:23,496 - Validator c6554062-6617-48dd-b952-b1e4d8f2899b merged with server 42 at distance 5.65 km.
+2024-10-06 14:56:23,514 - Validator 4df7a4dc-4806-4e27-a0b9-258aafba8145 merged with server 107 at distance 4.73 km.
+2024-10-06 14:56:23,532 - Validator b7665af9-bee2-47ef-958e-1b5c8dbc86ca merged with server 42 at distance 57.65 km.
+2024-10-06 14:56:23,550 - Validator 983445e3-278a-41cc-8796-1b595a9b414f merged with server 70 at distance 95.60 km.
+2024-10-06 14:56:23,568 - Validator 21e800a6-3e79-4885-ba00-ad3941853817 merged with server 50 at distance 278.37 km.
+2024-10-06 14:56:23,586 - Validator 247ed300-253e-4678-b896-a8922a5c9174 merged with server 169 at distance 0.24 km.
+2024-10-06 14:56:23,604 - Validator dc1cb6c1-0d73-481a-b2c5-e55cecc2e085 merged with server 167 at distance 469.37 km.
+2024-10-06 14:56:23,622 - Validator 6c244975-46e9-4de2-a417-2c8e55d01243 merged with server 21 at distance 14.10 km.
+2024-10-06 14:56:23,640 - Validator 37fd1840-675a-4bc7-aa33-fb4961ec667f merged with server 21 at distance 71.89 km.
+2024-10-06 14:56:23,659 - Validator 5f2e2368-97c1-479d-9111-b6a44dd0b393 merged with server 175 at distance 0.31 km.
+2024-10-06 14:56:23,677 - Validator ecd93f1a-0bfb-4c0e-8117-65cb2709c4d3 merged with server 50 at distance 1044.75 km.
+2024-10-06 14:56:23,695 - Validator 45ec3c41-42eb-41e0-8369-3e9c36f8336f merged with server 70 at distance 1091.65 km.
+2024-10-06 14:56:23,713 - Validator d8125e48-c348-41ec-a608-ed2c95a63044 merged with server 125 at distance 0.40 km.
+2024-10-06 14:56:23,731 - Validator 242021f5-1384-4374-be1b-e94cacafbbcf merged with server 125 at distance 360.33 km.
+2024-10-06 14:56:23,750 - Validator a1719964-8b26-4861-9cc7-a3aedf7e7651 merged with server 125 at distance 83.71 km.
+2024-10-06 14:56:23,768 - Validator 46fb2be2-2cf4-4881-8194-c7e159572bfd merged with server 125 at distance 253.56 km.
+2024-10-06 14:56:23,786 - Validator 3e6bb34e-19f3-41a9-b170-42b73d3e9e69 merged with server 115 at distance 2337.33 km.
+2024-10-06 14:56:23,804 - Validator f90d4ea4-c664-4853-bbf0-59014beaeec1 merged with server 115 at distance 2460.24 km.
+2024-10-06 14:56:23,822 - Validator 2f12ace7-1916-462f-a2fe-adc7397c4694 merged with server 125 at distance 417.98 km.
+2024-10-06 14:56:23,841 - Validator 6a50efe6-8e73-40e0-89f0-40037f21e3b9 merged with server 125 at distance 508.01 km.
+2024-10-06 14:56:23,859 - Validator 309e606b-d9f2-4950-8971-12ede3abb1cd merged with server 238 at distance 389.93 km.
+2024-10-06 14:56:23,877 - Validator 57f12374-b154-4e83-b4bb-7a3a05642151 merged with server 238 at distance 348.33 km.
+2024-10-06 14:56:23,895 - Validator e50879fa-5b07-437e-9106-c20342907961 merged with server 238 at distance 176.30 km.
+2024-10-06 14:56:23,913 - Validator 9123aac7-09e2-435a-b7f3-c9d1fd639334 merged with server 57 at distance 975.20 km.
+2024-10-06 14:56:23,933 - Validator e5220c14-7768-4f2c-95e5-53c2d74d636a merged with server 57 at distance 674.85 km.
+2024-10-06 14:56:23,951 - Validator e8664326-58d6-4df8-a2f2-013f42e37194 merged with server 57 at distance 30.45 km.
+2024-10-06 14:56:23,969 - Validator 3669f08a-2be2-4445-87c9-34ba3bf69f62 merged with server 57 at distance 175.05 km.
+2024-10-06 14:56:23,987 - Validator 4de02520-d767-4971-bdb4-0220e85b19c8 merged with server 57 at distance 13.84 km.
+2024-10-06 14:56:24,006 - Validator 7c902ff8-a251-4497-8f3d-7852bac058a7 merged with server 0 at distance 398.74 km.
+2024-10-06 14:56:24,024 - Validator e2dc858e-4b29-4eb5-8199-15af61e33a5c merged with server 0 at distance 717.51 km.
+2024-10-06 14:56:24,042 - Validator 13d767b1-63a6-46b5-9c3e-880785456e7e merged with server 31 at distance 14.02 km.
+2024-10-06 14:56:24,060 - Validator 9be6f9aa-2db7-499c-bf7a-b29909015863 merged with server 36 at distance 0.94 km.
+2024-10-06 14:56:24,078 - Validator e057a5e1-a2b5-428a-9cb1-78e490dfd8ce merged with server 36 at distance 338.91 km.
+2024-10-06 14:56:24,096 - Validator b0da5194-2c94-4b49-aa8e-466315215635 merged with server 213 at distance 1.44 km.
+2024-10-06 14:56:24,114 - Validator 251d4c37-a9ca-4f82-a140-fe842b76e10c merged with server 49 at distance 2.17 km.
+2024-10-06 14:56:24,131 - Validator 0360df9f-bd58-4c27-957a-479e06e848e5 merged with server 36 at distance 639.69 km.
+2024-10-06 14:56:24,149 - Validator 5a3b0f37-a1b5-4eeb-8c24-46c41acc32c8 merged with server 64 at distance 665.87 km.
+2024-10-06 14:56:24,167 - Validator 5ba5dc63-dd6e-493b-af3a-f71fc2946d17 merged with server 99 at distance 56.73 km.
+2024-10-06 14:56:24,185 - Validator bef59756-ea6d-4604-a64b-dd55689a7ffa merged with server 64 at distance 469.99 km.
+2024-10-06 14:56:24,202 - Validator 00a8b414-c495-48c3-a914-6d8198944f15 merged with server 74 at distance 8.24 km.
+2024-10-06 14:56:24,221 - Validator 06bf694a-af78-476d-a26c-c26c8b9e4deb merged with server 222 at distance 362.60 km.
+2024-10-06 14:56:24,239 - Validator ac95492a-15c0-41e3-8902-14753c8bccb9 merged with server 242 at distance 5.72 km.
+2024-10-06 14:56:24,256 - Validator b9c7b5d1-4592-4516-a77d-78da67f1df4c merged with server 232 at distance 0.02 km.
+2024-10-06 14:56:24,274 - Validator c5a0a441-9df4-44c6-94c9-1f448f7a4b44 merged with server 222 at distance 0.10 km.
+2024-10-06 14:56:24,292 - Validator f6ef4666-46ba-403a-b3d9-6ca585f8b4a0 merged with server 64 at distance 40.51 km.
+2024-10-06 14:56:24,310 - Validator 55a31ac3-c618-40c3-a509-0bb251c96277 merged with server 64 at distance 2.01 km.
+2024-10-06 14:56:24,328 - Validator 229e14bb-da40-4870-8065-12295dad1caf merged with server 168 at distance 76.44 km.
+2024-10-06 14:56:24,346 - Validator 3d643989-f768-4abd-bc27-1e5c6244effb merged with server 64 at distance 580.31 km.
+2024-10-06 14:56:24,364 - Validator 02c058c1-c82b-4555-a6f2-1b3f01474c7d merged with server 111 at distance 118.53 km.
+2024-10-06 14:56:24,381 - Validator a5cd9ce1-5d4a-4fac-9724-6247abc7b0c1 merged with server 33 at distance 315.52 km.
+2024-10-06 14:56:24,399 - Validator a3c375f4-0e94-41c1-b40d-9d69c5c2343f merged with server 33 at distance 0.79 km.
+2024-10-06 14:56:24,417 - Validator 1f91c313-4bbe-4d04-9098-d8fdf2c2167b merged with server 33 at distance 20.47 km.
+2024-10-06 14:56:24,434 - Validator 6133e82a-5f8d-41b1-80d1-c2f38162c8c5 merged with server 33 at distance 170.72 km.
+2024-10-06 14:56:24,452 - Validator f8cd0415-28e6-4710-97e6-e884ebdc10a5 merged with server 151 at distance 154.34 km.
+2024-10-06 14:56:24,470 - Validator 307a73e8-e27e-4ee8-b32f-61744d06ec3c merged with server 220 at distance 648.83 km.
+2024-10-06 14:56:24,488 - Validator 9b5c3de2-c449-4d50-8324-9a8119ad3fa3 merged with server 65 at distance 4.83 km.
+2024-10-06 14:56:24,505 - Validator 3202f4ac-8b11-4737-afb6-6a8ecd5e3d1c merged with server 65 at distance 33.07 km.
+2024-10-06 14:56:24,523 - Validator 99bd5e7d-6cb7-4e4c-b7b7-28ac490f26fd merged with server 151 at distance 2.09 km.
+2024-10-06 14:56:24,541 - Validator 417a9910-a8b0-41f2-807f-df77a91b748b merged with server 151 at distance 20.31 km.
+2024-10-06 14:56:24,559 - Validator 2b6a5144-4f17-49ca-82b8-e4f024dcaac0 merged with server 148 at distance 294.93 km.
+2024-10-06 14:56:24,577 - Validator ea123e87-d65c-44a1-9472-0e45fe77ce48 merged with server 72 at distance 2.54 km.
+2024-10-06 14:56:24,595 - Validator c5b7a8bc-7566-49d1-8984-7c9c76d2745c merged with server 221 at distance 18.97 km.
+2024-10-06 14:56:24,613 - Validator d6050ac6-0dc1-40f6-bb17-8a4760bf5426 merged with server 95 at distance 295.14 km.
+2024-10-06 14:56:24,631 - Validator 2d8f6484-42fb-49a8-9d8c-11990a8f56a0 merged with server 95 at distance 263.08 km.
+2024-10-06 14:56:24,648 - Validator 18274d86-539a-40ea-ba67-e8443bd77147 merged with server 221 at distance 104.46 km.
+2024-10-06 14:56:24,666 - Validator c78109ee-a02b-4b77-89c4-c21e97d126ab merged with server 133 at distance 346.90 km.
+2024-10-06 14:56:24,685 - Validator 3d10c5e3-a449-4c0c-b3fc-4c9944f4b2e5 merged with server 95 at distance 153.73 km.
+2024-10-06 14:56:24,703 - Validator 5070e74d-f3b3-4b90-a647-eca88fd7fced merged with server 95 at distance 130.54 km.
+2024-10-06 14:56:24,721 - Validator 3d09400d-b47d-4807-897c-459427ac4f93 merged with server 133 at distance 93.82 km.
+2024-10-06 14:56:24,739 - Validator 7e1c93c8-7b4c-44e7-8ec8-282d9f53f494 merged with server 95 at distance 24.25 km.
+2024-10-06 14:56:24,756 - Validator f7518943-9d76-41eb-9d8f-8283469df424 merged with server 65 at distance 543.70 km.
+2024-10-06 14:56:24,774 - Validator 0d441f66-c47c-4e81-97a1-299767bc9c43 merged with server 133 at distance 14.30 km.
+2024-10-06 14:56:24,792 - Validator cce1a0b4-da1d-4f40-b224-f9bcd332fe48 merged with server 133 at distance 103.40 km.
+2024-10-06 14:56:24,810 - Validator a9cc8f77-3ce9-49d2-a8f1-d773b7cf2444 merged with server 133 at distance 34.56 km.
+2024-10-06 14:56:24,828 - Validator 21f305e6-557b-470f-b7be-7e563aac42a3 merged with server 15 at distance 26.63 km.
+2024-10-06 14:56:24,845 - Validator dd9ae447-26c2-482b-90ca-13d35b3f993c merged with server 51 at distance 452.82 km.
+2024-10-06 14:56:24,863 - Validator 2a4ab74d-82cd-489e-be55-88680ee21832 merged with server 15 at distance 1.21 km.
+2024-10-06 14:56:24,881 - Validator 892ee9e4-e0da-4d9c-bbfa-10c5f048b7f2 merged with server 15 at distance 24.82 km.
+2024-10-06 14:56:24,898 - Validator 671f2b71-a896-4d6e-a4f1-da7d9df92819 merged with server 51 at distance 401.18 km.
+2024-10-06 14:56:24,916 - Validator 7d192e6a-5daf-43f9-b140-051b4563af24 merged with server 15 at distance 40.15 km.
+2024-10-06 14:56:24,933 - Validator 1354db2b-76c3-4f8f-af85-885fe8eeb391 merged with server 15 at distance 160.56 km.
+2024-10-06 14:56:24,950 - Validator 8a4b2ac9-b1c1-45dc-bfd8-c5d466c9d709 merged with server 15 at distance 56.59 km.
+2024-10-06 14:56:24,968 - Validator 93c8aec0-92fe-43b7-9d7c-df42ed553f33 merged with server 15 at distance 85.29 km.
+2024-10-06 14:56:24,986 - Validator e94fd4ab-83bb-4ccd-9822-88b67e084bd7 merged with server 97 at distance 161.46 km.
+2024-10-06 14:56:25,003 - Validator c0d440ba-f93a-4ff1-9220-08dccc1ce049 merged with server 15 at distance 106.24 km.
+2024-10-06 14:56:25,021 - Validator 85175610-b3bf-46c7-860e-5f3745fc2bb4 merged with server 15 at distance 129.75 km.
+2024-10-06 14:56:25,038 - Validator 989c1086-c66c-49d6-8577-d86331d22575 merged with server 97 at distance 68.42 km.
+2024-10-06 14:56:25,056 - Validator 17e1a17e-dc7e-43b6-a378-03d94b5c2f7e merged with server 97 at distance 17.79 km.
+2024-10-06 14:56:25,074 - Validator 17dd55cd-ad1d-4618-bbfa-b9043e5b0e8b merged with server 97 at distance 7.51 km.
+2024-10-06 14:56:25,092 - Validator ba6120ff-45a3-4c61-87d6-1759f12a81a7 merged with server 63 at distance 1191.23 km.
+2024-10-06 14:56:25,109 - Validator 86df7fd6-613f-4a52-809a-803106e9d482 merged with server 89 at distance 79.42 km.
+2024-10-06 14:56:25,127 - Validator 5888cf2e-4d2f-4871-89a0-abe477663b9f merged with server 63 at distance 1236.15 km.
+2024-10-06 14:56:25,145 - Validator e1025a52-3e53-4d58-a2c8-68c29fdd09e0 merged with server 89 at distance 0.03 km.
+2024-10-06 14:56:25,163 - Validator af935914-bc32-45c7-9db0-9aab4d4f7573 merged with server 46 at distance 19.42 km.
+2024-10-06 14:56:25,181 - Validator 5dca97a0-e9dd-4a6a-955e-d46a79dc1ce3 merged with server 51 at distance 160.39 km.
+2024-10-06 14:56:25,198 - Validator 0da0350b-6708-40c5-bac0-851dd1fcc13c merged with server 89 at distance 74.10 km.
+2024-10-06 14:56:25,216 - Validator a33caf05-a3ec-4cdf-9cab-98a35a9f31e3 merged with server 89 at distance 41.73 km.
+2024-10-06 14:56:25,234 - Validator 9ff901ad-2d05-4a5a-b34b-9d0a7c5aacac merged with server 116 at distance 539.53 km.
+2024-10-06 14:56:25,251 - Validator 0bbdb51c-d95c-4d72-8ee6-fd6924a65786 merged with server 51 at distance 12.36 km.
+2024-10-06 14:56:25,269 - Validator 1fd24515-072f-418c-9489-1c5cb2522e03 merged with server 51 at distance 23.95 km.
+2024-10-06 14:56:25,286 - Validator b2da13fe-7334-436d-b63a-47d2eb8b7378 merged with server 75 at distance 95.74 km.
+2024-10-06 14:56:25,304 - Validator 125b1329-cb58-4dd2-bb16-834c954951ea merged with server 65 at distance 946.85 km.
+2024-10-06 14:56:25,322 - Validator 44e6e9bc-3e37-468e-bc81-266d288970dc merged with server 75 at distance 99.27 km.
+2024-10-06 14:56:25,339 - Validator 16a822cb-eb4a-42ba-aa8d-e113cf35abe8 merged with server 39 at distance 60.14 km.
+2024-10-06 14:56:25,357 - Validator d4cd0247-de0a-4245-8ec3-3565d1e3879f merged with server 39 at distance 10.72 km.
+2024-10-06 14:56:25,374 - Validator eae1e8c0-944b-45ed-a952-f2937ce94154 merged with server 51 at distance 52.42 km.
+2024-10-06 14:56:25,392 - Validator 020c90b4-14a8-4f0e-a308-5b2da30309fe merged with server 84 at distance 139.55 km.
+2024-10-06 14:56:25,410 - Validator 29d0a362-5c5a-44ff-b15e-e220688cfc99 merged with server 75 at distance 58.57 km.
+2024-10-06 14:56:25,427 - Validator d4b9b844-f2e3-4038-ae64-4ce4c21b840b merged with server 140 at distance 3.51 km.
+2024-10-06 14:56:25,445 - Validator 36501f5e-a86c-4949-8b25-1ba7158de1fb merged with server 143 at distance 31.41 km.
+2024-10-06 14:56:25,462 - Validator 608eccf0-9bb9-4bd0-9402-0eafd4b26a55 merged with server 39 at distance 31.74 km.
+2024-10-06 14:56:25,480 - Validator be332e7d-a725-46d9-b90a-0d989508e2de merged with server 39 at distance 28.79 km.
+2024-10-06 14:56:25,497 - Validator ddbc7a0f-d5c7-498b-9aaa-b41733992881 merged with server 39 at distance 44.37 km.
+2024-10-06 14:56:25,515 - Validator 5f7f43b4-c8dc-4058-b490-488cff750d7e merged with server 143 at distance 1.72 km.
+2024-10-06 14:56:25,532 - Validator 17e4f813-e9c8-475d-bac0-0c11e9cfbbcb merged with server 75 at distance 0.04 km.
+2024-10-06 14:56:25,550 - Validator bab60669-0aa8-4443-8a50-e7b628748abe merged with server 51 at distance 509.85 km.
+2024-10-06 14:56:25,568 - Validator d1033689-d900-4124-8ff0-6dfe076eb278 merged with server 140 at distance 310.63 km.
+2024-10-06 14:56:25,585 - Validator 2047bbd8-52d8-40d7-8609-ebfd83feba2d merged with server 143 at distance 21.48 km.
+2024-10-06 14:56:25,603 - Validator f0f9a503-9301-46c3-b378-c6d34b73658f merged with server 143 at distance 24.44 km.
+2024-10-06 14:56:25,620 - Validator fe5d7ead-b6b6-4dcd-8736-162babd1185e merged with server 75 at distance 256.47 km.
+2024-10-06 14:56:25,638 - Validator 04a57731-1e45-4410-9499-7094f9986106 merged with server 65 at distance 1080.39 km.
+2024-10-06 14:56:25,655 - Validator 941a69fc-b375-4b85-b08f-fca91bd9ffc7 merged with server 39 at distance 148.19 km.
+2024-10-06 14:56:25,672 - Validator c3940c94-c56d-44a9-b411-d0962d490b68 merged with server 143 at distance 101.81 km.
+2024-10-06 14:56:25,690 - Validator 7846633e-d449-4549-a149-f91de71041ff merged with server 18 at distance 314.04 km.
+2024-10-06 14:56:25,708 - Validator 3a2f27ce-5201-4fcf-943f-e5587c5b0cba merged with server 180 at distance 4.69 km.
+2024-10-06 14:56:25,725 - Validator 1662183e-8855-476b-b739-d5fc7428c3fd merged with server 12 at distance 143.08 km.
+2024-10-06 14:56:25,743 - Validator 95f929e4-0368-44c6-81e9-47ba71096f72 merged with server 258 at distance 0.26 km.
+2024-10-06 14:56:25,760 - Validator 6d40862e-0aa6-4641-83f3-823d43a0ebee merged with server 87 at distance 18.85 km.
+2024-10-06 14:56:25,778 - Validator 969ecfd7-74ac-4b63-93d7-b13801d2ad09 merged with server 84 at distance 240.59 km.
+2024-10-06 14:56:25,796 - Validator c8902297-8b2b-4194-8208-da7f45a8948a merged with server 38 at distance 156.98 km.
+2024-10-06 14:56:25,814 - Validator 7be029c6-e876-4066-819f-64807cc31cd6 merged with server 87 at distance 27.77 km.
+2024-10-06 14:56:25,831 - Validator 33709574-0d07-45fb-9661-b430f425916c merged with server 18 at distance 151.89 km.
+2024-10-06 14:56:25,849 - Validator a793466c-f25a-4b12-bf09-b84b4ef92ec3 merged with server 73 at distance 159.93 km.
+2024-10-06 14:56:25,867 - Validator 8219a47b-32bf-4cc3-8c6e-cacfe18312a6 merged with server 18 at distance 197.02 km.
+2024-10-06 14:56:25,884 - Validator 8110a5bb-9842-41b2-88a7-e7e387a6c1d2 merged with server 73 at distance 10.74 km.
+2024-10-06 14:56:25,902 - Validator b747021e-b125-492e-a346-41ee69c7ed7e merged with server 12 at distance 48.86 km.
+2024-10-06 14:56:25,919 - Validator de29d922-2c03-4193-b298-e9d2ba2cbe51 merged with server 12 at distance 0.26 km.
+2024-10-06 14:56:25,937 - Validator 88143a06-0825-49bd-b8e0-9588ee0b5dc4 merged with server 73 at distance 12.00 km.
+2024-10-06 14:56:25,955 - Validator 45cd2002-2ce7-49b1-818c-f1b75738ab91 merged with server 119 at distance 492.37 km.
+2024-10-06 14:56:25,973 - Validator 837720d3-15c8-4c18-8499-7f994a5d2ad8 merged with server 239 at distance 136.00 km.
+2024-10-06 14:56:25,990 - Validator f29fc2b9-05e9-41d9-a14c-36d35c4a9ad7 merged with server 12 at distance 26.12 km.
+2024-10-06 14:56:26,008 - Validator 4a070c24-957f-4f0a-9125-eb2b4fc41dbf merged with server 73 at distance 37.87 km.
+2024-10-06 14:56:26,026 - Validator 83cce9b3-7f88-4571-bbc5-38cb04652731 merged with server 12 at distance 37.66 km.
+2024-10-06 14:56:26,044 - Validator 4ce1b194-e60f-412a-b8d7-5bb8272c7fe6 merged with server 113 at distance 480.03 km.
+2024-10-06 14:56:26,061 - Validator 2e77e63e-a3ef-4df0-9dbf-e09245187f1b merged with server 18 at distance 228.18 km.
+2024-10-06 14:56:26,079 - Validator 7cb0d451-dd6e-4050-b791-9f568eb0e9b3 merged with server 38 at distance 4.28 km.
+2024-10-06 14:56:26,096 - Validator 72401283-779f-41d6-a470-318e35ee1d58 merged with server 239 at distance 174.35 km.
+2024-10-06 14:56:26,114 - Validator f9324e56-9b7f-467d-90c0-4769ba87f525 merged with server 73 at distance 86.32 km.
+2024-10-06 14:56:26,132 - Validator d4d27682-9ec9-4836-b41f-7db673c23ec7 merged with server 37 at distance 81.35 km.
+2024-10-06 14:56:26,149 - Validator 0dc190b3-7e14-4117-a0ee-e18ffe9717a4 merged with server 18 at distance 19.69 km.
+2024-10-06 14:56:26,167 - Validator f3c24f38-4a54-470e-9b8e-f26dfed251ee merged with server 37 at distance 49.85 km.
+2024-10-06 14:56:26,185 - Validator cbbfb60a-ef2a-4426-8d0f-3b975aa71520 merged with server 37 at distance 32.02 km.
+2024-10-06 14:56:26,202 - Validator fecc896d-374e-4dcb-9246-7e982abd7f50 merged with server 18 at distance 23.88 km.
+2024-10-06 14:56:26,220 - Validator ab569a05-f6ee-48c3-9c97-adeb6b9dff10 merged with server 37 at distance 25.57 km.
+2024-10-06 14:56:26,238 - Validator c60e00fb-db60-47cd-b68c-078d454860d6 merged with server 37 at distance 65.52 km.
+2024-10-06 14:56:26,256 - Validator be0321b4-7454-465c-be05-79c88c75963a merged with server 37 at distance 37.01 km.
+2024-10-06 14:56:26,273 - Validator 38612c12-d534-4907-8e61-ea8df6ed387d merged with server 63 at distance 53.10 km.
+2024-10-06 14:56:26,291 - Validator e955d609-f366-49c9-af0e-5525be00dfed merged with server 18 at distance 26.76 km.
+2024-10-06 14:56:26,308 - Validator d532d36d-ee31-427c-85c9-038e93ea02f3 merged with server 78 at distance 138.45 km.
+2024-10-06 14:56:26,326 - Validator 696b0952-7e50-4955-8bee-1cfc50353ea4 merged with server 37 at distance 110.80 km.
+2024-10-06 14:56:26,344 - Validator 8c68997c-96d0-4a6e-b53b-7bd8325c3216 merged with server 37 at distance 10.68 km.
+2024-10-06 14:56:26,361 - Validator d6d0b68c-3356-4cee-ad71-73afb22bd913 merged with server 18 at distance 51.46 km.
+2024-10-06 14:56:26,379 - Validator fa6ca23a-5ce5-4758-98cf-91b80e9287e6 merged with server 37 at distance 55.95 km.
+2024-10-06 14:56:26,397 - Validator cd687eb8-08f0-4520-91bb-19179abf9398 merged with server 37 at distance 36.63 km.
+2024-10-06 14:56:26,415 - Validator d3326d85-efc6-4e9a-9850-c50c7e35c027 merged with server 162 at distance 191.65 km.
+2024-10-06 14:56:26,433 - Validator b064aa90-1879-4805-871f-ca4975f035cf merged with server 37 at distance 76.73 km.
+2024-10-06 14:56:26,450 - Validator 5d754db1-b5fc-4d96-9221-a65d18a2edd6 merged with server 261 at distance 893.55 km.
+2024-10-06 14:56:26,468 - Validator 5770f371-f47e-4af3-ac87-8a10c3246807 merged with server 18 at distance 80.14 km.
+2024-10-06 14:56:26,486 - Validator 37503e47-8b1c-41c1-9bdd-063d2cf8fbed merged with server 37 at distance 47.91 km.
+2024-10-06 14:56:26,504 - Validator 47801031-5f33-4ec7-a088-d32dc5e2aa52 merged with server 37 at distance 140.18 km.
+2024-10-06 14:56:26,521 - Validator f18ef456-71e8-4070-a3ad-2091fa0b2c06 merged with server 79 at distance 192.49 km.
+2024-10-06 14:56:26,539 - Validator b8551858-6b6f-4829-a736-1298a46cd702 merged with server 119 at distance 95.74 km.
+2024-10-06 14:56:26,557 - Validator 04685109-4e22-44ba-9a9b-e73e43191615 merged with server 18 at distance 257.44 km.
+2024-10-06 14:56:26,575 - Validator f65085c1-45bb-40c7-9f1e-b43a782dbf2e merged with server 119 at distance 143.87 km.
+2024-10-06 14:56:26,593 - Validator 32123052-c361-47ed-ba33-d6fb80e6c125 merged with server 119 at distance 0.10 km.
+2024-10-06 14:56:26,611 - Validator 796feb44-0bb3-4d83-9142-8d1c5b00a4fa merged with server 18 at distance 229.88 km.
+2024-10-06 14:56:26,628 - Validator 664001c1-dc8d-452f-94fd-d6be5640adb7 merged with server 110 at distance 99.64 km.
+2024-10-06 14:56:26,645 - Validator b9f9b9aa-1ccf-4ff8-91a0-7b088bc8b478 merged with server 231 at distance 209.49 km.
+2024-10-06 14:56:26,663 - Validator 26454a0a-aeb9-4a0a-8da2-c704f602fe1c merged with server 113 at distance 334.38 km.
+2024-10-06 14:56:26,681 - Validator a71faf10-3c16-4d23-b037-a88390c5680f merged with server 113 at distance 293.87 km.
+2024-10-06 14:56:26,699 - Validator 38ef2113-b502-49f5-8fcc-deae332021a7 merged with server 119 at distance 47.59 km.
+2024-10-06 14:56:26,717 - Validator 7035f61a-5185-463d-8d9c-5f0bdd07b536 merged with server 124 at distance 161.16 km.
+2024-10-06 14:56:26,734 - Validator c1ce41aa-c973-4172-9a21-140141c2b0de merged with server 18 at distance 271.59 km.
+2024-10-06 14:56:26,752 - Validator 659ab23a-2f5c-4f61-8828-d9fc625860f4 merged with server 142 at distance 4.74 km.
+2024-10-06 14:56:26,770 - Validator 93ba5c21-6a4d-4bc5-b8ea-7ce99bcc03f3 merged with server 113 at distance 329.75 km.
+2024-10-06 14:56:26,787 - Validator ef01fbca-c6cb-4fd3-a33f-575de5843c31 merged with server 78 at distance 13.66 km.
+2024-10-06 14:56:26,805 - Validator 5b07dc86-18e0-4a41-aa80-307c29b2eb78 merged with server 113 at distance 267.69 km.
+2024-10-06 14:56:26,823 - Validator cc8919cd-45fe-4113-83c2-289f638fbc83 merged with server 192 at distance 64.01 km.
+2024-10-06 14:56:26,841 - Validator abe0edcd-16c3-44f6-a8d6-b9be4ae0e0b7 merged with server 244 at distance 60.97 km.
+2024-10-06 14:56:26,858 - Validator e016bbc6-63a3-4431-9b33-6decfd5dc87f merged with server 78 at distance 31.21 km.
+2024-10-06 14:56:26,876 - Validator 806638f7-2058-4b4c-9529-7a120117df67 merged with server 23 at distance 238.69 km.
+2024-10-06 14:56:26,894 - Validator 10bf3a64-7869-48ec-8a23-6661f76607cf merged with server 6 at distance 29.69 km.
+2024-10-06 14:56:26,912 - Validator 05f18716-e581-4dc1-ba94-adfdd01666e2 merged with server 121 at distance 2.34 km.
+2024-10-06 14:56:26,929 - Validator a1304b53-3fe4-4627-a259-3bda75d00ce6 merged with server 110 at distance 7.57 km.
+2024-10-06 14:56:26,947 - Validator 6b638c2a-f97e-423a-b99f-37c75c472f30 merged with server 6 at distance 8.88 km.
+2024-10-06 14:56:26,965 - Validator c16b8d5f-631f-444e-81f5-2a7e367713af merged with server 6 at distance 40.21 km.
+2024-10-06 14:56:26,983 - Validator bf66a20f-da84-4d57-a363-230fde56eae1 merged with server 162 at distance 18.43 km.
+2024-10-06 14:56:27,000 - Validator c08843c6-8f16-42e6-aace-63bdef39800f merged with server 162 at distance 6.84 km.
+2024-10-06 14:56:27,018 - Validator 48ee2652-1c01-4119-8e11-ac1a72d78f8b merged with server 121 at distance 263.56 km.
+2024-10-06 14:56:27,035 - Validator b680b998-8015-4322-945b-8c401262b336 merged with server 124 at distance 20.54 km.
+2024-10-06 14:56:27,053 - Validator 934e616d-6c9b-4a01-be0e-e2724a289a8c merged with server 6 at distance 20.09 km.
+2024-10-06 14:56:27,070 - Validator 6fbbe259-dcf3-405d-a8b8-d33ff0185fcc merged with server 246 at distance 4.61 km.
+2024-10-06 14:56:27,088 - Validator 941a5f01-a111-45b6-b2f6-808583dac32e merged with server 124 at distance 264.96 km.
+2024-10-06 14:56:27,105 - Validator db898e56-92f6-49a8-948f-b40ba5cb7a65 merged with server 124 at distance 3.71 km.
+2024-10-06 14:56:27,123 - Validator 4a6f9fd3-07f4-402a-af17-8bbef00b8334 merged with server 180 at distance 549.49 km.
+2024-10-06 14:56:27,141 - Validator bf4649b3-bd09-4279-8ccc-efa3a3e21409 merged with server 124 at distance 245.28 km.
+2024-10-06 14:56:27,158 - Validator c49ec3de-cc1c-4653-b7ce-5a215dc7616b merged with server 63 at distance 235.35 km.
+2024-10-06 14:56:27,176 - Validator aeba1ad9-2b87-4cc7-95f7-83c85fb97bb8 merged with server 79 at distance 10.63 km.
+2024-10-06 14:56:27,193 - Validator b8f5e8d5-952b-49ad-8f12-d487a9baf9a4 merged with server 241 at distance 220.09 km.
+2024-10-06 14:56:27,211 - Validator cdb65190-e1a2-4d80-8c71-d01505a2b843 merged with server 124 at distance 214.17 km.
+2024-10-06 14:56:27,228 - Validator d080ccd4-eda3-4694-9494-f053807f7aec merged with server 124 at distance 146.64 km.
+2024-10-06 14:56:27,246 - Validator 41230211-a128-42b1-83a9-992baf66ef3a merged with server 113 at distance 139.26 km.
+2024-10-06 14:56:27,264 - Validator 751ce8a6-1b2f-4689-adf4-f9afd1bf8af1 merged with server 113 at distance 165.54 km.
+2024-10-06 14:56:27,281 - Validator 8edf2864-c902-4a4b-8012-0305a4bbf8f6 merged with server 124 at distance 249.75 km.
+2024-10-06 14:56:27,299 - Validator 542b793c-0c29-4752-9112-05c3af90842b merged with server 231 at distance 287.21 km.
+2024-10-06 14:56:27,317 - Validator 80c20685-2e36-4b9d-ab88-2a8d38f0f220 merged with server 113 at distance 86.92 km.
+2024-10-06 14:56:27,334 - Validator e88cbfe6-9945-4e99-9769-db814cde8327 merged with server 241 at distance 13.38 km.
+2024-10-06 14:56:27,351 - Validator a5e36de3-4423-43c7-a929-1b04d78f0943 merged with server 16 at distance 254.72 km.
+2024-10-06 14:56:27,369 - Validator d87e8ec5-ac03-40b3-a725-52d578dfb21b merged with server 16 at distance 265.56 km.
+2024-10-06 14:56:27,386 - Validator b1aba5d1-790d-4946-acb0-102b75cb0a84 merged with server 55 at distance 227.98 km.
+2024-10-06 14:56:27,404 - Validator 31c97d3b-58b5-4803-9840-e48278382ac6 merged with server 44 at distance 182.93 km.
+2024-10-06 14:56:27,422 - Validator f565a724-79ed-4876-93ec-a49984664c92 merged with server 113 at distance 49.32 km.
+2024-10-06 14:56:27,440 - Validator 44d0b784-db3b-4a1f-a10f-14dbfd174d35 merged with server 23 at distance 12.23 km.
+2024-10-06 14:56:27,457 - Validator c2805a1f-57f5-4526-9054-1879603512f7 merged with server 113 at distance 30.29 km.
+2024-10-06 14:56:27,475 - Validator a6946da4-08f6-472f-a36d-8393aba673c7 merged with server 113 at distance 30.19 km.
+2024-10-06 14:56:27,493 - Validator 133c5c79-9bf1-4ec5-9132-ee8fe17fe428 merged with server 16 at distance 164.06 km.
+2024-10-06 14:56:27,511 - Validator 05693994-ceb0-45b7-97d0-5e011aae5286 merged with server 100 at distance 24.91 km.
+2024-10-06 14:56:27,529 - Validator d8903b1a-05b7-405f-864a-6d951759189f merged with server 113 at distance 0.07 km.
+2024-10-06 14:56:27,547 - Validator 69e46727-ff79-4acd-9994-7df6445b128c merged with server 30 at distance 88.06 km.
+2024-10-06 14:56:27,564 - Validator eaba72d1-9d59-4aa5-895f-1b1de735a5cb merged with server 30 at distance 16.11 km.
+2024-10-06 14:56:27,582 - Validator 3b6c31c7-0d6a-47e5-af4f-7286f962bb6c merged with server 121 at distance 243.74 km.
+2024-10-06 14:56:27,599 - Validator 2e3cba84-00ad-4aa6-9894-e751a9f3e781 merged with server 201 at distance 269.37 km.
+2024-10-06 14:56:27,617 - Validator 122fa397-06f4-4d4f-ade3-9890cb3a1945 merged with server 100 at distance 0.10 km.
+2024-10-06 14:56:27,634 - Validator 9f49923a-8c2b-49ef-96df-48aa4c8c2852 merged with server 16 at distance 222.71 km.
+2024-10-06 14:56:27,652 - Validator be9e64a9-6f52-4669-8e34-b42fab609e8d merged with server 30 at distance 30.35 km.
+2024-10-06 14:56:27,670 - Validator b09a7e5e-d7b4-4180-be12-22a4e26b84e0 merged with server 214 at distance 5.95 km.
+2024-10-06 14:56:27,687 - Validator 431e289f-bbd5-400f-9f63-d1e2465ed9b4 merged with server 230 at distance 233.15 km.
+2024-10-06 14:56:27,705 - Validator fe27b56c-0872-48c7-93a6-348f30772f2d merged with server 30 at distance 53.15 km.
+2024-10-06 14:56:27,722 - Validator 0883f035-281b-4c18-8a79-d313d0e4432d merged with server 16 at distance 141.19 km.
+2024-10-06 14:56:27,739 - Validator d1849a52-5691-40c7-9b9d-4ad486986fa9 merged with server 90 at distance 208.79 km.
+2024-10-06 14:56:27,757 - Validator 5a0e4c65-7e23-4164-b632-c0afa9eee979 merged with server 137 at distance 141.65 km.
+2024-10-06 14:56:27,774 - Validator c3250928-9544-4c40-9a8c-0c22ecd44faa merged with server 58 at distance 143.62 km.
+2024-10-06 14:56:27,792 - Validator 5b42e81b-d9b0-4cea-9baf-d611a556b8f6 merged with server 113 at distance 158.76 km.
+2024-10-06 14:56:27,810 - Validator 6ebae7e6-9eaf-4f50-8828-b2448be8d4b2 merged with server 100 at distance 54.27 km.
+2024-10-06 14:56:27,827 - Validator 73aaeda2-fc70-4454-a0c1-550d7af783d0 merged with server 93 at distance 61.11 km.
+2024-10-06 14:56:27,845 - Validator 99044db1-6bcd-4597-a04e-4a28f0089b01 merged with server 214 at distance 176.57 km.
+2024-10-06 14:56:27,862 - Validator 9929dca2-69f3-4cd7-b474-aad4b884b2af merged with server 123 at distance 69.44 km.
+2024-10-06 14:56:27,880 - Validator 8669f85b-5bf9-4737-ba30-60612feab2fe merged with server 93 at distance 21.93 km.
+2024-10-06 14:56:27,897 - Validator aa13080a-34af-4f4e-b9c1-52553dc6d1d5 merged with server 227 at distance 23.97 km.
+2024-10-06 14:56:27,915 - Validator af63c91c-61b3-498a-917f-95a474eacfbf merged with server 90 at distance 19.96 km.
+2024-10-06 14:56:27,932 - Validator d503ee2e-865c-49a5-b522-865277a033a0 merged with server 123 at distance 188.89 km.
+2024-10-06 14:56:27,950 - Validator 252f83c1-e0ae-49cc-81f1-76d34961aaa6 merged with server 44 at distance 28.54 km.
+2024-10-06 14:56:27,967 - Validator f658f8ba-bcdc-4d0d-84bd-ea2b162bc921 merged with server 93 at distance 0.17 km.
+2024-10-06 14:56:27,985 - Validator 650137f3-30df-46ae-b1d8-423dbf537063 merged with server 16 at distance 37.28 km.
+2024-10-06 14:56:28,002 - Validator c117ea19-d775-4ca7-bdb9-94190e6c6958 merged with server 44 at distance 3.27 km.
+2024-10-06 14:56:28,020 - Validator 0ae01ee7-1152-440e-99ce-56ed3416fbff merged with server 93 at distance 37.61 km.
+2024-10-06 14:56:28,038 - Validator 3b5f0c16-7629-4b4f-aae9-3c49655b5608 merged with server 16 at distance 42.92 km.
+2024-10-06 14:56:28,055 - Validator ba327083-71a7-4ff4-b139-cdc3822d8ced merged with server 90 at distance 59.80 km.
+2024-10-06 14:56:28,073 - Validator eba71347-f6d0-4663-98a4-dc664063d4fb merged with server 16 at distance 72.88 km.
+2024-10-06 14:56:28,090 - Validator ef9da976-5974-4ad4-b380-df7d6954fea7 merged with server 16 at distance 21.93 km.
+2024-10-06 14:56:28,108 - Validator 2684816f-9264-470f-9106-77584aca6c13 merged with server 123 at distance 4.15 km.
+2024-10-06 14:56:28,125 - Validator dcaf3dd0-7b05-4101-b1d3-56c9c5a2fa03 merged with server 16 at distance 11.52 km.
+2024-10-06 14:56:28,143 - Validator e8b4fed6-2f4d-4a4a-bc46-52847208e497 merged with server 90 at distance 188.82 km.
+2024-10-06 14:56:28,160 - Validator 1231e967-b2f1-49ec-9cb2-f006e58c9abf merged with server 40 at distance 35.51 km.
+2024-10-06 14:56:28,178 - Validator 30955879-ee54-47dd-9dac-fa8f3b0d20c8 merged with server 58 at distance 138.71 km.
+2024-10-06 14:56:28,195 - Validator 894e1f7c-a6c9-4f89-8073-657d53bf1db2 merged with server 137 at distance 14.70 km.
+2024-10-06 14:56:28,212 - Validator d821a25e-dc45-4c17-b0ed-2ca8d75779d8 merged with server 137 at distance 27.07 km.
+2024-10-06 14:56:28,230 - Validator 37bb295e-3a36-4b90-b13f-86cfd7e07979 merged with server 55 at distance 13.87 km.
+2024-10-06 14:56:28,247 - Validator 386ec326-d173-4b09-a2e3-147eb779fd05 merged with server 40 at distance 28.59 km.
+2024-10-06 14:56:28,265 - Validator 90b444d4-c940-4c9d-a882-b969ed75071b merged with server 71 at distance 318.87 km.
+2024-10-06 14:56:28,283 - Validator c8ecda07-039a-4010-871e-1a156dd1831c merged with server 93 at distance 161.63 km.
+2024-10-06 14:56:28,301 - Validator e0d062a0-4e5a-4a93-bd4e-eae8d1e65488 merged with server 93 at distance 166.00 km.
+2024-10-06 14:56:28,318 - Validator a827fe42-c67a-4067-bd6a-fc8cadd9a16f merged with server 71 at distance 177.95 km.
+2024-10-06 14:56:28,336 - Validator e5caabd0-d709-4481-a9ff-a6df50356f49 merged with server 93 at distance 80.08 km.
+2024-10-06 14:56:28,353 - Validator 216296ba-a0f8-43ec-802e-429473482675 merged with server 58 at distance 21.81 km.
+2024-10-06 14:56:28,371 - Validator 10f76695-3c33-474f-a55a-63f09351361b merged with server 40 at distance 0.88 km.
+2024-10-06 14:56:28,389 - Validator d5dce5f2-8f95-459a-81d1-2b17c9966a99 merged with server 93 at distance 140.56 km.
+2024-10-06 14:56:28,406 - Validator 70a73bf0-480a-4732-b60c-79040c48b8c2 merged with server 71 at distance 42.21 km.
+2024-10-06 14:56:28,424 - Validator acefe79b-a97b-428a-8c11-43d6323acaef merged with server 250 at distance 29.53 km.
+2024-10-06 14:56:28,441 - Validator bf9f0a77-8fe9-4ed8-8467-c3c9aed31244 merged with server 58 at distance 0.55 km.
+2024-10-06 14:56:28,458 - Validator 906e529a-d576-4ad0-85fa-590a28abe12d merged with server 40 at distance 31.19 km.
+2024-10-06 14:56:28,476 - Validator 5b3860e2-2df1-48f0-af70-79802781613f merged with server 71 at distance 20.61 km.
+2024-10-06 14:56:28,493 - Validator 20b7aa95-7b24-47d4-a53e-ee03b4479c95 merged with server 137 at distance 54.16 km.
+2024-10-06 14:56:28,511 - Validator 3486ff92-409f-4eda-8f05-e91f40d229e5 merged with server 44 at distance 100.73 km.
+2024-10-06 14:56:28,528 - Validator 30795a8a-e47d-4ab8-9ff8-4389dc5fe117 merged with server 117 at distance 119.77 km.
+2024-10-06 14:56:28,546 - Validator 95605c23-661c-4cdf-8e36-c38e14607785 merged with server 230 at distance 11.00 km.
+2024-10-06 14:56:28,563 - Validator 38d00837-623d-487b-a04d-05a65c267851 merged with server 17 at distance 189.94 km.
+2024-10-06 14:56:28,581 - Validator 7fc0167a-f0fd-48fe-9878-730d3ce40edf merged with server 68 at distance 46.41 km.
+2024-10-06 14:56:28,598 - Validator 8d53c8ec-f26b-4d3c-8bb0-ba70bb6fe06c merged with server 225 at distance 106.33 km.
+2024-10-06 14:56:28,616 - Validator be234f71-9318-46c8-98bc-a88c9a6c3d66 merged with server 71 at distance 13.10 km.
+2024-10-06 14:56:28,633 - Validator 1318facd-351d-4a60-8bb1-a8410346bc3a merged with server 230 at distance 15.60 km.
+2024-10-06 14:56:28,651 - Validator e2da7f9a-98c2-4882-a757-30356d1f14a0 merged with server 40 at distance 65.51 km.
+2024-10-06 14:56:28,668 - Validator b8ec6169-f547-4e38-a262-d2cefbce1364 merged with server 71 at distance 11.32 km.
+2024-10-06 14:56:28,686 - Validator b8cf38be-9e38-48bf-adbb-bc07506c640e merged with server 90 at distance 172.08 km.
+2024-10-06 14:56:28,703 - Validator d95a5045-6696-401c-b82b-a47063694fca merged with server 94 at distance 65.19 km.
+2024-10-06 14:56:28,720 - Validator b82371d8-9a34-4add-ad1e-4aed76175245 merged with server 68 at distance 40.06 km.
+2024-10-06 14:56:28,738 - Validator 705c8b06-3fc1-4b6f-bd0f-f5e64d94f833 merged with server 261 at distance 160.00 km.
+2024-10-06 14:56:28,756 - Validator b4cc6694-94fc-4415-9a68-01e4c44959ff merged with server 68 at distance 19.50 km.
+2024-10-06 14:56:28,773 - Validator 542411d8-183f-4425-bd62-d1fecc36b00c merged with server 68 at distance 4.80 km.
+2024-10-06 14:56:28,791 - Validator 5b3f097e-2cd9-4d16-a001-380fa69dae9a merged with server 58 at distance 56.36 km.
+2024-10-06 14:56:28,808 - Validator c6f88b1a-2ea4-4433-ae64-730b81da34b3 merged with server 80 at distance 19.65 km.
+2024-10-06 14:56:28,825 - Validator de1cea17-5964-4fb0-8780-8056e4fddc6d merged with server 230 at distance 23.57 km.
+2024-10-06 14:56:28,843 - Validator 2b7acb46-8228-468c-a946-4c97cc879e8b merged with server 80 at distance 27.99 km.
+2024-10-06 14:56:28,860 - Validator 8176e318-20fa-4d4e-b9bb-acfbf3bb2fef merged with server 71 at distance 35.00 km.
+2024-10-06 14:56:28,877 - Validator 1fceaaa2-bc84-49be-9734-64db6ab4d2c5 merged with server 184 at distance 37.37 km.
+2024-10-06 14:56:28,895 - Validator 024440c7-2642-4e0f-80bf-3c949267c341 merged with server 68 at distance 41.00 km.
+2024-10-06 14:56:28,912 - Validator d8d6af27-03e3-490d-b65b-c8c282629de3 merged with server 86 at distance 60.41 km.
+2024-10-06 14:56:28,929 - Validator c752c9d9-cae9-4c2d-94f4-e694f1841497 merged with server 80 at distance 33.45 km.
+2024-10-06 14:56:28,947 - Validator 4f243935-41a3-47a7-b2ee-f9eceed5e514 merged with server 130 at distance 42.03 km.
+2024-10-06 14:56:28,964 - Validator 8985b602-c569-4a1a-a332-a57ba0767990 merged with server 80 at distance 104.91 km.
+2024-10-06 14:56:28,982 - Validator ea3b159d-7774-4c62-891c-47fee0ea06d8 merged with server 86 at distance 49.52 km.
+2024-10-06 14:56:28,999 - Validator d1bbaf88-4b85-4548-bcdf-bd9d9ddbf6e6 merged with server 130 at distance 31.38 km.
+2024-10-06 14:56:29,017 - Validator 160edbb7-044d-4941-a885-c1d12f4f159c merged with server 94 at distance 17.68 km.
+2024-10-06 14:56:29,034 - Validator 4f7a3201-1b18-49e1-afee-ee6983b52d70 merged with server 80 at distance 64.92 km.
+2024-10-06 14:56:29,052 - Validator cc13e166-121e-4839-beb7-82c463b4e4fc merged with server 71 at distance 73.54 km.
+2024-10-06 14:56:29,069 - Validator 01786065-186b-432a-9b91-40f0b91982d8 merged with server 230 at distance 94.46 km.
+2024-10-06 14:56:29,086 - Validator aed83461-ca9b-430a-8015-1381554142bf merged with server 184 at distance 1.66 km.
+2024-10-06 14:56:29,104 - Validator 9de789d8-0c1d-4740-9feb-0a7ee5bab170 merged with server 94 at distance 28.90 km.
+2024-10-06 14:56:29,121 - Validator 0a34d37c-6b62-4870-b1da-fcb76dcb5984 merged with server 86 at distance 29.28 km.
+2024-10-06 14:56:29,139 - Validator 2a5962c6-1556-41bb-b463-c5f9112e143e merged with server 130 at distance 7.34 km.
+2024-10-06 14:56:29,156 - Validator e39704c2-1967-45bc-841e-70fa85cb9465 merged with server 184 at distance 20.39 km.
+2024-10-06 14:56:29,173 - Validator 53db4f77-e541-4270-9099-bd38715cfc7b merged with server 130 at distance 33.97 km.
+2024-10-06 14:56:29,191 - Validator 6d03b9f2-13b2-472e-bda2-53c5a19848bc merged with server 22 at distance 186.17 km.
+2024-10-06 14:56:29,208 - Validator 0ea9577f-2df0-490d-82f9-665c08976fe4 merged with server 250 at distance 100.04 km.
+2024-10-06 14:56:29,226 - Validator 021dc33f-3d84-4b57-b567-d676e16b390d merged with server 71 at distance 94.34 km.
+2024-10-06 14:56:29,244 - Validator bf743d23-34e4-4ff6-ab14-4529340c81e0 merged with server 171 at distance 22.45 km.
+2024-10-06 14:56:29,261 - Validator e3f0350b-361e-4900-9afe-a3fc5c3dece1 merged with server 225 at distance 149.46 km.
+2024-10-06 14:56:29,279 - Validator f52ae983-8b44-4270-9d69-63bbe5dc6b9a merged with server 117 at distance 2.71 km.
+2024-10-06 14:56:29,296 - Validator 2ae9539f-4776-4ced-adc6-bf1cfb2b900b merged with server 94 at distance 31.47 km.
+2024-10-06 14:56:29,314 - Validator 3f8873f8-8bde-48c7-8b4f-80014ee0d687 merged with server 13 at distance 23.76 km.
+2024-10-06 14:56:29,331 - Validator c2ec9836-2878-4a98-b533-006354927023 merged with server 86 at distance 29.34 km.
+2024-10-06 14:56:29,349 - Validator c58e6a43-02d5-4183-8f9a-e4ef6e358602 merged with server 17 at distance 143.42 km.
+2024-10-06 14:56:29,366 - Validator c4971b52-6318-46ef-b75e-719ce6df9d9f merged with server 13 at distance 1.30 km.
+2024-10-06 14:56:29,384 - Validator 8c0c7223-8ef6-473c-b6ca-d79e7c1f37f4 merged with server 259 at distance 7.74 km.
+2024-10-06 14:56:29,401 - Validator d74fe432-a31b-4023-b777-326006cfc59d merged with server 86 at distance 1.37 km.
+2024-10-06 14:56:29,419 - Validator d89aa6ea-9fd6-422c-89ac-fa2d9aa084eb merged with server 225 at distance 151.67 km.
+2024-10-06 14:56:29,437 - Validator 788962c2-0edc-4731-b1f9-31c5cf1be4b3 merged with server 171 at distance 8.30 km.
+2024-10-06 14:56:29,454 - Validator 4b256771-a5cc-4f66-a2aa-860f70ea3f77 merged with server 13 at distance 44.89 km.
+2024-10-06 14:56:29,472 - Validator 41e08c1e-5906-4a97-9636-4250add1d71a merged with server 106 at distance 165.76 km.
+2024-10-06 14:56:29,489 - Validator ab059426-8232-4748-9e47-b09712ee3244 merged with server 136 at distance 103.54 km.
+2024-10-06 14:56:29,506 - Validator 8aff1f2a-4e03-420d-be5d-5a03f1fb059e merged with server 117 at distance 131.18 km.
+2024-10-06 14:56:29,524 - Validator 4b4989c2-cfd0-4a37-8203-fdeed7e9daa3 merged with server 66 at distance 123.19 km.
+2024-10-06 14:56:29,542 - Validator e4a53847-64bc-4efe-b315-5c269dc6aba7 merged with server 109 at distance 61.15 km.
+2024-10-06 14:56:29,559 - Validator 879ca476-fbc4-453e-b0b0-a50a75cd2e29 merged with server 66 at distance 2.08 km.
+2024-10-06 14:56:29,576 - Validator 47992ae8-509d-49cd-9f67-9cabc0b568d6 merged with server 184 at distance 87.04 km.
+2024-10-06 14:56:29,594 - Validator a22c7f91-f687-4a04-838d-058e662118ad merged with server 138 at distance 73.49 km.
+2024-10-06 14:56:29,611 - Validator b1da70ce-ee66-4a84-bb9e-97bf2cf2971a merged with server 114 at distance 32.87 km.
+2024-10-06 14:56:29,629 - Validator de84cfc3-1b76-484e-bbdc-47a6442f27ac merged with server 44 at distance 273.53 km.
+2024-10-06 14:56:29,646 - Validator 2b9c005f-ea80-4961-b5d3-d89adb7105d9 merged with server 101 at distance 112.05 km.
+2024-10-06 14:56:29,663 - Validator 02300c88-75b0-4760-b3f3-c71b29d24f7c merged with server 138 at distance 75.31 km.
+2024-10-06 14:56:29,681 - Validator 1b1ad268-2d83-4f4e-8661-9579932db3a6 merged with server 71 at distance 156.17 km.
+2024-10-06 14:56:29,698 - Validator 97577af3-a9d4-44ed-bb56-fca5e02b8cc0 merged with server 259 at distance 65.26 km.
+2024-10-06 14:56:29,716 - Validator 15d6f03e-a016-4e89-b381-f1b903e11847 merged with server 86 at distance 57.56 km.
+2024-10-06 14:56:29,734 - Validator 225ac1a5-e64a-4e41-adc8-ef70906e1d97 merged with server 233 at distance 39.68 km.
+2024-10-06 14:56:29,751 - Validator 4a062d8c-3513-4d2b-938e-5afa7b083e8a merged with server 138 at distance 44.16 km.
+2024-10-06 14:56:29,768 - Validator d885d73c-79bf-4d3c-a205-f71f2676068b merged with server 17 at distance 39.80 km.
+2024-10-06 14:56:29,786 - Validator ee332387-4f7f-45fb-9dcd-d6239603d48f merged with server 233 at distance 56.31 km.
+2024-10-06 14:56:29,803 - Validator 32107114-764a-44da-936c-336073edd34b merged with server 17 at distance 6.50 km.
+2024-10-06 14:56:29,821 - Validator 6e399443-1d7b-49fb-b369-5d8a2db48120 merged with server 114 at distance 73.30 km.
+2024-10-06 14:56:29,838 - Validator fc6bc283-c5e2-4b8f-9253-1776ae4081d7 merged with server 109 at distance 9.65 km.
+2024-10-06 14:56:29,856 - Validator 56072dc6-5063-43b5-bb5a-4d5f1ee9cb25 merged with server 44 at distance 323.10 km.
+2024-10-06 14:56:29,873 - Validator 0e77f095-61a3-464d-bf7f-10ef8184194e merged with server 144 at distance 1.45 km.
+2024-10-06 14:56:29,890 - Validator 3a6220cf-bbdb-4a7d-bafc-8d39f5ada391 merged with server 17 at distance 26.58 km.
+2024-10-06 14:56:29,908 - Validator 6c89e74a-9473-4d16-90c3-0d3d0f632848 merged with server 138 at distance 18.20 km.
+2024-10-06 14:56:29,925 - Validator ca9f843f-0e4b-4132-9363-8020fd3b6d54 merged with server 58 at distance 245.73 km.
+2024-10-06 14:56:29,943 - Validator c592b086-ba57-4bf0-ae81-356adde35409 merged with server 245 at distance 2.29 km.
+2024-10-06 14:56:29,960 - Validator db815584-b54c-402f-aca7-4389c2d1bfe1 merged with server 14 at distance 82.81 km.
+2024-10-06 14:56:29,978 - Validator a76fd366-11b7-49bc-bb9a-95e5ca015db2 merged with server 14 at distance 96.51 km.
+2024-10-06 14:56:29,995 - Validator 02f9322c-3483-40af-b8f7-ed829b060afc merged with server 114 at distance 101.13 km.
+2024-10-06 14:56:30,013 - Validator 44594e5b-efb2-4c06-81be-6e002096748b merged with server 94 at distance 351.20 km.
+2024-10-06 14:56:30,030 - Validator 8b3280b9-277f-47d8-86be-b64ab139881b merged with server 22 at distance 8.64 km.
+2024-10-06 14:56:30,048 - Validator 5fba7b60-d48e-4bdf-b7c3-0856b58e67db merged with server 22 at distance 55.03 km.
+2024-10-06 14:56:30,065 - Validator 35b6c1e7-4928-43ae-9997-43b225db90cd merged with server 71 at distance 261.07 km.
+2024-10-06 14:56:30,083 - Validator 5544b709-7b27-407f-ab99-25bf271560e3 merged with server 190 at distance 1.30 km.
+2024-10-06 14:56:30,100 - Validator 71994307-b020-4e4e-a9bb-c316816b863e merged with server 136 at distance 46.24 km.
+2024-10-06 14:56:30,118 - Validator 46590b48-c4c8-47bd-94ca-8d6761801504 merged with server 14 at distance 50.95 km.
+2024-10-06 14:56:30,135 - Validator b8a9f69a-01c5-4d29-8ee1-810995c67798 merged with server 14 at distance 54.48 km.
+2024-10-06 14:56:30,152 - Validator 8290ff55-6413-48a5-8433-8512e430dfb7 merged with server 154 at distance 78.30 km.
+2024-10-06 14:56:30,170 - Validator aa106f51-be36-4752-b875-8a7ed48bb403 merged with server 144 at distance 49.30 km.
+2024-10-06 14:56:30,187 - Validator 3f4d783a-4275-4218-aaac-a986142b535d merged with server 22 at distance 26.94 km.
+2024-10-06 14:56:30,205 - Validator 1ff63dc8-64cc-4760-ab61-82a8ff870efd merged with server 233 at distance 73.66 km.
+2024-10-06 14:56:30,222 - Validator d7282cbd-fa80-4f4f-ae71-492e1613ed44 merged with server 14 at distance 36.82 km.
+2024-10-06 14:56:30,239 - Validator e2144570-c718-4db7-b752-0615fe304797 merged with server 101 at distance 51.03 km.
+2024-10-06 14:56:30,257 - Validator 2111762b-9835-4744-802f-ee71a30b8c4b merged with server 101 at distance 76.77 km.
+2024-10-06 14:56:30,274 - Validator ce728529-c857-41d9-8361-727d398eabeb merged with server 154 at distance 131.63 km.
+2024-10-06 14:56:30,291 - Validator 8e157dd1-57ca-4302-a9c0-25799df0a2e7 merged with server 101 at distance 70.04 km.
+2024-10-06 14:56:30,309 - Validator 0b2252c1-5f0a-420b-a6f6-444454175221 merged with server 44 at distance 394.23 km.
+2024-10-06 14:56:30,326 - Validator 4158dbfc-cff8-41c8-8b2b-22503d9fcc01 merged with server 136 at distance 94.04 km.
+2024-10-06 14:56:30,343 - Validator 0822c495-f192-48bb-8117-8eca2c1bc89e merged with server 145 at distance 55.09 km.
+2024-10-06 14:56:30,361 - Validator 616f368d-8699-4e78-ad76-28d2fadf97e3 merged with server 22 at distance 48.05 km.
+2024-10-06 14:56:30,378 - Validator ebc18b1d-53dc-4d31-8465-ce8e5fe7bbf6 merged with server 14 at distance 46.88 km.
+2024-10-06 14:56:30,396 - Validator 02ac6094-9c49-4491-8919-263c5fa66c6e merged with server 81 at distance 57.62 km.
+2024-10-06 14:56:30,413 - Validator b85d2b76-f032-4475-a018-27ad1a701647 merged with server 154 at distance 70.17 km.
+2024-10-06 14:56:30,430 - Validator 94a8b372-df38-47eb-86a8-c20ae2a78b68 merged with server 81 at distance 10.80 km.
+2024-10-06 14:56:30,448 - Validator c87dc1d4-bb9f-41d4-b8aa-9028c69faaa9 merged with server 245 at distance 196.82 km.
+2024-10-06 14:56:30,465 - Validator f56649b4-9d62-46fd-bc3f-891fea6c2efa merged with server 14 at distance 2.67 km.
+2024-10-06 14:56:30,483 - Validator 1a2aae64-e8d3-4d9c-8a78-273af2c51e61 merged with server 22 at distance 112.75 km.
+2024-10-06 14:56:30,500 - Validator 5e55a6ff-5fe8-41e3-a176-a8aaaa5f4fe8 merged with server 193 at distance 152.52 km.
+2024-10-06 14:56:30,517 - Validator 5600ac16-4c20-421d-854f-3f9ca5e15478 merged with server 81 at distance 17.87 km.
+2024-10-06 14:56:30,535 - Validator 6f904d35-d48f-41db-818b-a517cd1fd70b merged with server 69 at distance 87.05 km.
+2024-10-06 14:56:30,552 - Validator e62813a6-df25-487e-8253-86178655dc43 merged with server 17 at distance 135.75 km.
+2024-10-06 14:56:30,570 - Validator bf78e0dc-e148-47d5-85d6-dbbb5ed14049 merged with server 141 at distance 54.30 km.
+2024-10-06 14:56:30,587 - Validator 82f23fb2-d596-48c9-9fd7-15801a01c510 merged with server 154 at distance 26.99 km.
+2024-10-06 14:56:30,605 - Validator 9fa86aa8-d008-4a4a-b5ad-5ea211f86950 merged with server 106 at distance 133.66 km.
+2024-10-06 14:56:30,622 - Validator 1562962f-d6dc-4de9-976f-f7ff6dd40586 merged with server 81 at distance 50.18 km.
+2024-10-06 14:56:30,639 - Validator 8f266600-54dd-42b7-b219-4baffb085932 merged with server 154 at distance 0.80 km.
+2024-10-06 14:56:30,657 - Validator 58c92926-dd97-4afc-97e4-76e6701e4995 merged with server 141 at distance 21.98 km.
+2024-10-06 14:56:30,674 - Validator aadf0cbd-b9cd-4116-85e9-afd15282647a merged with server 145 at distance 8.68 km.
+2024-10-06 14:56:30,692 - Validator c68f1ad2-9223-4f0e-9713-890e911218a2 merged with server 94 at distance 284.84 km.
+2024-10-06 14:56:30,709 - Validator 55542ed2-a5c3-4617-b7a2-a7b9b95607a1 merged with server 235 at distance 95.05 km.
+2024-10-06 14:56:30,726 - Validator ec38280e-ff82-4b60-bdcc-2151e1a74b6e merged with server 96 at distance 0.02 km.
+2024-10-06 14:56:30,744 - Validator 37e0288f-eae9-44e2-a656-42be219d76c2 merged with server 22 at distance 124.01 km.
+2024-10-06 14:56:30,761 - Validator b4571162-33f3-4aca-bde8-02bf2285802a merged with server 141 at distance 89.51 km.
+2024-10-06 14:56:30,778 - Validator 4b913768-0418-4fc0-9ef3-f49feceafe2c merged with server 101 at distance 150.06 km.
+2024-10-06 14:56:30,796 - Validator 1171a997-2cef-4717-b1e2-468639bae065 merged with server 138 at distance 143.83 km.
+2024-10-06 14:56:30,813 - Validator 95dc9f70-e126-4ffc-98ec-e8f95dd4b040 merged with server 81 at distance 132.01 km.
+2024-10-06 14:56:30,831 - Validator 234375dc-2e02-48b4-a14b-f183694fc910 merged with server 106 at distance 167.56 km.
+2024-10-06 14:56:30,848 - Validator 8aba4a7c-16c7-4799-a0ac-27e2c7d311c9 merged with server 67 at distance 153.16 km.
+2024-10-06 14:56:30,865 - Validator 77704d6c-adf0-4b4d-ae6b-35910627c362 merged with server 235 at distance 40.71 km.
+2024-10-06 14:56:30,883 - Validator c758beb3-9ba3-477e-840c-8a22e237ce9b merged with server 189 at distance 58.15 km.
+2024-10-06 14:56:30,900 - Validator b0cb127d-19b8-4d82-8329-8b10bc92d853 merged with server 101 at distance 170.22 km.
+2024-10-06 14:56:30,918 - Validator 9a1aeddb-5eca-4c09-b889-fc156d137100 merged with server 240 at distance 312.55 km.
+2024-10-06 14:56:30,935 - Validator 83d81067-86ca-4283-b8c1-9fae68e4390e merged with server 96 at distance 107.26 km.
+2024-10-06 14:56:30,952 - Validator 570d8fc3-46e3-4926-99da-718ebfeeaae1 merged with server 144 at distance 177.01 km.
+2024-10-06 14:56:30,970 - Validator 14f2a709-6fcb-4179-a7f8-6259e7e288e6 merged with server 235 at distance 14.35 km.
+2024-10-06 14:56:30,987 - Validator e7b890a2-f293-46ec-9883-18d048c1dbd5 merged with server 17 at distance 207.37 km.
+2024-10-06 14:56:31,005 - Validator ef6621fa-50fe-4170-b771-b415c1c8083b merged with server 106 at distance 167.12 km.
+2024-10-06 14:56:31,022 - Validator 80f97f76-7043-4b41-8ec8-aaae0b22d6fc merged with server 174 at distance 786.05 km.
+2024-10-06 14:56:31,040 - Validator 70ce096b-24fa-4c22-9873-1e04daca7483 merged with server 2 at distance 57.05 km.
+2024-10-06 14:56:31,057 - Validator ecb346ac-33bf-43e7-828e-958af3398fe5 merged with server 240 at distance 277.83 km.
+2024-10-06 14:56:31,075 - Validator 7a5b3f1f-8c32-4c0c-b074-1521f89c2519 merged with server 94 at distance 353.24 km.
+2024-10-06 14:56:31,092 - Validator 8116af12-6644-4599-a7ca-afe5f522a24f merged with server 94 at distance 328.99 km.
+2024-10-06 14:56:31,110 - Validator b87e7115-ec2a-473d-8e4b-a8698b6e0937 merged with server 2 at distance 80.14 km.
+2024-10-06 14:56:31,127 - Validator 2500991a-f3b6-4f5d-a347-8b3d3e3918c4 merged with server 94 at distance 374.53 km.
+2024-10-06 14:56:31,145 - Validator f6e59e01-8297-40c2-9695-b67cdfd5518f merged with server 94 at distance 511.62 km.
+2024-10-06 14:56:31,162 - Validator 3b4ad979-1c6b-4ee4-99a9-b970debfa0c7 merged with server 86 at distance 314.77 km.
+2024-10-06 14:56:31,180 - Validator 755bbd29-5605-4ab2-a562-9586e6b6b146 merged with server 189 at distance 1.45 km.
+2024-10-06 14:56:31,197 - Validator b7e1b005-8fd9-40b9-b03d-2c4263d9f36d merged with server 94 at distance 384.93 km.
+2024-10-06 14:56:31,214 - Validator 568d418f-f9a1-4aa7-bddb-1af521f9eb32 merged with server 141 at distance 128.37 km.
+2024-10-06 14:56:31,232 - Validator e2faefdb-1153-4a4c-be9e-45d488155319 merged with server 86 at distance 495.60 km.
+2024-10-06 14:56:31,250 - Validator 4e769582-4c2c-4a8a-acb4-8e80693f20ae merged with server 2 at distance 69.71 km.
+2024-10-06 14:56:31,267 - Validator b982ff69-91e5-4c9d-8fd6-715dfe66a7d9 merged with server 27 at distance 274.19 km.
+2024-10-06 14:56:31,285 - Validator 27971c0b-00c9-473c-8d1e-763a52966560 merged with server 2 at distance 21.91 km.
+2024-10-06 14:56:31,302 - Validator 86d446a2-0fe1-40eb-8ee5-4b24c8287274 merged with server 81 at distance 160.05 km.
+2024-10-06 14:56:31,320 - Validator 56ff4fbe-5641-49cc-ba9a-9f3d3387596d merged with server 17 at distance 256.50 km.
+2024-10-06 14:56:31,338 - Validator 09a1d703-19a4-4ec3-8a5e-a5bedb62457d merged with server 86 at distance 485.00 km.
+2024-10-06 14:56:31,355 - Validator f5da5ac7-eb29-4107-a9ac-7fc5e8934b69 merged with server 141 at distance 121.82 km.
+2024-10-06 14:56:31,373 - Validator 5f33119f-7a31-48bd-a471-87029224ebfa merged with server 181 at distance 36.87 km.
+2024-10-06 14:56:31,390 - Validator b6723b92-40de-47ec-b9d7-83fef46796f6 merged with server 240 at distance 237.12 km.
+2024-10-06 14:56:31,408 - Validator 5d39bb6c-95d3-4559-999e-14e5c09f2650 merged with server 17 at distance 257.78 km.
+2024-10-06 14:56:31,425 - Validator 52a051d3-da8b-491e-801b-ed8e955e08b6 merged with server 2 at distance 6.49 km.
+2024-10-06 14:56:31,443 - Validator bea4ea1b-7b07-4899-8aa7-60f905648e06 merged with server 2 at distance 126.31 km.
+2024-10-06 14:56:31,460 - Validator 93820602-4a07-40de-8aeb-067ed9d0e3a5 merged with server 86 at distance 341.77 km.
+2024-10-06 14:56:31,478 - Validator cb7c59ff-3aee-472b-9e68-0e39547fc105 merged with server 141 at distance 122.96 km.
+2024-10-06 14:56:31,495 - Validator 4e4d8bd5-1115-40dd-9c90-efa543ff020b merged with server 67 at distance 64.19 km.
+2024-10-06 14:56:31,513 - Validator 5ea2852f-2fa8-49ad-8294-8c03f83ae4eb merged with server 2 at distance 26.72 km.
+2024-10-06 14:56:31,530 - Validator 01ec53dd-e262-4aa7-9d62-743e171bbd6b merged with server 189 at distance 77.02 km.
+2024-10-06 14:56:31,548 - Validator 9d66768c-42db-4440-b013-f92e947db69a merged with server 189 at distance 99.46 km.
+2024-10-06 14:56:31,567 - Validator 1a35c10c-8e68-4769-8a89-24f0ccfd5c8d merged with server 2 at distance 52.70 km.
+2024-10-06 14:56:31,586 - Validator ce873e1f-d288-44ae-a553-3f4c36b1e67e merged with server 102 at distance 70.94 km.
+2024-10-06 14:56:31,604 - Validator 7e0fb2f3-6d21-4531-9bc4-92b8c7df0c94 merged with server 92 at distance 242.94 km.
+2024-10-06 14:56:31,622 - Validator 3f005489-1f23-4825-ae40-28f90ea714fe merged with server 160 at distance 112.39 km.
+2024-10-06 14:56:31,640 - Validator 50a1926c-0005-41b4-a571-565a379c56f3 merged with server 163 at distance 188.58 km.
+2024-10-06 14:56:31,658 - Validator 969bde7f-569d-4058-8ba0-fb195c788603 merged with server 163 at distance 95.18 km.
+2024-10-06 14:56:31,676 - Validator 5c7a4ba5-5709-4184-bea4-788863cda636 merged with server 235 at distance 134.02 km.
+2024-10-06 14:56:31,694 - Validator 7c251e3c-52d3-42c7-a69f-064e9876cefe merged with server 102 at distance 42.56 km.
+2024-10-06 14:56:31,711 - Validator 78a1bde7-1ffa-4a40-83a6-50ae12de23a5 merged with server 2 at distance 75.07 km.
+2024-10-06 14:56:31,729 - Validator 2dc50ede-21a6-4c3f-be5c-8204146e75c8 merged with server 2 at distance 94.78 km.
+2024-10-06 14:56:31,747 - Validator 08d7dee7-7a2d-48a6-a4f3-2cffe80329a1 merged with server 67 at distance 1.80 km.
+2024-10-06 14:56:31,765 - Validator 686c7c81-d57c-4701-b954-7af0da15a0ae merged with server 82 at distance 111.21 km.
+2024-10-06 14:56:31,783 - Validator bb9a0404-3303-4950-971c-c106250a2072 merged with server 245 at distance 632.95 km.
+2024-10-06 14:56:31,801 - Validator 6bcaba1c-03af-4c60-b300-49ad40093993 merged with server 83 at distance 2.00 km.
+2024-10-06 14:56:31,819 - Validator 07315584-a2e9-4858-b63e-0e720899b07d merged with server 92 at distance 110.47 km.
+2024-10-06 14:56:31,837 - Validator e22720e9-5ed0-44fc-a250-06202d10d3d3 merged with server 160 at distance 202.84 km.
+2024-10-06 14:56:31,854 - Validator 2e0c093b-e833-44c0-b1c9-d3e8583037ea merged with server 92 at distance 118.21 km.
+2024-10-06 14:56:31,872 - Validator c47eaa3b-4f9a-4998-bd7e-2494f00e4947 merged with server 67 at distance 109.06 km.
+2024-10-06 14:56:31,889 - Validator bbf5db6b-8c89-46c7-b5f1-5e09fa10181b merged with server 92 at distance 97.95 km.
+2024-10-06 14:56:31,907 - Validator c7aaf858-b56e-46fc-b437-0e47b801eb5b merged with server 240 at distance 440.31 km.
+2024-10-06 14:56:31,924 - Validator 5f4e1c65-fa32-420b-92bc-315ade8bd5d2 merged with server 202 at distance 111.82 km.
+2024-10-06 14:56:31,942 - Validator 2da5fe67-7c55-4ba9-a49f-cadf040d122e merged with server 82 at distance 70.46 km.
+2024-10-06 14:56:31,960 - Validator 8faf1efb-2ed9-4f85-8ac7-fb942acf8f25 merged with server 67 at distance 59.63 km.
+2024-10-06 14:56:31,977 - Validator 027b7fc7-a10d-4f26-ae08-e5319671dab8 merged with server 240 at distance 83.78 km.
+2024-10-06 14:56:31,994 - Validator 9f5b749c-4817-490d-9dd2-34406866c29f merged with server 245 at distance 601.19 km.
+2024-10-06 14:56:32,012 - Validator 6668bed9-2ad9-476d-88f0-6984255663e7 merged with server 27 at distance 125.93 km.
+2024-10-06 14:56:32,029 - Validator a3c873bc-ff26-45de-afb8-dd45c92037b3 merged with server 92 at distance 104.60 km.
+2024-10-06 14:56:32,047 - Validator ba0347bd-5952-41c8-a8cd-abcd3dae578f merged with server 202 at distance 53.67 km.
+2024-10-06 14:56:32,064 - Validator 4c36c719-6be7-4211-a118-28dfd73b3aae merged with server 52 at distance 53.56 km.
+2024-10-06 14:56:32,082 - Validator d23da4e1-ce95-4bd2-ae61-7eab42282dfb merged with server 52 at distance 32.95 km.
+2024-10-06 14:56:32,099 - Validator 7975abac-5805-4353-b661-acb58db61ef6 merged with server 27 at distance 31.22 km.
+2024-10-06 14:56:32,116 - Validator 5585de83-e673-48c4-b2a2-ca810a54e33a merged with server 28 at distance 81.18 km.
+2024-10-06 14:56:32,134 - Validator e6a6f97a-76c6-4a4f-b29c-e153f8c5c65f merged with server 256 at distance 9.69 km.
+2024-10-06 14:56:32,152 - Validator fb92ec36-26eb-48b1-a900-8e4ab48e9f3c merged with server 82 at distance 15.27 km.
+2024-10-06 14:56:32,169 - Validator c7cebbc5-ba25-469a-8e55-a9a9827fca83 merged with server 202 at distance 122.86 km.
+2024-10-06 14:56:32,186 - Validator ec9a8c86-fed1-415b-913f-3a4bb7bf74c5 merged with server 52 at distance 9.50 km.
+2024-10-06 14:56:32,204 - Validator c4a5ecb1-54b7-490c-899e-5521f182e75f merged with server 82 at distance 16.94 km.
+2024-10-06 14:56:32,222 - Validator 6bb78f69-6f9a-4ae2-b0b6-edf28c9c3944 merged with server 27 at distance 0.17 km.
+2024-10-06 14:56:32,239 - Validator 7f0b8bff-ff43-43c8-b29f-9ec9104943c7 merged with server 92 at distance 337.95 km.
+2024-10-06 14:56:32,256 - Validator 9581f09d-f354-4f52-aa7e-20ba5a825b17 merged with server 202 at distance 85.34 km.
+2024-10-06 14:56:32,274 - Validator 668cd22a-a873-442d-83ea-3977f7beeb99 merged with server 92 at distance 4.76 km.
+2024-10-06 14:56:32,291 - Validator 0cf68f95-cecc-4639-8842-4cd03bdc1a6a merged with server 52 at distance 12.72 km.
+2024-10-06 14:56:32,309 - Validator d30f73b0-f699-406d-8f38-f93a7bdcc4d2 merged with server 82 at distance 117.09 km.
+2024-10-06 14:56:32,326 - Validator 9c326717-e890-4e12-a173-4e2df6ddd65b merged with server 27 at distance 35.76 km.
+2024-10-06 14:56:32,344 - Validator e0018500-7060-420d-9029-b87a0acffeb7 merged with server 28 at distance 72.56 km.
+2024-10-06 14:56:32,361 - Validator 611762f1-3bca-4a0a-ba0a-c9bffab51259 merged with server 202 at distance 22.13 km.
+2024-10-06 14:56:32,379 - Validator 938df60d-8792-421f-a590-d977196d5db3 merged with server 240 at distance 18.68 km.
+2024-10-06 14:56:32,396 - Validator 509c23c0-2664-48b2-9a2b-b2e40703759a merged with server 52 at distance 27.27 km.
+2024-10-06 14:56:32,413 - Validator 4c970018-7f3d-4d9f-b427-ff956eae4534 merged with server 150 at distance 0.48 km.
+2024-10-06 14:56:32,431 - Validator a62f4ef3-a3e2-440d-828d-1996e921c700 merged with server 82 at distance 234.36 km.
+2024-10-06 14:56:32,449 - Validator 0585ca4b-eba5-47b8-97de-987c9a9d6b4f merged with server 161 at distance 32.43 km.
+2024-10-06 14:56:32,466 - Validator eed6be46-64f1-468f-8c78-0f11e381ba7e merged with server 211 at distance 1.36 km.
+2024-10-06 14:56:32,484 - Validator ed09e51a-def5-4633-89b4-dafe2e8d502b merged with server 240 at distance 62.31 km.
+2024-10-06 14:56:32,501 - Validator d949be07-b546-4f43-bd3c-ce1a46d97b43 merged with server 28 at distance 0.56 km.
+2024-10-06 14:56:32,525 - Validator cf3f9266-048c-40b0-b654-1d3e3c61ef7b merged with server 82 at distance 342.09 km.
+2024-10-06 14:56:32,546 - Validator 2ea6a628-6513-4b64-a22a-4b19c1c82303 merged with server 47 at distance 176.68 km.
+2024-10-06 14:56:32,578 - Validator b0d4bac9-1d52-42aa-8fae-c8d8efa33387 merged with server 47 at distance 170.57 km.
+2024-10-06 14:56:32,603 - Validator 1fbc2ef0-9ad9-4fc2-af40-52b45f053929 merged with server 4 at distance 400.30 km.
+2024-10-06 14:56:32,626 - Validator 2fc1af7e-83fd-438f-9184-5c282bcd81f6 merged with server 82 at distance 120.39 km.
+2024-10-06 14:56:32,646 - Validator c3637dea-ab4b-43c6-8f0b-9529b3a04390 merged with server 211 at distance 22.28 km.
+2024-10-06 14:56:32,665 - Validator aedbedaf-2f44-481f-bd76-45d0aac25da8 merged with server 92 at distance 152.32 km.
+2024-10-06 14:56:32,683 - Validator 50380041-b25a-411d-aada-83eaf722c037 merged with server 161 at distance 3.54 km.
+2024-10-06 14:56:32,701 - Validator 92a0f186-27e5-4155-8258-2b743c4a6e7e merged with server 188 at distance 64.37 km.
+2024-10-06 14:56:32,720 - Validator cc90734b-cc25-4429-a718-8a9146b0e086 merged with server 28 at distance 55.19 km.
+2024-10-06 14:56:32,738 - Validator edb5701b-7ff6-4598-8d29-3248983f8361 merged with server 47 at distance 139.24 km.
+2024-10-06 14:56:32,756 - Validator 3c3786fd-d01e-42fd-8d96-abbd553a8a6c merged with server 249 at distance 115.15 km.
+2024-10-06 14:56:32,773 - Validator 84914444-ec91-4a65-ac29-d566fea6091f merged with server 2 at distance 339.60 km.
+2024-10-06 14:56:32,791 - Validator fb631c83-5925-4863-9313-f6a8854a467f merged with server 188 at distance 0.43 km.
+2024-10-06 14:56:32,809 - Validator 05fe2b95-394b-412b-b7cd-6b184c9d097f merged with server 60 at distance 59.47 km.
+2024-10-06 14:56:32,827 - Validator 222c010b-9fd4-495e-8b38-4f218086d7ba merged with server 161 at distance 44.14 km.
+2024-10-06 14:56:32,845 - Validator 8a337a24-deb6-4a02-90b6-9ab474c33ac7 merged with server 104 at distance 99.08 km.
+2024-10-06 14:56:32,863 - Validator ad7a70be-6373-4193-b419-bd74c36eac34 merged with server 24 at distance 173.20 km.
+2024-10-06 14:56:32,881 - Validator d7d84cb1-2fb4-42dc-84be-7e54f5d4eaa2 merged with server 188 at distance 24.13 km.
+2024-10-06 14:56:32,899 - Validator de4910f4-bb98-4f98-90c7-1597f0c6aad1 merged with server 249 at distance 37.82 km.
+2024-10-06 14:56:32,917 - Validator 5d1e177d-7433-45ed-bf29-545bcc6ed42a merged with server 67 at distance 325.96 km.
+2024-10-06 14:56:32,936 - Validator 3c15b3d1-13bb-4799-b8b5-5a6ae1abaac9 merged with server 234 at distance 31.36 km.
+2024-10-06 14:56:32,954 - Validator 212b25a7-353a-42a7-98da-d8e2a4115bd9 merged with server 4 at distance 388.34 km.
+2024-10-06 14:56:32,973 - Validator 53e8062b-a99b-499d-82ec-771ec0650cc5 merged with server 92 at distance 250.14 km.
+2024-10-06 14:56:32,991 - Validator df2af307-f345-4d39-8701-7bca7346f4bd merged with server 47 at distance 100.19 km.
+2024-10-06 14:56:33,010 - Validator 977962c2-5dfe-4d0d-92ed-4cfb23ae9edc merged with server 234 at distance 3.62 km.
+2024-10-06 14:56:33,029 - Validator dba399b0-6e79-4da3-a4b7-78ba2a4fba92 merged with server 234 at distance 39.60 km.
+2024-10-06 14:56:33,047 - Validator 1f61855b-720b-499d-8656-b56209a9f604 merged with server 104 at distance 4.55 km.
+2024-10-06 14:56:33,065 - Validator 0831ab1c-736a-477f-8b4d-cc46ac08ede2 merged with server 35 at distance 39.52 km.
+2024-10-06 14:56:33,101 - Validator 907c665f-031d-404f-ae46-9663befac1bf merged with server 4 at distance 199.17 km.
+2024-10-06 14:56:33,119 - Validator a2e30187-1613-47f6-b9d8-6b219fe633ed merged with server 67 at distance 326.55 km.
+2024-10-06 14:56:33,137 - Validator 69952700-291b-4072-b5ce-61b0dda97a44 merged with server 35 at distance 26.10 km.
+2024-10-06 14:56:33,156 - Validator a9a579df-51c0-4c8b-af36-0bd5cd7d5cad merged with server 24 at distance 47.27 km.
+2024-10-06 14:56:33,173 - Validator b994ccc1-e90b-4020-a495-2724d51b6836 merged with server 234 at distance 29.62 km.
+2024-10-06 14:56:33,192 - Validator 7dc0bc50-1416-489a-8a7e-e720826cc7b5 merged with server 24 at distance 72.67 km.
+2024-10-06 14:56:33,210 - Validator 04f034a8-8686-4ebc-a442-5f9f0600fd9a merged with server 4 at distance 344.20 km.
+2024-10-06 14:56:33,228 - Validator bbde3412-67b7-4452-91c8-96a046aad68a merged with server 245 at distance 735.00 km.
+2024-10-06 14:56:33,246 - Validator da17606e-e68e-4f13-9015-3caa508b7521 merged with server 35 at distance 81.72 km.
+2024-10-06 14:56:33,263 - Validator 3b3293e4-4878-4857-9308-58f6fdc138a3 merged with server 47 at distance 51.47 km.
+2024-10-06 14:56:33,281 - Validator 7784b866-bfd6-47fc-a1b7-6a949036f951 merged with server 210 at distance 97.66 km.
+2024-10-06 14:56:33,299 - Validator cdd240a4-8a06-4532-9b35-0ca85ae13436 merged with server 4 at distance 215.27 km.
+2024-10-06 14:56:33,316 - Validator 767c5e92-eeeb-4dd1-9efb-4ece0ef7ebd7 merged with server 60 at distance 39.32 km.
+2024-10-06 14:56:33,334 - Validator fd08c303-d745-43cc-bd6d-c54df9d3d646 merged with server 210 at distance 87.57 km.
+2024-10-06 14:56:33,351 - Validator 63d919e0-380f-41ab-a117-987a30129974 merged with server 35 at distance 0.94 km.
+2024-10-06 14:56:33,369 - Validator 00081ded-f4b2-4ba9-a65b-1f463d01fdec merged with server 35 at distance 37.38 km.
+2024-10-06 14:56:33,387 - Validator e1bf1ef8-84c5-4443-bb44-899e0c9903de merged with server 24 at distance 32.38 km.
+2024-10-06 14:56:33,405 - Validator 6729fec7-ebdd-4b28-bd03-3971b0b57806 merged with server 60 at distance 137.42 km.
+2024-10-06 14:56:33,424 - Validator 0ca18560-1aeb-4414-8f89-d4dcd3a5ec2d merged with server 35 at distance 38.21 km.
+2024-10-06 14:56:33,442 - Validator 0b67020b-7bc0-4f8c-bd77-9905e874426d merged with server 35 at distance 91.03 km.
+2024-10-06 14:56:33,460 - Validator f21b5aeb-d720-465f-a319-75ebd68fd677 merged with server 24 at distance 46.20 km.
+2024-10-06 14:56:33,479 - Validator a738e919-02fa-4877-9df0-c058a0c41bd0 merged with server 35 at distance 21.00 km.
+2024-10-06 14:56:33,497 - Validator 084c2c47-6be6-456c-a88a-a1d86d500e3a merged with server 47 at distance 0.74 km.
+2024-10-06 14:56:33,516 - Validator 56cef267-5d68-4d45-b99c-a256509bd0ea merged with server 35 at distance 20.68 km.
+2024-10-06 14:56:33,536 - Validator 1623c54b-8fa9-49cf-bd7e-32df442dac93 merged with server 210 at distance 93.34 km.
+2024-10-06 14:56:33,555 - Validator de4d22c1-1f65-454c-becf-608134cf2592 merged with server 236 at distance 1.16 km.
+2024-10-06 14:56:33,573 - Validator ea165b11-b9fb-4a18-a056-8eebb69871eb merged with server 60 at distance 106.55 km.
+2024-10-06 14:56:33,591 - Validator 075ffe3a-f5d8-4051-a029-80cfa7f57782 merged with server 24 at distance 0.40 km.
+2024-10-06 14:56:33,609 - Validator f3d2316b-d20d-4012-9cb3-0394122d3915 merged with server 24 at distance 27.47 km.
+2024-10-06 14:56:33,626 - Validator 9bfd57f8-2917-47f5-998f-527c2ff27d75 merged with server 157 at distance 368.81 km.
+2024-10-06 14:56:33,644 - Validator 2f9ed683-748f-4acf-ace9-1f13a3fd42e4 merged with server 24 at distance 368.52 km.
+2024-10-06 14:56:33,662 - Validator 70c7367f-81a4-4816-a5bd-6afe5bc1af12 merged with server 236 at distance 57.46 km.
+2024-10-06 14:56:33,680 - Validator 0af41744-740a-4c77-9f5a-cbe0d11482c8 merged with server 20 at distance 67.63 km.
+2024-10-06 14:56:33,698 - Validator 339c6bcb-45f7-4e35-a0ae-c965be40ac24 merged with server 24 at distance 391.84 km.
+2024-10-06 14:56:33,716 - Validator 104c25f7-3b53-47a1-a84c-063d9d8ae2c4 merged with server 35 at distance 37.22 km.
+2024-10-06 14:56:33,734 - Validator f4bf0ed7-974f-438d-9a12-bf85ca99b47e merged with server 24 at distance 416.49 km.
+2024-10-06 14:56:33,752 - Validator 610f601b-588d-47ed-a934-ccd420a07b4e merged with server 210 at distance 49.27 km.
+2024-10-06 14:56:33,770 - Validator 9ff94f14-8705-4172-bf0a-6e15855d4850 merged with server 210 at distance 50.54 km.
+2024-10-06 14:56:33,789 - Validator 7143e08b-a2d0-4346-b5ff-0bce60220404 merged with server 24 at distance 21.83 km.
+2024-10-06 14:56:33,807 - Validator 26d581e9-de90-45a1-b8b2-472dae4371a1 merged with server 210 at distance 116.39 km.
+2024-10-06 14:56:33,825 - Validator ef9b80bd-c14f-414c-ba4f-852aff1b70de merged with server 236 at distance 96.22 km.
+2024-10-06 14:56:33,843 - Validator 475b79b4-c8f4-4da5-81de-773ff9bcfafc merged with server 210 at distance 31.30 km.
+2024-10-06 14:56:33,861 - Validator 3d5b7cc8-f24f-4213-a23c-f25411035ad1 merged with server 236 at distance 35.41 km.
+2024-10-06 14:56:33,879 - Validator 370e2f57-de18-4277-857e-9b454ee299e9 merged with server 20 at distance 35.75 km.
+2024-10-06 14:56:33,897 - Validator ca892197-35aa-4a21-a9a7-5dc1439eb186 merged with server 4 at distance 112.88 km.
+2024-10-06 14:56:33,915 - Validator ee5f0603-8307-4d3f-be40-883ea3d48e68 merged with server 135 at distance 219.67 km.
+2024-10-06 14:56:33,932 - Validator 4355f8b0-884a-40e9-ad4a-f9176216ac29 merged with server 47 at distance 206.34 km.
+2024-10-06 14:56:33,950 - Validator 89923db4-6ac9-4764-9419-5968bf7a3e59 merged with server 212 at distance 98.03 km.
+2024-10-06 14:56:33,967 - Validator a8ee98ae-608c-4519-a9d7-a533492d73a8 merged with server 210 at distance 94.56 km.
+2024-10-06 14:56:33,985 - Validator e02bdc10-1d98-4664-9c27-836de6957e23 merged with server 35 at distance 77.16 km.
+2024-10-06 14:56:34,002 - Validator 3b5949df-c080-495e-b620-ba5b8debe1b8 merged with server 20 at distance 14.68 km.
+2024-10-06 14:56:34,020 - Validator b310b36e-73b8-4f1d-91cd-80a5f3ab5b24 merged with server 35 at distance 123.75 km.
+2024-10-06 14:56:34,037 - Validator 255cb1a5-f752-49bd-a8e4-3a616d550183 merged with server 210 at distance 12.21 km.
+2024-10-06 14:56:34,055 - Validator adbcc83b-6efa-41e7-8387-e3409d1e3d0e merged with server 157 at distance 301.06 km.
+2024-10-06 14:56:34,073 - Validator 3ef35d9a-9b7a-45c5-99f3-0d74e166b34d merged with server 135 at distance 235.40 km.
+2024-10-06 14:56:34,090 - Validator 234cebf4-b713-4cd9-87f8-a3a5f847e052 merged with server 147 at distance 12.26 km.
+2024-10-06 14:56:34,108 - Validator ba18b078-1e1e-4c52-8348-060b694398b2 merged with server 212 at distance 75.35 km.
+2024-10-06 14:56:34,126 - Validator 2d624b76-62fd-4507-bd69-a1e83e739a69 merged with server 212 at distance 108.49 km.
+2024-10-06 14:56:34,143 - Validator 9b9e8d2f-dfee-41e8-a605-06720b6ec3e2 merged with server 4 at distance 71.29 km.
+2024-10-06 14:56:34,161 - Validator 4da295ce-3225-4955-b360-bb80469414ae merged with server 210 at distance 31.75 km.
+2024-10-06 14:56:34,179 - Validator f4138cab-2764-4ce3-b5dc-24fa6f2e4455 merged with server 210 at distance 28.90 km.
+2024-10-06 14:56:34,197 - Validator 3e8afcf0-2850-489f-b16f-562b87ccead4 merged with server 210 at distance 120.59 km.
+2024-10-06 14:56:34,215 - Validator 2ef736ad-e7e8-4922-af66-8eda74c7997b merged with server 185 at distance 112.20 km.
+2024-10-06 14:56:34,233 - Validator fa963602-935c-4c57-93d6-b23d7e8e8248 merged with server 53 at distance 92.28 km.
+2024-10-06 14:56:34,251 - Validator fc2df25b-afb6-44cc-9ede-fafc120118a0 merged with server 224 at distance 636.55 km.
+2024-10-06 14:56:34,269 - Validator e6e5c474-d456-436c-9075-80c9832d75d7 merged with server 212 at distance 53.23 km.
+2024-10-06 14:56:34,286 - Validator 5b63c0e0-6b11-449a-86ee-3af800738711 merged with server 34 at distance 365.61 km.
+2024-10-06 14:56:34,304 - Validator cd2ed6d9-51c3-4d6f-8547-4ae16b130168 merged with server 185 at distance 1.27 km.
+2024-10-06 14:56:34,322 - Validator effe71fd-73c6-44f1-8ee1-76746b6854d7 merged with server 185 at distance 117.41 km.
+2024-10-06 14:56:34,340 - Validator 4fd8e152-d0a0-47ea-a859-1c13888a91dc merged with server 4 at distance 20.45 km.
+2024-10-06 14:56:34,358 - Validator 5a1b2470-8ac2-4fba-80c8-ce218e96fa33 merged with server 53 at distance 71.16 km.
+2024-10-06 14:56:34,376 - Validator 99bf9d11-f123-46cb-812b-38c18aafc7fa merged with server 210 at distance 71.05 km.
+2024-10-06 14:56:34,394 - Validator 714cf6ee-c170-4f49-ad91-469f9ceaa6b4 merged with server 4 at distance 26.64 km.
+2024-10-06 14:56:34,416 - Validator 50ca3e8b-d1ed-4714-9e8f-596e55c7c0d3 merged with server 185 at distance 107.47 km.
+2024-10-06 14:56:34,440 - Validator dcc24f52-51cd-4baa-9f15-d9b14c117e78 merged with server 185 at distance 27.08 km.
+2024-10-06 14:56:34,459 - Validator ff2b9436-65b4-4181-99d0-e537af7bb733 merged with server 158 at distance 69.38 km.
+2024-10-06 14:56:34,477 - Validator 2264e637-222f-4652-a22a-bba3ee137fc4 merged with server 200 at distance 56.50 km.
+2024-10-06 14:56:34,494 - Validator 2327ffc8-38ec-4986-b7bd-2a7f5206e93f merged with server 4 at distance 38.35 km.
+2024-10-06 14:56:34,512 - Validator 1c12e1a6-9f5f-4067-8894-0a6c718506d9 merged with server 4 at distance 13.10 km.
+2024-10-06 14:56:34,530 - Validator e0a39a27-868b-4ee2-9e9a-b49fc569e931 merged with server 185 at distance 68.18 km.
+2024-10-06 14:56:34,548 - Validator 1604a65f-3f90-4089-bbd8-f9bf68efb55c merged with server 53 at distance 66.24 km.
+2024-10-06 14:56:34,566 - Validator 56b207de-21a8-4fa2-bb78-330db4330686 merged with server 53 at distance 26.35 km.
+2024-10-06 14:56:34,583 - Validator d5ec663a-57bc-4c1a-a3f8-211bfc98e29c merged with server 158 at distance 43.92 km.
+2024-10-06 14:56:34,601 - Validator 46ec84a2-587d-4a0f-bed2-a00679bf737f merged with server 158 at distance 81.51 km.
+2024-10-06 14:56:34,620 - Validator e03fed46-84a4-40de-ab2b-451f8841c8c8 merged with server 47 at distance 208.82 km.
+2024-10-06 14:56:34,637 - Validator ee8a4efa-8314-4b07-a3e9-4d78612f3d65 merged with server 4 at distance 75.86 km.
+2024-10-06 14:56:34,655 - Validator 111e1d7a-b6ad-4d6d-abaf-25529da065f5 merged with server 53 at distance 204.00 km.
+2024-10-06 14:56:34,674 - Validator 0b631cf8-0e8f-4fc3-85df-5f9fa8ad5083 merged with server 53 at distance 9.13 km.
+2024-10-06 14:56:34,691 - Validator bd15bdff-56b9-477a-8958-f140bb975c26 merged with server 200 at distance 0.83 km.
+2024-10-06 14:56:34,710 - Validator 19d02d1b-0ac0-4656-86b4-d449a5750448 merged with server 4 at distance 37.42 km.
+2024-10-06 14:56:34,727 - Validator 18ffeee5-d976-4d20-ba58-6c59b4ee54db merged with server 185 at distance 95.56 km.
+2024-10-06 14:56:34,745 - Validator a0a2bafe-8384-4517-aeeb-35b845ce2127 merged with server 4 at distance 40.97 km.
+2024-10-06 14:56:34,762 - Validator 6d80c8d1-507e-4102-94ba-25d37c306861 merged with server 4 at distance 130.33 km.
+2024-10-06 14:56:34,780 - Validator 0cd30c55-3482-40fa-a737-7274b60ace44 merged with server 53 at distance 24.29 km.
+2024-10-06 14:56:34,797 - Validator a7ad2954-ce2e-429e-b611-52aa4f50073b merged with server 158 at distance 107.94 km.
+2024-10-06 14:56:34,815 - Validator 05a57f93-e5fa-4ef3-a4fa-dc6c15a431db merged with server 53 at distance 13.52 km.
+2024-10-06 14:56:34,834 - Validator df03c93f-a64b-4198-9ff6-c30d2e859aec merged with server 53 at distance 122.34 km.
+2024-10-06 14:56:34,851 - Validator 62ae0705-6c88-4b40-a248-784b88ea43a6 merged with server 158 at distance 7.58 km.
+2024-10-06 14:56:34,870 - Validator ed99b153-601c-4c26-ae37-27744b5fef2d merged with server 61 at distance 27.51 km.
+2024-10-06 14:56:34,888 - Validator a45d2ae9-2c54-4d94-ac37-474d2cd085bd merged with server 200 at distance 47.00 km.
+2024-10-06 14:56:34,906 - Validator 41f4eb3e-8502-43ad-9b90-8eb36ece0783 merged with server 29 at distance 72.71 km.
+2024-10-06 14:56:34,924 - Validator b997b690-0b28-4d2a-9522-ce84cd7f429c merged with server 158 at distance 21.67 km.
+2024-10-06 14:56:34,942 - Validator 828b9953-cc78-4331-8949-6a0edda5cab8 merged with server 4 at distance 125.91 km.
+2024-10-06 14:56:34,960 - Validator 0a243084-d316-4bdb-b3de-0bcb09c85169 merged with server 34 at distance 304.25 km.
+2024-10-06 14:56:34,978 - Validator c1821ec0-b3ce-4568-be03-9902bdb70549 merged with server 61 at distance 8.02 km.
+2024-10-06 14:56:34,995 - Validator 6f6101bc-df38-42cc-962f-47f4c382d1bf merged with server 158 at distance 18.33 km.
+2024-10-06 14:56:35,013 - Validator 469be133-a8ec-4b9b-a4f1-257b80dcafcf merged with server 53 at distance 50.01 km.
+2024-10-06 14:56:35,030 - Validator 01c6dda4-025e-4440-9e95-4e533c3b8472 merged with server 158 at distance 74.73 km.
+2024-10-06 14:56:35,048 - Validator 238c38f9-9822-4913-a28a-92f847f8fa5e merged with server 3 at distance 83.45 km.
+2024-10-06 14:56:35,065 - Validator ecd69ebd-bc3a-4e5d-80b6-2ffca8468214 merged with server 200 at distance 139.72 km.
+2024-10-06 14:56:35,083 - Validator 8894f851-aaba-4d31-95f5-9c295d8151d3 merged with server 29 at distance 27.35 km.
+2024-10-06 14:56:35,100 - Validator 082e645d-a3a5-4f5e-a4bc-43ecca5fac67 merged with server 135 at distance 1.76 km.
+2024-10-06 14:56:35,117 - Validator becc5020-27e0-40fb-a958-4be44715948d merged with server 158 at distance 51.62 km.
+2024-10-06 14:56:35,135 - Validator abe9ed9d-c167-476c-bba1-d24eba29941f merged with server 200 at distance 124.10 km.
+2024-10-06 14:56:35,152 - Validator 3a7c2d7f-820a-4235-814e-50a4a3fbae39 merged with server 158 at distance 65.91 km.
+2024-10-06 14:56:35,169 - Validator 6e6b468a-049e-4078-8a93-265db3d4965a merged with server 29 at distance 32.48 km.
+2024-10-06 14:56:35,187 - Validator cd82a785-e8b8-47b4-8cec-13d82015724e merged with server 32 at distance 252.69 km.
+2024-10-06 14:56:35,204 - Validator 19f19c3b-4ead-445e-baad-48fd1c0859a7 merged with server 3 at distance 4.54 km.
+2024-10-06 14:56:35,222 - Validator 3bd97ec7-71b4-4f7b-9cb4-1059cb99a90e merged with server 29 at distance 27.46 km.
+2024-10-06 14:56:35,239 - Validator 3f4db5cb-a16c-4315-9051-a7fe70b9b3fa merged with server 54 at distance 71.62 km.
+2024-10-06 14:56:35,257 - Validator a6fb0c69-fc4b-4266-9ad1-cd0b6351766d merged with server 200 at distance 209.91 km.
+2024-10-06 14:56:35,275 - Validator 901f4300-2390-4d6e-a4ee-4367ab980d09 merged with server 223 at distance 55.11 km.
+2024-10-06 14:56:35,292 - Validator 0cb9076c-d98f-4f7b-89b2-0449ab4796a9 merged with server 264 at distance 67.23 km.
+2024-10-06 14:56:35,309 - Validator 677c3983-0585-4e7d-866b-626c0b5bd49a merged with server 191 at distance 140.89 km.
+2024-10-06 14:56:35,327 - Validator 74ee408e-ed82-45ac-9503-33a4e1ecfd63 merged with server 166 at distance 208.82 km.
+2024-10-06 14:56:35,344 - Validator bd76d209-f4e5-4c8c-88a7-afeb9c24d107 merged with server 32 at distance 223.44 km.
+2024-10-06 14:56:35,364 - Validator 474f27d6-c785-4e3d-8cd1-e689aee35d99 merged with server 34 at distance 0.52 km.
+2024-10-06 14:56:35,381 - Validator 90acaa75-787e-42c7-a0c8-217fd00fef2e merged with server 264 at distance 0.55 km.
+2024-10-06 14:56:35,399 - Validator 67637f48-1fbf-434a-8c86-79c2bf823b09 merged with server 208 at distance 39.42 km.
+2024-10-06 14:56:35,416 - Validator 6f6354b4-b996-4113-99be-da21118d0003 merged with server 54 at distance 23.31 km.
+2024-10-06 14:56:35,433 - Validator 923b5039-9e9b-4899-b8eb-abf5e130b599 merged with server 54 at distance 8.22 km.
+2024-10-06 14:56:35,451 - Validator b24ca851-fc3c-44ac-b817-56d7248dafa2 merged with server 153 at distance 79.33 km.
+2024-10-06 14:56:35,468 - Validator ca37b9b7-6320-421c-889e-21f0a51ab928 merged with server 264 at distance 122.44 km.
+2024-10-06 14:56:35,486 - Validator 4a933b9d-284e-42f2-b227-3dd8ff4f7f05 merged with server 157 at distance 61.38 km.
+2024-10-06 14:56:35,503 - Validator 54c6bd76-0fc0-4e25-8762-673b81e5a8d1 merged with server 223 at distance 31.94 km.
+2024-10-06 14:56:35,520 - Validator a9e9da8c-3c01-4a49-b282-348f07abf749 merged with server 208 at distance 15.28 km.
+2024-10-06 14:56:35,537 - Validator ee8ee1c6-846e-4934-adce-ed23f2877b63 merged with server 153 at distance 59.67 km.
+2024-10-06 14:56:35,555 - Validator c6db4108-3898-49d8-b3bf-add6ac7f9c86 merged with server 157 at distance 2.36 km.
+2024-10-06 14:56:35,572 - Validator fd86a6f6-1361-421c-bb53-7f499e331f7c merged with server 153 at distance 51.89 km.
+2024-10-06 14:56:35,589 - Validator fc1dba5b-514b-4aa1-b524-1c57b01d4bbd merged with server 157 at distance 41.17 km.
+2024-10-06 14:56:35,607 - Validator c0459fc6-61d9-4255-b891-fa50768377ca merged with server 156 at distance 68.06 km.
+2024-10-06 14:56:35,624 - Validator 27d8e1f9-f2c8-44f8-9228-cf4213c93da7 merged with server 29 at distance 111.15 km.
+2024-10-06 14:56:35,641 - Validator 4d468f8c-905c-4e8b-b35b-0e7313fbb069 merged with server 223 at distance 49.77 km.
+2024-10-06 14:56:35,659 - Validator a5857416-6bc4-4e75-9689-99ea74cad652 merged with server 208 at distance 24.11 km.
+2024-10-06 14:56:35,676 - Validator 00414684-6b5b-4639-99d5-50b2f9858733 merged with server 54 at distance 97.83 km.
+2024-10-06 14:56:35,693 - Validator dd5325e9-3def-4ca1-b2d7-21e2e541cbf0 merged with server 223 at distance 37.39 km.
+2024-10-06 14:56:35,712 - Validator 066e49d6-d555-4594-a637-5b2d443a3148 merged with server 264 at distance 109.49 km.
+2024-10-06 14:56:35,731 - Validator 55e6540b-d052-495a-9ad0-a798c87384c1 merged with server 229 at distance 46.82 km.
+2024-10-06 14:56:35,750 - Validator ed9e70a3-629d-4e7a-8806-089759d53ea4 merged with server 103 at distance 289.37 km.
+2024-10-06 14:56:35,768 - Validator c0fa6f4a-9970-4cac-9de8-6ba5b19065f7 merged with server 264 at distance 116.15 km.
+2024-10-06 14:56:35,785 - Validator d55d56c8-e820-48c8-80e8-1885c49452bb merged with server 247 at distance 17.93 km.
+2024-10-06 14:56:35,802 - Validator 558bec20-aa82-42a3-b644-6de448760d2c merged with server 157 at distance 33.00 km.
+2024-10-06 14:56:35,820 - Validator 3176d50c-79bf-49ea-8ce4-13b6c9072bf9 merged with server 103 at distance 307.42 km.
+2024-10-06 14:56:35,838 - Validator d7699052-a2a1-4e09-9690-30ab5e63c012 merged with server 200 at distance 213.43 km.
+2024-10-06 14:56:35,855 - Validator 6c79f887-59ce-46db-8284-0567a081dbb9 merged with server 29 at distance 115.86 km.
+2024-10-06 14:56:35,872 - Validator 85b85d2c-d9dd-47a0-804b-9a2cdcdec699 merged with server 191 at distance 41.42 km.
+2024-10-06 14:56:35,890 - Validator 84ac5430-2612-45da-9d31-b94d260bba85 merged with server 156 at distance 24.19 km.
+2024-10-06 14:56:35,908 - Validator 8ca8b700-a8ac-4477-863f-bed9802089b1 merged with server 174 at distance 193.24 km.
+2024-10-06 14:56:35,925 - Validator 1653b142-3e7f-4377-8d7d-0e71e77c988e merged with server 153 at distance 16.66 km.
+2024-10-06 14:56:35,942 - Validator 1a961f72-5a25-442d-a50f-8d0222ea5d52 merged with server 229 at distance 45.40 km.
+2024-10-06 14:56:35,959 - Validator 2f82d610-e5fd-42de-85de-9e8bc434eccb merged with server 264 at distance 80.73 km.
+2024-10-06 14:56:35,977 - Validator 8887d73e-c11c-491a-a8ba-47042befb2cb merged with server 43 at distance 1.06 km.
+2024-10-06 14:56:35,994 - Validator dfa9e253-5e26-4e79-89ce-4e63267bea68 merged with server 11 at distance 45.22 km.
+2024-10-06 14:56:36,012 - Validator 1a7c98e7-509c-4182-b1f7-d1ad6e166221 merged with server 32 at distance 153.09 km.
+2024-10-06 14:56:36,029 - Validator fac56ebc-cc2a-4071-ae5b-54cd62d160a5 merged with server 156 at distance 1.04 km.
+2024-10-06 14:56:36,046 - Validator 017d2e51-eaaa-4975-877b-25f18ebaf7dc merged with server 11 at distance 20.06 km.
+2024-10-06 14:56:36,064 - Validator 8a05299e-dff0-4ffc-9236-63adb19de5e7 merged with server 157 at distance 61.79 km.
+2024-10-06 14:56:36,081 - Validator f54b68cd-62f9-4937-a356-f9c3840226b3 merged with server 153 at distance 45.52 km.
+2024-10-06 14:56:36,098 - Validator b5d08891-2264-4027-8299-4d3e5ff41183 merged with server 11 at distance 41.25 km.
+2024-10-06 14:56:36,116 - Validator 49869bd4-a6b0-4332-a360-f7a065bb97ac merged with server 153 at distance 23.13 km.
+2024-10-06 14:56:36,133 - Validator 792df1c6-4185-460c-b82f-a6ebe0828ad1 merged with server 11 at distance 19.60 km.
+2024-10-06 14:56:36,150 - Validator 079389b0-739b-48aa-a22a-9bb6f1442fa4 merged with server 228 at distance 0.61 km.
+2024-10-06 14:56:36,168 - Validator 749f062a-8828-442c-b1b0-f00f59d793f1 merged with server 153 at distance 40.92 km.
+2024-10-06 14:56:36,185 - Validator 4149eeba-8f5a-499d-b61f-5b9a6f8028e9 merged with server 247 at distance 34.92 km.
+2024-10-06 14:56:36,202 - Validator 70ba43ce-1e3a-4cc0-b5c3-4b27b19d9c33 merged with server 29 at distance 180.60 km.
+2024-10-06 14:56:36,220 - Validator f50efa59-ec99-4e95-aad0-b8d91ea139b0 merged with server 156 at distance 32.26 km.
+2024-10-06 14:56:36,238 - Validator 26916ae7-bf9d-4915-a7a9-8f43433e112a merged with server 194 at distance 516.02 km.
+2024-10-06 14:56:36,256 - Validator 4eac6afa-1290-4392-85fa-aeed6c0e8610 merged with server 229 at distance 29.17 km.
+2024-10-06 14:56:36,275 - Validator 3e95867c-221f-4a12-9f12-77b4519523c9 merged with server 191 at distance 17.31 km.
+2024-10-06 14:56:36,292 - Validator aecd3cd5-fed4-4f61-b616-afdda1422619 merged with server 191 at distance 61.12 km.
+2024-10-06 14:56:36,310 - Validator f64b6e38-54dd-498a-bd7e-1fc858995e47 merged with server 229 at distance 23.69 km.
+2024-10-06 14:56:36,328 - Validator c166cb48-44cb-4466-a68a-5f6a4ed57c00 merged with server 32 at distance 229.40 km.
+2024-10-06 14:56:36,346 - Validator a6fe77c0-33c0-491b-a99d-3b9177d2a82e merged with server 9 at distance 465.67 km.
+2024-10-06 14:56:36,364 - Validator 1150b776-a9f0-46b5-99c7-5e09a5ac274e merged with server 153 at distance 87.60 km.
+2024-10-06 14:56:36,381 - Validator b446200c-dd13-459a-93b6-2c9523e36f23 merged with server 264 at distance 185.68 km.
+2024-10-06 14:56:36,419 - Validator 302a9ef7-f7f2-4d5f-82f6-40a98af5b11c merged with server 191 at distance 36.38 km.
+2024-10-06 14:56:36,436 - Validator be726a22-27a9-4eb8-b414-f72b12e0f5e5 merged with server 263 at distance 59.01 km.
+2024-10-06 14:56:36,454 - Validator 2f2e4966-4548-48b4-b757-a4bcce7a8748 merged with server 32 at distance 117.27 km.
+2024-10-06 14:56:36,472 - Validator ead648df-c63f-4da7-baf6-e3a17b65465d merged with server 11 at distance 32.42 km.
+2024-10-06 14:56:36,490 - Validator a11cff6a-e496-48bf-a517-e624de9deee8 merged with server 215 at distance 10.10 km.
+2024-10-06 14:56:36,507 - Validator 8549714d-e7f5-4610-8183-5a15d4738a23 merged with server 229 at distance 51.89 km.
+2024-10-06 14:56:36,524 - Validator 11d6d48d-2a8e-4395-827b-a6e3a0953881 merged with server 263 at distance 11.95 km.
+2024-10-06 14:56:36,542 - Validator 7987e64a-adcd-4af2-87d4-707942717c59 merged with server 11 at distance 60.75 km.
+2024-10-06 14:56:36,560 - Validator bc1d4bed-b9b2-4041-8d9d-b0e84fdcb6b6 merged with server 11 at distance 50.12 km.
+2024-10-06 14:56:36,577 - Validator 2f20c964-ca31-4fda-9e34-9793ae2f327a merged with server 156 at distance 73.43 km.
+2024-10-06 14:56:36,595 - Validator f325497e-90e0-4141-80ae-b1013d22897a merged with server 260 at distance 147.84 km.
+2024-10-06 14:56:36,613 - Validator b1d9dc66-1482-411f-aed0-2469b619ade5 merged with server 153 at distance 133.60 km.
+2024-10-06 14:56:36,630 - Validator 76660e5e-d588-4793-a742-3b0ce6de67cf merged with server 153 at distance 164.73 km.
+2024-10-06 14:56:36,649 - Validator fe2476ef-1603-4d34-9342-7acbd806d532 merged with server 11 at distance 52.68 km.
+2024-10-06 14:56:36,666 - Validator 5628d444-0274-41b7-994b-a956b09f94c6 merged with server 216 at distance 12.34 km.
+2024-10-06 14:56:36,684 - Validator d4d14c2e-0025-4637-875b-b48187f4dda8 merged with server 91 at distance 65.74 km.
+2024-10-06 14:56:36,702 - Validator 174aad0f-fcad-4f3d-a23b-200ae5562cae merged with server 156 at distance 97.72 km.
+2024-10-06 14:56:36,720 - Validator 4d995a84-ee9f-4de9-921b-f6874f9d9f51 merged with server 260 at distance 95.62 km.
+2024-10-06 14:56:36,738 - Validator d448e620-57b8-4f1d-a39f-b6baef2f33c1 merged with server 7 at distance 37.09 km.
+2024-10-06 14:56:36,755 - Validator 61514a82-426e-4509-98b5-d4be52219f3a merged with server 196 at distance 53.52 km.
+2024-10-06 14:56:36,772 - Validator 4083c8e6-83eb-4f85-9823-70c41073dd1f merged with server 11 at distance 77.52 km.
+2024-10-06 14:56:36,790 - Validator f1f7aaf7-1070-49dc-910f-ec265ac9d4ed merged with server 32 at distance 2.83 km.
+2024-10-06 14:56:36,807 - Validator 6835cc2c-09d5-4dbf-a170-c83eb5fe0421 merged with server 7 at distance 18.91 km.
+2024-10-06 14:56:36,824 - Validator e9669e9d-076d-44b0-88e2-d87b86abc0d8 merged with server 3 at distance 253.12 km.
+2024-10-06 14:56:36,842 - Validator 5c237d16-a0c3-45a8-8b3c-dea91460074e merged with server 203 at distance 147.26 km.
+2024-10-06 14:56:36,859 - Validator 6e54f08f-d439-4657-b1bf-0a0f9b892cc0 merged with server 203 at distance 158.69 km.
+2024-10-06 14:56:36,876 - Validator fed5c262-448b-4c42-87f1-7d6ed10bc2d6 merged with server 176 at distance 1438.38 km.
+2024-10-06 14:56:36,894 - Validator f90d5589-eb53-4c8b-acae-5ddfa60b2565 merged with server 91 at distance 31.73 km.
+2024-10-06 14:56:36,911 - Validator ab9320ec-7b84-4036-a0d8-1c3a2362563a merged with server 260 at distance 64.56 km.
+2024-10-06 14:56:36,928 - Validator 15b411e3-591d-4875-afc4-004e1a5d79f4 merged with server 203 at distance 134.18 km.
+2024-10-06 14:56:36,945 - Validator ca000eb5-3a50-4e28-be08-a0aac23172fc merged with server 264 at distance 219.52 km.
+2024-10-06 14:56:36,962 - Validator 3c3aeee2-7b1f-4968-9ff3-6e9fadcba1c9 merged with server 206 at distance 244.15 km.
+2024-10-06 14:56:36,980 - Validator eb5446d6-53f6-4d8a-a296-c857871ab968 merged with server 203 at distance 137.33 km.
+2024-10-06 14:56:36,997 - Validator c61f52bb-ccde-49ac-8e13-9eda28553fa4 merged with server 91 at distance 92.65 km.
+2024-10-06 14:56:37,014 - Validator 48b3b288-dca3-4eaf-871e-ea757f0a4bb4 merged with server 196 at distance 16.44 km.
+2024-10-06 14:56:37,032 - Validator 4c2b8667-e805-4b7a-93e1-2d2c73ea6039 merged with server 217 at distance 15.51 km.
+2024-10-06 14:56:37,049 - Validator 8996be35-8ac9-4091-a30b-a18d7a44b198 merged with server 196 at distance 25.65 km.
+2024-10-06 14:56:37,066 - Validator a3c6eb82-c9d0-42c2-8536-b2bebca35b40 merged with server 264 at distance 239.28 km.
+2024-10-06 14:56:37,084 - Validator 639b30f1-e026-43a7-a782-d517a0875d9f merged with server 9 at distance 372.91 km.
+2024-10-06 14:56:37,101 - Validator 1c0b0394-9e62-4cd7-8612-4d1adf4640c2 merged with server 91 at distance 36.32 km.
+2024-10-06 14:56:37,118 - Validator 83331e06-a584-484d-a859-819d53d717e9 merged with server 91 at distance 60.08 km.
+2024-10-06 14:56:37,136 - Validator 3128af0f-78b3-4eea-a38c-4ff4cb4c61e4 merged with server 196 at distance 35.50 km.
+2024-10-06 14:56:37,153 - Validator 0374228c-1a10-4e82-88ee-dc9b1fa1d492 merged with server 9 at distance 418.44 km.
+2024-10-06 14:56:37,170 - Validator 2927fb1f-2ae9-4433-b654-b85a0269417e merged with server 196 at distance 34.93 km.
+2024-10-06 14:56:37,187 - Validator 11cd3834-1f20-45eb-acb2-cb084aeed309 merged with server 197 at distance 58.69 km.
+2024-10-06 14:56:37,205 - Validator 069d544f-9199-4304-b95b-516dc57a60f0 merged with server 91 at distance 56.93 km.
+2024-10-06 14:56:37,222 - Validator 9ae7cc39-8d1c-4798-93b5-c02505cec529 merged with server 197 at distance 36.01 km.
+2024-10-06 14:56:37,239 - Validator fc282899-193f-48af-93dd-8504a8815120 merged with server 203 at distance 96.44 km.
+2024-10-06 14:56:37,257 - Validator 90663cf2-bc07-4dab-93c9-d95826ce77db merged with server 77 at distance 71.21 km.
+2024-10-06 14:56:37,274 - Validator b788ae63-2ecd-4717-9cff-86fd4af17f93 merged with server 77 at distance 44.60 km.
+2024-10-06 14:56:37,292 - Validator 39358ba9-7848-461e-89a5-21580c9be8c2 merged with server 194 at distance 295.73 km.
+2024-10-06 14:56:37,310 - Validator 3e32de3d-f6c3-43fb-9d55-0877dc5cf9b7 merged with server 174 at distance 760.75 km.
+2024-10-06 14:56:37,327 - Validator 184e8eea-4cc9-466c-982d-6ba3b121fbc6 merged with server 197 at distance 0.28 km.
+2024-10-06 14:56:37,344 - Validator 465f1374-9466-4d8e-8fa6-43e0f33deea0 merged with server 19 at distance 4.67 km.
+2024-10-06 14:56:37,362 - Validator a6f2573a-536b-4836-9c76-b89f2c9594e5 merged with server 77 at distance 52.57 km.
+2024-10-06 14:56:37,379 - Validator fa8d8416-3a78-4604-999c-f366cd455af5 merged with server 77 at distance 28.31 km.
+2024-10-06 14:56:37,397 - Validator ab640c5d-658d-444f-91c0-28758146597f merged with server 77 at distance 10.85 km.
+2024-10-06 14:56:37,414 - Validator b2d2278d-bc7e-4f96-976d-fc09669bc062 merged with server 203 at distance 93.40 km.
+2024-10-06 14:56:37,433 - Validator a13d6ec1-8ed1-4079-8956-2e841d6176ce merged with server 103 at distance 13.86 km.
+2024-10-06 14:56:37,451 - Validator 792a9e88-dfb6-4b3a-a780-eb0690c2612e merged with server 203 at distance 1.72 km.
+2024-10-06 14:56:37,469 - Validator ac0a5216-f10e-4913-af1b-88a59efe95fd merged with server 77 at distance 12.10 km.
+2024-10-06 14:56:37,488 - Validator 245743d4-0cf0-4eef-85f7-d118fd3e02d5 merged with server 77 at distance 35.58 km.
+2024-10-06 14:56:37,507 - Validator 9adb9662-ea6e-4d2f-9a0f-d566332a817c merged with server 203 at distance 19.24 km.
+2024-10-06 14:56:37,526 - Validator b867865c-a288-4acf-ab4e-01d6d96046e9 merged with server 176 at distance 364.28 km.
+2024-10-06 14:56:37,545 - Validator 40e3a006-3d11-4405-b0bd-53a097a1ec72 merged with server 77 at distance 34.09 km.
+2024-10-06 14:56:37,563 - Validator 0996d44d-3b94-4b28-9acd-816eebe2be95 merged with server 203 at distance 31.15 km.
+2024-10-06 14:56:37,582 - Validator 5cfec141-22a5-4b05-a215-4dbb6506ddbc merged with server 176 at distance 305.43 km.
+2024-10-06 14:56:37,600 - Validator 14631f0c-95be-4336-9e3f-5a6f919611e4 merged with server 203 at distance 56.50 km.
+2024-10-06 14:56:37,620 - Validator 2380482e-4f49-4905-9acd-570335b20f46 merged with server 77 at distance 68.93 km.
+2024-10-06 14:56:37,639 - Validator 45b4dd3d-43a0-4d6b-8341-d31c5c7ddce4 merged with server 170 at distance 172.35 km.
+2024-10-06 14:56:37,659 - Validator 2b83bab5-6136-4157-a178-417d429c2f56 merged with server 203 at distance 50.95 km.
+2024-10-06 14:56:37,678 - Validator 224dae42-58dc-4fd3-af93-58c890e2aed1 merged with server 203 at distance 84.60 km.
+2024-10-06 14:56:37,696 - Validator 81e48e5d-ecc3-43d0-94ea-d1b7e16eb661 merged with server 206 at distance 19.92 km.
+2024-10-06 14:56:37,715 - Validator bfe06040-308c-4e85-aade-80ff52d3cb30 merged with server 9 at distance 181.99 km.
+2024-10-06 14:56:37,734 - Validator eaa293e9-dea8-45f4-8d06-576d5100f09c merged with server 170 at distance 0.69 km.
+2024-10-06 14:56:37,752 - Validator 2562b92b-f3dd-4502-afc3-b82d29f58e56 merged with server 9 at distance 117.79 km.
+2024-10-06 14:56:37,771 - Validator 8e80aec0-8c21-40fd-8841-b4f98a78b003 merged with server 88 at distance 29.45 km.
+2024-10-06 14:56:37,789 - Validator ccb52a26-f4f0-41f6-9f04-a011feb8d8a7 merged with server 203 at distance 168.96 km.
+2024-10-06 14:56:37,808 - Validator 5583c45a-0f29-4865-b12b-96e4e92721d0 merged with server 194 at distance 699.12 km.
+2024-10-06 14:56:37,826 - Validator 200a0a19-0fc8-47e2-a68b-1580305293f7 merged with server 88 at distance 16.71 km.
+2024-10-06 14:56:37,844 - Validator e859c6f8-745a-4d84-9ffc-fca1d331bcde merged with server 9 at distance 36.68 km.
+2024-10-06 14:56:37,861 - Validator 8f011d75-3d05-4068-8859-334dd93c3bfb merged with server 194 at distance 169.92 km.
+2024-10-06 14:56:37,879 - Validator 00e30f9e-77d1-4ffb-8270-9c3e09bd5286 merged with server 9 at distance 23.27 km.
+2024-10-06 14:56:37,897 - Validator 24280ce7-eabc-4423-b8dd-7c3f356b86f1 merged with server 26 at distance 0.22 km.
+2024-10-06 14:56:37,916 - Validator 2189fcba-7f4c-4f2c-8dbd-9e22eb23e52f merged with server 126 at distance 69.10 km.
+2024-10-06 14:56:37,934 - Validator af0e2685-f14b-4677-bc2e-1782881d5ab5 merged with server 9 at distance 0.15 km.
+2024-10-06 14:56:37,952 - Validator ffa7e97a-1454-4ec2-a696-2fb7cae837b9 merged with server 194 at distance 0.81 km.
+2024-10-06 14:56:37,970 - Validator 875ebaf5-e037-4afc-9933-39b47b85bec6 merged with server 9 at distance 21.26 km.
+2024-10-06 14:56:37,989 - Validator d58a935e-afc5-41bc-b438-419d81874fc4 merged with server 194 at distance 49.33 km.
+2024-10-06 14:56:38,006 - Validator fcfa55a6-7875-4f67-b081-45c74c720b17 merged with server 126 at distance 0.00 km.
+2024-10-06 14:56:38,024 - Validator 5c61aa54-4ca2-4b7a-8bcc-f39fced03643 merged with server 187 at distance 0.49 km.
+2024-10-06 14:56:38,042 - Validator f7657f60-c317-462c-bb1b-9fd62a9e7e2a merged with server 126 at distance 24.98 km.
+2024-10-06 14:56:38,059 - Validator f4433271-47ee-4c8d-9205-644540a3e057 merged with server 176 at distance 636.75 km.
+2024-10-06 14:56:38,077 - Validator 224451ea-e673-4c99-a7b0-036b198f7dea merged with server 9 at distance 32.07 km.
+2024-10-06 14:56:38,094 - Validator 2acbe1de-b7c3-44a0-a69b-a63e43f40436 merged with server 176 at distance 1181.18 km.
+2024-10-06 14:56:38,112 - Validator 6be38277-46f6-432e-b64b-66c7e622cbe3 merged with server 26 at distance 156.88 km.
+2024-10-06 14:56:38,129 - Validator c0aad7c6-3c90-4ca9-9604-b3410baa012e merged with server 26 at distance 92.27 km.
+2024-10-06 14:56:38,147 - Validator 8fe15045-184f-42ac-aaca-3731dde073d5 merged with server 9 at distance 70.33 km.
+2024-10-06 14:56:38,164 - Validator 18dc6d17-55f5-4baf-87bb-f3ee318f5e7b merged with server 26 at distance 173.18 km.
+2024-10-06 14:56:38,182 - Validator ad52686e-b51c-425a-a89b-216bb368232e merged with server 194 at distance 719.05 km.
+2024-10-06 14:56:38,199 - Validator a01125d9-ae15-4393-8d80-cd03d3b416e8 merged with server 194 at distance 679.01 km.
+2024-10-06 14:56:38,217 - Validator 8ed7fd13-df10-4c77-9da7-fd5050645394 merged with server 127 at distance 11.75 km.
+2024-10-06 14:56:38,234 - Validator 125db42d-5070-4043-bdb1-9a78928e1a51 merged with server 164 at distance 143.01 km.
+2024-10-06 14:56:38,252 - Validator a4d3bdbf-aa3f-4ee0-9a5c-e0c3e8c8fb12 merged with server 174 at distance 958.16 km.
+2024-10-06 14:56:38,269 - Validator af73f7b1-1166-4b47-91e6-491998ab506c merged with server 9 at distance 250.67 km.
+2024-10-06 14:56:38,286 - Validator 24c5d50b-14e2-4016-a7ba-2156bd978cb5 merged with server 164 at distance 0.80 km.
+2024-10-06 14:56:38,304 - Validator d66e14eb-0e12-48ed-a7d9-8b99f872309c merged with server 194 at distance 498.76 km.
+2024-10-06 14:56:38,321 - Validator 6f4bc6dd-3168-43c6-b1b7-e7f86e9b13ce merged with server 164 at distance 240.49 km.
+2024-10-06 14:56:38,339 - Validator 9f5599cb-efb2-406d-a905-adfe10c7d209 merged with server 48 at distance 184.04 km.
+2024-10-06 14:56:38,356 - Validator fb28770b-f939-4a05-9b3b-5324b36bff31 merged with server 48 at distance 158.63 km.
+2024-10-06 14:56:38,373 - Validator 51ebf403-8684-4748-9e90-fd686c39c3e4 merged with server 129 at distance 153.26 km.
+2024-10-06 14:56:38,390 - Validator c95a2feb-1b04-4ce7-a4a2-bb7b6df13846 merged with server 129 at distance 104.69 km.
+2024-10-06 14:56:38,408 - Validator 9ea4d814-ec6d-4ba1-8eea-a3ddeebf49e8 merged with server 48 at distance 122.17 km.
+2024-10-06 14:56:38,425 - Validator 96a85e1e-ff2a-4889-b249-2d252d54c317 merged with server 10 at distance 1.60 km.
+2024-10-06 14:56:38,442 - Validator 39eb9b31-993f-4267-9479-3539b51f1ebb merged with server 25 at distance 0.35 km.
+2024-10-06 14:56:38,459 - Validator e9089b14-3aa2-4629-885e-554b6741d19a merged with server 10 at distance 21.38 km.
+2024-10-06 14:56:38,476 - Validator 74a7c0f6-db22-45c2-abe1-edabd4560cf5 merged with server 129 at distance 38.24 km.
+2024-10-06 14:56:38,493 - Validator 66020679-72dc-4c9f-a903-c0a5ef8a7ffe merged with server 10 at distance 65.21 km.
+2024-10-06 14:56:38,511 - Validator 56f8e34c-7dbd-4948-848c-c891f6d1a386 merged with server 129 at distance 4.16 km.
+2024-10-06 14:56:38,528 - Validator fe4b2733-83fe-4104-9633-56a53aa6d40d merged with server 149 at distance 1.49 km.
+2024-10-06 14:56:38,545 - Validator 82dbfda3-f311-407c-bb8b-532ea8da7568 merged with server 149 at distance 22.06 km.
+2024-10-06 14:56:38,562 - Validator f967e38c-dc83-4d27-98f0-a6a6bf34ae01 merged with server 129 at distance 44.50 km.
+2024-10-06 14:56:38,579 - Validator d82d912f-2b40-4819-aa6b-2945b1484aba merged with server 45 at distance 15.93 km.
+2024-10-06 14:56:38,596 - Validator 388a4635-bad3-4502-a2f3-9542a8104a07 merged with server 45 at distance 86.60 km.
+2024-10-06 14:56:38,613 - Validator dab100c3-0ea4-4ec3-99d6-93ad322e5f33 merged with server 48 at distance 1.69 km.
+2024-10-06 14:56:38,630 - Validator a71b269c-608a-427b-b441-623885bc8bdf merged with server 10 at distance 197.23 km.
+2024-10-06 14:56:38,647 - Validator b8abf52d-3da1-4d3f-a954-4b25c2015544 merged with server 149 at distance 169.45 km.
+2024-10-06 14:56:38,665 - Validator c9ac72e2-8616-49c1-ae1f-a908a78f8393 merged with server 53 at distance 2137.23 km.
+2024-10-06 14:56:38,681 - Validator 9eaf07f4-980d-46b0-8658-2fee3bd2dfe4 merged with server 45 at distance 151.27 km.
+2024-10-06 14:56:38,698 - Validator acb18979-2f7d-4b88-acea-821ecef7fed1 merged with server 149 at distance 227.37 km.
+2024-10-06 14:56:38,715 - Validator 30f16321-0751-41e9-b7d5-69bce1cb764e merged with server 103 at distance 983.22 km.
+2024-10-06 14:56:38,732 - Validator 611d3ef9-2c0c-4b31-aa76-922bcb47589c merged with server 129 at distance 388.32 km.
+2024-10-06 14:56:38,751 - Validator e28dc74a-97ea-4a16-a603-5f121b652de6 merged with server 76 at distance 1.86 km.
+2024-10-06 14:56:38,768 - Validator 6d9bfee0-3d4d-43c3-a978-7dd154a7026b merged with server 45 at distance 612.27 km.
+2024-10-06 14:56:38,785 - Validator 76715d84-30e2-4f2a-bd4e-c91d3e8d8df6 merged with server 45 at distance 796.50 km.
+2024-10-06 14:56:38,786 - Max distance: 2460.24 km, Min distance: 0.00 km, Average distance: 134.13 km
+2024-10-06 14:56:38,789 - Number of validators after initial merge: 217
+2024-10-06 14:56:38,789 - Number of validators is greater than 64. Starting second round of merging.
+2024-10-06 14:56:40,761 - Merged validators at index 5 and 204, with distance 4.73 km.
+2024-10-06 14:56:40,761 - New validator count after merge: 216
+2024-10-06 14:56:42,701 - Merged validators at index 106 and 151, with distance 9.15 km.
+2024-10-06 14:56:42,701 - New validator count after merge: 215
+2024-10-06 14:56:44,582 - Merged validators at index 6 and 181, with distance 14.38 km.
+2024-10-06 14:56:44,582 - New validator count after merge: 214
+2024-10-06 14:56:46,429 - Merged validators at index 22 and 29, with distance 21.74 km.
+2024-10-06 14:56:46,430 - New validator count after merge: 213
+2024-10-06 14:56:48,273 - Merged validators at index 12 and 105, with distance 27.11 km.
+2024-10-06 14:56:48,273 - New validator count after merge: 212
+2024-10-06 14:56:50,192 - Merged validators at index 67 and 180, with distance 29.16 km.
+2024-10-06 14:56:50,192 - New validator count after merge: 211
+2024-10-06 14:56:52,085 - Merged validators at index 177 and 178, with distance 33.25 km.
+2024-10-06 14:56:52,085 - New validator count after merge: 210
+2024-10-06 14:56:53,921 - Merged validators at index 171 and 200, with distance 41.26 km.
+2024-10-06 14:56:53,922 - New validator count after merge: 209
+2024-10-06 14:56:55,684 - Merged validators at index 160 and 184, with distance 41.50 km.
+2024-10-06 14:56:55,684 - New validator count after merge: 208
+2024-10-06 14:56:57,431 - Merged validators at index 81 and 202, with distance 46.86 km.
+2024-10-06 14:56:57,431 - New validator count after merge: 207
+2024-10-06 14:56:59,162 - Merged validators at index 6 and 177, with distance 48.33 km.
+2024-10-06 14:56:59,162 - New validator count after merge: 206
+2024-10-06 14:57:00,870 - Merged validators at index 13 and 124, with distance 49.14 km.
+2024-10-06 14:57:00,870 - New validator count after merge: 205
+2024-10-06 14:57:02,566 - Merged validators at index 10 and 135, with distance 51.94 km.
+2024-10-06 14:57:02,566 - New validator count after merge: 204
+2024-10-06 14:57:04,244 - Merged validators at index 138 and 155, with distance 54.31 km.
+2024-10-06 14:57:04,244 - New validator count after merge: 203
+2024-10-06 14:57:05,904 - Merged validators at index 19 and 128, with distance 55.29 km.
+2024-10-06 14:57:05,904 - New validator count after merge: 202
+2024-10-06 14:57:07,546 - Merged validators at index 40 and 51, with distance 58.70 km.
+2024-10-06 14:57:07,546 - New validator count after merge: 201
+2024-10-06 14:57:09,174 - Merged validators at index 22 and 92, with distance 62.15 km.
+2024-10-06 14:57:09,174 - New validator count after merge: 200
+2024-10-06 14:57:10,780 - Merged validators at index 26 and 167, with distance 62.47 km.
+2024-10-06 14:57:10,781 - New validator count after merge: 199
+2024-10-06 14:57:12,373 - Merged validators at index 84 and 197, with distance 68.66 km.
+2024-10-06 14:57:12,373 - New validator count after merge: 198
+2024-10-06 14:57:13,951 - Merged validators at index 181 and 183, with distance 68.83 km.
+2024-10-06 14:57:13,951 - New validator count after merge: 197
+2024-10-06 14:57:15,509 - Merged validators at index 12 and 114, with distance 71.51 km.
+2024-10-06 14:57:15,509 - New validator count after merge: 196
+2024-10-06 14:57:17,050 - Merged validators at index 18 and 193, with distance 72.66 km.
+2024-10-06 14:57:17,050 - New validator count after merge: 195
+2024-10-06 14:57:18,581 - Merged validators at index 6 and 157, with distance 73.27 km.
+2024-10-06 14:57:18,581 - New validator count after merge: 194
+2024-10-06 14:57:20,093 - Merged validators at index 15 and 38, with distance 75.13 km.
+2024-10-06 14:57:20,093 - New validator count after merge: 193
+2024-10-06 14:57:21,587 - Merged validators at index 74 and 115, with distance 85.99 km.
+2024-10-06 14:57:21,587 - New validator count after merge: 192
+2024-10-06 14:57:23,073 - Merged validators at index 24 and 41, with distance 86.63 km.
+2024-10-06 14:57:23,073 - New validator count after merge: 191
+2024-10-06 14:57:24,537 - Merged validators at index 39 and 160, with distance 88.34 km.
+2024-10-06 14:57:24,537 - New validator count after merge: 190
+2024-10-06 14:57:25,983 - Merged validators at index 166 and 170, with distance 90.33 km.
+2024-10-06 14:57:25,983 - New validator count after merge: 189
+2024-10-06 14:57:27,413 - Merged validators at index 2 and 87, with distance 94.77 km.
+2024-10-06 14:57:27,413 - New validator count after merge: 188
+2024-10-06 14:57:28,833 - Merged validators at index 33 and 173, with distance 95.03 km.
+2024-10-06 14:57:28,833 - New validator count after merge: 187
+2024-10-06 14:57:30,236 - Merged validators at index 63 and 105, with distance 98.65 km.
+2024-10-06 14:57:30,236 - New validator count after merge: 186
+2024-10-06 14:57:31,624 - Merged validators at index 15 and 181, with distance 102.91 km.
+2024-10-06 14:57:31,624 - New validator count after merge: 185
+2024-10-06 14:57:33,007 - Merged validators at index 10 and 126, with distance 107.35 km.
+2024-10-06 14:57:33,007 - New validator count after merge: 184
+2024-10-06 14:57:34,374 - Merged validators at index 124 and 163, with distance 107.82 km.
+2024-10-06 14:57:34,374 - New validator count after merge: 183
+2024-10-06 14:57:35,724 - Merged validators at index 19 and 152, with distance 111.68 km.
+2024-10-06 14:57:35,724 - New validator count after merge: 182
+2024-10-06 14:57:37,065 - Merged validators at index 128 and 172, with distance 114.51 km.
+2024-10-06 14:57:37,065 - New validator count after merge: 181
+2024-10-06 14:57:38,389 - Merged validators at index 46 and 117, with distance 116.39 km.
+2024-10-06 14:57:38,389 - New validator count after merge: 180
+2024-10-06 14:57:39,695 - Merged validators at index 27 and 121, with distance 117.43 km.
+2024-10-06 14:57:39,695 - New validator count after merge: 179
+2024-10-06 14:57:40,989 - Merged validators at index 21 and 89, with distance 117.88 km.
+2024-10-06 14:57:40,989 - New validator count after merge: 178
+2024-10-06 14:57:42,268 - Merged validators at index 106 and 107, with distance 123.13 km.
+2024-10-06 14:57:42,268 - New validator count after merge: 177
+2024-10-06 14:57:43,532 - Merged validators at index 80 and 87, with distance 124.52 km.
+2024-10-06 14:57:43,532 - New validator count after merge: 176
+2024-10-06 14:57:44,780 - Merged validators at index 12 and 163, with distance 128.07 km.
+2024-10-06 14:57:44,780 - New validator count after merge: 175
+2024-10-06 14:57:46,012 - Merged validators at index 69 and 82, with distance 128.97 km.
+2024-10-06 14:57:46,012 - New validator count after merge: 174
+2024-10-06 14:57:47,232 - Merged validators at index 3 and 151, with distance 131.32 km.
+2024-10-06 14:57:47,232 - New validator count after merge: 173
+2024-10-06 14:57:48,437 - Merged validators at index 94 and 102, with distance 132.10 km.
+2024-10-06 14:57:48,437 - New validator count after merge: 172
+2024-10-06 14:57:49,625 - Merged validators at index 27 and 53, with distance 133.47 km.
+2024-10-06 14:57:49,625 - New validator count after merge: 171
+2024-10-06 14:57:50,800 - Merged validators at index 117 and 119, with distance 134.54 km.
+2024-10-06 14:57:50,800 - New validator count after merge: 170
+2024-10-06 14:57:51,960 - Merged validators at index 22 and 82, with distance 142.14 km.
+2024-10-06 14:57:51,960 - New validator count after merge: 169
+2024-10-06 14:57:53,106 - Merged validators at index 33 and 133, with distance 146.21 km.
+2024-10-06 14:57:53,106 - New validator count after merge: 168
+2024-10-06 14:57:54,239 - Merged validators at index 117 and 167, with distance 146.47 km.
+2024-10-06 14:57:54,239 - New validator count after merge: 167
+2024-10-06 14:57:55,357 - Merged validators at index 78 and 133, with distance 148.21 km.
+2024-10-06 14:57:55,357 - New validator count after merge: 166
+2024-10-06 14:57:56,464 - Merged validators at index 117 and 144, with distance 150.67 km.
+2024-10-06 14:57:56,464 - New validator count after merge: 165
+2024-10-06 14:57:57,555 - Merged validators at index 12 and 59, with distance 154.79 km.
+2024-10-06 14:57:57,556 - New validator count after merge: 164
+2024-10-06 14:57:58,639 - Merged validators at index 6 and 39, with distance 157.43 km.
+2024-10-06 14:57:58,639 - New validator count after merge: 163
+2024-10-06 14:57:59,728 - Merged validators at index 70 and 104, with distance 158.05 km.
+2024-10-06 14:57:59,729 - New validator count after merge: 162
+2024-10-06 14:58:00,786 - Merged validators at index 27 and 138, with distance 159.34 km.
+2024-10-06 14:58:00,787 - New validator count after merge: 161
+2024-10-06 14:58:01,835 - Merged validators at index 103 and 147, with distance 159.61 km.
+2024-10-06 14:58:01,835 - New validator count after merge: 160
+2024-10-06 14:58:02,872 - Merged validators at index 67 and 90, with distance 160.83 km.
+2024-10-06 14:58:02,872 - New validator count after merge: 159
+2024-10-06 14:58:03,894 - Merged validators at index 69 and 102, with distance 161.76 km.
+2024-10-06 14:58:03,894 - New validator count after merge: 158
+2024-10-06 14:58:04,902 - Merged validators at index 6 and 134, with distance 162.13 km.
+2024-10-06 14:58:04,902 - New validator count after merge: 157
+2024-10-06 14:58:05,896 - Merged validators at index 73 and 125, with distance 165.53 km.
+2024-10-06 14:58:05,896 - New validator count after merge: 156
+2024-10-06 14:58:06,878 - Merged validators at index 46 and 153, with distance 167.81 km.
+2024-10-06 14:58:06,878 - New validator count after merge: 155
+2024-10-06 14:58:07,847 - Merged validators at index 66 and 76, with distance 172.72 km.
+2024-10-06 14:58:07,847 - New validator count after merge: 154
+2024-10-06 14:58:08,839 - Merged validators at index 52 and 109, with distance 178.80 km.
+2024-10-06 14:58:08,839 - New validator count after merge: 153
+2024-10-06 14:58:09,784 - Merged validators at index 35 and 62, with distance 179.45 km.
+2024-10-06 14:58:09,784 - New validator count after merge: 152
+2024-10-06 14:58:10,716 - Merged validators at index 124 and 125, with distance 182.24 km.
+2024-10-06 14:58:10,716 - New validator count after merge: 151
+2024-10-06 14:58:11,636 - Merged validators at index 12 and 87, with distance 185.37 km.
+2024-10-06 14:58:11,636 - New validator count after merge: 150
+2024-10-06 14:58:12,544 - Merged validators at index 95 and 117, with distance 186.97 km.
+2024-10-06 14:58:12,544 - New validator count after merge: 149
+2024-10-06 14:58:13,442 - Merged validators at index 28 and 108, with distance 188.07 km.
+2024-10-06 14:58:13,442 - New validator count after merge: 148
+2024-10-06 14:58:14,327 - Merged validators at index 28 and 52, with distance 190.58 km.
+2024-10-06 14:58:14,327 - New validator count after merge: 147
+2024-10-06 14:58:15,200 - Merged validators at index 23 and 47, with distance 191.34 km.
+2024-10-06 14:58:15,200 - New validator count after merge: 146
+2024-10-06 14:58:16,060 - Merged validators at index 13 and 117, with distance 194.20 km.
+2024-10-06 14:58:16,061 - New validator count after merge: 145
+2024-10-06 14:58:16,906 - Merged validators at index 64 and 107, with distance 195.20 km.
+2024-10-06 14:58:16,906 - New validator count after merge: 144
+2024-10-06 14:58:17,740 - Merged validators at index 55 and 56, with distance 197.83 km.
+2024-10-06 14:58:17,740 - New validator count after merge: 143
+2024-10-06 14:58:18,563 - Merged validators at index 100 and 133, with distance 197.93 km.
+2024-10-06 14:58:18,563 - New validator count after merge: 142
+2024-10-06 14:58:19,381 - Merged validators at index 60 and 72, with distance 200.63 km.
+2024-10-06 14:58:19,381 - New validator count after merge: 141
+2024-10-06 14:58:20,186 - Merged validators at index 60 and 133, with distance 201.30 km.
+2024-10-06 14:58:20,186 - New validator count after merge: 140
+2024-10-06 14:58:21,002 - Merged validators at index 10 and 116, with distance 213.69 km.
+2024-10-06 14:58:21,003 - New validator count after merge: 139
+2024-10-06 14:58:21,785 - Merged validators at index 81 and 98, with distance 214.34 km.
+2024-10-06 14:58:21,785 - New validator count after merge: 138
+2024-10-06 14:58:22,556 - Merged validators at index 19 and 41, with distance 215.29 km.
+2024-10-06 14:58:22,556 - New validator count after merge: 137
+2024-10-06 14:58:23,314 - Merged validators at index 26 and 33, with distance 217.64 km.
+2024-10-06 14:58:23,314 - New validator count after merge: 136
+2024-10-06 14:58:24,063 - Merged validators at index 42 and 105, with distance 223.50 km.
+2024-10-06 14:58:24,063 - New validator count after merge: 135
+2024-10-06 14:58:24,800 - Merged validators at index 12 and 96, with distance 224.54 km.
+2024-10-06 14:58:24,800 - New validator count after merge: 134
+2024-10-06 14:58:25,527 - Merged validators at index 25 and 102, with distance 228.49 km.
+2024-10-06 14:58:25,527 - New validator count after merge: 133
+2024-10-06 14:58:26,243 - Merged validators at index 85 and 99, with distance 230.53 km.
+2024-10-06 14:58:26,243 - New validator count after merge: 132
+2024-10-06 14:58:26,946 - Merged validators at index 44 and 129, with distance 232.21 km.
+2024-10-06 14:58:26,946 - New validator count after merge: 131
+2024-10-06 14:58:27,637 - Merged validators at index 23 and 65, with distance 233.37 km.
+2024-10-06 14:58:27,637 - New validator count after merge: 130
+2024-10-06 14:58:28,350 - Merged validators at index 41 and 114, with distance 247.11 km.
+2024-10-06 14:58:28,350 - New validator count after merge: 129
+2024-10-06 14:58:29,024 - Merged validators at index 3 and 19, with distance 252.61 km.
+2024-10-06 14:58:29,024 - New validator count after merge: 128
+2024-10-06 14:58:29,687 - Merged validators at index 25 and 97, with distance 253.74 km.
+2024-10-06 14:58:29,687 - New validator count after merge: 127
+2024-10-06 14:58:30,338 - Merged validators at index 10 and 59, with distance 262.10 km.
+2024-10-06 14:58:30,338 - New validator count after merge: 126
+2024-10-06 14:58:30,981 - Merged validators at index 61 and 103, with distance 262.76 km.
+2024-10-06 14:58:30,981 - New validator count after merge: 125
+2024-10-06 14:58:31,613 - Merged validators at index 44 and 123, with distance 262.92 km.
+2024-10-06 14:58:31,613 - New validator count after merge: 124
+2024-10-06 14:58:32,234 - Merged validators at index 61 and 62, with distance 263.27 km.
+2024-10-06 14:58:32,234 - New validator count after merge: 123
+2024-10-06 14:58:32,845 - Merged validators at index 81 and 104, with distance 270.14 km.
+2024-10-06 14:58:32,845 - New validator count after merge: 122
+2024-10-06 14:58:33,450 - Merged validators at index 12 and 13, with distance 281.96 km.
+2024-10-06 14:58:33,450 - New validator count after merge: 121
+2024-10-06 14:58:34,042 - Merged validators at index 28 and 106, with distance 284.22 km.
+2024-10-06 14:58:34,042 - New validator count after merge: 120
+2024-10-06 14:58:34,626 - Merged validators at index 23 and 105, with distance 287.45 km.
+2024-10-06 14:58:34,626 - New validator count after merge: 119
+2024-10-06 14:58:35,202 - Merged validators at index 19 and 74, with distance 295.97 km.
+2024-10-06 14:58:35,203 - New validator count after merge: 118
+2024-10-06 14:58:35,769 - Merged validators at index 19 and 70, with distance 298.06 km.
+2024-10-06 14:58:35,769 - New validator count after merge: 117
+2024-10-06 14:58:36,325 - Merged validators at index 45 and 67, with distance 300.80 km.
+2024-10-06 14:58:36,325 - New validator count after merge: 116
+2024-10-06 14:58:36,872 - Merged validators at index 27 and 31, with distance 301.67 km.
+2024-10-06 14:58:36,872 - New validator count after merge: 115
+2024-10-06 14:58:37,408 - Merged validators at index 15 and 44, with distance 302.54 km.
+2024-10-06 14:58:37,408 - New validator count after merge: 114
+2024-10-06 14:58:37,935 - Merged validators at index 89 and 104, with distance 303.05 km.
+2024-10-06 14:58:37,935 - New validator count after merge: 113
+2024-10-06 14:58:38,452 - Merged validators at index 37 and 80, with distance 304.08 km.
+2024-10-06 14:58:38,452 - New validator count after merge: 112
+2024-10-06 14:58:38,963 - Merged validators at index 44 and 82, with distance 304.22 km.
+2024-10-06 14:58:38,964 - New validator count after merge: 111
+2024-10-06 14:58:39,464 - Merged validators at index 98 and 102, with distance 304.36 km.
+2024-10-06 14:58:39,464 - New validator count after merge: 110
+2024-10-06 14:58:39,955 - Merged validators at index 33 and 40, with distance 305.56 km.
+2024-10-06 14:58:39,955 - New validator count after merge: 109
+2024-10-06 14:58:40,437 - Merged validators at index 74 and 97, with distance 306.11 km.
+2024-10-06 14:58:40,437 - New validator count after merge: 108
+2024-10-06 14:58:40,911 - Merged validators at index 11 and 76, with distance 306.93 km.
+2024-10-06 14:58:40,911 - New validator count after merge: 107
+2024-10-06 14:58:41,376 - Merged validators at index 24 and 92, with distance 307.14 km.
+2024-10-06 14:58:41,376 - New validator count after merge: 106
+2024-10-06 14:58:41,832 - Merged validators at index 22 and 83, with distance 317.44 km.
+2024-10-06 14:58:41,832 - New validator count after merge: 105
+2024-10-06 14:58:42,279 - Merged validators at index 61 and 91, with distance 334.25 km.
+2024-10-06 14:58:42,279 - New validator count after merge: 104
+2024-10-06 14:58:42,719 - Merged validators at index 6 and 10, with distance 341.96 km.
+2024-10-06 14:58:42,719 - New validator count after merge: 103
+2024-10-06 14:58:43,149 - Merged validators at index 46 and 91, with distance 351.13 km.
+2024-10-06 14:58:43,149 - New validator count after merge: 102
+2024-10-06 14:58:43,572 - Merged validators at index 30 and 55, with distance 360.63 km.
+2024-10-06 14:58:43,572 - New validator count after merge: 101
+2024-10-06 14:58:43,986 - Merged validators at index 47 and 65, with distance 361.26 km.
+2024-10-06 14:58:43,986 - New validator count after merge: 100
+2024-10-06 14:58:44,392 - Merged validators at index 10 and 32, with distance 361.82 km.
+2024-10-06 14:58:44,392 - New validator count after merge: 99
+2024-10-06 14:58:44,790 - Merged validators at index 15 and 53, with distance 364.52 km.
+2024-10-06 14:58:44,790 - New validator count after merge: 98
+2024-10-06 14:58:45,180 - Merged validators at index 6 and 25, with distance 369.34 km.
+2024-10-06 14:58:45,180 - New validator count after merge: 97
+2024-10-06 14:58:45,563 - Merged validators at index 11 and 13, with distance 374.58 km.
+2024-10-06 14:58:45,563 - New validator count after merge: 96
+2024-10-06 14:58:45,938 - Merged validators at index 9 and 20, with distance 378.93 km.
+2024-10-06 14:58:45,938 - New validator count after merge: 95
+2024-10-06 14:58:46,305 - Merged validators at index 36 and 55, with distance 383.52 km.
+2024-10-06 14:58:46,305 - New validator count after merge: 94
+2024-10-06 14:58:46,664 - Merged validators at index 5 and 66, with distance 403.58 km.
+2024-10-06 14:58:46,664 - New validator count after merge: 93
+2024-10-06 14:58:47,016 - Merged validators at index 4 and 6, with distance 415.87 km.
+2024-10-06 14:58:47,016 - New validator count after merge: 92
+2024-10-06 14:58:47,361 - Merged validators at index 20 and 21, with distance 418.74 km.
+2024-10-06 14:58:47,361 - New validator count after merge: 91
+2024-10-06 14:58:47,698 - Merged validators at index 22 and 65, with distance 438.90 km.
+2024-10-06 14:58:47,698 - New validator count after merge: 90
+2024-10-06 14:58:48,027 - Merged validators at index 16 and 48, with distance 444.40 km.
+2024-10-06 14:58:48,027 - New validator count after merge: 89
+2024-10-06 14:58:48,349 - Merged validators at index 40 and 41, with distance 445.38 km.
+2024-10-06 14:58:48,349 - New validator count after merge: 88
+2024-10-06 14:58:48,664 - Merged validators at index 13 and 45, with distance 458.39 km.
+2024-10-06 14:58:48,664 - New validator count after merge: 87
+2024-10-06 14:58:48,975 - Merged validators at index 18 and 68, with distance 494.59 km.
+2024-10-06 14:58:48,975 - New validator count after merge: 86
+2024-10-06 14:58:49,325 - Merged validators at index 53 and 68, with distance 495.81 km.
+2024-10-06 14:58:49,325 - New validator count after merge: 85
+2024-10-06 14:58:49,624 - Merged validators at index 17 and 25, with distance 496.94 km.
+2024-10-06 14:58:49,624 - New validator count after merge: 84
+2024-10-06 14:58:49,917 - Merged validators at index 2 and 32, with distance 508.30 km.
+2024-10-06 14:58:49,917 - New validator count after merge: 83
+2024-10-06 14:58:50,198 - Merged validators at index 38 and 58, with distance 513.85 km.
+2024-10-06 14:58:50,199 - New validator count after merge: 82
+2024-10-06 14:58:50,489 - Merged validators at index 42 and 50, with distance 518.84 km.
+2024-10-06 14:58:50,489 - New validator count after merge: 81
+2024-10-06 14:58:50,796 - Merged validators at index 3 and 22, with distance 519.21 km.
+2024-10-06 14:58:50,796 - New validator count after merge: 80
+2024-10-06 14:58:51,069 - Merged validators at index 12 and 75, with distance 519.93 km.
+2024-10-06 14:58:51,069 - New validator count after merge: 79
+2024-10-06 14:58:51,327 - Merged validators at index 8 and 19, with distance 523.46 km.
+2024-10-06 14:58:51,327 - New validator count after merge: 78
+2024-10-06 14:58:51,577 - Merged validators at index 46 and 57, with distance 531.72 km.
+2024-10-06 14:58:51,577 - New validator count after merge: 77
+2024-10-06 14:58:51,820 - Merged validators at index 38 and 58, with distance 533.44 km.
+2024-10-06 14:58:51,820 - New validator count after merge: 76
+2024-10-06 14:58:52,057 - Merged validators at index 13 and 69, with distance 542.82 km.
+2024-10-06 14:58:52,057 - New validator count after merge: 75
+2024-10-06 14:58:52,287 - Merged validators at index 2 and 10, with distance 575.33 km.
+2024-10-06 14:58:52,287 - New validator count after merge: 74
+2024-10-06 14:58:52,511 - Merged validators at index 42 and 46, with distance 593.59 km.
+2024-10-06 14:58:52,511 - New validator count after merge: 73
+2024-10-06 14:58:52,730 - Merged validators at index 37 and 43, with distance 597.50 km.
+2024-10-06 14:58:52,730 - New validator count after merge: 72
+2024-10-06 14:58:52,942 - Merged validators at index 24 and 32, with distance 638.35 km.
+2024-10-06 14:58:52,942 - New validator count after merge: 71
+2024-10-06 14:58:53,149 - Merged validators at index 4 and 18, with distance 642.26 km.
+2024-10-06 14:58:53,149 - New validator count after merge: 70
+2024-10-06 14:58:53,349 - Merged validators at index 1 and 44, with distance 654.20 km.
+2024-10-06 14:58:53,349 - New validator count after merge: 69
+2024-10-06 14:58:53,544 - Merged validators at index 15 and 28, with distance 661.86 km.
+2024-10-06 14:58:53,544 - New validator count after merge: 68
+2024-10-06 14:58:53,733 - Merged validators at index 15 and 41, with distance 666.96 km.
+2024-10-06 14:58:53,733 - New validator count after merge: 67
+2024-10-06 14:58:53,917 - Merged validators at index 12 and 49, with distance 680.23 km.
+2024-10-06 14:58:53,917 - New validator count after merge: 66
+2024-10-06 14:58:54,095 - Merged validators at index 36 and 57, with distance 701.24 km.
+2024-10-06 14:58:54,095 - New validator count after merge: 65
+2024-10-06 14:58:54,269 - Merged validators at index 2 and 15, with distance 703.68 km.
+2024-10-06 14:58:54,269 - New validator count after merge: 64
+2024-10-06 14:58:54,271 - Merging and aggregation complete. Output saved to 'merged_validators_final.csv'.

@@ -1,0 +1,1358 @@
+2024-10-06 21:43:44,218 - Validator 16Uiu2HAm5LUdtgrxva73hcYUAFHoWma37jDbseC5ydSwmESgMGHF merged with server 59 at distance 0.00 km.
+2024-10-06 21:43:44,236 - Validator 16Uiu2HAmBBYEyeNEUQp3w6HgnZeJ5sM41kWR9NgxpHVxwKDGxJb1 merged with server 1 at distance 441.35 km.
+2024-10-06 21:43:44,255 - Validator 16Uiu2HAmRirP7xhj866fCLjq5Ua368Xbrq18gMkxoudUi9Xsg8d8 merged with server 139 at distance 2.49 km.
+2024-10-06 21:43:44,273 - Validator 16Uiu2HAm1n2nDmyXCkRhagrogo1mdYsBGTdNTBpKn2DtB4nubfCs merged with server 139 at distance 249.52 km.
+2024-10-06 21:43:44,292 - Validator 16Uiu2HAkwu92vD2snS3V2X8AVMvGogq15JZ2XHfDmDYiwxVt6rej merged with server 1 at distance 51.83 km.
+2024-10-06 21:43:44,310 - Validator 16Uiu2HAm2hNEUP5TLJTS4uVxmLmedJUxZx9W9cE7kLyasSa1vstM merged with server 8 at distance 131.33 km.
+2024-10-06 21:43:44,329 - Validator 16Uiu2HAm3GBPNt1poXHhAP3PMFD4rFxF9Reu3xDRC7xKirw4iwvD merged with server 1 at distance 3.47 km.
+2024-10-06 21:43:44,347 - Validator 16Uiu2HAmQNzSqyYd7vJ4eNTk1nGTZqNCxcHBNYbZAyPSAbVQVyar merged with server 8 at distance 22.74 km.
+2024-10-06 21:43:44,366 - Validator 16Uiu2HAmLKEvM6Ueq5QmFKipQxKV3CoZMDXKjLX2VhspNzkNouZR merged with server 1 at distance 124.11 km.
+2024-10-06 21:43:44,384 - Validator 16Uiu2HAkvv2yGBHRLUUvE9gCSsjjq3E66HmLWzTD6KVushiWSFfB merged with server 8 at distance 6.99 km.
+2024-10-06 21:43:44,403 - Validator 16Uiu2HAmSYJUCVeDPNMKajzypcFbYYdosbL5auB2sXcpf8M9bUjF merged with server 1 at distance 158.28 km.
+2024-10-06 21:43:44,421 - Validator 16Uiu2HAm34VRghX2vKAXAVp9hUjcKw9EofWJSvFd8fciXQ5zrHgc merged with server 218 at distance 2.37 km.
+2024-10-06 21:43:44,439 - Validator 16Uiu2HAmUETcb5oPdes57ib6N9KEJRdpsw4KyM3JQipnu5cDpEXZ merged with server 167 at distance 30.17 km.
+2024-10-06 21:43:44,457 - Validator 16Uiu2HAmH1zrBcU6FXqUZaVpnLSKDs7jAbuw4dk2q5EXCPMKjVNX merged with server 105 at distance 4.00 km.
+2024-10-06 21:43:44,475 - Validator 16Uiu2HAmH97Lu4ZFdwqP9mtdTgRbWbPCSTaKFHcx26ytCyVEz5xh merged with server 50 at distance 22.69 km.
+2024-10-06 21:43:44,493 - Validator 16Uiu2HAkxBGKCQRBgrBRyicYxq76bYoDQjTnLYt3VT3QJiDAG2BK merged with server 107 at distance 65.49 km.
+2024-10-06 21:43:44,511 - Validator 16Uiu2HAmUSidL6v2NkBSBtps8vveq7TgSMK49d9v4ExnbdrYZnWN merged with server 107 at distance 28.76 km.
+2024-10-06 21:43:44,529 - Validator 16Uiu2HAmSBKvogBetighaZvHoLSvmgVDA6ggqwcB2TsH7UFvqvRa merged with server 107 at distance 3.61 km.
+2024-10-06 21:43:44,547 - Validator 16Uiu2HAmFGx3szNo9mdBXfH5HfcKcUk6HkcSzptFFengp2YV8MTY merged with server 70 at distance 101.87 km.
+2024-10-06 21:43:44,565 - Validator 16Uiu2HAm4SPjD3mULWmfwNUYriwNLTVrxH5VudKwsC62NWXmkGDg merged with server 50 at distance 279.18 km.
+2024-10-06 21:43:44,583 - Validator 16Uiu2HAmTYnnJjKZcuC4uPA1NBKdzzdUYLLdTKnst1gGzd9DYTaf merged with server 169 at distance 6.57 km.
+2024-10-06 21:43:44,601 - Validator 16Uiu2HAkzHCLqLgyo1WRWNpmtL7cLvWiYb5Devw95HqXnAN3KvWt merged with server 175 at distance 479.43 km.
+2024-10-06 21:43:44,619 - Validator 16Uiu2HAm47RhBSZuLcRsTnzGeeYmRsP4wKkKhtHsy9ZeS7AJwkf4 merged with server 21 at distance 69.28 km.
+2024-10-06 21:43:44,637 - Validator 16Uiu2HAmLi8oDnYzBGWppmR34QdmjhmXke7CevGdMe9yhLqMnagy merged with server 125 at distance 486.27 km.
+2024-10-06 21:43:44,655 - Validator 16Uiu2HAm4VT5gWbihyUJK4s4fTvQRkRV5c8PfF7K7Ah19rrcrmqn merged with server 21 at distance 19.79 km.
+2024-10-06 21:43:44,673 - Validator 16Uiu2HAm8tB1FiarP7zpVg1s6XvnqtRXNhKb6qVTiuS9HwJStNVm merged with server 175 at distance 4.58 km.
+2024-10-06 21:43:44,691 - Validator 16Uiu2HAmV3eCWRupBwXDCHt2fVVu4Z6LEKnkf6oG4st4cd8jJ3h9 merged with server 50 at distance 1034.08 km.
+2024-10-06 21:43:44,709 - Validator 16Uiu2HAm6SCbi2Wv7fDHAFUeiGxu9v5wbCKnWPB87oSwbeCzSGgd merged with server 125 at distance 27.79 km.
+2024-10-06 21:43:44,727 - Validator 16Uiu2HAkwX9C57toWBfDvUcmnVqRNUD6D98NrCNnCMbsdqtBRu3e merged with server 125 at distance 6.50 km.
+2024-10-06 21:43:44,745 - Validator 16Uiu2HAmTdtbzt86YWdddq2j2CcGAQVLX4fCVmKQb6P4LkvLP8zw merged with server 125 at distance 358.69 km.
+2024-10-06 21:43:44,763 - Validator 16Uiu2HAm7FmuHHb7nddRbXU5KXjJ3Ukh4UqHdUzn37MNEGTu3Q2C merged with server 125 at distance 250.43 km.
+2024-10-06 21:43:44,781 - Validator 16Uiu2HAmMEgxzCkiJ6BfmoKxkzYVK3kZYgiQQzwiNEWzjrEgdQ2s merged with server 115 at distance 2350.61 km.
+2024-10-06 21:43:44,799 - Validator 16Uiu2HAmMHLYAmXWYyDhrCJANJY71WwSgZzNgPNT3s7oJnJmqLZ5 merged with server 238 at distance 2.01 km.
+2024-10-06 21:43:44,818 - Validator 16Uiu2HAmBK8ZsRzoxjg1AZkqxFcpUgXZXhoiVcaAGvVjhHKuUUC7 merged with server 21 at distance 1552.75 km.
+2024-10-06 21:43:44,836 - Validator 16Uiu2HAmHjvoJ9RjeQPn7u5WnQrkMRf4h23KGqr58sMxj5UpsVaf merged with server 57 at distance 978.14 km.
+2024-10-06 21:43:44,853 - Validator 16Uiu2HAmEY7bUYkScmLMerU8VmiU8ns6Jrik76YFUmXi9XcomQA7 merged with server 57 at distance 679.27 km.
+2024-10-06 21:43:44,871 - Validator 16Uiu2HAmGCciFW3L1FfBXyUwHBNcJLU4S7SsfgX2D5TmhoERhnnL merged with server 57 at distance 63.60 km.
+2024-10-06 21:43:44,889 - Validator 16Uiu2HAmTv4j4YD7vm6R5szmgWvRyWvjtnoJtH6XXk67Wbxi6U1H merged with server 57 at distance 9.22 km.
+2024-10-06 21:43:44,907 - Validator 16Uiu2HAm9RNbjedx3o9wvs3vBN3TBwxs9toKpai2HFFUnCZXFii5 merged with server 57 at distance 28.64 km.
+2024-10-06 21:43:44,924 - Validator 16Uiu2HAmK2yRxiwQcqd2LhnB97yh5ZY2a84rdMwqQbrUDFp6HMbv merged with server 31 at distance 40.54 km.
+2024-10-06 21:43:44,942 - Validator 16Uiu2HAm84oTUgkxnCyZCbqC9J6Y7cvPqz3h4mWrWS2ydZ8b7QCZ merged with server 31 at distance 9.24 km.
+2024-10-06 21:43:44,960 - Validator 16Uiu2HAmKbyFENG3NeNxwpGG4jnyavNjvB3bY15nmvXkKqthGZgk merged with server 31 at distance 18.25 km.
+2024-10-06 21:43:44,978 - Validator 16Uiu2HAmRvqRpPuuXzJjXkqL51UY9bXN1DoaNnTTmSsDG7WLN2Gi merged with server 36 at distance 4.12 km.
+2024-10-06 21:43:44,996 - Validator 16Uiu2HAkyhBN77tCjbMLHYUCkFcw1QSJKXUtEtJTMwCUTYTwSSQS merged with server 36 at distance 20.63 km.
+2024-10-06 21:43:45,013 - Validator 16Uiu2HAm4LuS7X43gN43jtbb54ySEdtnfyTrawKZ69AK1p6YnCP4 merged with server 36 at distance 335.52 km.
+2024-10-06 21:43:45,031 - Validator 16Uiu2HAmQr9ZGPyBsQamK2ZiEGhci9ur6Fmbx97RpbPqkaabCD6q merged with server 213 at distance 2.69 km.
+2024-10-06 21:43:45,048 - Validator 16Uiu2HAmTY1B3tRaapHAVmNP6EXYi5ffAnSZutxkGLy6zLQPDBxG merged with server 36 at distance 293.95 km.
+2024-10-06 21:43:45,066 - Validator 16Uiu2HAmEqJrH7CtusjZ3K9G7SB3JtTSr5BSdktiPkaQUEDmNCMt merged with server 36 at distance 640.43 km.
+2024-10-06 21:43:45,084 - Validator 16Uiu2HAmLUffVLCitpFaF8MQ5ze5ZpRCVicVG1SJxePdo6kWTGX1 merged with server 74 at distance 11.21 km.
+2024-10-06 21:43:45,101 - Validator 16Uiu2HAmPqCtaLYYfeqS49Mgu9VmmrcxGwLwAneKjtsQcEVSQLXr merged with server 232 at distance 4.13 km.
+2024-10-06 21:43:45,119 - Validator 16Uiu2HAkyxbsRcuhb9SBgHEK9nPba7fgEdCHg3HPPuRYhJmX1RUe merged with server 232 at distance 20.47 km.
+2024-10-06 21:43:45,137 - Validator 16Uiu2HAm2NPkr3Z2wmhj7scBcun9cphE4bY7X6pDTTnir516xrQH merged with server 209 at distance 5.82 km.
+2024-10-06 21:43:45,154 - Validator 16Uiu2HAkxihwgHAH9U1hsQ5WrXNzSg3V7FsnMAUERz9m9h47DjZZ merged with server 222 at distance 3.20 km.
+2024-10-06 21:43:45,172 - Validator 16Uiu2HAm29JvGzanjg7zmSpiaXjwA9SEZmscQtJRPAxYdrLNBbAY merged with server 232 at distance 384.73 km.
+2024-10-06 21:43:45,190 - Validator 16Uiu2HAmQSTACe2RSdYN7Pfq7SEiyCK9aj21ufdvkKqo8ofPxFdz merged with server 64 at distance 75.75 km.
+2024-10-06 21:43:45,207 - Validator 16Uiu2HAm6XjEtx9gbSS9PEGjkWiodexBUn1jd94e3S524BqT7C8v merged with server 64 at distance 68.02 km.
+2024-10-06 21:43:45,225 - Validator 16Uiu2HAkytRnbCa4eGSrTGd1hWiDKjN29jUwqCAGBUsAhXEAnQag merged with server 64 at distance 5.82 km.
+2024-10-06 21:43:45,242 - Validator 16Uiu2HAmUp67Ka7JeNuXzWd91Ze947VJCDfdeqvznDcfgGwdHiau merged with server 98 at distance 16.74 km.
+2024-10-06 21:43:45,260 - Validator 16Uiu2HAmSG99gMhqr5k93iqiySsUgESp48EL9ZQWVpJQDBRSY1TN merged with server 65 at distance 602.76 km.
+2024-10-06 21:43:45,278 - Validator 16Uiu2HAmUSeeMFC12NpDtJjRWrgbsdCRcvAW7o9wGMtejLtAfxCq merged with server 65 at distance 461.16 km.
+2024-10-06 21:43:45,296 - Validator 16Uiu2HAmBfGK4NzN4BdvqsPX82TjFSCfKidqsyjEJCjXEXpA7ot7 merged with server 168 at distance 47.92 km.
+2024-10-06 21:43:45,314 - Validator 16Uiu2HAmEVKWbta1xcVfcAiHhrnEG4XWhbXABTTWrhfxujXutEwy merged with server 168 at distance 67.12 km.
+2024-10-06 21:43:45,332 - Validator 16Uiu2HAm9RJ75JWLXQiFheG7VdBpHbXtMroHfyDd2t5qhrAZmCAo merged with server 168 at distance 6.56 km.
+2024-10-06 21:43:45,351 - Validator 16Uiu2HAkzZnxpZWgYu9MeTsEGft6is4xQZ4Jm5VEy9b6fifLmz2J merged with server 64 at distance 580.88 km.
+2024-10-06 21:43:45,369 - Validator 16Uiu2HAmBiC4c711cPAoda4K1tZMYCkwuuaBZjuEgZXgX65gCGbH merged with server 33 at distance 109.23 km.
+2024-10-06 21:43:45,387 - Validator 16Uiu2HAm62finbq2z4MZ813TXdw3eoSzHFac4BeyLpw6R4E11AcY merged with server 111 at distance 103.79 km.
+2024-10-06 21:43:45,405 - Validator 16Uiu2HAmL3fP6z9h6g8nGRSbEgrBvKcCnhZ9ith37Qr1VhwH24Q4 merged with server 33 at distance 319.81 km.
+2024-10-06 21:43:45,422 - Validator 16Uiu2HAm8dGTByLgKN57r63HyGxTsDVrYHcMWJtuYxufHRZpUmKY merged with server 33 at distance 5.08 km.
+2024-10-06 21:43:45,440 - Validator 16Uiu2HAmJRFKevwupMMX2BDLbzmvD2su5uAWiAkFmZK9e47aHxmi merged with server 33 at distance 234.60 km.
+2024-10-06 21:43:45,457 - Validator 16Uiu2HAm7p231pGBooNN8xSWQF5VarAeP1tG7j8NysHctrXsGGWn merged with server 177 at distance 9.07 km.
+2024-10-06 21:43:45,475 - Validator 16Uiu2HAkxrYYThLrpgiYrZyjpNr5CzvqBN43qhNyGdKzG19qUgbd merged with server 33 at distance 185.06 km.
+2024-10-06 21:43:45,493 - Validator 16Uiu2HAmPZK4AT6Pwas5Lvkqx4SjvmVvhCRSL6cTwvNqZ6iu7GeD merged with server 151 at distance 167.08 km.
+2024-10-06 21:43:45,511 - Validator 16Uiu2HAmCvCTaLqk3owMNvUg1qXLusaXTuGQ7BBR8vHosTF2SVvm merged with server 151 at distance 143.80 km.
+2024-10-06 21:43:45,528 - Validator 16Uiu2HAkwXpPesgP14qrDwoh3WPmBkDKAH2uC31jWqwUMo2L7WN5 merged with server 65 at distance 4.53 km.
+2024-10-06 21:43:45,546 - Validator 16Uiu2HAm41VGro58KmJq7fCdZX1fwnYHTaac3p3NNobw4UY8x2hf merged with server 33 at distance 240.09 km.
+2024-10-06 21:43:45,564 - Validator 16Uiu2HAm1oDDsQZGW32TUS8WrPw2132y8nYwkPT6kbnpAyXBAr4s merged with server 151 at distance 29.40 km.
+2024-10-06 21:43:45,581 - Validator 16Uiu2HAmNZeN6BDsjEPLMfJpsDajR3Er2yE4qw53YmFtQXcKnFP5 merged with server 151 at distance 8.64 km.
+2024-10-06 21:43:45,599 - Validator 16Uiu2HAmNQQ5CWf9CTXLWJN6suQ88Y81MGK1iakecx7BefXT3uYL merged with server 151 at distance 12.11 km.
+2024-10-06 21:43:45,617 - Validator 16Uiu2HAmMJvRmnwuxow5Cv3EagebiM7kKXJPseB4ZttLJitE95Nq merged with server 148 at distance 293.03 km.
+2024-10-06 21:43:45,635 - Validator 16Uiu2HAkvjMcXuGmsBjJAiN9M5oLb8x86Mgx3zFLxj5LBmMnKRhQ merged with server 221 at distance 68.88 km.
+2024-10-06 21:43:45,653 - Validator 16Uiu2HAmLVaK6qb2X5rwbVF3UwiJBAh8oURCcTWA52PQn2F5XtGD merged with server 72 at distance 3.43 km.
+2024-10-06 21:43:45,671 - Validator 16Uiu2HAmRKMv66v161e71N1UWsR98sz4hdJndTXccVBSv53dAbXm merged with server 95 at distance 297.35 km.
+2024-10-06 21:43:45,689 - Validator 16Uiu2HAmU898AhaURmht2wW8C491y5ZvJkdMwHuTRw4NqhWNeeKW merged with server 95 at distance 262.90 km.
+2024-10-06 21:43:45,707 - Validator 16Uiu2HAm1yDZBPCz9eFtHr3YotfhFEHPft6PhzFiaXi9Rzcbzr5h merged with server 221 at distance 99.28 km.
+2024-10-06 21:43:45,725 - Validator 16Uiu2HAm5PT59vqTr5bjMukeGXYhoiJcDjaf88kwmPzPMWLHeKEL merged with server 95 at distance 133.46 km.
+2024-10-06 21:43:45,743 - Validator 16Uiu2HAmD8JtV7HB3GpdigioNCKyww3LmbfaWKDWXZp3jnFZe7qX merged with server 133 at distance 95.58 km.
+2024-10-06 21:43:45,761 - Validator 16Uiu2HAmMZtSZHL7eWcS6Rpo1sVvMAtZLVkgDDSwyg2MsezL6AEE merged with server 95 at distance 117.10 km.
+2024-10-06 21:43:45,779 - Validator 16Uiu2HAm7AHg5tguCTGzM47VVcAAySJWJi9c3VpunVgRGN8ckpoX merged with server 95 at distance 392.16 km.
+2024-10-06 21:43:45,797 - Validator 16Uiu2HAm6tkdEFELvEa5X23Zw2PaDS4V7Efmty5qu8YvDqD4FKye merged with server 95 at distance 352.22 km.
+2024-10-06 21:43:45,814 - Validator 16Uiu2HAmKb5Ldnfa9gEh3ndoiJQQkBQF9x9UpHpg3HHYgQFvGECM merged with server 116 at distance 7.58 km.
+2024-10-06 21:43:45,832 - Validator 16Uiu2HAmEGZ4xMEmhLFuGqsmaLM55nCKDQQeiRgRJcaB31yGAcbw merged with server 95 at distance 59.75 km.
+2024-10-06 21:43:45,850 - Validator 16Uiu2HAmS4nvT2fR7SEqvPPFitK2zHR5Kx7K6wAWBVyBjf7r3H3F merged with server 95 at distance 23.84 km.
+2024-10-06 21:43:45,868 - Validator 16Uiu2HAmDj7qAUTwRKKUwCkytYP5yDbfgobm5FkHjEA5QNSLnxuY merged with server 95 at distance 4.99 km.
+2024-10-06 21:43:45,886 - Validator 16Uiu2HAm5aSGZpL1Uf6WYPNfkP4ZgBFKswvgZNt6yWG146885wmv merged with server 133 at distance 16.95 km.
+2024-10-06 21:43:45,904 - Validator 16Uiu2HAm3tmsWy7hRUG5tbpdRXZw1sPHfRv9JvDkcT2iMbnwJbms merged with server 51 at distance 449.55 km.
+2024-10-06 21:43:45,921 - Validator 16Uiu2HAmR5w549DoZpPeoMcWa7HfDnFA76AqzZoVaCsubHogjRM8 merged with server 15 at distance 21.32 km.
+2024-10-06 21:43:45,939 - Validator 16Uiu2HAmEH63zHFLNVg2KLBXozWHHTUETaqS3koxMdw7nc8Lmzcx merged with server 15 at distance 3.88 km.
+2024-10-06 21:43:45,956 - Validator 16Uiu2HAm6GbdNcMYaTx2jZsbv2cm1HnEfp6XjZz3VhASjZhDohiD merged with server 51 at distance 402.60 km.
+2024-10-06 21:43:45,974 - Validator 16Uiu2HAm7ShorqbE2KbnGhSCBuv4Dg3GRTcXQxTs1aE9LWYKBvny merged with server 15 at distance 27.90 km.
+2024-10-06 21:43:45,991 - Validator 16Uiu2HAkui2Ahc7HHxmgFCffTJyY2QmvMvPsTghDRFLvsuMbYQdX merged with server 51 at distance 386.66 km.
+2024-10-06 21:43:46,009 - Validator 16Uiu2HAm5EkLYfzzRRAnzivjZrJF6e7DoqjnU33uzp1DXnJLctuz merged with server 15 at distance 38.44 km.
+2024-10-06 21:43:46,026 - Validator 16Uiu2HAmTZUjFKCP8iHZYLeSBSU5d1rj2AP5zgoFpidionfGKkft merged with server 51 at distance 358.43 km.
+2024-10-06 21:43:46,044 - Validator 16Uiu2HAmBAMGFa4J3dsWKmMkaSNWYBtHu4Zr3pWKqJkA6gwcPNDV merged with server 15 at distance 59.27 km.
+2024-10-06 21:43:46,062 - Validator 16Uiu2HAmKtmo31g3Kg8jzwi7p53pvkXNWe1fbGpP4johWcT39Bwj merged with server 95 at distance 644.55 km.
+2024-10-06 21:43:46,079 - Validator 16Uiu2HAkyvEXbZDCqrQeYgNBgeEod6iCQqWwJ9Yvn99ZwVCUaDBk merged with server 15 at distance 82.04 km.
+2024-10-06 21:43:46,097 - Validator 16Uiu2HAkvY73V7S21NcNbZMfAj9NVkWTyLuzMgVnJqrb2SWH5Qa9 merged with server 97 at distance 159.20 km.
+2024-10-06 21:43:46,114 - Validator 16Uiu2HAmNowuiAr5BZnFT7jrrGEUtMZ2DP6e8oSH6bJKZeettDVV merged with server 15 at distance 103.59 km.
+2024-10-06 21:43:46,132 - Validator 16Uiu2HAmLawzCVNYWxAeb8e39WQrwsBuyQ4dvXmVfhLjCdrEaT6m merged with server 95 at distance 275.00 km.
+2024-10-06 21:43:46,150 - Validator 16Uiu2HAmQodumnqqCtvE7NryHmcUvrFGVRXXtciCZ5yNAMREk2Sv merged with server 15 at distance 126.15 km.
+2024-10-06 21:43:46,168 - Validator 16Uiu2HAm6YeY9dhHNTDMVARd2Sbg93L7wCLgFqS1zykQmMd6kKwK merged with server 46 at distance 232.20 km.
+2024-10-06 21:43:46,185 - Validator 16Uiu2HAmJc8tj2imqwpMjAS62BABvUnN2WsrtE1n3jZ21M9ZroBp merged with server 97 at distance 93.97 km.
+2024-10-06 21:43:46,203 - Validator 16Uiu2HAmLvTGbgQib5qefiD2DuUrY7KzwEmcMTKF6nRrhLKKwkEd merged with server 97 at distance 71.83 km.
+2024-10-06 21:43:46,220 - Validator 16Uiu2HAmHfFdceZRZD8oEdd9VH7K971bPRdSKMWdxRJbVyNajQys merged with server 51 at distance 218.96 km.
+2024-10-06 21:43:46,238 - Validator 16Uiu2HAmGTraXktCGyvzJaqwHcGXB7KTtbyAWaSod34Q6wSvDZrE merged with server 148 at distance 675.00 km.
+2024-10-06 21:43:46,255 - Validator 16Uiu2HAmPoUAYfL1uH5jVpjC57VCNcPTVon4pGbDcqT4AicBVDks merged with server 97 at distance 34.01 km.
+2024-10-06 21:43:46,273 - Validator 16Uiu2HAkzETeKuuLATkbLZDCXosHxfdF3D2hYUEXvK4v2ojh9MFB merged with server 97 at distance 16.46 km.
+2024-10-06 21:43:46,291 - Validator 16Uiu2HAmKhHRfjBczqLjCbRUgEpZKPRwGX38GGaRCgbxxQ7K2tfb merged with server 63 at distance 1203.37 km.
+2024-10-06 21:43:46,308 - Validator 16Uiu2HAkvq5WQLLci2mpeoqdRQVD7whMoUo9ayKfjZkFhPybLPZ7 merged with server 89 at distance 82.44 km.
+2024-10-06 21:43:46,326 - Validator 16Uiu2HAkz14mPUKF3wPbNQ6vQUVVJKcH7i2BAKGbzLzF2Nc3Grxv merged with server 63 at distance 1190.15 km.
+2024-10-06 21:43:46,343 - Validator 16Uiu2HAmPBZj5zXW52SM9vcMEJLAXugqq2YYixTfyxb3oQ5xh3AM merged with server 97 at distance 32.06 km.
+2024-10-06 21:43:46,361 - Validator 16Uiu2HAmKCcZTZL44Na3dtL6672hjJCwGSr93vZUouoAA6aR6LLb merged with server 89 at distance 38.27 km.
+2024-10-06 21:43:46,378 - Validator 16Uiu2HAmHye9oKcHxMHWE3zctPt6HBDURBJWGCTQZaB9azAmUvxV merged with server 221 at distance 635.63 km.
+2024-10-06 21:43:46,396 - Validator 16Uiu2HAmFBsQdVrE9UZcBJpmZGmKBFQ2LA1GdokQG9cRsJwXzNxv merged with server 89 at distance 15.44 km.
+2024-10-06 21:43:46,413 - Validator 16Uiu2HAkzK4cyyXMXWiB7RpmHsjhoonq6wpjf6ZstD1qVQME1xgm merged with server 89 at distance 22.00 km.
+2024-10-06 21:43:46,431 - Validator 16Uiu2HAkyUzqXxyUQVRATEmmPcwsJCkZaLzWGq38qckWB7xfc7CF merged with server 63 at distance 1237.98 km.
+2024-10-06 21:43:46,448 - Validator 16Uiu2HAmEhmQM4HYuCpAp7M3qiXj4VVkhK1nwJJJCSaF4gA62KcP merged with server 89 at distance 19.55 km.
+2024-10-06 21:43:46,466 - Validator 16Uiu2HAmCgNR5GFuKxVHapqd91pFnQbK5dZdmsFBKBNXbaJUaQvV merged with server 46 at distance 12.75 km.
+2024-10-06 21:43:46,485 - Validator 16Uiu2HAm2DQDhbz7oELFtXyMzR5UMnvb7tBxuA6oHMr1RccwHBQx merged with server 89 at distance 72.70 km.
+2024-10-06 21:43:46,502 - Validator 16Uiu2HAkurDbxMNxWiCL1N7HSt5uJtHYYfXTg91SzF9dpmZzwem4 merged with server 89 at distance 40.85 km.
+2024-10-06 21:43:46,520 - Validator 16Uiu2HAmTJvchMcuYmax9zUo6o9hpzqzVVfAhWaqBgfFnRQUjp5W merged with server 97 at distance 119.05 km.
+2024-10-06 21:43:46,537 - Validator 16Uiu2HAmFkrHGmgpWNAC9KcJmc4aasU184uWi19uqUU4MNZGY4Sm merged with server 39 at distance 74.93 km.
+2024-10-06 21:43:46,555 - Validator 16Uiu2HAmBTxTgpdaQR9yQ8kFHRESacUULUmgibq8B4HxHKgX9ECN merged with server 89 at distance 88.73 km.
+2024-10-06 21:43:46,572 - Validator 16Uiu2HAm62ZPxSpt882o1ia4kEM6EjAbRGAZHPse9rkDp5e7qVFD merged with server 116 at distance 532.54 km.
+2024-10-06 21:43:46,590 - Validator 16Uiu2HAmQb6XMwjcbsnmVsJzjtnPBjBkMtBw3rZuKRK8CWHUb2z1 merged with server 51 at distance 2.73 km.
+2024-10-06 21:43:46,607 - Validator 16Uiu2HAmE7SzWRPYaSLxNQ5pFmELC7LrExFeLfv2EMLTwKdejbA9 merged with server 51 at distance 27.98 km.
+2024-10-06 21:43:46,625 - Validator 16Uiu2HAmRNCh3JJqXAPWaf7EgdTXwdmWTP244bDVqAcNtWx4BUxC merged with server 39 at distance 37.29 km.
+2024-10-06 21:43:46,642 - Validator 16Uiu2HAmFUNc6AcWBFZC4bABdFhHXqiJamNBpZNtta79sRpYATTh merged with server 51 at distance 48.88 km.
+2024-10-06 21:43:46,660 - Validator 16Uiu2HAm7oBULRRFRCYgA8bjXnToy4wRRpW39eApoGtrjDpG7gF8 merged with server 39 at distance 52.41 km.
+2024-10-06 21:43:46,677 - Validator 16Uiu2HAmLcsZXXCQj3RyoFYmwnHbd82HShL3P2zDX5JQy234eWbd merged with server 75 at distance 93.64 km.
+2024-10-06 21:43:46,695 - Validator 16Uiu2HAkwULiwjksGVGGyzVPLmmRfSLDrKCZTbathjr7dsCy9qU9 merged with server 39 at distance 13.86 km.
+2024-10-06 21:43:46,713 - Validator 16Uiu2HAmR1reusqJZuMFF6rKWr7C2dtrsuV4KENto7RibVWPwmAP merged with server 84 at distance 134.27 km.
+2024-10-06 21:43:46,730 - Validator 16Uiu2HAmCDtW1iRXxh2nEABahP3eQZD4eYQ81Ra1sCckAv1yVMos merged with server 39 at distance 41.82 km.
+2024-10-06 21:43:46,748 - Validator 16Uiu2HAkvfNmpZqebLHi6dfGSkgVGusSxMgrubW3EHuZDzZ6ZjEs merged with server 39 at distance 26.50 km.
+2024-10-06 21:43:46,765 - Validator 16Uiu2HAmBC3BvJUFNHvXpscWB3V6XN5xjmuZfhTJcKWtrmterEUv merged with server 140 at distance 6.08 km.
+2024-10-06 21:43:46,783 - Validator 16Uiu2HAkvAmf6QLsSX6jXGkq2UAXpjz9a51kZpkWa4UtzuQYzma7 merged with server 75 at distance 35.60 km.
+2024-10-06 21:43:46,800 - Validator 16Uiu2HAkz4BGL1qB6kVNJGU5Sw6RpyeAX6t8N84pd83n7dhSMU5Q merged with server 143 at distance 15.47 km.
+2024-10-06 21:43:46,818 - Validator 16Uiu2HAmK3JmEFvwhDzRxkHUqHw87NVjTgp3z3DxGE8WaqnrVp4E merged with server 140 at distance 189.76 km.
+2024-10-06 21:43:46,835 - Validator 16Uiu2HAm2BPz2LMVewAekxtSRNBSBqSwkXAks8CEmtLwpDXfw2Ta merged with server 75 at distance 389.42 km.
+2024-10-06 21:43:46,853 - Validator 16Uiu2HAmAL388Csojyzvvavzv1L759YJHWArJzeG3sjYhbJEqWfU merged with server 133 at distance 618.69 km.
+2024-10-06 21:43:46,870 - Validator 16Uiu2HAm8i9tH5qNQQb63pjEmHB6HZHCskv2Xpz159JbkybDoYhJ merged with server 39 at distance 60.96 km.
+2024-10-06 21:43:46,888 - Validator 16Uiu2HAmMzKLZcZT2GqMjpCj8ZPCSVRjGHiZ5CeL3LW6BM1uQwka merged with server 75 at distance 5.53 km.
+2024-10-06 21:43:46,906 - Validator 16Uiu2HAmKkZ9uRu8SnVEowLVVhX3r1gmVx4AyX3c1XgPV78zNRXq merged with server 186 at distance 160.92 km.
+2024-10-06 21:43:46,924 - Validator 16Uiu2HAmMggEZYEkumAdwmoGrLh5nXdzTGY6uReW9KWAzUc12CsM merged with server 84 at distance 6.40 km.
+2024-10-06 21:43:46,941 - Validator 16Uiu2HAm7ByVX2ugF4sXaKJmNzdgSvu1Yp4srYharNoDFxGevRhG merged with server 143 at distance 22.01 km.
+2024-10-06 21:43:46,959 - Validator 16Uiu2HAkzDvuFDYc3WeomQubthy6XG13yMscoQvLV6Me14Kybjq8 merged with server 140 at distance 120.72 km.
+2024-10-06 21:43:46,976 - Validator 16Uiu2HAmUQq5Kea2PKTQjHhj1Xvoq7TR4SMJz1VrG3AoEgPEgZMH merged with server 140 at distance 297.63 km.
+2024-10-06 21:43:46,994 - Validator 16Uiu2HAm3ohJ6WwT44H7mE34bWcrf9CznAm7xxRZKReRhEtQtqaa merged with server 75 at distance 254.29 km.
+2024-10-06 21:43:47,011 - Validator 16Uiu2HAmQ4MUs9Cuqy7PRTTQWZUAQ6HFEMmyTbsJM3qZiQeBYBJh merged with server 143 at distance 28.13 km.
+2024-10-06 21:43:47,029 - Validator 16Uiu2HAkvJVMf6cQ8CQwTgoZMU3Ro1qeUq9kYG1Pp5QNbVvjv4RK merged with server 143 at distance 138.90 km.
+2024-10-06 21:43:47,046 - Validator 16Uiu2HAmLMugmSYTgVkb1JSQt6ep2Tj4nnMPRmqNnS5U4CKBXDxK merged with server 140 at distance 213.23 km.
+2024-10-06 21:43:47,064 - Validator 16Uiu2HAmH4bUDyKmLM5U86ZFa66j5cjJyJaPyMQVVjDwQ5FSQ2Wf merged with server 75 at distance 43.46 km.
+2024-10-06 21:43:47,083 - Validator 16Uiu2HAmMxQ1or8ZinXJsFPZjJZiTz3y43uwC1mH4uzQhqy339L5 merged with server 65 at distance 1083.50 km.
+2024-10-06 21:43:47,101 - Validator 16Uiu2HAmUrWuwSZC99Y9KQArTEsigKJo1kexWE7yuDrF8oXNz9QP merged with server 180 at distance 80.22 km.
+2024-10-06 21:43:47,118 - Validator 16Uiu2HAm1Jn6dgAY3hv33FSdA54AjjPsG6ociX86XXkXiLSY9KfK merged with server 143 at distance 101.83 km.
+2024-10-06 21:43:47,136 - Validator 16Uiu2HAm6KbSx7D5XFLK4PKDVKoLhz69emqiHntRckB9dR5qSY9y merged with server 143 at distance 100.02 km.
+2024-10-06 21:43:47,153 - Validator 16Uiu2HAmGyZSAGhLXCRKVUzLgo5vkLqpDneBmqWheXMM2XwweVL5 merged with server 18 at distance 315.08 km.
+2024-10-06 21:43:47,171 - Validator 16Uiu2HAkyZA9H4nQhjBqypYSsgxP7dveUDLisZpCSU28LN8jJp5L merged with server 180 at distance 0.00 km.
+2024-10-06 21:43:47,189 - Validator 16Uiu2HAmDfgGeKsuxNt9CjFYzBvoCXJo9cdGgXkVi13XW7NzoU4f merged with server 87 at distance 50.25 km.
+2024-10-06 21:43:47,206 - Validator 16Uiu2HAmGZj7XHGbf9knJ5abuhHLY2KcHWz1ExVJMFMWDXehpH6V merged with server 142 at distance 367.72 km.
+2024-10-06 21:43:47,224 - Validator 16Uiu2HAmGp9y9wRc6P5aYJNY4AXbMs8m7mzfk5S8W8yYsLzbcN6o merged with server 73 at distance 104.50 km.
+2024-10-06 21:43:47,242 - Validator 16Uiu2HAm4Pa7Yr7wX2HJDrxMtZNZ5yEcYUcNdpHCzdYVYpFXE4x2 merged with server 87 at distance 23.12 km.
+2024-10-06 21:43:47,260 - Validator 16Uiu2HAmCX8UFpf9swiBM7WUFTw7EaRwhqjPH9q1skc5N5qQjeqY merged with server 84 at distance 329.07 km.
+2024-10-06 21:43:47,277 - Validator 16Uiu2HAm2KAidxn2ZvLkWTiVRjC9zT5qb3taQatqAsntuLn9mNWH merged with server 87 at distance 12.13 km.
+2024-10-06 21:43:47,294 - Validator 16Uiu2HAmCuvBgATQoEPYp9JvRhprWLcAcoj78ExiGv5ZkrKjTaeg merged with server 239 at distance 1.83 km.
+2024-10-06 21:43:47,312 - Validator 16Uiu2HAm79jpCMopEJfTEzSQX64uNxnVwyEnjaTYM9r9vMT8uyTz merged with server 84 at distance 242.99 km.
+2024-10-06 21:43:47,330 - Validator 16Uiu2HAmPo77iUKpH2Znr2PF7BDcsLBrUD1UiA9T5Wz2Hfs6UcWe merged with server 142 at distance 312.25 km.
+2024-10-06 21:43:47,347 - Validator 16Uiu2HAm8eY6bAwJspN9yN4NJBiWvKjdCMqRnzwU3UZhpt1XYYY9 merged with server 122 at distance 228.32 km.
+2024-10-06 21:43:47,365 - Validator 16Uiu2HAmVpfrkoepE1NbUyDMfR3dgh9h7XK6BzCCqCorfPg71FZT merged with server 18 at distance 197.71 km.
+2024-10-06 21:43:47,383 - Validator 16Uiu2HAkx5CoLBcNS45Q7iczwt9T3Co4rrSifjkqHe2VGB9Evr5A merged with server 73 at distance 4.43 km.
+2024-10-06 21:43:47,400 - Validator 16Uiu2HAkyVa1Kvfce5GrM6UFeR4QH2Jo9xQv2YPfH8NMmsssESBQ merged with server 73 at distance 24.10 km.
+2024-10-06 21:43:47,418 - Validator 16Uiu2HAm6T6Fw4pZU2VowWgh5zYH3WPijk7okmv6pVc8RpWc59jM merged with server 12 at distance 47.39 km.
+2024-10-06 21:43:47,435 - Validator 16Uiu2HAm82ENuKqR8Gndkw4uTy4atnmxikt1LJ1GhGRxm5ZQkS14 merged with server 44 at distance 964.13 km.
+2024-10-06 21:43:47,453 - Validator 16Uiu2HAkx1XJ4d3cvEW9bryRoKTJduUtHjsf5HWJkDJbXd7eoWwS merged with server 87 at distance 78.83 km.
+2024-10-06 21:43:47,470 - Validator 16Uiu2HAkxQfs6Nxt2bapK11Skyzu7A4GpFbA4mtzMmFEgeBWtYDz merged with server 12 at distance 1.94 km.
+2024-10-06 21:43:47,488 - Validator 16Uiu2HAm8MhH3gMCPgtbNzHpcztabXAr7CgaioTiDeecdU4nTGpY merged with server 87 at distance 80.23 km.
+2024-10-06 21:43:47,506 - Validator 16Uiu2HAkutWs4etSeUDGz3uyhQ8ywMVF4jzx8MUs2Qombp2xTANV merged with server 87 at distance 98.39 km.
+2024-10-06 21:43:47,524 - Validator 16Uiu2HAmNSF5mrbxFvmMkMK4sGvTWYhaPiDTVzJCuLFSXnmRjuJV merged with server 119 at distance 491.98 km.
+2024-10-06 21:43:47,541 - Validator 16Uiu2HAkx8Sj3R5KPwoHB3wasBiXu81a2irtkBXzoC3opLhmWoP5 merged with server 73 at distance 20.89 km.
+2024-10-06 21:43:47,559 - Validator 16Uiu2HAmG1hNragCwQF2oX4uVGDscwo8MmmoqeP8zz2zCAZRghwD merged with server 12 at distance 30.62 km.
+2024-10-06 21:43:47,576 - Validator 16Uiu2HAmF7XDnBCo6tURbYzKvLCxZ8wwFnjfrrLKQGZj8EN2WNVD merged with server 12 at distance 23.09 km.
+2024-10-06 21:43:47,594 - Validator 16Uiu2HAm2WT4yKh5tPjoR4ZxfBAvm2UCRE4YuAvHeoahqbiazS7T merged with server 239 at distance 137.41 km.
+2024-10-06 21:43:47,611 - Validator 16Uiu2HAm3o6XirQ7VcBTyUYU6FF6iNyWbF5CMMjhYJqnAEtmKn4D merged with server 12 at distance 100.25 km.
+2024-10-06 21:43:47,629 - Validator 16Uiu2HAmLUoDKSXZm7QnUERUjjaoRz4iyMS4SLyGpiT7iD1eA8aa merged with server 73 at distance 55.41 km.
+2024-10-06 21:43:47,647 - Validator 16Uiu2HAmBwbiGNbV1FuU3VN7k9poAjCRS8Q1H3yWocZRmt5rZCAK merged with server 12 at distance 50.04 km.
+2024-10-06 21:43:47,664 - Validator 16Uiu2HAmNmNQJmXGmyK89mz6p4NBeXXz91mmJvgvuRaqcf2JNYVE merged with server 38 at distance 3.00 km.
+2024-10-06 21:43:47,682 - Validator 16Uiu2HAmH4pSGYXcorpP6SmbPjv18YzrgDaQQjqPVd8koFxkFtGu merged with server 18 at distance 227.24 km.
+2024-10-06 21:43:47,701 - Validator 16Uiu2HAmGg4Dbirgigpj9srbwgRthUKGAwKwqnH9ae3hCL3Q7GzT merged with server 73 at distance 87.19 km.
+2024-10-06 21:43:47,718 - Validator 16Uiu2HAmTpzUPcCik8XhdcLWDU3EaGfA4Be8WmhZS1utYj3E1tZH merged with server 239 at distance 178.29 km.
+2024-10-06 21:43:47,737 - Validator 16Uiu2HAmERXb6kgragJW1iTGq3SbhSuiEeUCvgcp3bvm9eMqrxvu merged with server 113 at distance 453.26 km.
+2024-10-06 21:43:47,754 - Validator 16Uiu2HAmJqEDHgtJWiBqmESeqTcrKVHTifRYjb5UfcopNnbW386f merged with server 37 at distance 59.35 km.
+2024-10-06 21:43:47,772 - Validator 16Uiu2HAmHMeyjM8hirCTCdkJS7yuM5er71eaaEVjN7yj59DDuu7f merged with server 37 at distance 77.82 km.
+2024-10-06 21:43:47,790 - Validator 16Uiu2HAkzGHAM9AYPkqoTa8mDEjghKQAzxZofEXUcVhEAe8twjnt merged with server 119 at distance 485.88 km.
+2024-10-06 21:43:47,808 - Validator 16Uiu2HAkvbZEqcpKNdatPQBm6MJMwyGADdsp8PgMx4W3BSeAgEeU merged with server 18 at distance 5.53 km.
+2024-10-06 21:43:47,825 - Validator 16Uiu2HAkxiXCpVzEbguJBFZzzhSxH42mN9XwmhoxfwJgGzymTPBK merged with server 37 at distance 31.53 km.
+2024-10-06 21:43:47,843 - Validator 16Uiu2HAmVVmnydQ6wPCx9JxjvdqT7x9FcC2yBYjxFCCrwginHGhV merged with server 18 at distance 45.57 km.
+2024-10-06 21:43:47,861 - Validator 16Uiu2HAmUooHa5XbntBzUVmkAuihNjjV2tVReuU99z8AhLUHsdz3 merged with server 37 at distance 70.69 km.
+2024-10-06 21:43:47,878 - Validator 16Uiu2HAmQkacbAwvPjq2rQ21w9maUyXx5doW38HPvY9Fw5bjMBv5 merged with server 18 at distance 33.39 km.
+2024-10-06 21:43:47,895 - Validator 16Uiu2HAm9BjF21jGvxeG4YJ3t59WTLtqB53FT4FbwNM8nqZbskwr merged with server 78 at distance 150.79 km.
+2024-10-06 21:43:47,913 - Validator 16Uiu2HAm7L3d5GubBpwTGTJ7A2hR2nHRiCEHjRPrYXAVwGbPb8hA merged with server 37 at distance 24.45 km.
+2024-10-06 21:43:47,931 - Validator 16Uiu2HAm1Y5mipW3Q8sGdbMMuGq9K8Vuxkqw6x4WiQTRgzSkv93G merged with server 37 at distance 23.16 km.
+2024-10-06 21:43:47,949 - Validator 16Uiu2HAm8Rwj33qaauS7mpD24NVTdF44ihyqWGjc983A8Y1JF4Sn merged with server 18 at distance 32.84 km.
+2024-10-06 21:43:47,966 - Validator 16Uiu2HAmPYkoHDhYtLst53BxYPQd7rbeEyuZBJfBVC7ced4S9CbW merged with server 78 at distance 136.20 km.
+2024-10-06 21:43:47,984 - Validator 16Uiu2HAmSbDXfhxxcdMXTYFWrkweY1u6QcxK5DkC3GMetRAAgznY merged with server 37 at distance 77.97 km.
+2024-10-06 21:43:48,001 - Validator 16Uiu2HAmLLVAozyQMVdVF1GkVmo5kkGP8qYxPdcc13H6JmVXhU7r merged with server 18 at distance 52.96 km.
+2024-10-06 21:43:48,019 - Validator 16Uiu2HAmTazj9c2DUDjk1H4n6VAwvQCf21mDWpBcfavTeYq9bzp7 merged with server 162 at distance 203.60 km.
+2024-10-06 21:43:48,036 - Validator 16Uiu2HAm2FLsxXXrWEAS6efjRGjgdQTwbKLm8jhZSAEZa4KNxBdf merged with server 37 at distance 71.75 km.
+2024-10-06 21:43:48,054 - Validator 16Uiu2HAmBmKCAcMdRwMvXkRNSAAm7GmjpVEZ8xzdV6bD91bhaJva merged with server 37 at distance 36.80 km.
+2024-10-06 21:43:48,072 - Validator 16Uiu2HAmKtBVqiZK1N9WXqWcBhbPD7owfJRv5VKbTjv2PqYWcv9W merged with server 37 at distance 139.70 km.
+2024-10-06 21:43:48,090 - Validator 16Uiu2HAmLabvm3kBhk8Bq4LgJeGxYUU7Au2EcZZQvcck12qQRqho merged with server 37 at distance 45.28 km.
+2024-10-06 21:43:48,107 - Validator 16Uiu2HAmJrvKcC5KAne64X6kzYY1T3TynxriWzmC8cnZjXVouwae merged with server 18 at distance 76.96 km.
+2024-10-06 21:43:48,125 - Validator 16Uiu2HAmM4pJRST7daS8L2vYBQ7PMAxHNxRGHFP3rLVeCYx5gLpJ merged with server 162 at distance 182.94 km.
+2024-10-06 21:43:48,143 - Validator 16Uiu2HAm7f4Er3wvUFZZnYUS8Ba77YbcveaFDFEswjFdFrifEqse merged with server 38 at distance 127.27 km.
+2024-10-06 21:43:48,160 - Validator 16Uiu2HAkzuXZkgZSeUUFUeD9yookLwL1oxXkYsvSkTFL4xvqD2Va merged with server 37 at distance 60.89 km.
+2024-10-06 21:43:48,178 - Validator 16Uiu2HAmAZ3HDvAUQW4fQjdS5CTk7conLMnGyz7AVXpKirjAdwXn merged with server 18 at distance 258.64 km.
+2024-10-06 21:43:48,195 - Validator 16Uiu2HAmJy3ZZYxfkqpn2gEXNXUX6ympb8BHqcYXhGjMgSMwY3pb merged with server 231 at distance 211.63 km.
+2024-10-06 21:43:48,213 - Validator 16Uiu2HAmMzFRvbKQg4stsArzYZzri3BHydNmZfpTyvJzLqpTacyh merged with server 18 at distance 237.71 km.
+2024-10-06 21:43:48,230 - Validator 16Uiu2HAmGrocYek84XnytgA2qoWNPPkZPTumPJ1yWHeHw58JhEfd merged with server 110 at distance 102.59 km.
+2024-10-06 21:43:48,248 - Validator 16Uiu2HAmRmhKdhyYC577acg2gx7nhsgPgQkXPnZeQfaQs8h9XtdM merged with server 119 at distance 146.80 km.
+2024-10-06 21:43:48,266 - Validator 16Uiu2HAmUkHbjTeyFgXYD9hyRZy4TaAehtRuHYNT3bj44Db8U6dx merged with server 119 at distance 0.71 km.
+2024-10-06 21:43:48,284 - Validator 16Uiu2HAmS4HMsCvX9sTBsCEGg4p6vdaRbayQGJRXbwAspz2ZLkhh merged with server 119 at distance 201.37 km.
+2024-10-06 21:43:48,302 - Validator 16Uiu2HAmQ32FenVS1kNhDE64h8HiAEWFpnS4NEuRdkfBy22254mZ merged with server 18 at distance 240.29 km.
+2024-10-06 21:43:48,320 - Validator 16Uiu2HAmVK18pzzLy2CzqzvQ4USHD66dvrY29UZx7Y4UXsoNELfL merged with server 37 at distance 224.23 km.
+2024-10-06 21:43:48,337 - Validator 16Uiu2HAmVfbX78SiFLy2pZafHYLDJxpYigdDCpcbZ3iy63cJLoit merged with server 18 at distance 261.66 km.
+2024-10-06 21:43:48,354 - Validator 16Uiu2HAmEUsGahLf4zQL1LFG8E3KRo4eyi9FrSwJy54GsLn2kouS merged with server 18 at distance 162.16 km.
+2024-10-06 21:43:48,372 - Validator 16Uiu2HAm7gB8G2rVPJqY4KzUnTi7gjeSPA2oKTuECGKm4ufRDtdx merged with server 113 at distance 288.62 km.
+2024-10-06 21:43:48,390 - Validator 16Uiu2HAmCriMwwEqMRHbwdmovMGEKRaEmTBi6A2idYrK44yzQNzs merged with server 119 at distance 43.53 km.
+2024-10-06 21:43:48,408 - Validator 16Uiu2HAkwypdEEGQWLBvo79tfy6yri8tvSg91hWypaviPuzxwYWt merged with server 119 at distance 158.94 km.
+2024-10-06 21:43:48,426 - Validator 16Uiu2HAkzvVb3nuFvbgc4WBfy4kTExbWf1cTJfS4ZXeNEK74J936 merged with server 142 at distance 8.29 km.
+2024-10-06 21:43:48,444 - Validator 16Uiu2HAmJaCLs2QsU8c6G11GD4eJ8hHeD3HJjaCjVraVbkFqiKHw merged with server 113 at distance 328.41 km.
+2024-10-06 21:43:48,461 - Validator 16Uiu2HAm3MBoE39x4gotQ3L9ggLDsbmjHAJosJwWTwC5PS12JPFd merged with server 38 at distance 201.46 km.
+2024-10-06 21:43:48,479 - Validator 16Uiu2HAm9pjSPwrbV3zzF4KEUW3QmF4P6BWziAzZuFqRAx9tYiWq merged with server 78 at distance 4.94 km.
+2024-10-06 21:43:48,497 - Validator 16Uiu2HAm7KBArCycX5eE22obxhVpLpKbydnLh9iHsjs8S9ULPGeg merged with server 192 at distance 67.99 km.
+2024-10-06 21:43:48,515 - Validator 16Uiu2HAm6LJYntV64Rr9zBWfqcP44bFhR4YARFLpD2vF3btGHW8g merged with server 113 at distance 262.69 km.
+2024-10-06 21:43:48,533 - Validator 16Uiu2HAm5PY1DPMKXecpUNUr45EQEB9FdSwioJQUCCcvHfpvtGwL merged with server 113 at distance 304.67 km.
+2024-10-06 21:43:48,551 - Validator 16Uiu2HAmPEXdrEgtC4QPQe9rTen42JDosUCVUz2XUuv4oyiFX9LT merged with server 113 at distance 329.68 km.
+2024-10-06 21:43:48,569 - Validator 16Uiu2HAmUXAJ56xQvJAdJwUiJuVKcCXtF5gutZZeJTVJPu1gG5fV merged with server 119 at distance 139.48 km.
+2024-10-06 21:43:48,587 - Validator 16Uiu2HAmRDcpzuYdkcqppnq9bsUfHTF7sYx6PsRntZ4BRHcjH6PY merged with server 23 at distance 254.24 km.
+2024-10-06 21:43:48,604 - Validator 16Uiu2HAmUK6mtm1kPxFzwxBRLizFX9ZNRMuJpXiPtkTppaUDXDKo merged with server 37 at distance 159.16 km.
+2024-10-06 21:43:48,622 - Validator 16Uiu2HAm69dm6Jm7849pAexbE2XrsDy6wrr3joyuer1wzCcNnjxM merged with server 110 at distance 33.73 km.
+2024-10-06 21:43:48,639 - Validator 16Uiu2HAkyYV99NK1HzQnARF7Vp4GMAbbJjDRWTVXkiKScZCDCF7X merged with server 124 at distance 214.02 km.
+2024-10-06 21:43:48,657 - Validator 16Uiu2HAkuwTvCrbh37Ewkoq98s3umtNFiYZbmyznabDRKKSjkvdj merged with server 6 at distance 32.01 km.
+2024-10-06 21:43:48,675 - Validator 16Uiu2HAmJRtaaNdquZhsbxvMFcvzukWur9AhXiE2ygFf2EHTdu9y merged with server 244 at distance 60.90 km.
+2024-10-06 21:43:48,693 - Validator 16Uiu2HAmQWRjjEWhaKxfzSPb3Gh9W44SgvYxYNsBEHrh86Hkxt5v merged with server 121 at distance 3.74 km.
+2024-10-06 21:43:48,710 - Validator 16Uiu2HAm5SYtfxSMZLDJu2WtLkTngxZVDTmoARQouKRcYcj1SxAd merged with server 110 at distance 12.22 km.
+2024-10-06 21:43:48,728 - Validator 16Uiu2HAm6tzjLSV5CsAn9AynkXTEYSmWqvCwQoeECYhKEkKPFcR1 merged with server 6 at distance 31.59 km.
+2024-10-06 21:43:48,746 - Validator 16Uiu2HAm6BkKVYMhrMDpTiV3RfmbEBP4m6cMLaX4oszcQFFoAMZW merged with server 6 at distance 11.04 km.
+2024-10-06 21:43:48,764 - Validator 16Uiu2HAmFUm1QRvWYqcwsrxNhw6T7Kuz2nRgmCaFaw8E4uWgsUjx merged with server 244 at distance 26.84 km.
+2024-10-06 21:43:48,781 - Validator 16Uiu2HAmCkCquysBTDwdTsAoEupttoaFLfmmv5DxnVMyAjUj2AKE merged with server 142 at distance 91.84 km.
+2024-10-06 21:43:48,799 - Validator 16Uiu2HAm48Ck7AJeuAtW6suGSDHqC82CaHvkkmGnLpH2fisnGpRB merged with server 231 at distance 128.82 km.
+2024-10-06 21:43:48,816 - Validator 16Uiu2HAmFsEuST1CBAzxyNf7VaFBA3MNPj6B1gxBYxtskxUz7tfR merged with server 78 at distance 72.86 km.
+2024-10-06 21:43:48,834 - Validator 16Uiu2HAmDGt2E6YAxwvYNThCkGseQ7bp2U51KCfn7hTo9Hex57QD merged with server 162 at distance 12.57 km.
+2024-10-06 21:43:48,853 - Validator 16Uiu2HAmQHLng8Z9ZUDpqT5iKMRiP447HiJze98J24Tfa2QyGytc merged with server 124 at distance 222.74 km.
+2024-10-06 21:43:48,871 - Validator 16Uiu2HAmAzCxNuPhDPZyysorHhbi5usom2kFaDZ4FUs8iDKRChcn merged with server 124 at distance 19.87 km.
+2024-10-06 21:43:48,889 - Validator 16Uiu2HAm3RKuXrUJ5HPi6tHqgp7pZXKyoPaNqQWnTdWBLaAy89Wu merged with server 162 at distance 18.26 km.
+2024-10-06 21:43:48,907 - Validator 16Uiu2HAm5uo7Q8vwJkkz8Q9dmXjzz4L85PuqKDiQAQi4c36k12T6 merged with server 261 at distance 1091.81 km.
+2024-10-06 21:43:48,925 - Validator 16Uiu2HAmKGWTBuPxLSCaziKU5Mq1vXWp13fHSLDcefQo9y63BZwi merged with server 244 at distance 15.96 km.
+2024-10-06 21:43:48,942 - Validator 16Uiu2HAm5eU5qz77KMv4dBgCEHB3Tf76BdYHkb4Jnm8RDVkaJnWi merged with server 124 at distance 267.01 km.
+2024-10-06 21:43:48,960 - Validator 16Uiu2HAm49ykrsLEM2gBER22QFm5nW2tP7uJQ98EVxwZEDmRrZuj merged with server 124 at distance 24.63 km.
+2024-10-06 21:43:48,977 - Validator 16Uiu2HAmMWx2AL1fGQLSMZehcbDXiyg9FfqepEfRNYNNE6KeYvbP merged with server 162 at distance 30.23 km.
+2024-10-06 21:43:48,995 - Validator 16Uiu2HAm6ZQyXfvmCLUfNgJEvaFZgyH5WDj3HhrFxFAsFmLiRgwo merged with server 246 at distance 10.35 km.
+2024-10-06 21:43:49,013 - Validator 16Uiu2HAmLN2q6qTKxPLgLmoW2qvbXgqkN6tbvdAVYBxMptpNA4Rm merged with server 113 at distance 234.92 km.
+2024-10-06 21:43:49,031 - Validator 16Uiu2HAm6UXJBkuYWyyUbdhzZZDfvWLdVm5V1rxAsS4fezy4dWfw merged with server 6 at distance 24.79 km.
+2024-10-06 21:43:49,048 - Validator 16Uiu2HAmLTEJDjqpgmRJbrc6qjnhRPogdV6y4K1KY9cmPQsfNtUp merged with server 162 at distance 24.53 km.
+2024-10-06 21:43:49,066 - Validator 16Uiu2HAmSC5UJq1uahkJubbdtCAn8pnTxCpX6w7Ygq6SqupcJLGy merged with server 162 at distance 96.99 km.
+2024-10-06 21:43:49,084 - Validator 16Uiu2HAmAf7T8waqKJhtUHn7hPLoSuPA5DSGHgayYGhd8c8BeiR2 merged with server 180 at distance 552.97 km.
+2024-10-06 21:43:49,102 - Validator 16Uiu2HAmEgT26YCxFgEpWGY49Kw8jbTB8Bn2aPKbmfNL6yHWETxv merged with server 244 at distance 58.64 km.
+2024-10-06 21:43:49,120 - Validator 16Uiu2HAm14v1NcJqRMZzbpp3Qe5XAs2ktPEUH8ZkN8PZNLCW7RWV merged with server 79 at distance 14.12 km.
+2024-10-06 21:43:49,137 - Validator 16Uiu2HAm1duEjhXyn9zDsNXgQCUiizWXhQVA4Tn5rrqrEPK3n3DB merged with server 124 at distance 258.61 km.
+2024-10-06 21:43:49,155 - Validator 16Uiu2HAmMYefu77nJqeYFr8zhLjLNCnEaNeQhRXWhYHFbZo21Jw5 merged with server 124 at distance 213.84 km.
+2024-10-06 21:43:49,173 - Validator 16Uiu2HAmRPzP6uPQmmcatbBqaQyCW6PKmmf8inApNZxHtP8YBmNa merged with server 110 at distance 70.09 km.
+2024-10-06 21:43:49,190 - Validator 16Uiu2HAmFpTCUBmgiq7E2ANJL1ahnak4277r52LFEcY73CP8KqKV merged with server 63 at distance 279.82 km.
+2024-10-06 21:43:49,208 - Validator 16Uiu2HAmDcvucpkPejCrVRYgNgN4hPbTSdKdcrs7e2eBAhHLSDgj merged with server 113 at distance 169.10 km.
+2024-10-06 21:43:49,227 - Validator 16Uiu2HAm8ZFN7zwGySuiMheRtisq4m4CFyzWwp2a9GgeWmyzcD3K merged with server 6 at distance 79.75 km.
+2024-10-06 21:43:49,244 - Validator 16Uiu2HAmNQSjfYbxNyz6SKu7mU5tupw8Y7r5taNv23B2nwu6rKsD merged with server 231 at distance 282.39 km.
+2024-10-06 21:43:49,262 - Validator 16Uiu2HAmVFdF6dwTpd4L6YGiyHwk9gEqb6GrYUGKsHeyN6NVGNke merged with server 113 at distance 111.02 km.
+2024-10-06 21:43:49,280 - Validator 16Uiu2HAkwNnXXJXPEFdD6t2wVzevWXsGZnugP71NVrEpNWQBrAkJ merged with server 119 at distance 233.68 km.
+2024-10-06 21:43:49,298 - Validator 16Uiu2HAmFY4SMKY33pjUPU7TPx7Cofgidtj1fVNwBtMynCU3f7Fz merged with server 6 at distance 102.42 km.
+2024-10-06 21:43:49,316 - Validator 16Uiu2HAm1JhStqeizMtYTJgqxU3hJb2AoSB6WeNAQ7YgNq3qoTJr merged with server 23 at distance 76.04 km.
+2024-10-06 21:43:49,334 - Validator 16Uiu2HAmKcah3YN7Xq7trr7PSALeb9cqSh4JyKDbqKnVLckFS9bd merged with server 142 at distance 227.36 km.
+2024-10-06 21:43:49,351 - Validator 16Uiu2HAkwF64tPAtuMx4mwz9ZjiJvQoXUnaesoEbp2p1gFoTfU7L merged with server 162 at distance 108.36 km.
+2024-10-06 21:43:49,369 - Validator 16Uiu2HAm5fRbFY5nPxHLdcoZgoPbDWAhTSHwnR1kARSKo9MRqAMJ merged with server 23 at distance 209.66 km.
+2024-10-06 21:43:49,387 - Validator 16Uiu2HAmUvHi2cDM14VyU7JZj9baFuwieEpG4Wiu69DREECCUUko merged with server 162 at distance 251.56 km.
+2024-10-06 21:43:49,405 - Validator 16Uiu2HAmSrqoMmUvDgzrPpUkeL77etVGMhbWUNGtLLrFswEJC2i5 merged with server 113 at distance 85.09 km.
+2024-10-06 21:43:49,422 - Validator 16Uiu2HAm1UYnYM9a1RHiTXppUHC5hjCvbZok4Bh1Z2BL6DikeW59 merged with server 16 at distance 260.02 km.
+2024-10-06 21:43:49,439 - Validator 16Uiu2HAm6BNx1ng6aRL9PpPd65qswueL9QhuizypsqrpqCG55UU1 merged with server 192 at distance 325.40 km.
+2024-10-06 21:43:49,457 - Validator 16Uiu2HAmBki8j4rBPEbTmWaToMrBqNYMH1ct3DCT2QHq8TAKJkGT merged with server 23 at distance 39.52 km.
+2024-10-06 21:43:49,475 - Validator 16Uiu2HAm9r9Gkb9gFdJg9aEFy9zwjDM7Xm9dqf3LjmrKWPtAQYFz merged with server 23 at distance 50.35 km.
+2024-10-06 21:43:49,492 - Validator 16Uiu2HAmArpM53yWjTwrQ3hqSCgSyZkZqYGHPMpM8MuZpxHw9Mi7 merged with server 55 at distance 233.16 km.
+2024-10-06 21:43:49,510 - Validator 16Uiu2HAmVrAXvt9z3NSG8348UGZESVsjvoZxT3TFjjF6DnUi6WfM merged with server 44 at distance 182.61 km.
+2024-10-06 21:43:49,527 - Validator 16Uiu2HAm4nhikCaCDjSJgwWuCvDB5gnBdrNskMBhjQbjZB98JvYU merged with server 44 at distance 193.84 km.
+2024-10-06 21:43:49,545 - Validator 16Uiu2HAkvKSodWFMP1BZPgodaAJM5ZF4DRBRKZUmHzehpQ48NdSb merged with server 23 at distance 17.59 km.
+2024-10-06 21:43:49,562 - Validator 16Uiu2HAmMvPRRSmbdxRUVy8A8PtEjiXjkxZSFz8aSubEPaASfGgn merged with server 55 at distance 238.78 km.
+2024-10-06 21:43:49,580 - Validator 16Uiu2HAmJiTkFNbYaYUVKSk4D8vojYZ4RFU8CqmQEAvs2GyXgLVV merged with server 113 at distance 43.62 km.
+2024-10-06 21:43:49,598 - Validator 16Uiu2HAkzFUpjxMRGVf1rpUr6ZYh1VqWbEL7nPDWKo8Ae6b5DWC8 merged with server 113 at distance 42.09 km.
+2024-10-06 21:43:49,616 - Validator 16Uiu2HAmMumZJVUjhTX8jvQSnmeL445ihiUCSC37AST5evi3Cvdy merged with server 23 at distance 129.02 km.
+2024-10-06 21:43:49,633 - Validator 16Uiu2HAmQSuXh9g3X6yYafGPTapPS7pfCMX4QJVe7f6HCwEyo2y3 merged with server 16 at distance 200.93 km.
+2024-10-06 21:43:49,651 - Validator 16Uiu2HAmUBChh6UiqS7Ze4d5PFeN849Prv1mZbADLqKBpssr6wcc merged with server 23 at distance 13.88 km.
+2024-10-06 21:43:49,669 - Validator 16Uiu2HAm2HNLeELiYmn8VPt87nTNBphiiWDH4cutBa3LfiBPwrSN merged with server 162 at distance 205.05 km.
+2024-10-06 21:43:49,686 - Validator 16Uiu2HAkyJGUS4MxS3qhuvDmgQymCHu46csxnzbx7N1fTzqDVK7n merged with server 44 at distance 314.44 km.
+2024-10-06 21:43:49,704 - Validator 16Uiu2HAmNA9bbkia9AcUzquuznXxuzDqQUgtaLQeDTDNPs7hzh6L merged with server 113 at distance 33.95 km.
+2024-10-06 21:43:49,722 - Validator 16Uiu2HAmUoqYvKXZnj2cg8JkX88i2FzTU2VQzCe7UUFzFGQMQDCp merged with server 113 at distance 83.61 km.
+2024-10-06 21:43:49,740 - Validator 16Uiu2HAmPo9GPBNcQKKvUhmoFPEig89S2sYxBtAzNKGgXKzHjuhD merged with server 100 at distance 30.56 km.
+2024-10-06 21:43:49,757 - Validator 16Uiu2HAmTmGqHaBzGEjX3FAHRpmLU15183QWL4dboqRDzK2cDT5c merged with server 16 at distance 164.17 km.
+2024-10-06 21:43:49,775 - Validator 16Uiu2HAmMKjgYLvKT9un6FkvXGWB8SzJvvdtUbJ9cMGV519iqqDT merged with server 113 at distance 25.66 km.
+2024-10-06 21:43:49,793 - Validator 16Uiu2HAkwurDAkKjoaJdMWQXL61Bkbq5mT1DR4BWALXW39vithMT merged with server 113 at distance 4.20 km.
+2024-10-06 21:43:49,811 - Validator 16Uiu2HAmS5zHrq4VQd21fZYwBTqGLsp2ccqDwK5JuqassgFEWeY4 merged with server 100 at distance 11.01 km.
+2024-10-06 21:43:49,829 - Validator 16Uiu2HAmNSUq8GDVSv36zp79YBa3bxEt8irpMg1qDHs69wjtg62K merged with server 30 at distance 18.52 km.
+2024-10-06 21:43:49,846 - Validator 16Uiu2HAm4QuaqKDs6Yek2C5nMSgsQVTgQ84dN9ACfH6im5D8i8Sw merged with server 121 at distance 247.01 km.
+2024-10-06 21:43:49,864 - Validator 16Uiu2HAkvv6UfacfYip2CPsMJQkQFS29CPbH2LCehiK7y4sLVZpm merged with server 113 at distance 36.51 km.
+2024-10-06 21:43:49,882 - Validator 16Uiu2HAmQ8pNAuqwYw9zSFVcAXE4eV6WZnz9Vq672ura2WZZ9Pgh merged with server 16 at distance 218.63 km.
+2024-10-06 21:43:49,900 - Validator 16Uiu2HAmVrLYop1NX8bXqF1bELH2YA3XfK7HcdFJ1BztdBhSkMec merged with server 100 at distance 31.27 km.
+2024-10-06 21:43:49,917 - Validator 16Uiu2HAmMwnStqQpjne6qE43fnoKDaDttr4DuoayYxzo65pXskfi merged with server 30 at distance 46.54 km.
+2024-10-06 21:43:49,935 - Validator 16Uiu2HAkwfrLSkChB22kPMWGcG32ETHQbmfwvHHJ7FpirN2a4ukc merged with server 214 at distance 12.65 km.
+2024-10-06 21:43:49,953 - Validator 16Uiu2HAmCUL414qgbxML83V8o6pbYaJ4iiguosACQ418wJW5wBAq merged with server 113 at distance 73.63 km.
+2024-10-06 21:43:49,971 - Validator 16Uiu2HAmKpZPhzzj2AP278wGvqo2CLMZax634F36mDrBvb9GeLWz merged with server 6 at distance 255.33 km.
+2024-10-06 21:43:49,989 - Validator 16Uiu2HAm6n66pkCvWYuKhewzw6GxuVWEEkFr6j5EpyJWLw7oTLGx merged with server 230 at distance 232.78 km.
+2024-10-06 21:43:50,006 - Validator 16Uiu2HAm51TjKUPCjw7FmwB1R2uB84s33ia6L4AQDw6MKhsCwtrN merged with server 16 at distance 144.98 km.
+2024-10-06 21:43:50,024 - Validator 16Uiu2HAm27sNbapFvdu9d91LUyx9YFh3Ei8d2VemWXL5TZsTErsj merged with server 261 at distance 309.05 km.
+2024-10-06 21:43:50,042 - Validator 16Uiu2HAkwgt5sJo1fKXD41gPRLj3K8QMXcX3qZUH2WmnzJ8XhqsR merged with server 100 at distance 39.45 km.
+2024-10-06 21:43:50,059 - Validator 16Uiu2HAkwpv2nfxf49fCYZjUy5crRqTZNHKfvEN9LRebkh1Q3ZGt merged with server 90 at distance 209.43 km.
+2024-10-06 21:43:50,077 - Validator 16Uiu2HAm264mKTXgB7QJgXBvipezGmD9xBf1d5cjKer61znP3JdW merged with server 58 at distance 155.43 km.
+2024-10-06 21:43:50,094 - Validator 16Uiu2HAkymevR12h6M48StFwEjwhEE5qWRp3h3JF72fcpXuUgHHn merged with server 214 at distance 178.81 km.
+2024-10-06 21:43:50,112 - Validator 16Uiu2HAkx4udJADX3wZWYSPJ6yp2mE4e2bjT4guf9uxNKG9U9Pb7 merged with server 100 at distance 58.71 km.
+2024-10-06 21:43:50,129 - Validator 16Uiu2HAkv6fp8hhxY85wVvAsikPBWGN3cQAWtUG9QEUFFws5dCh4 merged with server 123 at distance 64.73 km.
+2024-10-06 21:43:50,147 - Validator 16Uiu2HAkx4sWdbMBS1oNjGCiyZNBuFDmui6Juv71T7cxqkKTN8fj merged with server 137 at distance 142.65 km.
+2024-10-06 21:43:50,164 - Validator 16Uiu2HAmSezSBeu3Dob6A1y5CxQoPqaGPsibkPsVZkrKkvnu5ATb merged with server 100 at distance 73.64 km.
+2024-10-06 21:43:50,182 - Validator 16Uiu2HAmMZs2c7wJyh3eb4rAZ41piN796F9LhLBu1fPiPYEgi87N merged with server 227 at distance 4.57 km.
+2024-10-06 21:43:50,200 - Validator 16Uiu2HAmQL4K8dpGHyuwxKbBAyaQE7vvNwrVSQhjZM6ujEBnDMoP merged with server 93 at distance 12.18 km.
+2024-10-06 21:43:50,217 - Validator 16Uiu2HAm1d3t5tmnDmGv8CweJyRFzh2FYcdxnXofsJr2yMn8VgwJ merged with server 90 at distance 26.34 km.
+2024-10-06 21:43:50,234 - Validator 16Uiu2HAkxP5m3tMdYkb7yHs742YqMfiE1AtLAuex9B1dhfKPGBYA merged with server 90 at distance 3.33 km.
+2024-10-06 21:43:50,252 - Validator 16Uiu2HAkveYhLUAJX3TuzRT9xFXCjSB7bABJxiTd3vztf4uiymny merged with server 16 at distance 41.69 km.
+2024-10-06 21:43:50,269 - Validator 16Uiu2HAmSb6V5UJjpKGkbdSaSy3Hr1kf8mrnQCPmJtBCkqjyJpXf merged with server 16 at distance 58.89 km.
+2024-10-06 21:43:50,287 - Validator 16Uiu2HAm3aV1TctDKY5gyGzBnDPRdjNPUdg1xiSJKeNGMThFRvL2 merged with server 44 at distance 27.04 km.
+2024-10-06 21:43:50,304 - Validator 16Uiu2HAmE8TiK3Yyqo46YWsrh1JSVzBrvKdk2XHhE1yaqXMRbqgc merged with server 137 at distance 138.86 km.
+2024-10-06 21:43:50,322 - Validator 16Uiu2HAmLkosD9xAWvYDsqyDMuVaqTGChVwF12uRgWGPEmjFVKL2 merged with server 16 at distance 101.21 km.
+2024-10-06 21:43:50,340 - Validator 16Uiu2HAmJa6MpE7a5EGPnDd5TH7dhZYvsgD4J83KmbHtkM43hFbH merged with server 44 at distance 18.85 km.
+2024-10-06 21:43:50,357 - Validator 16Uiu2HAkycWQL2kAEHqSEXeoeHRdzDWaHCEXGzk2fosASeMiKUrn merged with server 44 at distance 59.44 km.
+2024-10-06 21:43:50,375 - Validator 16Uiu2HAmCSgvbyuWcWMU7G9PdjA6DPvRKPY5UYdV55DKhF8ybvht merged with server 93 at distance 35.19 km.
+2024-10-06 21:43:50,392 - Validator 16Uiu2HAmJJM7qzmMDefRH5oKiXnLuE9P7ZoFY6gYqg6eUwuTWTUb merged with server 123 at distance 7.06 km.
+2024-10-06 21:43:50,410 - Validator 16Uiu2HAmBj7oiYx9zWKtJEDDHu8pHHAEWdsW5xSGfpQTM4hmEdzo merged with server 55 at distance 34.90 km.
+2024-10-06 21:43:50,427 - Validator 16Uiu2HAmHDP5S1gpytNxkRheDKA1jSgegsADzUeURcTER5dP8utE merged with server 90 at distance 55.49 km.
+2024-10-06 21:43:50,445 - Validator 16Uiu2HAmS2yj4YjNueRg5oJ7iHpusDe1qKiCzw5regq4h3WoMHxg merged with server 16 at distance 26.40 km.
+2024-10-06 21:43:50,462 - Validator 16Uiu2HAm3i6di8zBaLAgiX1cV1uVWhvs1HkumGS5wPMKZ8u16gy3 merged with server 16 at distance 31.16 km.
+2024-10-06 21:43:50,480 - Validator 16Uiu2HAkzCSWT9j8JEi4zWkd8REQ6J9tPadrpxCQ1z3ztUSqgLky merged with server 44 at distance 27.32 km.
+2024-10-06 21:43:50,497 - Validator 16Uiu2HAm1e8kCBCyfwKCf7a8q3GMCbhmyMHhyuVaHmkjaiLZoB1b merged with server 55 at distance 192.64 km.
+2024-10-06 21:43:50,515 - Validator 16Uiu2HAmVQR3S2Zp7YzH7K4SevNu9woEJhXFAon8q9wSS5LUcV7r merged with server 55 at distance 15.28 km.
+2024-10-06 21:43:50,533 - Validator 16Uiu2HAmFNcknAhVDg4GZJ8t9PkWhbZLLoxXZfAz4ETkukqL6pXP merged with server 90 at distance 186.95 km.
+2024-10-06 21:43:50,550 - Validator 16Uiu2HAmSQ5ogAnoPhvEDoAB1foqgUbSvUNXLvaxTyKjRP8T6o2e merged with server 137 at distance 15.01 km.
+2024-10-06 21:43:50,568 - Validator 16Uiu2HAkxGUCpRmUSMVPvvVP1yv77dnfj8zjp2ASBhXRSrZkmUYP merged with server 16 at distance 33.65 km.
+2024-10-06 21:43:50,585 - Validator 16Uiu2HAmCvsPSFHpvwuQ3bZfvnQb7N6pjB7hyf8W2zGi6ejhJRYe merged with server 71 at distance 319.33 km.
+2024-10-06 21:43:50,603 - Validator 16Uiu2HAm3nXSXDYXd2tibw9rfrBTdXfWtRiSpztVYCErh1PcQu4d merged with server 137 at distance 15.86 km.
+2024-10-06 21:43:50,620 - Validator 16Uiu2HAmMjRd9ZA4Ky7KdWRwKV3vu3bnEe7Z1m94cL7od9W3mx53 merged with server 16 at distance 30.78 km.
+2024-10-06 21:43:50,637 - Validator 16Uiu2HAkzT6LzXpd3TSmExVih7p6f7o1gM2Kr2ZVgyjoAVKrFFsc merged with server 16 at distance 14.55 km.
+2024-10-06 21:43:50,655 - Validator 16Uiu2HAmRJbKXEmEgY4LWbxEi8FaeT6fKDj7bzuuPVXrhcQNKfew merged with server 40 at distance 22.71 km.
+2024-10-06 21:43:50,673 - Validator 16Uiu2HAmLg7K1gvWfF79V3ris7ZfDzb3opuLzoEtpjQ1EBPRd4R8 merged with server 93 at distance 163.20 km.
+2024-10-06 21:43:50,691 - Validator 16Uiu2HAmCMSHkMeX5C5wP9nUaj3nrqBFTK59ta7PPnk72eC22aPs merged with server 93 at distance 162.15 km.
+2024-10-06 21:43:50,708 - Validator 16Uiu2HAmCwYCjNZVey3bu1rDKNxDkhBY4XBQGd4EzFpq2Dnk5Sqw merged with server 71 at distance 175.38 km.
+2024-10-06 21:43:50,726 - Validator 16Uiu2HAm9ZdXMqsXy3C9kGkKPdcyW9ceTsujVLi9M1CTnQdBDE18 merged with server 250 at distance 47.46 km.
+2024-10-06 21:43:50,743 - Validator 16Uiu2HAm1mZHyr4u2r8Sz7mqB1wkxYCudSqHnseRWi8LQi9AyHW6 merged with server 55 at distance 35.59 km.
+2024-10-06 21:43:50,761 - Validator 16Uiu2HAmDBorUf1htQWv58A68AHZJFA2pcpA1vVaKTgnLXmuZLeG merged with server 137 at distance 29.04 km.
+2024-10-06 21:43:50,778 - Validator 16Uiu2HAm2N2z3Fp2P1zSJYk64Yy2YgkW35wn6uwNnwz6g15235b8 merged with server 80 at distance 140.75 km.
+2024-10-06 21:43:50,795 - Validator 16Uiu2HAmKDBnstmqWPiWoNQqWygcAEM317broSn4HP7AEXaphCD9 merged with server 40 at distance 2.35 km.
+2024-10-06 21:43:50,813 - Validator 16Uiu2HAmHtdjYFVd4TmYww2vup4QU9C2XkPxRXngCMAvZD4L9jBu merged with server 44 at distance 67.37 km.
+2024-10-06 21:43:50,831 - Validator 16Uiu2HAm8fBmkSxjajkZPqC5EWedcC3QkAtMvmrHdZUkboNkP1fN merged with server 93 at distance 179.97 km.
+2024-10-06 21:43:50,848 - Validator 16Uiu2HAm71gtU3fGA9sW1XwmMLPErjKx6sQyAnCCDPxDoaTnWfkA merged with server 71 at distance 38.35 km.
+2024-10-06 21:43:50,866 - Validator 16Uiu2HAmFS7rryPACeTtoRGyzSGr7xU6GLHe3Z82JYmQ6KsZKMRg merged with server 40 at distance 20.43 km.
+2024-10-06 21:43:50,883 - Validator 16Uiu2HAmJqSd8rvAQJ3kKtw5io2QuuEingsvpRTHvxXbDbRRPETb merged with server 68 at distance 76.63 km.
+2024-10-06 21:43:50,901 - Validator 16Uiu2HAm8jsRvSaaZviMpWR4G16bTAtFnkg14V5K6toXTeY1PPA8 merged with server 68 at distance 83.70 km.
+2024-10-06 21:43:50,918 - Validator 16Uiu2HAmASyadKdUhzz2DAVALhQ5bLojPbEfY8ousTo1FmJMf9sx merged with server 93 at distance 102.36 km.
+2024-10-06 21:43:50,936 - Validator 16Uiu2HAm9dm6gakHn8GEVGbHJo9Jce7JDtKNtigKRVjtFCHpV7d7 merged with server 93 at distance 164.64 km.
+2024-10-06 21:43:50,953 - Validator 16Uiu2HAkzonBXHUcqhRMrenodFGbKVSQHKY9qW5biFQkADUt4jjN merged with server 250 at distance 24.08 km.
+2024-10-06 21:43:50,971 - Validator 16Uiu2HAmNDdW8bz93QJpur6UVohgPp2u9aW7Zuzjh3KduafGTSnM merged with server 58 at distance 11.11 km.
+2024-10-06 21:43:50,988 - Validator 16Uiu2HAmJdL4pMWrDdSj9FZ1Jb95k4KM9Ki689kRW4DvqwFvcRVk merged with server 71 at distance 18.37 km.
+2024-10-06 21:43:51,006 - Validator 16Uiu2HAmEaZc2ApMdN3JgeSjbBYFRVKp9unw25UZrZhM4VKZ58uL merged with server 137 at distance 58.57 km.
+2024-10-06 21:43:51,023 - Validator 16Uiu2HAmPxYwxLmG18W6mmLF245G53CVmy6jVGyjPLwDDcuHCoZR merged with server 250 at distance 49.28 km.
+2024-10-06 21:43:51,041 - Validator 16Uiu2HAmQj88aWuRtDPhws9n8DNuiHmJJ2zc7gmFFpKJBF9JSxVk merged with server 17 at distance 203.32 km.
+2024-10-06 21:43:51,058 - Validator 16Uiu2HAkxwUHSeEAg3j7ZM5GezFGyqk262UwWouhJZuVDYczpXKS merged with server 193 at distance 191.79 km.
+2024-10-06 21:43:51,076 - Validator 16Uiu2HAm8TRC77z1mEYy2mEoVhBaY67pdeFjxKK7XNFhBgmA8bhC merged with server 225 at distance 110.60 km.
+2024-10-06 21:43:51,093 - Validator 16Uiu2HAmGD2bSe2PhcssLFow3mFihHTwLmYCSuWDaK9ps79tkZ74 merged with server 90 at distance 121.59 km.
+2024-10-06 21:43:51,111 - Validator 16Uiu2HAm1W7HPFL1TDgYS5ViKjjgRmQ6yhzmSMJ8LsNni92Qf6XE merged with server 40 at distance 49.88 km.
+2024-10-06 21:43:51,128 - Validator 16Uiu2HAmMm4HKZhYAu3iu81ffg7EMSQXSssApYP3Hs4QCyPWj7BK merged with server 68 at distance 46.65 km.
+2024-10-06 21:43:51,145 - Validator 16Uiu2HAm5BTjuEbUWMqPZeC3YBg6PTzBwBnxLzsBXJUK88XxL3kp merged with server 230 at distance 5.02 km.
+2024-10-06 21:43:51,163 - Validator 16Uiu2HAmT3GVcTzX9JjLrZGV7y69RtW4zLdYepLFRBeA8HUYFz72 merged with server 71 at distance 20.42 km.
+2024-10-06 21:43:51,180 - Validator 16Uiu2HAmSpoxvCA7rrq6mEExKwoDQ6CxnurLVv3SiaKyo1M6GoMb merged with server 80 at distance 10.84 km.
+2024-10-06 21:43:51,198 - Validator 16Uiu2HAmUnS9ctqYX99py5B6eR9kT81iCcg9AnDXDuHfHqLUndbo merged with server 68 at distance 20.97 km.
+2024-10-06 21:43:51,215 - Validator 16Uiu2HAmLxyoArk6R9qmWiW9Gh6cZPbUtvse5eBz4W8FFF5e1SBC merged with server 68 at distance 15.19 km.
+2024-10-06 21:43:51,232 - Validator 16Uiu2HAmKUpJQNkgqGPBiJ2HfsVkEdRdQnEGMJTpFMFQYQuQSKCn merged with server 58 at distance 52.56 km.
+2024-10-06 21:43:51,250 - Validator 16Uiu2HAmVgHhhFAezpRnZDZv4UwmDEqSLDQkgWcXw2RUXgMTpyaN merged with server 201 at distance 4.67 km.
+2024-10-06 21:43:51,268 - Validator 16Uiu2HAmP2zPEdmoZjALHQtshkXi7iC2YrdWrqgJdfcZzGwuqqRC merged with server 261 at distance 160.70 km.
+2024-10-06 21:43:51,285 - Validator 16Uiu2HAmQGgx3eUudwJ3Rhf9THHZvNYPUkVaMg5fqYTMbng1vMDR merged with server 71 at distance 39.60 km.
+2024-10-06 21:43:51,302 - Validator 16Uiu2HAmJ5xa1Ru9HQmX4696EkNzUrfgUa5NKS9ZPtqqZFBBd2sP merged with server 230 at distance 26.19 km.
+2024-10-06 21:43:51,320 - Validator 16Uiu2HAm25TDb9SofdQtpDm4X6Mdv7zatbJyXGdApLC97FAkeq3p merged with server 80 at distance 17.71 km.
+2024-10-06 21:43:51,337 - Validator 16Uiu2HAm4oBNi4CWwmshNUMiuHZPe7sfu8xW3ujdgXYNdWnDMPQw merged with server 40 at distance 79.89 km.
+2024-10-06 21:43:51,354 - Validator 16Uiu2HAmEAyxCV3V48kvyCQP3s4BQCB2u2JQaxjQjZHgjr5dARFM merged with server 40 at distance 81.72 km.
+2024-10-06 21:43:51,372 - Validator 16Uiu2HAmU6AfyQQ8U9jjesRwfLckXiGANPmUFgbvociXFusMSLma merged with server 68 at distance 6.13 km.
+2024-10-06 21:43:51,390 - Validator 16Uiu2HAmReRTkmH6J4ZteVgfaxyuZpCoMM5VvyWctKvnvCTiALW3 merged with server 86 at distance 73.83 km.
+2024-10-06 21:43:51,407 - Validator 16Uiu2HAmNixMzVXs7KRMdgv8GPUot49gCEE8tqt6RoJi6DjuuZ8d merged with server 230 at distance 178.37 km.
+2024-10-06 21:43:51,424 - Validator 16Uiu2HAm997ULXxta4iGioN2N8T2d5x41VRHapjT2anoEHwprxsH merged with server 68 at distance 25.97 km.
+2024-10-06 21:43:51,442 - Validator 16Uiu2HAm8MgL5kstPNAxEbuq6n7TxbmGD7Fg3gChLHL8CuQLNg9B merged with server 261 at distance 153.65 km.
+2024-10-06 21:43:51,459 - Validator 16Uiu2HAm9X9tSYmSKEWu2tq6XibxkA1Qjj9sHnYmGiF2vS54j9gm merged with server 71 at distance 52.11 km.
+2024-10-06 21:43:51,478 - Validator 16Uiu2HAm5F7c9EmNsSQcP5tmDr8tA9VcAGmAfX5HV85guwybjirk merged with server 80 at distance 43.29 km.
+2024-10-06 21:43:51,495 - Validator 16Uiu2HAmEuhoL15iqnDDfBoDBi9ykwWQyHaUmdWC7JyKDG2fd5sG merged with server 80 at distance 27.89 km.
+2024-10-06 21:43:51,512 - Validator 16Uiu2HAmHyRCiVDx6k358cquSoFrb4CZo1ezS2Q5XWYHiLkMhdxP merged with server 40 at distance 104.64 km.
+2024-10-06 21:43:51,530 - Validator 16Uiu2HAmLWau23ryX6AyN74Lo6KyACZ6B6bfgtCHQVuoB41Cxfrq merged with server 68 at distance 92.54 km.
+2024-10-06 21:43:51,547 - Validator 16Uiu2HAmJiTjUgHcR6ed114AdmFRVDiPowcVWYqQrEMTeb2Rvunk merged with server 68 at distance 46.25 km.
+2024-10-06 21:43:51,564 - Validator 16Uiu2HAmQoDprR3AvCr2qsEYsDrbqiaHt8nFJegWeBYHq3eizkwE merged with server 68 at distance 41.50 km.
+2024-10-06 21:43:51,582 - Validator 16Uiu2HAkwNXfAXuecRkrhqeq1ETYZTJdcJF4pm4fgpEFgVucB7H3 merged with server 130 at distance 40.73 km.
+2024-10-06 21:43:51,599 - Validator 16Uiu2HAm32dyxs5M1HAEeVWsEd9Mn3HdoV3yz6TD4jNLFiofCAU2 merged with server 245 at distance 170.39 km.
+2024-10-06 21:43:51,617 - Validator 16Uiu2HAkykqgqgKqBHiatBtkmibLe8sCkz5zkSTzew9SvJqbj9vC merged with server 86 at distance 49.99 km.
+2024-10-06 21:43:51,634 - Validator 16Uiu2HAm9GodNSkKMsFBR7Q8ToNkj6Mo1RWnT2TT7fh1s6MwccBg merged with server 71 at distance 62.68 km.
+2024-10-06 21:43:51,651 - Validator 16Uiu2HAmUHWqbgZamEhY9JrwVkFvVMBQuZ2CR9LjqEPq9nJQ5Ung merged with server 184 at distance 18.73 km.
+2024-10-06 21:43:51,669 - Validator 16Uiu2HAmDyVyyPGUt8R2MnpLm9fq1BYYZyX9xju2meovNa7DMdZK merged with server 184 at distance 15.61 km.
+2024-10-06 21:43:51,686 - Validator 16Uiu2HAm2yWBjw6XUNk6B1qZcBkttP76aDXSwQr7w9Hy65xsyB7R merged with server 94 at distance 1.42 km.
+2024-10-06 21:43:51,703 - Validator 16Uiu2HAmNsnEX5RrnSF2FEHLwJrSFUu2gnHjjE3NYq1wNXiguUph merged with server 250 at distance 98.05 km.
+2024-10-06 21:43:51,721 - Validator 16Uiu2HAmHN6TibSxumXX2bgCMR4dMNRJfbT4gsKjpFREpyMua3sy merged with server 130 at distance 7.22 km.
+2024-10-06 21:43:51,738 - Validator 16Uiu2HAm54pRRHxxu1ChkHixsQoiFeXA6Rqn5cNTf56b7jP8Hxqs merged with server 94 at distance 21.48 km.
+2024-10-06 21:43:51,756 - Validator 16Uiu2HAkzBd94DcnjVtMmPuHAeVnkQ5J599C12t6Ep5MXEvyAJ2h merged with server 86 at distance 18.08 km.
+2024-10-06 21:43:51,773 - Validator 16Uiu2HAmKYUDJofXLMSNvCN8UeuY87C2jcTQm9Mm1hxcW5UtSFUk merged with server 86 at distance 52.05 km.
+2024-10-06 21:43:51,791 - Validator 16Uiu2HAkyuozoZqCJxQQEGg4YLiXpt11UvboecHYk4RsFpdLv7bq merged with server 71 at distance 96.09 km.
+2024-10-06 21:43:51,808 - Validator 16Uiu2HAmQJbAb1YEF3KdgGwPQaZhbYF3wmz2LgjJXnNEocWH5FLQ merged with server 184 at distance 20.65 km.
+2024-10-06 21:43:51,826 - Validator 16Uiu2HAmLuC9itxD7Lc2uJPmg6V4naZeBcJ3H5SnFnSwaMD4xXeA merged with server 68 at distance 74.67 km.
+2024-10-06 21:43:51,843 - Validator 16Uiu2HAmNzLprXQxSy8TxnXusMepcQ67eYeNhgHYsf3sHvfFmbQb merged with server 130 at distance 13.24 km.
+2024-10-06 21:43:51,860 - Validator 16Uiu2HAmBnm1gW1NkKKjzkbd5bzuowTJLDp8KY4PJ77k9mrxF7Nb merged with server 130 at distance 22.89 km.
+2024-10-06 21:43:51,878 - Validator 16Uiu2HAkyNBSjQsussvQE8Bpyr1GEke6LjF9MeJoNHxuSTWNmgZF merged with server 114 at distance 21.73 km.
+2024-10-06 21:43:51,895 - Validator 16Uiu2HAmV4gdyZAtaVMZ9j84APK71DmicqKxVQVTuMKvKm5avG1x merged with server 117 at distance 5.55 km.
+2024-10-06 21:43:51,912 - Validator 16Uiu2HAmBbqQQhrQQZ91e152Gee1ZwpVEG6PUKQveC6MZsvgDjfG merged with server 22 at distance 207.37 km.
+2024-10-06 21:43:51,929 - Validator 16Uiu2HAmSbMeFzriH9yJFuLYeyYSMESjMqm9y1csuycvbMHV1RFb merged with server 13 at distance 5.20 km.
+2024-10-06 21:43:51,947 - Validator 16Uiu2HAmSet9hGgvteCGcVUuh68cR3NNzW4mmRXnSd7aZhD84ALd merged with server 259 at distance 3.13 km.
+2024-10-06 21:43:51,964 - Validator 16Uiu2HAkvVaC5RL42fW29zU2YXmUS3x7co7doCbsrTrc2SgrAPX7 merged with server 130 at distance 53.63 km.
+2024-10-06 21:43:51,982 - Validator 16Uiu2HAm9dgm3zQE3GxBHbHvoEgwLoAMEnEqNiuUVGQrzmXcXGtU merged with server 261 at distance 268.96 km.
+2024-10-06 21:43:51,999 - Validator 16Uiu2HAm9o1yaSBdrNXGH8EGFAuPabtXzBT5kSNJn61DrA9r3AUW merged with server 106 at distance 166.03 km.
+2024-10-06 21:43:52,016 - Validator 16Uiu2HAmF7goJ22qeMXHD4FyvWutfs4GPdkZ1eDNw5X5FYWecmcN merged with server 138 at distance 87.99 km.
+2024-10-06 21:43:52,034 - Validator 16Uiu2HAmPFhXYA6LfjyULQRkcmAjjDsZa4xo4FZY9JHKRpfCsspH merged with server 250 at distance 148.30 km.
+2024-10-06 21:43:52,051 - Validator 16Uiu2HAmFCnLbqeKGaVK7bJ8sCQBDR821tPA59xY3PX8w2Apghoo merged with server 171 at distance 23.58 km.
+2024-10-06 21:43:52,068 - Validator 16Uiu2HAmENEifdREvHTRNHVRmytfsmWH8LABaf3gpcj4WQKLaCw3 merged with server 114 at distance 12.65 km.
+2024-10-06 21:43:52,085 - Validator 16Uiu2HAm2HEv2XdmeHDXPsrirvo9DJCVz7aduYVq42PJgDYZAmhi merged with server 13 at distance 28.52 km.
+2024-10-06 21:43:52,103 - Validator 16Uiu2HAmFTpp6JJSBL5pydRVibQZku2CnjkuVDvknwRXL9zmUDAC merged with server 13 at distance 50.20 km.
+2024-10-06 21:43:52,120 - Validator 16Uiu2HAm4smmCMM2b9Kjx5goq9SfNn9vhZ5Vm52o6h8RE3zjBWj3 merged with server 44 at distance 251.18 km.
+2024-10-06 21:43:52,137 - Validator 16Uiu2HAmDrCG2mQQhAzC3cbqAVFZDyZvDcpzJvrHHftKjErPFoFF merged with server 184 at distance 87.23 km.
+2024-10-06 21:43:52,154 - Validator 16Uiu2HAmM79CF8qZTdxn6QFN5yb8xpnJcjGcsrG8n1JfE4jotUFL merged with server 109 at distance 59.74 km.
+2024-10-06 21:43:52,172 - Validator 16Uiu2HAm2sE2egGcp9CAZQxCBuKw8V1gmT5A4MQcFHeHqnwwDpax merged with server 94 at distance 183.00 km.
+2024-10-06 21:43:52,189 - Validator 16Uiu2HAmRW6pq79Rs5rtJeoCetDdCjN9TLT861ThaMzzj6JBtTHJ merged with server 66 at distance 6.42 km.
+2024-10-06 21:43:52,206 - Validator 16Uiu2HAm9VSzpWS3T8E77PtA5at2vSbSUywpxJemfwXjDhZhXPwP merged with server 66 at distance 19.03 km.
+2024-10-06 21:43:52,223 - Validator 16Uiu2HAmFWuemdtDKYP8n6YUuT7Rco5HSf65cg8Yvz5BdmgTWfhN merged with server 44 at distance 271.11 km.
+2024-10-06 21:43:52,241 - Validator 16Uiu2HAmUyiExN4ctSdjAxgCSEkAHrJTwkTgWN5GWCXBEkaqigby merged with server 44 at distance 285.04 km.
+2024-10-06 21:43:52,258 - Validator 16Uiu2HAmGbLCNhZ8iMeyZWyNrGieLpeefvbcWVt54memACzUEzkd merged with server 225 at distance 68.57 km.
+2024-10-06 21:43:52,276 - Validator 16Uiu2HAm5faDX2mbmSTt14B2LfeaW9iLkydBq4rpPz6DsriaGkKN merged with server 259 at distance 71.06 km.
+2024-10-06 21:43:52,293 - Validator 16Uiu2HAm9L8BorfiHLsSQ7qCYZxumQNXPkfX1VmQTus5rPEDEUv4 merged with server 114 at distance 47.44 km.
+2024-10-06 21:43:52,310 - Validator 16Uiu2HAmNfH2fxqWLyMfunXegr7opftDVGyaCmxjjm4BShA71ESv merged with server 233 at distance 63.85 km.
+2024-10-06 21:43:52,327 - Validator 16Uiu2HAmVSrZJ6sWCRmvHjgDSrwg9L7xk3vH7TwW3aECC1UNozxx merged with server 44 at distance 287.66 km.
+2024-10-06 21:43:52,345 - Validator 16Uiu2HAmRdZzN8QbTh9nXY3hKf9sgEPJ9BsCT6PMksBGrMHSJCmu merged with server 66 at distance 100.82 km.
+2024-10-06 21:43:52,362 - Validator 16Uiu2HAm8R4TNStTKTCfrDr3h5Psme1VjmR3Edb1VW3h2ATNwKEW merged with server 86 at distance 61.86 km.
+2024-10-06 21:43:52,379 - Validator 16Uiu2HAm7UfdV8Q5FC9RPKDJoRM951DmatyC3XXuBsg4qoLY7wXp merged with server 233 at distance 39.07 km.
+2024-10-06 21:43:52,396 - Validator 16Uiu2HAkzTz8BtR4EgZEQ2HrxdTbWcRtzDqmWBjJvbt1mxzhHa8L merged with server 17 at distance 17.11 km.
+2024-10-06 21:43:52,414 - Validator 16Uiu2HAkyMH2jxzY5Ja9iuQ4fRUrra4w8sgV6m3xz6TR9Zk4DBhT merged with server 174 at distance 997.31 km.
+2024-10-06 21:43:52,431 - Validator 16Uiu2HAmHyyE9Zc4tyLAC9kWfoGdvjJQoVb3wg119syPQuaHUMxh merged with server 138 at distance 34.92 km.
+2024-10-06 21:43:52,448 - Validator 16Uiu2HAmFTWbhA9YY1YeABBHwWYmC1E1ZeLksJLSkmmEKYREG6G7 merged with server 114 at distance 74.15 km.
+2024-10-06 21:43:52,466 - Validator 16Uiu2HAmK5vihFBpBEK4HAnYNXrNcU8e9XdKfG9dBzbPmN6kiBu9 merged with server 233 at distance 58.80 km.
+2024-10-06 21:43:52,483 - Validator 16Uiu2HAmLw4EXFeNfcZn4thwvS2VPjcTVLnJ4kYcJWPwiSHCmTiu merged with server 233 at distance 98.06 km.
+2024-10-06 21:43:52,500 - Validator 16Uiu2HAkzCMeqQYpPbUcxq8gHRkZcZKhipZsroeyKoaoToWBRwin merged with server 17 at distance 2.98 km.
+2024-10-06 21:43:52,518 - Validator 16Uiu2HAmCeprJyn5YchhiQCTDcn9V1PyeBMbgUANoK1R8rG45PpG merged with server 22 at distance 60.07 km.
+2024-10-06 21:43:52,535 - Validator 16Uiu2HAmRUc8Yt5o37wECbtYB14vTpVvaTRnHWUy6sd28itMmTfq merged with server 138 at distance 36.63 km.
+2024-10-06 21:43:52,553 - Validator 16Uiu2HAmLg9zhAqRtRy56siSg8jgp7Js2hAHBfLmQcCmoxAmtWsf merged with server 109 at distance 10.58 km.
+2024-10-06 21:43:52,570 - Validator 16Uiu2HAmL5xsf9Un96xqSC7zh7Wxrbqg5wHLhMA5RKBwVLAPiuLW merged with server 171 at distance 82.09 km.
+2024-10-06 21:43:52,587 - Validator 16Uiu2HAmLFryKr9oJhTDjnJFLB1PHzJ3bVW2SjGLHfCAh6iy4Y4K merged with server 233 at distance 39.37 km.
+2024-10-06 21:43:52,604 - Validator 16Uiu2HAm2rBUdyjgNevJLWoHhtVaPXK3CdLNz3U24addE5oL53A6 merged with server 17 at distance 19.05 km.
+2024-10-06 21:43:52,622 - Validator 16Uiu2HAkvmLCv1rW3WBaEQx9btj3DCT7DAvQEAAD9iRpgcwgDKeo merged with server 144 at distance 2.01 km.
+2024-10-06 21:43:52,639 - Validator 16Uiu2HAm4iDQUZSGpK4FzG2JhrAuCzZySaH8qTg7nsHd7uwk9htR merged with server 22 at distance 30.44 km.
+2024-10-06 21:43:52,656 - Validator 16Uiu2HAmPJYtKbLS4mhu1TrobY3cBMC3gLcLpCz8P5xETa2M2PWB merged with server 138 at distance 22.55 km.
+2024-10-06 21:43:52,673 - Validator 16Uiu2HAm8ALowXTCDE4LWpeZ2K4UHL4NrKrJuVzkBTRJT9TcivBQ merged with server 245 at distance 19.18 km.
+2024-10-06 21:43:52,690 - Validator 16Uiu2HAm8v4Z5Sr9C4PbMDNHMW6iUS7ti1CxEcmX7mLUU6YGo8Lh merged with server 22 at distance 20.81 km.
+2024-10-06 21:43:52,708 - Validator 16Uiu2HAm8qrEBfRnWK5u9keAaYKFJRkhLqNTDVM5K9R1kdhDwsWv merged with server 101 at distance 4.56 km.
+2024-10-06 21:43:52,725 - Validator 16Uiu2HAmRA2T6AavojZwRUHnBd6kzoo1m3CUZbjeVtGQDkQ286KX merged with server 136 at distance 11.06 km.
+2024-10-06 21:43:52,742 - Validator 16Uiu2HAm9YGG8x1f6VvY5Cx9LayistVFcJ7nKA3cpJhFnULZFHyd merged with server 114 at distance 101.15 km.
+2024-10-06 21:43:52,759 - Validator 16Uiu2HAmKfNvWs5YYA4pFutEXTvu8bJKs9DRmx9TCNZaLGHFkN8m merged with server 44 at distance 335.65 km.
+2024-10-06 21:43:52,776 - Validator 16Uiu2HAmUvLmUcV8WXREK6NtbkBT3c8rcG3KcHh5dvecEiAckTrs merged with server 94 at distance 167.77 km.
+2024-10-06 21:43:52,794 - Validator 16Uiu2HAm3pyMoPWP1koxXawqVXFqdM5XtunZ46zd6jPbYZPHzFwf merged with server 58 at distance 250.86 km.
+2024-10-06 21:43:52,811 - Validator 16Uiu2HAmTibbHLwhn7NummQDw9zFk7sswnTiM6XPi1k1cQesbFRQ merged with server 207 at distance 119.44 km.
+2024-10-06 21:43:52,828 - Validator 16Uiu2HAmPYiBgtvB64YLcVBCM2b46R7qxRxAjVmK5DpLbKMneH9d merged with server 22 at distance 37.80 km.
+2024-10-06 21:43:52,845 - Validator 16Uiu2HAmNnes8rPkra2WARqS1tAH7E1Bsxgq9aGPh8Jx9t6EUqVN merged with server 233 at distance 44.16 km.
+2024-10-06 21:43:52,863 - Validator 16Uiu2HAmFHxR3x9NYPdRrAvrfQ6TisrnZhxiJxoBWWL9NjDj7byy merged with server 14 at distance 68.09 km.
+2024-10-06 21:43:52,880 - Validator 16Uiu2HAm9qMfDqDykDTTnWKge93cawWfXkM6en6nnHer9dQyyrrE merged with server 22 at distance 6.93 km.
+2024-10-06 21:43:52,897 - Validator 16Uiu2HAkxKtXQ2cYZHCwCKEB7QPtmS3oxvgHW4vYLmA5ffm9XSUT merged with server 145 at distance 96.15 km.
+2024-10-06 21:43:52,914 - Validator 16Uiu2HAkvrZ1t1PVGRx9LXQJv4kxcjxX3sLmgdmL723zLJDmRTA7 merged with server 190 at distance 0.00 km.
+2024-10-06 21:43:52,931 - Validator 16Uiu2HAmRNubaZtSry5Wnhe9NPKRaUDvjX37ZraLtwTqasY1S4fG merged with server 144 at distance 45.48 km.
+2024-10-06 21:43:52,949 - Validator 16Uiu2HAmACA9oDJsJ19MURx3CrQJ5nMvU1c86xBpcQJA9zwo3Phg merged with server 14 at distance 53.88 km.
+2024-10-06 21:43:52,966 - Validator 16Uiu2HAmRxN4sYoWow1eETgGLR2q2KM3kuJNqFuDYz3vodA7W4AC merged with server 154 at distance 150.69 km.
+2024-10-06 21:43:52,983 - Validator 16Uiu2HAmNVMJqFmqKPkMjHvXjEpnZ9H4X3nnQ25o9MxkaVWagGBX merged with server 22 at distance 40.16 km.
+2024-10-06 21:43:53,000 - Validator 16Uiu2HAmUQXjeoNRgNqs9a1KJZxBNu2ymPxJPNqWWmS4wsv1q347 merged with server 101 at distance 50.72 km.
+2024-10-06 21:43:53,018 - Validator 16Uiu2HAmUqCHhbKWhwTqBH5KshsaqsfUAaDTeyndCneW3iYzgQ7G merged with server 233 at distance 77.57 km.
+2024-10-06 21:43:53,035 - Validator 16Uiu2HAm94NvaETKX7egkT8c3XWqFNm4SHjBSB1ntY3nu6422m52 merged with server 14 at distance 31.60 km.
+2024-10-06 21:43:53,052 - Validator 16Uiu2HAm9uWM4pGtaSDGeHQQwDMLXECSGkRUJyBSSnDumVtJVBzh merged with server 207 at distance 68.67 km.
+2024-10-06 21:43:53,070 - Validator 16Uiu2HAm6HwMW7PKc3w32sQJS893sdSHY6yodQcV8vDEnpBRTa7c merged with server 136 at distance 90.56 km.
+2024-10-06 21:43:53,087 - Validator 16Uiu2HAmTp1uMcxF467bCmVDDCy3QUqpSUGMFCUswoD6tewARuSd merged with server 81 at distance 48.00 km.
+2024-10-06 21:43:53,104 - Validator 16Uiu2HAmLnJj3vvHGEFVQiNkFhSVGajDcyFMeTT1cXB9sB6M5Mik merged with server 14 at distance 40.31 km.
+2024-10-06 21:43:53,121 - Validator 16Uiu2HAm7S6HhAsGUsxvRJEawjA4xbsacwjPrkd4cQix3VNB5EHW merged with server 44 at distance 390.81 km.
+2024-10-06 21:43:53,139 - Validator 16Uiu2HAmTKtDLff5XBrrCZxMcR363etZVaKcdT2rtrzX6Va17inG merged with server 154 at distance 132.82 km.
+2024-10-06 21:43:53,156 - Validator 16Uiu2HAkyjtYoqWVrizwJPFkVXModwJog4vrwdpuAAjzbMJRq2eC merged with server 22 at distance 73.43 km.
+2024-10-06 21:43:53,173 - Validator 16Uiu2HAkyNRjKbNgtrahsSUqGrz9MUNnCY8BXQbUajg8NFfudDiH merged with server 101 at distance 87.14 km.
+2024-10-06 21:43:53,191 - Validator 16Uiu2HAm1398hz5ULB9bAicKeXa7tpB3vsc58WDV5hoEU9u4HwTk merged with server 81 at distance 13.18 km.
+2024-10-06 21:43:53,208 - Validator 16Uiu2HAmKqHf9BgYhhVK2kiyVis3oMcfGqvMw2XFw4wmMwtDzqHt merged with server 14 at distance 61.31 km.
+2024-10-06 21:43:53,225 - Validator 16Uiu2HAm75tdfdpP5oVrSci2BJ6GUWnmkL4tjzEDJpv13Jyf6y4k merged with server 22 at distance 113.02 km.
+2024-10-06 21:43:53,242 - Validator 16Uiu2HAmTLZJxLmJzs43Wyt9nrzknacc8DdXA7MrwLkZkyVqXihU merged with server 81 at distance 38.18 km.
+2024-10-06 21:43:53,260 - Validator 16Uiu2HAm76y1xaAe4HMmMATjnJWmWo1cTpAqpCkPHQpbBNtYTfTU merged with server 106 at distance 43.14 km.
+2024-10-06 21:43:53,277 - Validator 16Uiu2HAmHoBovey72uvTkQemHejaobGoKgqsqAVjWxdcsNmAmFpW merged with server 81 at distance 22.62 km.
+2024-10-06 21:43:53,294 - Validator 16Uiu2HAmU3nebUxutCZ5UP2UU8QFJo4zXsc6mtE7Uvzy8L35NQPz merged with server 81 at distance 22.24 km.
+2024-10-06 21:43:53,312 - Validator 16Uiu2HAmJCfBuAyqj1i3Nqp8xxzASJe5rq777cWPvnH4C4u1HjoR merged with server 141 at distance 51.98 km.
+2024-10-06 21:43:53,329 - Validator 16Uiu2HAmPC5P8bjPUkawqww2HAGs2RiwxDUFaadWT44bnSkxm6He merged with server 14 at distance 20.54 km.
+2024-10-06 21:43:53,346 - Validator 16Uiu2HAkzqufmA9CZny2XMMip1SPBsaFCNvXE4U8bigEEPD9Geve merged with server 17 at distance 135.66 km.
+2024-10-06 21:43:53,363 - Validator 16Uiu2HAmCJEcww2BZ7Cj93Rvzkj8cf19pAmi2kiFw4qj9X5vw7AU merged with server 69 at distance 86.60 km.
+2024-10-06 21:43:53,381 - Validator 16Uiu2HAkzGNf7R3WUZ7vNe8u1GUUFKLxP3jugzjbowX5aGKJRkvh merged with server 145 at distance 16.66 km.
+2024-10-06 21:43:53,398 - Validator 16Uiu2HAmMUss93A1RLfCWV4Z43QVXwu7dqt2XJWQMQarWfse4XAi merged with server 145 at distance 96.39 km.
+2024-10-06 21:43:53,415 - Validator 16Uiu2HAm6ikrfoF94JCvKvz1sVujCmWTm2QUZr9LJcykCfVodMyP merged with server 141 at distance 26.53 km.
+2024-10-06 21:43:53,433 - Validator 16Uiu2HAmGsCUPwzbuWbVNRg5DBz7kG35Wy29t59MX7d4s4MJK7S3 merged with server 207 at distance 60.60 km.
+2024-10-06 21:43:53,450 - Validator 16Uiu2HAkziZxKPAG9ooZSEWa9ts4euHRpnDzimP3gdqq3Aru5WVw merged with server 154 at distance 2.73 km.
+2024-10-06 21:43:53,467 - Validator 16Uiu2HAmAkQVanJdT5z1zA8S2MtvYFx6DKKz1UwtjsuvV4MXDjJn merged with server 81 at distance 55.83 km.
+2024-10-06 21:43:53,484 - Validator 16Uiu2HAmUj4hDc6zo5KFg2eSb2JvzWNquTCXMuW6BzF6ZEg6dUVm merged with server 96 at distance 17.47 km.
+2024-10-06 21:43:53,502 - Validator 16Uiu2HAmB3eDRGT29Yuj8LTbSznrUDvfQHqcMzfPwxtbVs5ATau9 merged with server 145 at distance 7.62 km.
+2024-10-06 21:43:53,519 - Validator 16Uiu2HAmARRYGNgZeD8wWRwFSvvPM1V1P5pTNSCnkB9NaZhynma5 merged with server 141 at distance 24.51 km.
+2024-10-06 21:43:53,537 - Validator 16Uiu2HAmNCPvnPqkVmpiRmcaVfQG8USs79gEduGg7T3m4zrvfmvD merged with server 141 at distance 8.35 km.
+2024-10-06 21:43:53,554 - Validator 16Uiu2HAmAWSppkKBwtet6FxxJ2siHYdNpz1SQTzJK46hphZuvmT1 merged with server 22 at distance 122.38 km.
+2024-10-06 21:43:53,571 - Validator 16Uiu2HAmQzCoqA2agzLYK7KNYXbedGiSyct8rnvpimVN4ebQ5Ht1 merged with server 101 at distance 145.39 km.
+2024-10-06 21:43:53,589 - Validator 16Uiu2HAmLJGh8w8Ja4v84ScDmCmHaVopVkTWZcp4ND6gyJ4Xxwqn merged with server 96 at distance 26.30 km.
+2024-10-06 21:43:53,606 - Validator 16Uiu2HAmQS49RRWrx6vQWURVMEp3EivrWcLcFRRYMPqCiGMGtphu merged with server 235 at distance 95.45 km.
+2024-10-06 21:43:53,623 - Validator 16Uiu2HAmJmB5DmAhkjvevYNXaAX9iQuYMSkoDHMeZHXHv3Fa9L7E merged with server 145 at distance 48.77 km.
+2024-10-06 21:43:53,641 - Validator 16Uiu2HAmNAdTWGXaCzBrBkCbdHm4Bu5L4d5ayvVtiXYFqKAsp35B merged with server 94 at distance 289.49 km.
+2024-10-06 21:43:53,658 - Validator 16Uiu2HAmTs1TWfoEtNjSt5hyXUgvrZxMzH2ueAkq8BkU7LgnDHJL merged with server 86 at distance 260.44 km.
+2024-10-06 21:43:53,675 - Validator 16Uiu2HAmTmgzmzV2bu539orwDqw9c99HB6tAdgr5UZD589aZ1BnN merged with server 106 at distance 162.21 km.
+2024-10-06 21:43:53,693 - Validator 16Uiu2HAm5Pwh3LWFV3xqyJwnB3HGc6S7vDgddNrR5y9sMmCp2amr merged with server 81 at distance 120.29 km.
+2024-10-06 21:43:53,710 - Validator 16Uiu2HAmA8SqfxJW376JfjUeQhiCCTGJt17kx8ZKuVJ1aHtWzrYR merged with server 138 at distance 145.86 km.
+2024-10-06 21:43:53,727 - Validator 16Uiu2HAmKgmoEGyW3zsv6PrxkAJa7q7xumTS8JNE8d3tsmAKkE7j merged with server 96 at distance 14.16 km.
+2024-10-06 21:43:53,745 - Validator 16Uiu2HAmRKEtgAZcZcFjiR3parcN3ofJ2bUvps2w7xwfwSw9BH9X merged with server 141 at distance 33.92 km.
+2024-10-06 21:43:53,762 - Validator 16Uiu2HAmNf1F48JCRQf9zpepSjjBgExB6Wc4y7MpYo1EkKfB3HVb merged with server 22 at distance 151.93 km.
+2024-10-06 21:43:53,779 - Validator 16Uiu2HAmPLaosogrvYnNAaMs6UWmkftMHW8L5Qe6USsho5mrKzTs merged with server 101 at distance 169.05 km.
+2024-10-06 21:43:53,796 - Validator 16Uiu2HAkyUnGdUFMqv6E8LKcz9YtXfC12Z5D5JGCkSSiaSjBCeJv merged with server 2 at distance 94.76 km.
+2024-10-06 21:43:53,814 - Validator 16Uiu2HAmKKNZrVV56ChUZ9DkgmMrRhdq9yUMmyyrDFVZky6TjSGN merged with server 235 at distance 36.89 km.
+2024-10-06 21:43:53,831 - Validator 16Uiu2HAkw8NoiDaapJbBZwCgtRe6vYKpLwjMqipBkxqyRxY3f6xN merged with server 235 at distance 77.37 km.
+2024-10-06 21:43:53,848 - Validator 16Uiu2HAmBQ6vXiPkUTTVZz5AXVwrkQucK1JUjQmRoQusFxU189Uk merged with server 145 at distance 39.37 km.
+2024-10-06 21:43:53,865 - Validator 16Uiu2HAm39wjyx1nnMbJAYuxfGSELRvjRfKqz1Cu3714nE1Naviw merged with server 141 at distance 47.63 km.
+2024-10-06 21:43:53,883 - Validator 16Uiu2HAm7h7q2cnGi64RjE2ipSgaThcqzTy3KNfYfsoscE7n9czQ merged with server 94 at distance 321.19 km.
+2024-10-06 21:43:53,900 - Validator 16Uiu2HAkywP4DgoscFowAmDSJvqyJumnVJ48QdFC7ro6BmsBnZDX merged with server 17 at distance 190.44 km.
+2024-10-06 21:43:53,917 - Validator 16Uiu2HAmDeRuSYUEE6fh8ZTFWMffboyehn4BaaKsHNnreVAZzWXp merged with server 240 at distance 313.90 km.
+2024-10-06 21:43:53,934 - Validator 16Uiu2HAmL533LnmcGq1wEuSrezkNLdNG8iTFfVSS42ZgqCWgjBMz merged with server 144 at distance 182.08 km.
+2024-10-06 21:43:53,952 - Validator 16Uiu2HAmExCCmUEXsiEBZYii3kVAHZ2fpHesonoWcaFrMU8p4ATy merged with server 2 at distance 69.33 km.
+2024-10-06 21:43:53,969 - Validator 16Uiu2HAm9xTmVihuPiGHv2VzaGVkYXF8h7s2gQuxTpmp9vofqE46 merged with server 96 at distance 102.16 km.
+2024-10-06 21:43:53,986 - Validator 16Uiu2HAm6DYZmGNquG58ayjYKnNrCuCEHjq6GRtmUhZ1bSLyv7QZ merged with server 94 at distance 317.73 km.
+2024-10-06 21:43:54,003 - Validator 16Uiu2HAm36StQiFYxEpYsGCCQ92dvuxiU5FxcS8FhroMn11goTCp merged with server 69 at distance 2.30 km.
+2024-10-06 21:43:54,020 - Validator 16Uiu2HAkzCiHuLzZooHGkjcH4Pt4CauHWAMs4WjcXxCCFxyZgvFM merged with server 102 at distance 146.07 km.
+2024-10-06 21:43:54,038 - Validator 16Uiu2HAmVotzpkLpAZQm7VJuudRAZx3BLLEqwj6djVxpbXBLG3yo merged with server 145 at distance 112.69 km.
+2024-10-06 21:43:54,060 - Validator 16Uiu2HAm64UV2a5pEwfTSUPzdoqcSkbzGtyMPr42mb1egErSeUBU merged with server 94 at distance 323.18 km.
+2024-10-06 21:43:54,077 - Validator 16Uiu2HAmEv6LPHcrczBtTjdPQsR6Y2UbTkYqnmoLJwpVWcghJafj merged with server 17 at distance 300.08 km.
+2024-10-06 21:43:54,095 - Validator 16Uiu2HAmN6UL8z5aXbz14Ev21B39xskokUpSSDcJW7NUS9CNje63 merged with server 240 at distance 277.77 km.
+2024-10-06 21:43:54,112 - Validator 16Uiu2HAm6CBz8UUJJ6MtV7YvuqDDyoxmUZwsj7w63T1sSFwveiip merged with server 2 at distance 92.78 km.
+2024-10-06 21:43:54,129 - Validator 16Uiu2HAmAN6erdMDAVhYuuFhNQ8zA2SSXGM265N1PPKRbESfhVJn merged with server 94 at distance 335.62 km.
+2024-10-06 21:43:54,147 - Validator 16Uiu2HAm191wWvqfnc93gmWYKMYGq1texDVrt5qFKZix5Sx3PErH merged with server 86 at distance 495.26 km.
+2024-10-06 21:43:54,164 - Validator 16Uiu2HAmFJFfHydN5kDFQvnrbKfRGjKJxVWsFgcQLRmHDYcBoye4 merged with server 259 at distance 297.04 km.
+2024-10-06 21:43:54,181 - Validator 16Uiu2HAm4SGAyDgatKDRUzKptwmhsZA5nMtxkTr39RFjsKqCAxSE merged with server 2 at distance 43.30 km.
+2024-10-06 21:43:54,198 - Validator 16Uiu2HAmLKaisvGnnLzm7ppkkvQm4HnHWJPUMoJpA41KnCGfRNFe merged with server 94 at distance 508.59 km.
+2024-10-06 21:43:54,216 - Validator 16Uiu2HAmVM1VRpoqDuRrhPRrx48chiX2kSMA15gDb1eDJeS2ZkRY merged with server 94 at distance 382.75 km.
+2024-10-06 21:43:54,233 - Validator 16Uiu2HAm8sdYdAxmwwCaGgTWikrYHTi3kGx8N3wE5p3YPoXQ2qWr merged with server 189 at distance 70.44 km.
+2024-10-06 21:43:54,250 - Validator 16Uiu2HAmLboWP7uz1xsQcu2zJcevnVf7Ddnq9gaEqMkgBX6vnRgF merged with server 189 at distance 3.83 km.
+2024-10-06 21:43:54,267 - Validator 16Uiu2HAm643duSxktAuSuRJc2HtW7ympK1oxRo21wh7VZhGZvrTN merged with server 150 at distance 259.56 km.
+2024-10-06 21:43:54,285 - Validator 16Uiu2HAmHy7YrAyfyATm1QNg8tNMn4ZbLdSFWjajnXqbor9YZ4tX merged with server 86 at distance 482.97 km.
+2024-10-06 21:43:54,302 - Validator 16Uiu2HAmMYbNojyDb9GX9jiKHXSpJrg3c76ziB4WtPVgVfRPcGoL merged with server 141 at distance 111.14 km.
+2024-10-06 21:43:54,319 - Validator 16Uiu2HAmQSvMcL3c1NLsLxhigmzacikFkwX2AQEFiEDuX9ns37sq merged with server 17 at distance 253.98 km.
+2024-10-06 21:43:54,336 - Validator 16Uiu2HAkxGb1nmBM42dam5eoqgVHSx6tFum6BHbbSLBuuCAY52aw merged with server 17 at distance 245.98 km.
+2024-10-06 21:43:54,354 - Validator 16Uiu2HAkxCeviSypQ3TokEB3QSon6hb3oahWQ7dV4wWMQ5HPHW5k merged with server 240 at distance 249.43 km.
+2024-10-06 21:43:54,371 - Validator 16Uiu2HAm7v3QHdSEkSQaJeQHzLtedk4GmXGRoXP8K7QL41xovUEF merged with server 2 at distance 32.44 km.
+2024-10-06 21:43:54,388 - Validator 16Uiu2HAmBz24KMrPBBna4FwpnXfAbemEox8Rnw1ZCdmx4y8T441R merged with server 2 at distance 5.78 km.
+2024-10-06 21:43:54,405 - Validator 16Uiu2HAmMjfx53YqTXfeiphc75JFjfoAgzuJw9gpQW8X6WK7JVCg merged with server 181 at distance 35.83 km.
+2024-10-06 21:43:54,422 - Validator 16Uiu2HAmRfeoAfMv71VbYpzV9rZEdanAV8c7PAsjHCDZqXVwrjTr merged with server 17 at distance 258.87 km.
+2024-10-06 21:43:54,439 - Validator 16Uiu2HAmEcUQrPEUKyi9ZDST4VQqommhkFw1aT1QpahDiYLcTBwE merged with server 27 at distance 246.95 km.
+2024-10-06 21:43:54,457 - Validator 16Uiu2HAmQBxbcxFgcijgxVXddB7NayFN3Vxdwe1VQYFGQqpXoG6H merged with server 141 at distance 119.48 km.
+2024-10-06 21:43:54,474 - Validator 16Uiu2HAkwPJcnCsPgsi25yLTaXkMqFCETbSCRMpf4ghnJbEPABrf merged with server 189 at distance 65.12 km.
+2024-10-06 21:43:54,491 - Validator 16Uiu2HAmC1eu8VACebAydRjUvnPjwbEh8qfQAqeKgzoJ1UPNrwzC merged with server 67 at distance 68.99 km.
+2024-10-06 21:43:54,508 - Validator 16Uiu2HAmPv3vWb1B5CJtudEXJmwyGG7UfccXKcdhngArUTvMasfw merged with server 2 at distance 62.62 km.
+2024-10-06 21:43:54,525 - Validator 16Uiu2HAmEvyZgfgDW1fv8uX5D1txN8LDLapvat6owrDNP8JwtrJn merged with server 2 at distance 37.19 km.
+2024-10-06 21:43:54,543 - Validator 16Uiu2HAmLwKxrhpoz4xMWVHxH5UBvX7w9qM5z1ncVWeqGjXQecjL merged with server 2 at distance 56.12 km.
+2024-10-06 21:43:54,561 - Validator 16Uiu2HAmVihQXeWvZCpRkM9uHnjigmVuAKfWxjPx5VD458Ypdia6 merged with server 92 at distance 242.01 km.
+2024-10-06 21:43:54,578 - Validator 16Uiu2HAmBtEpMMsGqXxrueYGDEZCHBMkkh2cCcx1H47KWcVEAnhr merged with server 2 at distance 104.46 km.
+2024-10-06 21:43:54,595 - Validator 16Uiu2HAm5t466PVYKTnBGvXFrY1oKHs9t8DLJaUkybbhRwRCRv7A merged with server 160 at distance 112.06 km.
+2024-10-06 21:43:54,613 - Validator 16Uiu2HAmGpM4yKXCBX2qWnms7sVoLXSPS4BRnh1D7fMEUwBzfy4C merged with server 163 at distance 100.14 km.
+2024-10-06 21:43:54,630 - Validator 16Uiu2HAkxGFUnbxRrjHnnneyjNsmqaGnShTbu1nqE4uC8E5rLozm merged with server 82 at distance 191.98 km.
+2024-10-06 21:43:54,647 - Validator 16Uiu2HAmEpDJjnmJ6iNKGN1bLaABvkqoSE8yt3crFfKeyWSCdh4T merged with server 71 at distance 506.43 km.
+2024-10-06 21:43:54,665 - Validator 16Uiu2HAm6HzrnHfMZ6cnFpzqPqKfxDTR9k5sikoMM6Sa7sHcGbBg merged with server 92 at distance 213.74 km.
+2024-10-06 21:43:54,682 - Validator 16Uiu2HAm94z2cScWzNbuiY2LYh93T3kEzaaGvAWQVSEPc3QyBWF4 merged with server 2 at distance 50.80 km.
+2024-10-06 21:43:54,699 - Validator 16Uiu2HAm315bMkf9SnC3AgYcnypVwzmp6dd2RE9fNQvV4FQME43C merged with server 189 at distance 91.11 km.
+2024-10-06 21:43:54,716 - Validator 16Uiu2HAmDz5sPduV9BLqPzn7opABHvdpSQ1Yp2rZjUSFWwZdc6qV merged with server 2 at distance 142.07 km.
+2024-10-06 21:43:54,734 - Validator 16Uiu2HAmQ4LPCDSDG5h5Ey5kn85WTfJ8RiiGKJXhio1NJHUBxLzZ merged with server 235 at distance 131.11 km.
+2024-10-06 21:43:54,751 - Validator 16Uiu2HAm388Aas5YDpH7HFq6V7EtpoKm3cU5ybUimKm639wz1X86 merged with server 150 at distance 229.75 km.
+2024-10-06 21:43:54,768 - Validator 16Uiu2HAmRnBjV9PzN1v9Xe2Lhv5SVoYX92Y4wD5yYkNvXh2MfbmB merged with server 69 at distance 122.35 km.
+2024-10-06 21:43:54,786 - Validator 16Uiu2HAmEBotg524Bogt6KeUrpM2CMY4puP31dk4LNo5LMj7CVCE merged with server 102 at distance 38.87 km.
+2024-10-06 21:43:54,803 - Validator 16Uiu2HAmJjQebmBu4RooFm1VDiTQKWKfTC9DhTZRDYvpPvenUZ9v merged with server 52 at distance 135.76 km.
+2024-10-06 21:43:54,820 - Validator 16Uiu2HAmViQdfvwxH8JjJHNiW4k2aThNTbTi4YinptrPdk2EYDtw merged with server 2 at distance 86.85 km.
+2024-10-06 21:43:54,837 - Validator 16Uiu2HAm3aSju8qxu4fA6dXwMvMSuG9S39nApRYgnnYDfqEbhEM1 merged with server 27 at distance 120.46 km.
+2024-10-06 21:43:54,855 - Validator 16Uiu2HAkvEMF2JyZhacMU2AJAHD3bSHzfqtR91e5DAPwoeN61Ef4 merged with server 67 at distance 1.86 km.
+2024-10-06 21:43:54,872 - Validator 16Uiu2HAmCdTqRob7sH2Ak2TUrKs93dQ9G9enYRSZBNvBVepKWADP merged with server 52 at distance 115.47 km.
+2024-10-06 21:43:54,889 - Validator 16Uiu2HAmQvQRH6DCzYqMgRZGMuCbNqS9hsx5rur1kRKxhQGXgpYj merged with server 83 at distance 50.49 km.
+2024-10-06 21:43:54,907 - Validator 16Uiu2HAmVUKd4ncH2oBZ2GT19WUaxCk2mLGTm4E6bCUzjb6fafe3 merged with server 82 at distance 113.84 km.
+2024-10-06 21:43:54,924 - Validator 16Uiu2HAmMBsS7F2L1jyhfwNdXpiB5CnKFUYULBcB8N4NuqeQNwrx merged with server 83 at distance 5.56 km.
+2024-10-06 21:43:54,942 - Validator 16Uiu2HAm3p1ZqyR6pXwr78rQvZks8rBXXH16BFVJNUjM1hcpdzAj merged with server 160 at distance 158.07 km.
+2024-10-06 21:43:54,959 - Validator 16Uiu2HAm9qcn1rkJWRwEiMhduqRgz8ganZuYn7E7iZUWmVmGjW4Y merged with server 92 at distance 112.67 km.
+2024-10-06 21:43:54,977 - Validator 16Uiu2HAmT3BXH6d84FQtUfoKyshx1EJbuEj2xb4dYLZRsMmJae3E merged with server 83 at distance 32.20 km.
+2024-10-06 21:43:54,994 - Validator 16Uiu2HAmKkX6iK5wjXiVk8JwCJSyPM7XjsUXSXmznsYzDN4hBwks merged with server 67 at distance 35.26 km.
+2024-10-06 21:43:55,011 - Validator 16Uiu2HAmP5ro8hmMvJksJBgx3w4wMDpFzWYj6wB4JNL5Y1nbxj4H merged with server 240 at distance 434.13 km.
+2024-10-06 21:43:55,028 - Validator 16Uiu2HAmJYzpNva1WCtbqs3UgD8GKF8h49ZxksJbE6F5VarqeqEY merged with server 240 at distance 106.52 km.
+2024-10-06 21:43:55,046 - Validator 16Uiu2HAmJzzdxyDrXd5kTMcRHny7atYJQbo6WEy2iP2HfA5QCpc2 merged with server 160 at distance 205.49 km.
+2024-10-06 21:43:55,063 - Validator 16Uiu2HAm36n2vEZ3zauG9L5dCydLjt38pyScFnX8jPDKRbAGJMLQ merged with server 82 at distance 73.86 km.
+2024-10-06 21:43:55,081 - Validator 16Uiu2HAmKLHRT4GkYcFvz3APDPzok8TcmwpHdT7cbc87nWAXZCpX merged with server 92 at distance 89.77 km.
+2024-10-06 21:43:55,098 - Validator 16Uiu2HAmVAvwY7kR5rQ12wZHdMj7NK1PjEbwSdZWfwTvGnWbcTtH merged with server 92 at distance 110.98 km.
+2024-10-06 21:43:55,115 - Validator 16Uiu2HAkygDKhzFhRudAv9xTJcmjME8fqJFM2fxuCp6JWCA4fQoG merged with server 82 at distance 119.17 km.
+2024-10-06 21:43:55,133 - Validator 16Uiu2HAmH6SWfgYALBeXwFw92NefBGVQJ4RJQyuZ58v1WEqVHAkz merged with server 150 at distance 106.71 km.
+2024-10-06 21:43:55,150 - Validator 16Uiu2HAmULjR76u4H7Yz16yzQV5ppE3zpMjUJsQbhMaV9ah1cWAd merged with server 245 at distance 596.74 km.
+2024-10-06 21:43:55,167 - Validator 16Uiu2HAmMmuCjDLeNJXPpbU8eGumiH2hShKEtYsVrHpj6nf12P8A merged with server 92 at distance 104.43 km.
+2024-10-06 21:43:55,184 - Validator 16Uiu2HAmJUuUXPK52Ur3ZeNArxzPNUbyfUy6pUiBmBbeMp6tyr8G merged with server 150 at distance 130.19 km.
+2024-10-06 21:43:55,202 - Validator 16Uiu2HAkyNspQ2u6YikvxHmr5bUNaHhLWHrdj1o9uWk7WzV2kY4f merged with server 27 at distance 29.35 km.
+2024-10-06 21:43:55,219 - Validator 16Uiu2HAmAuC97CF51JD9JEzBUHy9F7ZNHuPFfbwXNLJzacsj4wx4 merged with server 256 at distance 13.51 km.
+2024-10-06 21:43:55,236 - Validator 16Uiu2HAkxjH545b6PWC2rhGgMiPA3Zv9kNXnZvkpMv6hg8ft1jgN merged with server 52 at distance 35.56 km.
+2024-10-06 21:43:55,253 - Validator 16Uiu2HAm1FAtp5UuzpAqNAjQzoLzipu5PwL2VdWSbagf2p7WesjZ merged with server 52 at distance 30.55 km.
+2024-10-06 21:43:55,271 - Validator 16Uiu2HAmS15wNCPwNbkxJWwqs5bfGqJ5oGRvU2kZFgNa92W1S3HM merged with server 82 at distance 16.86 km.
+2024-10-06 21:43:55,288 - Validator 16Uiu2HAmHfn9oaLaMS4jGqx7EkiYua9B1AShCLCP5uLpVjrZc7gy merged with server 202 at distance 34.80 km.
+2024-10-06 21:43:55,306 - Validator 16Uiu2HAky29F54wxb8Mcx2U53AVfaKMGWWNUrTcotXEeGuFCjJTh merged with server 82 at distance 21.65 km.
+2024-10-06 21:43:55,323 - Validator 16Uiu2HAmD9yvko3dEHskyWjpGwyiksfMagdXmYFLzbVesJj4F1bU merged with server 92 at distance 338.80 km.
+2024-10-06 21:43:55,340 - Validator 16Uiu2HAm77RLDE1pcodrYV5fZBCTjDiau1U9TNagBnLy58rGnevd merged with server 256 at distance 8.73 km.
+2024-10-06 21:43:55,357 - Validator 16Uiu2HAmHqTiRdr2mnLQBbFHyRDPoBZ2UtQH4HpivGFLmNZvdMs4 merged with server 52 at distance 3.63 km.
+2024-10-06 21:43:55,374 - Validator 16Uiu2HAmBFKBR2RyFpbNQw8ZUo4JX3hZewmCung8Pr1hf3MvuvaL merged with server 52 at distance 19.95 km.
+2024-10-06 21:43:55,392 - Validator 16Uiu2HAkuibTRePPgX9STQ5W3kS5svVLV6xCB8f9YbM981ha7TVg merged with server 27 at distance 8.20 km.
+2024-10-06 21:43:55,409 - Validator 16Uiu2HAmRJdygekbTZMzXCS4F3XL1hvFHPXufQpxosaSLV5iZgXG merged with server 202 at distance 75.16 km.
+2024-10-06 21:43:55,426 - Validator 16Uiu2HAmDFWXQYBFh8Tm3QGvgvvYSdXuq7ryUW5q3Qdb7nBugKZE merged with server 82 at distance 8.71 km.
+2024-10-06 21:43:55,444 - Validator 16Uiu2HAmHxLqLWqGQVBmrCu3xjTvaWX9rTwNpmapXKT4KV5p76zB merged with server 82 at distance 115.47 km.
+2024-10-06 21:43:55,461 - Validator 16Uiu2HAmKnsP3AP8WTe4Gjn1sSqny2WVHn8VuLodvRxywLes5zse merged with server 256 at distance 36.84 km.
+2024-10-06 21:43:55,478 - Validator 16Uiu2HAmASsFTtvpYYbXsiTeYMLYNZqwzoSKzYHwNJL8EfVh9sDb merged with server 52 at distance 28.81 km.
+2024-10-06 21:43:55,496 - Validator 16Uiu2HAm4ZDT6xVZieMpXjWFoPjvpw7fsC67a7yxEu22DtzR8Q85 merged with server 27 at distance 35.30 km.
+2024-10-06 21:43:55,513 - Validator 16Uiu2HAm9XbL6xDwTtBzHY19SxEHoHrWnZfkvGppw5oBxjBVf1dB merged with server 86 at distance 554.58 km.
+2024-10-06 21:43:55,530 - Validator 16Uiu2HAmT4uyqKftAJF8v7SJjecJoD9TyTwYxsFtmHfu7gydQnHx merged with server 52 at distance 61.91 km.
+2024-10-06 21:43:55,547 - Validator 16Uiu2HAm8xEcpMKaNpoRSghviuJ3qsvWpmiBHxWi4m5pmotQZtQU merged with server 240 at distance 7.01 km.
+2024-10-06 21:43:55,564 - Validator 16Uiu2HAmPRE5rmS68629yy2DEv3USoGc3inGd6rAUtzXyE2z8hrB merged with server 202 at distance 26.23 km.
+2024-10-06 21:43:55,582 - Validator 16Uiu2HAmCecYPiAMJwsxuxxGRx1KH6mjGKeeeDvJ1yaCsdS96YEv merged with server 47 at distance 200.13 km.
+2024-10-06 21:43:55,599 - Validator 16Uiu2HAkxy6J5AmKDwgCxLTf2zN7bgDnMHGMrFJTTiAu4qjvTTBM merged with server 82 at distance 233.87 km.
+2024-10-06 21:43:55,616 - Validator 16Uiu2HAm7weuGCVaFfKbT9yXWj1AAHputTMxKcpfvYxAv8BJVwBP merged with server 52 at distance 47.49 km.
+2024-10-06 21:43:55,634 - Validator 16Uiu2HAmByaR5c48wTaeBXd77VpeDPBPkyavBcWkTcL3tWyhvT2m merged with server 52 at distance 34.62 km.
+2024-10-06 21:43:55,651 - Validator 16Uiu2HAm5JuoCAehpJAaKjSQ16D8K6y84k1vjhBxCPMWorXWceys merged with server 240 at distance 129.58 km.
+2024-10-06 21:43:55,668 - Validator 16Uiu2HAmGLXV9BcdrUYUYS4HWZs5tzsCwiGH5tRghVcrQSvuyE8H merged with server 28 at distance 29.63 km.
+2024-10-06 21:43:55,685 - Validator 16Uiu2HAm6xzJKP57XvnEuCSmi7w5WDjaK9swdSuHWEjuFstRKJrB merged with server 150 at distance 2.27 km.
+2024-10-06 21:43:55,702 - Validator 16Uiu2HAmKMRBet8WAAGqP2QopP8fxcYxaJ3YjJkRMAjc2PbSMUss merged with server 67 at distance 214.44 km.
+2024-10-06 21:43:55,720 - Validator 16Uiu2HAkutVV8Fin7ySrM3xHVF3HWoYef61T7RYccPhdprXMaHAR merged with server 82 at distance 41.88 km.
+2024-10-06 21:43:55,737 - Validator 16Uiu2HAm78u7ehRzxsrv7Z5efx92c7ySBzvFQYT4U2BMyXPPEfdy merged with server 161 at distance 33.35 km.
+2024-10-06 21:43:55,754 - Validator 16Uiu2HAmTS4uqP5stjWTcjW29h7PTwhUnCF5fErKgfkAxwYm49LU merged with server 28 at distance 41.85 km.
+2024-10-06 21:43:55,771 - Validator 16Uiu2HAm7VSuoAxsYg3RwxJLexYQ5yfAGf9EJE5ESXkx4hotPfhv merged with server 240 at distance 27.36 km.
+2024-10-06 21:43:55,789 - Validator 16Uiu2HAmQsopxb8d6kiegeqYn6WPnVfBUCpnoaki4jXkvXMeQsXp merged with server 211 at distance 3.87 km.
+2024-10-06 21:43:55,806 - Validator 16Uiu2HAm8VrM8pNa4okKSpLhTpACDuHAzrAtHFFEgMTRT49uRYJ9 merged with server 82 at distance 345.98 km.
+2024-10-06 21:43:55,824 - Validator 16Uiu2HAkysnpNDcj2iH6EAZyjYHGvWdw9pD1CixV4wgwjqATHHmn merged with server 202 at distance 121.24 km.
+2024-10-06 21:43:55,841 - Validator 16Uiu2HAmFFYUSeujSSKTWYkKdWfgyawjdC4Vfba6yYeiGdYL4yRs merged with server 28 at distance 9.72 km.
+2024-10-06 21:43:55,858 - Validator 16Uiu2HAm6Xa7qrguEz9ydph8qwYGGcqBgXfciJKtGie68jXYCtSC merged with server 47 at distance 163.35 km.
+2024-10-06 21:43:55,876 - Validator 16Uiu2HAmUxCbZVy1a7nhqCDX8u5nDSK4mHe6b57s9UseoJLNKn27 merged with server 82 at distance 121.25 km.
+2024-10-06 21:43:55,894 - Validator 16Uiu2HAmJb9B5Jv52nKWC3mXtEp3dKy3bdpEDnDCpY9CdnHLEbjn merged with server 82 at distance 287.59 km.
+2024-10-06 21:43:55,911 - Validator 16Uiu2HAmTF9eubeMKs4Yv8jRxKNtExcB2AMhRqHcjyWyZ1JmHxoB merged with server 92 at distance 152.55 km.
+2024-10-06 21:43:55,929 - Validator 16Uiu2HAmGRsE7yyWHMgvLU3QhYiaxRKQHaNEdNe4M7ca5VRAWouJ merged with server 92 at distance 233.44 km.
+2024-10-06 21:43:55,946 - Validator 16Uiu2HAm65CPMtwH1jsdbNMZw28xWBjLoX4FRePzenJUU1AbbZkV merged with server 4 at distance 399.56 km.
+2024-10-06 21:43:55,963 - Validator 16Uiu2HAmStpQEtFppBbZZKmiGruQwrFf5AkNmHZkA2EaQtLqY62k merged with server 161 at distance 0.00 km.
+2024-10-06 21:43:55,980 - Validator 16Uiu2HAm9xAkzvemc3HjwnWaF1qAmMWSs9NiRZnGhWS1KJQ6gXt1 merged with server 188 at distance 62.41 km.
+2024-10-06 21:43:55,998 - Validator 16Uiu2HAmLhwWcx923STWoZygPtFrtxhvTBmsGdH6aVTJN4DFw25E merged with server 28 at distance 63.26 km.
+2024-10-06 21:43:56,015 - Validator 16Uiu2HAmAYLcKQ2pkcjoRpuqnW1jViNRjFKdUNF1XbVeMkYyh1Nw merged with server 47 at distance 139.83 km.
+2024-10-06 21:43:56,032 - Validator 16Uiu2HAmCPYeea7spsQmGySoMWNb9CJuwV9S3f33772xLAFcjacL merged with server 24 at distance 427.19 km.
+2024-10-06 21:43:56,050 - Validator 16Uiu2HAm1Feeges3VuYuNmSzi66V9p7i2tzK6AjsqXAVVTt8bPLQ merged with server 188 at distance 3.38 km.
+2024-10-06 21:43:56,067 - Validator 16Uiu2HAmDwKgsH9LDkpTvbYxpjvQqdu7LrMhPDGywwn1AKJKQM4K merged with server 104 at distance 147.16 km.
+2024-10-06 21:43:56,084 - Validator 16Uiu2HAmCPuCZZ2QCEJDFVV2Bouqi7iB5r1H6ajqD1YYhAXfR2fS merged with server 28 at distance 62.60 km.
+2024-10-06 21:43:56,101 - Validator 16Uiu2HAm9yTMcY5A8xEfVfmGw9AfZos7DnREtJ6E1KPibmvfu1qc merged with server 104 at distance 160.24 km.
+2024-10-06 21:43:56,118 - Validator 16Uiu2HAm6yabxbrv6BNGx1uNPJejJ4zxa7o2qa7TxeBj5wtEPUzS merged with server 234 at distance 44.19 km.
+2024-10-06 21:43:56,135 - Validator 16Uiu2HAm4NL9PqB9bcYt6Cq7E5baAk2V5cCvfgpa2UCc2pNTJCBw merged with server 249 at distance 1.66 km.
+2024-10-06 21:43:56,152 - Validator 16Uiu2HAmDPJN4QB2qMqBLY9ntsEJskPpqnkBMv7ZU4LYV2v4VLMc merged with server 35 at distance 96.63 km.
+2024-10-06 21:43:56,170 - Validator 16Uiu2HAmJYqvU1Q3Dgx9ee2hC3PfyWZa4LzFUr2ZFaB5EChRgjpE merged with server 202 at distance 141.42 km.
+2024-10-06 21:43:56,187 - Validator 16Uiu2HAkwDiedgYiXnow7N9EmARRntypbBrp6bPiYoAgoUDnoeCt merged with server 67 at distance 328.90 km.
+2024-10-06 21:43:56,204 - Validator 16Uiu2HAmQwtawiueoi2ncGrYhcZMWqpgzoGoyZ2sbaHXMjQWYVkk merged with server 245 at distance 670.61 km.
+2024-10-06 21:43:56,221 - Validator 16Uiu2HAm6jkSvHAdpvNN8rsNG5xQHTkoBdsA9t3hw325AZ9LYRaL merged with server 92 at distance 252.23 km.
+2024-10-06 21:43:56,238 - Validator 16Uiu2HAmPKp9n397b6pJ57xykxD9XUHyKsqyyj7xiQPQxH4JtC5A merged with server 188 at distance 44.14 km.
+2024-10-06 21:43:56,256 - Validator 16Uiu2HAmJkbg7PZifxSmQdcYLmVc6yFchGtfe2emC7a49yDUgtKb merged with server 234 at distance 6.44 km.
+2024-10-06 21:43:56,273 - Validator 16Uiu2HAm9bonVk42mCH7biy5475jB5oU5SkY2eQ5r3kSgRGK12td merged with server 24 at distance 80.20 km.
+2024-10-06 21:43:56,291 - Validator 16Uiu2HAkxbTcqkffAQwPdnsVTDCfepWxWcGSemXY7TMnbBWn8yYc merged with server 24 at distance 154.30 km.
+2024-10-06 21:43:56,308 - Validator 16Uiu2HAmVFdhiUCk4gBsMH9wt9gWgcH2KouFQpcuLWVZLb5MLhcL merged with server 35 at distance 44.81 km.
+2024-10-06 21:43:56,325 - Validator 16Uiu2HAkvtuTHbw3zZ6GLTkRpsUEu1uT2dQgQREnnHjeCViUbp48 merged with server 104 at distance 1.27 km.
+2024-10-06 21:43:56,342 - Validator 16Uiu2HAm1ADa1HFXP1suJkJaD4M9Y7eTRt2Fb66F7x6S63W8qGLw merged with server 24 at distance 56.72 km.
+2024-10-06 21:43:56,359 - Validator 16Uiu2HAkxSQduVAubwNL5fPxcQ4LLC7gnXqfEtV8MtYkAhnhzwmb merged with server 234 at distance 25.28 km.
+2024-10-06 21:43:56,377 - Validator 16Uiu2HAkxJGN1kjtaNPyPCjSPoS5G5aD5ciCx3KiAM6ykuTxJTnM merged with server 234 at distance 45.28 km.
+2024-10-06 21:43:56,394 - Validator 16Uiu2HAmDVwmzMu54yYWyFhW8iRKbVLv6XJ6BrGBwKD2sd8Yxhuf merged with server 35 at distance 30.27 km.
+2024-10-06 21:43:56,411 - Validator 16Uiu2HAm91xMU5u8ix5GnWnjBrAr4192mm8SvpXYM9bS3LSbNmhE merged with server 35 at distance 64.99 km.
+2024-10-06 21:43:56,428 - Validator 16Uiu2HAkxU19XJ3UHpyheBka4PwMHGi9PZqkfj2pDpLTmuziskHi merged with server 35 at distance 107.38 km.
+2024-10-06 21:43:56,445 - Validator 16Uiu2HAkx4YAQh4KAnykLx3d89Exskzz5soXa223NVXEKAEbGtwL merged with server 60 at distance 5.69 km.
+2024-10-06 21:43:56,462 - Validator 16Uiu2HAm7RYs4hLegqFVfssoY5c6aEbXy5ePztpDoAG9iHP955Tv merged with server 67 at distance 323.16 km.
+2024-10-06 21:43:56,480 - Validator 16Uiu2HAm7XAH3PbE1o9X2eeLg6veSVTfYrPo1g9LBU1DnGssuoxr merged with server 188 at distance 89.73 km.
+2024-10-06 21:43:56,497 - Validator 16Uiu2HAmExD8DZuvStSxGD9pq1tj5bsp2rLUnNWkvKc2qVz5Zka4 merged with server 35 at distance 33.21 km.
+2024-10-06 21:43:56,514 - Validator 16Uiu2HAmJy2pph5VntknaVATJKdThJ33392Z6P1dPUKvAhFU6MKW merged with server 245 at distance 733.19 km.
+2024-10-06 21:43:56,531 - Validator 16Uiu2HAmTEh7bp1vS6FN6YFq6XfUkLd6qYQcKHFuq78cQzPymdwn merged with server 24 at distance 39.88 km.
+2024-10-06 21:43:56,550 - Validator 16Uiu2HAmAmpecQUwhxTYw8Kqwvgh584u4SzBRFCgfDymxHhESpFA merged with server 24 at distance 208.94 km.
+2024-10-06 21:43:56,567 - Validator 16Uiu2HAmJ5t8t7okFU6NSGpsE891U8WwNr2w9rdWfSGwxJ2AjoWk merged with server 4 at distance 213.75 km.
+2024-10-06 21:43:56,584 - Validator 16Uiu2HAmPfQJXD8RkWs9DnpdsuZDbGPGHE4ov1wQoY2zYHRBmhkD merged with server 210 at distance 93.49 km.
+2024-10-06 21:43:56,602 - Validator 16Uiu2HAkyKPEfTZ3GfnNati62TXNtbMmG1AQivwrr9KED59Gn4E4 merged with server 24 at distance 23.45 km.
+2024-10-06 21:43:56,619 - Validator 16Uiu2HAmS3nX2bJDgtQ4hoRJxhwqZBP7iJMsaqns4y96xagaXhRE merged with server 35 at distance 25.75 km.
+2024-10-06 21:43:56,637 - Validator 16Uiu2HAmQnckJAp3KtWFfJsvG4kqjWkRTTQCTA7mLoS2zpBDHve2 merged with server 35 at distance 65.18 km.
+2024-10-06 21:43:56,655 - Validator 16Uiu2HAm1ShRtfD7cgRG8BppS2PRSiKQ1dRJvL17macEKSJ1AxJt merged with server 24 at distance 23.50 km.
+2024-10-06 21:43:56,672 - Validator 16Uiu2HAmMQTGRV5hzPGeMaddtkyCGRVfJUneaY6zrEaX6tGCGkeF merged with server 236 at distance 6.68 km.
+2024-10-06 21:43:56,689 - Validator 16Uiu2HAmUB3YkwKVRmoDyk5hrgkA4tvZ8ybZn2Sxv3NtvP86iogU merged with server 35 at distance 19.01 km.
+2024-10-06 21:43:56,706 - Validator 16Uiu2HAm2ejuNfXRETdWzCiJF5JXECTG1aZeyXv24mg7185mHnp5 merged with server 210 at distance 80.95 km.
+2024-10-06 21:43:56,724 - Validator 16Uiu2HAm85vLyjgnbmJN8B7tgJCx4K9uKwU9n4U9VTGqMLqgEJNx merged with server 47 at distance 3.77 km.
+2024-10-06 21:43:56,741 - Validator 16Uiu2HAmPnEQYAck7dhGoiGJgwWbzQBmV8XhPQM6TvoeiqA8S9Rv merged with server 236 at distance 37.03 km.
+2024-10-06 21:43:56,758 - Validator 16Uiu2HAmDGE8vHy5JpVvHRsN8TphFMKpAPMsGetbNWMj2bNAMsN9 merged with server 210 at distance 129.13 km.
+2024-10-06 21:43:56,776 - Validator 16Uiu2HAm2bk7i8KktrdyZFsyLn15dHgJ6RYVxLfM8oJEUAQbWmQw merged with server 24 at distance 14.17 km.
+2024-10-06 21:43:56,793 - Validator 16Uiu2HAmCDHE5NhG7HGHdSpZSgcrvmw8aiw9DSShoDJRR8uucq6K merged with server 24 at distance 370.66 km.
+2024-10-06 21:43:56,811 - Validator 16Uiu2HAmDyR7gLE5feC8Vi1s5Wskshg6w5CitFD2u52L2tXw4ce2 merged with server 24 at distance 393.17 km.
+2024-10-06 21:43:56,829 - Validator 16Uiu2HAkxW32hZbB5pPP69WnZxuoLXUrDo9TyhpbHVgW55TABsD8 merged with server 24 at distance 415.69 km.
+2024-10-06 21:43:56,846 - Validator 16Uiu2HAm4K5iQ3xMGkWYvLxTVQJSGRE1TRp26BMxFKExK5SaAJHX merged with server 35 at distance 61.96 km.
+2024-10-06 21:43:56,863 - Validator 16Uiu2HAkuT1T9jKmCXRJc5ZNXAPGGeur4amFzdgrTmhiGANEwa7E merged with server 24 at distance 24.59 km.
+2024-10-06 21:43:56,881 - Validator 16Uiu2HAmRCn7Rym5hy9ApfEYbjj3C9jzGmiSNodUWahix4xe2c6A merged with server 210 at distance 50.87 km.
+2024-10-06 21:43:56,898 - Validator 16Uiu2HAmTDmUW6sKVvfe4R36GbVV1WdSbDeoHCYAtqNWiDZkGABC merged with server 210 at distance 113.26 km.
+2024-10-06 21:43:56,915 - Validator 16Uiu2HAmDqdwUmb9QYPHgkBh5br6vdf6eEYoAJHopfZzEaP4j5B1 merged with server 4 at distance 113.27 km.
+2024-10-06 21:43:56,932 - Validator 16Uiu2HAkuwmJ7kyBBEfZAjAVuYGtZk9qnP6ae68y19yHiGKEjeU2 merged with server 236 at distance 54.24 km.
+2024-10-06 21:43:56,949 - Validator 16Uiu2HAm9huvKtuZYn2V83PymWAnG4atiMYPdQ1fueSySiGbbbQT merged with server 210 at distance 24.79 km.
+2024-10-06 21:43:56,967 - Validator 16Uiu2HAmJaLPUaq6bKNMCh7dLk9o5ekNDzSh5y69RaMQph9hjfRb merged with server 210 at distance 122.63 km.
+2024-10-06 21:43:56,984 - Validator 16Uiu2HAmVb69wZBkQsdmoXCv7e1iAuodDhDmXUjzN4RJ6o5auYdk merged with server 135 at distance 237.99 km.
+2024-10-06 21:43:57,001 - Validator 16Uiu2HAmQ6QKN5titm5fL4ZyjDDJDy9fVbYdH1D4TvV7KsRvhzWX merged with server 157 at distance 302.64 km.
+2024-10-06 21:43:57,018 - Validator 16Uiu2HAmQjxiCdrHt5dkZfJRK6jYBkWt7awpLShsqSs5QNHNrv5F merged with server 185 at distance 76.46 km.
+2024-10-06 21:43:57,036 - Validator 16Uiu2HAmGBE4wvdiPXgcwDBbz1UefjyDmaR8NFV44XnXENBy6k8t merged with server 35 at distance 95.24 km.
+2024-10-06 21:43:57,053 - Validator 16Uiu2HAmNNXvioGwJk7etR8Wrh5DTibjgN6zewLpe94SHQYrk6aj merged with server 210 at distance 4.46 km.
+2024-10-06 21:43:57,070 - Validator 16Uiu2HAmGjYu9zLhTN1S64q71iLWomgZYd81EtxzTeCaEi3gLSai merged with server 212 at distance 107.54 km.
+2024-10-06 21:43:57,087 - Validator 16Uiu2HAmJoPiYHzRicz2EA6EpeWi5WfbgvCHB6s1DrEow6wDbKWF merged with server 20 at distance 13.25 km.
+2024-10-06 21:43:57,104 - Validator 16Uiu2HAkyaEVYTgR86HVrGBjcrazLnmhzMQiKujrRyrkHXeEPPDj merged with server 147 at distance 4.93 km.
+2024-10-06 21:43:57,122 - Validator 16Uiu2HAkuy43RT6PDAvyFqLYvvfoKvrBehU3YrWtp4bMarNkGYpX merged with server 147 at distance 81.32 km.
+2024-10-06 21:43:57,139 - Validator 16Uiu2HAkzcuD4sacnXVDvAw9VfDETV6xKFUk1qRZKerUZ2fEBLMj merged with server 24 at distance 65.82 km.
+2024-10-06 21:43:57,157 - Validator 16Uiu2HAmPMReBj7sMaJmLP6zhv5NZSUCE1ukmeGuAQAR1DL2AcFq merged with server 24 at distance 404.00 km.
+2024-10-06 21:43:57,174 - Validator 16Uiu2HAmRFEE2EK36V1aLjRtSnJgWpjrAMiqJXAB7NHoKpZiP4sd merged with server 24 at distance 603.87 km.
+2024-10-06 21:43:57,192 - Validator 16Uiu2HAkvEkoAWTzK74EXqFJ3DGEfvN15PckPr5YEMsJJxahakUs merged with server 157 at distance 313.09 km.
+2024-10-06 21:43:57,209 - Validator 16Uiu2HAmSAnW1d6HZ6bzVwfranhaxqrMk4JPAcym26LtiymYk2h7 merged with server 210 at distance 92.04 km.
+2024-10-06 21:43:57,226 - Validator 16Uiu2HAm6xPTtNdb9bw4vm7ViKbWapyXevjQfioP8BvmfHMTd8aT merged with server 147 at distance 44.35 km.
+2024-10-06 21:43:57,243 - Validator 16Uiu2HAmCDQkmsNF1d8ofbGav7QzmBmFpfk2g3aDzXa7dn87MBuj merged with server 185 at distance 83.28 km.
+2024-10-06 21:43:57,260 - Validator 16Uiu2HAkvM9LBaerRuEhmsXsLbxHKYF93BndXkvUqPQNfgnSySJp merged with server 212 at distance 70.69 km.
+2024-10-06 21:43:57,278 - Validator 16Uiu2HAm5CPuU7KpG6cuf7XziJ65Nn6QEMgKCDviDdKh5m8TucvS merged with server 212 at distance 69.95 km.
+2024-10-06 21:43:57,295 - Validator 16Uiu2HAmJDVG7q4dRTHk7AZqrhnFskpwH4Nh8SWEedJFxWjNxEmH merged with server 147 at distance 75.60 km.
+2024-10-06 21:43:57,313 - Validator 16Uiu2HAmLDVpZdgXEQUQwETWeQ3yVXiuWpNqZLJJzUcFqd92d4Gp merged with server 53 at distance 96.92 km.
+2024-10-06 21:43:57,330 - Validator 16Uiu2HAmLUDK3ewWu5TcopcUMRkXh8GKVmaBNtpZ9K8qsCxMJUVB merged with server 24 at distance 87.91 km.
+2024-10-06 21:43:57,347 - Validator 16Uiu2HAmDLzGxBshFC991TETkCn8ZMW14eoYiL6PJwsxBbdBfNyD merged with server 4 at distance 55.93 km.
+2024-10-06 21:43:57,365 - Validator 16Uiu2HAkxjPmgK1GN5hyScFumHsiaV1WfTupmd2inusyuQApcJKE merged with server 185 at distance 116.03 km.
+2024-10-06 21:43:57,382 - Validator 16Uiu2HAmUWs9icc4M6bg8e28ttUDDC2jon4TSZP4PYwacLQeBQUN merged with server 210 at distance 112.85 km.
+2024-10-06 21:43:57,399 - Validator 16Uiu2HAmDQRWnbykfYKogEYQarjPfa3dxd2oga1JGPdea7bsStMe merged with server 210 at distance 57.70 km.
+2024-10-06 21:43:57,416 - Validator 16Uiu2HAmPj8mSdG87gjMyige4kydx2o7K91pV1BT3f32miD2qiHC merged with server 20 at distance 21.93 km.
+2024-10-06 21:43:57,433 - Validator 16Uiu2HAkv4zWvLjRXbkvR2NS18ro3XhK36DHP5M8u81sCkAFYsYP merged with server 34 at distance 390.15 km.
+2024-10-06 21:43:57,450 - Validator 16Uiu2HAmV44bh53MjUpfa6Q5RSAovy92zfep8HqNFhNiDvNPPhwe merged with server 185 at distance 4.85 km.
+2024-10-06 21:43:57,468 - Validator 16Uiu2HAmNjHwrumUcxdf9RqX4BhfRRqh9TgD3AQTAV2JHAfpVCTU merged with server 20 at distance 46.65 km.
+2024-10-06 21:43:57,485 - Validator 16Uiu2HAmQezYqQ3FVeakKbJQF8on5SroHBY5PMCFbiSB86Yffn6t merged with server 47 at distance 271.39 km.
+2024-10-06 21:43:57,502 - Validator 16Uiu2HAmQ1fhEyQvTyrR7CTMZpYS3UoVsxw1fCkE5FTtnUZ9P2wn merged with server 4 at distance 32.02 km.
+2024-10-06 21:43:57,519 - Validator 16Uiu2HAm3iAjNBF7pA9QMFMeJyRYpot2cXEHE3jxveAytq7uqAuj merged with server 185 at distance 107.64 km.
+2024-10-06 21:43:57,537 - Validator 16Uiu2HAmQUNkvhiyR7bLJJ4Mr1FPVPWP431NFE6U5Pfy7oP1zPDP merged with server 147 at distance 61.84 km.
+2024-10-06 21:43:57,554 - Validator 16Uiu2HAmSNGPkjugj7YuSixQbGHNnU9HmqbkvSH4pFC3Q5Htxdev merged with server 47 at distance 214.20 km.
+2024-10-06 21:43:57,571 - Validator 16Uiu2HAmT7tyYemrkQfiAJcv3C6j1pe3Wf2oRPDZvKMuhCzPcgea merged with server 53 at distance 67.18 km.
+2024-10-06 21:43:57,589 - Validator 16Uiu2HAm4PnepHe53N8FXkGHg7juauxTZKZFBTYNeEHDUX126T9B merged with server 4 at distance 20.32 km.
+2024-10-06 21:43:57,606 - Validator 16Uiu2HAm7NgUsEGZYF1KANzj27KU3rHuqPf5UBrQHJhXztXZ5HSw merged with server 185 at distance 31.11 km.
+2024-10-06 21:43:57,624 - Validator 16Uiu2HAkzrVjGmmyWmNkrFSabgVNrD8GMqo66xghxBsYQ9oQp3qY merged with server 210 at distance 76.12 km.
+2024-10-06 21:43:57,642 - Validator 16Uiu2HAmAMAaaVJVMtHKGutTgSXNJcnewNjrNFHnFLZeFhehJSai merged with server 53 at distance 178.77 km.
+2024-10-06 21:43:57,660 - Validator 16Uiu2HAmVjJaqRMkMVp6iWoTf4B3af3ENPNy6tyiPJuWHU6r6EEc merged with server 4 at distance 4.48 km.
+2024-10-06 21:43:57,678 - Validator 16Uiu2HAmVNCbpfCZ9gaBYTo8mZAzCyLPFem2MWu6VDASPSgnMjk4 merged with server 4 at distance 56.49 km.
+2024-10-06 21:43:57,696 - Validator 16Uiu2HAmAXqgpDK3Xzx3zyGwADHgQ6ePyZcUaYxJC9ngUedneNfR merged with server 185 at distance 67.21 km.
+2024-10-06 21:43:57,715 - Validator 16Uiu2HAm6BE1f7fgcfGzcT8LCzk4LYGuAJpmBJAw5iaEHAuu3jnJ merged with server 158 at distance 55.11 km.
+2024-10-06 21:43:57,733 - Validator 16Uiu2HAm5VGMunE8d9c63UXa4VwSVm4g2Xm4Giz5R5BebTFC9igE merged with server 158 at distance 83.45 km.
+2024-10-06 21:43:57,752 - Validator 16Uiu2HAmJtFvwLHbwbX5xVSfSyPwGECrB9FTef8KjUuEH4oDq5Za merged with server 53 at distance 22.78 km.
+2024-10-06 21:43:57,770 - Validator 16Uiu2HAmQcZe5sThPxzq5XCoCcQeGRv4vUxT4L4E5ibqPhUuyZEi merged with server 185 at distance 75.64 km.
+2024-10-06 21:43:57,788 - Validator 16Uiu2HAmC6fhUqLdBmz9p4GShoVr4kMZwJTZmoLt6fdT6F43hJur merged with server 185 at distance 114.98 km.
+2024-10-06 21:43:57,806 - Validator 16Uiu2HAm7JZ3MLmqgBTMe7uxj8dNs5hMiwK97g2FG84gRrLSxd2A merged with server 158 at distance 81.45 km.
+2024-10-06 21:43:57,823 - Validator 16Uiu2HAm7HQs2SSxuM4p1eH1QKiwdRcd93SAZvRmbqLfuqgAmnU7 merged with server 200 at distance 123.30 km.
+2024-10-06 21:43:57,841 - Validator 16Uiu2HAmEphG1V6LPPfknV2Dzh24pWUcHZFhYyjFydd58wmrKkMN merged with server 53 at distance 57.68 km.
+2024-10-06 21:43:57,859 - Validator 16Uiu2HAm4H5dax2MiCmMXXWno3VM71SgkCU4SosPXeCTXbuCcEAc merged with server 53 at distance 37.71 km.
+2024-10-06 21:43:57,877 - Validator 16Uiu2HAkzajXXXxjNwifyU1kEqXnLyYWDST8YqFK2JTzr2JrxHRw merged with server 53 at distance 81.19 km.
+2024-10-06 21:43:57,895 - Validator 16Uiu2HAmCaHTA1hxPwGQdUMtrbyiXKjfwKHhdAxjS1f7Dn9XpvZx merged with server 157 at distance 190.71 km.
+2024-10-06 21:43:57,912 - Validator 16Uiu2HAmAbUcxf89m5AUM1LSKVz2D2TYNf3Sv8B2p6xhgeppMwwT merged with server 200 at distance 8.50 km.
+2024-10-06 21:43:57,930 - Validator 16Uiu2HAm2x8ewHKBvir4Z1wujrY85CCXK9veMFUA1xa39vCVgi53 merged with server 4 at distance 48.65 km.
+2024-10-06 21:43:57,947 - Validator 16Uiu2HAmVQNeF5EPweeQQKtpLfy82xVBW8hayVwYYSB7T7nCPK69 merged with server 29 at distance 90.84 km.
+2024-10-06 21:43:57,964 - Validator 16Uiu2HAm6DwoNFmz9oNeNEuLJAv8zRTAk15DGckLpyyZJoauWm9N merged with server 158 at distance 34.55 km.
+2024-10-06 21:43:57,982 - Validator 16Uiu2HAmURH6gL2n72WYLAyWeibUA38pneDigsHV4m8aea3hyuqy merged with server 53 at distance 17.82 km.
+2024-10-06 21:43:58,000 - Validator 16Uiu2HAm7rPCZZq5zXnPT6viyLxQSEfFJwQftThMozGpwfFSJNmU merged with server 4 at distance 67.17 km.
+2024-10-06 21:43:58,017 - Validator 16Uiu2HAmCa9NdmZ2oduJFiZUi5J6QMjzaK9pLjAmqctq56Gn2ftT merged with server 158 at distance 21.29 km.
+2024-10-06 21:43:58,035 - Validator 16Uiu2HAm5yzAiedJ3xjuGeja1PX99b53xdwqwxhiEynmggYDddi4 merged with server 158 at distance 10.13 km.
+2024-10-06 21:43:58,053 - Validator 16Uiu2HAmNt4T49YtTLfxy3JctNTEpT1ik9qFrjfR4owkFNS3jTec merged with server 34 at distance 278.62 km.
+2024-10-06 21:43:58,071 - Validator 16Uiu2HAmVhJLXQP9xXkkE7u7rEgp51wyJaHXYfyJaXUzzYu1a7QS merged with server 53 at distance 422.87 km.
+2024-10-06 21:43:58,089 - Validator 16Uiu2HAmPDHUMpy85v7sePakDF2VvxaVUyWnfShf5X5KiWdvLog4 merged with server 29 at distance 69.85 km.
+2024-10-06 21:43:58,106 - Validator 16Uiu2HAkvfBW3EX9AobTkwvE6sXUCVoPzbEr2QxpD7JcR2U8Hd2N merged with server 61 at distance 9.34 km.
+2024-10-06 21:43:58,124 - Validator 16Uiu2HAmBNNqMSd6K1NEPVxfktVR299PkoVjvjbhBkie1hQM8NXA merged with server 200 at distance 109.82 km.
+2024-10-06 21:43:58,143 - Validator 16Uiu2HAmSKbHwar3Ughm449JKM5HhAw9YSC5YoCsE59BswD2i229 merged with server 53 at distance 50.40 km.
+2024-10-06 21:43:58,160 - Validator 16Uiu2HAmNXca1rDTtwYFPwJ8Y8UJugN5kwkRrUzuudreiVbioCU8 merged with server 29 at distance 46.73 km.
+2024-10-06 21:43:58,178 - Validator 16Uiu2HAmMGUN65gaV7k1zvrdvUCevCXQTiSx9Euw1sv53aDSRq2w merged with server 158 at distance 69.67 km.
+2024-10-06 21:43:58,195 - Validator 16Uiu2HAm2vB7GRHUxkWrEsyKAt7e8SkQ6fzaqDzjyuC9tJjT6Kod merged with server 3 at distance 84.59 km.
+2024-10-06 21:43:58,213 - Validator 16Uiu2HAmPP6Nc9YSQUZGcR2MjQfNhifdf5LfQd6cK8sqNYUWPBSe merged with server 200 at distance 154.18 km.
+2024-10-06 21:43:58,231 - Validator 16Uiu2HAm4DcwgGBUoT8dz43wC1SkzjDN9xE9SJR1xjSGMDSAcXyd merged with server 61 at distance 13.04 km.
+2024-10-06 21:43:58,248 - Validator 16Uiu2HAmPB9TY1KWp4T5YWUDLUz9GCtJXiDXNGZpaK7e9Gpy83Dw merged with server 200 at distance 138.99 km.
+2024-10-06 21:43:58,266 - Validator 16Uiu2HAmD694mMFmXxUr21TiQRkyHHKd5mVddWDz7FqQQdbFAaGC merged with server 32 at distance 342.11 km.
+2024-10-06 21:43:58,284 - Validator 16Uiu2HAkyRYjHnRCUehVsd9pXiPMMRZAsiaupGZyhooaLeaDBtTt merged with server 53 at distance 271.01 km.
+2024-10-06 21:43:58,302 - Validator 16Uiu2HAmLC4bWg7cLzT6qZo4wbjX2z8NhA87j6xGP6URsexHAmch merged with server 135 at distance 2.82 km.
+2024-10-06 21:43:58,319 - Validator 16Uiu2HAmMxQDXP9TbCtneLasXMcTShE5Aqb79pgWXwLeYZHnkv7X merged with server 29 at distance 27.45 km.
+2024-10-06 21:43:58,336 - Validator 16Uiu2HAmUqbYjxPRyRi1WmrL25pa2d9eB1fTgeLkrdHZ58S6jdJQ merged with server 158 at distance 51.77 km.
+2024-10-06 21:43:58,354 - Validator 16Uiu2HAmJk2kxj3kJpgNyMGQSAcqcrwmynq5dUZNnusEpu1Hp7cf merged with server 3 at distance 22.04 km.
+2024-10-06 21:43:58,372 - Validator 16Uiu2HAmQbPncvXGXjJuuqcGVz14xRjfVdxA2nCtjMA4sewhiF6S merged with server 200 at distance 121.18 km.
+2024-10-06 21:43:58,389 - Validator 16Uiu2HAmSQehSmAqX7quk1vBYwnWJQSFj9SH22tVyqowvnQ5mDZQ merged with server 29 at distance 50.62 km.
+2024-10-06 21:43:58,407 - Validator 16Uiu2HAm3BGbCsYJCNhorsDFYreizCfJLwnGozQ9Bray58K3SxqG merged with server 32 at distance 249.37 km.
+2024-10-06 21:43:58,424 - Validator 16Uiu2HAmMcMX3xkYRpkj4Nmm3j7TwNqPk3XYpDvVFNGp9xH3SLKu merged with server 3 at distance 99.73 km.
+2024-10-06 21:43:58,442 - Validator 16Uiu2HAkwEFi8Wg5bwE4hJyfZRPGF8CwmzJLPxtrCoFB1a4E4LFw merged with server 53 at distance 298.31 km.
+2024-10-06 21:43:58,459 - Validator 16Uiu2HAm6D59Xn6fPHrymscsqPfQuCzvUKMRUCtzYQ2N6A1X7ah2 merged with server 223 at distance 52.28 km.
+2024-10-06 21:43:58,477 - Validator 16Uiu2HAmTxhc3vzjkW8qGEWpxD4qw6skYETbs8HqNqix1oUtLjWm merged with server 29 at distance 100.83 km.
+2024-10-06 21:43:58,495 - Validator 16Uiu2HAm25LxaRXUmGHK8UqxBEbeT6PhFtVgDKKXg3EpU9y6TqHK merged with server 264 at distance 44.65 km.
+2024-10-06 21:43:58,513 - Validator 16Uiu2HAmKWS1J5CY7TLbq8Bft8b7WLUW6HEF3NArxHg49ooMfd91 merged with server 224 at distance 863.43 km.
+2024-10-06 21:43:58,530 - Validator 16Uiu2HAmRz5c8wD9n423YxA5jvmR5oHZ3ePvmJa7UH3UzzQKUKM7 merged with server 166 at distance 209.77 km.
+2024-10-06 21:43:58,548 - Validator 16Uiu2HAm82xoG19D67gyzPzErqZs3T3KVqrVyi2oq7iBKRKSfgrM merged with server 208 at distance 50.18 km.
+2024-10-06 21:43:58,568 - Validator 16Uiu2HAky8EbCVGe8Lp16WJFU2puXsVY5g7zhXwHGA1XmuMTePme merged with server 29 at distance 99.04 km.
+2024-10-06 21:43:58,585 - Validator 16Uiu2HAmMniA7BgNq8qutMBK9CWSC74Y7c4oXwHtRKNXuBJKAVEn merged with server 54 at distance 46.29 km.
+2024-10-06 21:43:58,603 - Validator 16Uiu2HAkxa5jyjeRwHWG5npKUQSZ1WWKcdgRMieu6MJBdcYECWzA merged with server 264 at distance 3.73 km.
+2024-10-06 21:43:58,620 - Validator 16Uiu2HAkuUoCRxg18kEj11JVoQhkn3zdoxyKeeD41MuWaTAfYF7Y merged with server 34 at distance 5.80 km.
+2024-10-06 21:43:58,638 - Validator 16Uiu2HAm21LwAznduQJ8g5XjGXp3FEvwXex9KJp2fKy9j2rNvHc7 merged with server 54 at distance 11.56 km.
+2024-10-06 21:43:58,656 - Validator 16Uiu2HAm3ixMzipQ9LhaTH8bNiRiiMjk8mJDFnC38TMYzHQYkM2y merged with server 223 at distance 29.97 km.
+2024-10-06 21:43:58,673 - Validator 16Uiu2HAm3oLcfvBaJ3fJwnsz9QgasNSKm2rZ1SZdmQT9qLY7YHdo merged with server 29 at distance 55.32 km.
+2024-10-06 21:43:58,691 - Validator 16Uiu2HAmTNob6MMMDs8kBjgaoHkwSzWBHDrvEBvkMfW5ug4yaedR merged with server 53 at distance 317.37 km.
+2024-10-06 21:43:58,708 - Validator 16Uiu2HAm1DnBBbenWRhywChTfPzAaHjXbg9sc4E6tVVTPBBy8zPE merged with server 208 at distance 19.76 km.
+2024-10-06 21:43:58,725 - Validator 16Uiu2HAkvTnwcxeegsoT2v5rFEM9rU7B93syWSZgiADdqsBRxJMr merged with server 208 at distance 24.28 km.
+2024-10-06 21:43:58,743 - Validator 16Uiu2HAmEhPGGSQQkKDY2PjzBVKM79MEEDZcmrhA9TBhnEhRD52Q merged with server 223 at distance 9.38 km.
+2024-10-06 21:43:58,760 - Validator 16Uiu2HAkukbxsBdfwgyW4TXdh622ni4o4VqfVH6zbWVx7AvAWMuN merged with server 153 at distance 63.36 km.
+2024-10-06 21:43:58,777 - Validator 16Uiu2HAmJvMp3tdVbMxk8mSBg4p9m1TjvDL6UVF1z91fosLXjqbg merged with server 200 at distance 190.57 km.
+2024-10-06 21:43:58,795 - Validator 16Uiu2HAmUJPzm938oztvMNthFPGZxwdXdcvqsRDn17oU9R45zdhh merged with server 103 at distance 316.52 km.
+2024-10-06 21:43:58,812 - Validator 16Uiu2HAm73pePPBUSbKpKzNBdKHtor6fvNZ83iMd18bjFmqL1Q16 merged with server 157 at distance 1.79 km.
+2024-10-06 21:43:58,829 - Validator 16Uiu2HAkyj53cXw6k596Zg6NFt8JsqVaRBPC3wDiL5YsubVtMBbj merged with server 157 at distance 51.06 km.
+2024-10-06 21:43:58,846 - Validator 16Uiu2HAm5k5Kwag3z2GTHTrA9YmH4E27QBcshrMu45PqRt7Hn6NG merged with server 153 at distance 52.14 km.
+2024-10-06 21:43:58,864 - Validator 16Uiu2HAmLkgbFHrA7mjgpPFvcZ2sMZtCjybxJZgMh6bVTWyAK7BR merged with server 264 at distance 36.24 km.
+2024-10-06 21:43:58,881 - Validator 16Uiu2HAkycdjEWP5aihHJRvucoxUCq3PxRHsJe39xerP5LnSd2b8 merged with server 32 at distance 337.51 km.
+2024-10-06 21:43:58,898 - Validator 16Uiu2HAmF9QLQSi8KQP1f5c1E6YPSqdgaP8GAWkKfhwBykrNmz9P merged with server 208 at distance 18.45 km.
+2024-10-06 21:43:58,915 - Validator 16Uiu2HAkwqcLcAHkMHi3SCYo51ZstmQMHXt1FuqpJwUxc47A8SGm merged with server 208 at distance 11.93 km.
+2024-10-06 21:43:58,933 - Validator 16Uiu2HAmBLZUyorWWVPZiAJDMnmze4DqEeMMqowkMTtc4R4aGnTT merged with server 223 at distance 35.70 km.
+2024-10-06 21:43:58,950 - Validator 16Uiu2HAkxGUXBwKK2RcxLSrfM7RbFLfDZ9JcTmA3T3unWbFEc9A9 merged with server 223 at distance 47.25 km.
+2024-10-06 21:43:58,967 - Validator 16Uiu2HAky59gQWYnMTnGRgqLQxhKNszkCBfShca5tKHAAsCYfxnq merged with server 153 at distance 40.07 km.
+2024-10-06 21:43:58,985 - Validator 16Uiu2HAm6UuSVrtttA9iTV1aSsA3ofJUzeavkU4Q5mddjWk9MKXS merged with server 264 at distance 71.82 km.
+2024-10-06 21:43:59,002 - Validator 16Uiu2HAkxKEhU7FCKUddtGiom6DykPVUCT7tSXWNztc4uMjKaAZy merged with server 32 at distance 150.69 km.
+2024-10-06 21:43:59,020 - Validator 16Uiu2HAm6G2KzuvhmmTeDL8XPsERNaws9quiY5CdTuzw8GSZd8Uw merged with server 157 at distance 40.50 km.
+2024-10-06 21:43:59,038 - Validator 16Uiu2HAm7Bdij7ksLRGn8jnuBSSLQG936AYC2tmHhfjWJdMmF9BS merged with server 43 at distance 96.42 km.
+2024-10-06 21:43:59,055 - Validator 16Uiu2HAm3i31WWYJ4vzkRdsJ25WztMsVcgXR41TawQX1sztoqYWG merged with server 208 at distance 35.77 km.
+2024-10-06 21:43:59,073 - Validator 16Uiu2HAmDmYKjAmaGFR2WSCcWi85j59Nfq6aopLU3AQ66G6hk2Lr merged with server 264 at distance 112.67 km.
+2024-10-06 21:43:59,090 - Validator 16Uiu2HAmUVubTZ8wbdjfqmSSp172fxkTBUrqpzzbui5sQKtyFP7U merged with server 264 at distance 61.33 km.
+2024-10-06 21:43:59,107 - Validator 16Uiu2HAmUeGWekfLSPu41D3sgpjAhFY5v1tVLdxZiucTWnZzSH27 merged with server 200 at distance 203.18 km.
+2024-10-06 21:43:59,125 - Validator 16Uiu2HAmEr2g58oJrgNoe954FvPi7teh6AHnfi1x8bRHD48nPtBR merged with server 103 at distance 306.98 km.
+2024-10-06 21:43:59,143 - Validator 16Uiu2HAkupdfqomZwFpS8Zqxu7sEpAnbJ35JRB6i47U4ncoTQhT9 merged with server 103 at distance 283.97 km.
+2024-10-06 21:43:59,160 - Validator 16Uiu2HAmHSXGH1yQoBfrPSUJC78Ae347YW74XsHcGwqjEpm9eods merged with server 191 at distance 44.52 km.
+2024-10-06 21:43:59,178 - Validator 16Uiu2HAmTGQW5gyFXVi97ns58hJaWsp551rqW5oVC6GkXqsZrc1L merged with server 11 at distance 46.86 km.
+2024-10-06 21:43:59,195 - Validator 16Uiu2HAkvJfXcfQgPLj1BBtD91dux9Ab87zqiyvQEfgnJoegztLa merged with server 156 at distance 50.67 km.
+2024-10-06 21:43:59,212 - Validator 16Uiu2HAkvqvaAyYr5BcTGwnj164pV71N84FVQqbZYGq5z28n8oe9 merged with server 43 at distance 35.16 km.
+2024-10-06 21:43:59,229 - Validator 16Uiu2HAmHn6ZQCmi6DChG5wBtHhn64raGoRAXJmEqhMowdkor1Sq merged with server 247 at distance 31.13 km.
+2024-10-06 21:43:59,246 - Validator 16Uiu2HAm3ZLfHaaGzEdxxzow8Mmx3e2ngknkdJjzhrJ8NSRhjvDL merged with server 264 at distance 117.03 km.
+2024-10-06 21:43:59,264 - Validator 16Uiu2HAmJYC5iM3LuvBgv8711pEJcrCdkTMR9rhv19DLRrPYDQR3 merged with server 157 at distance 46.70 km.
+2024-10-06 21:43:59,281 - Validator 16Uiu2HAm66z6n3oQjZ2KtkNkgvPUY9RqUTMNZqrmiCyeqwt48q7u merged with server 11 at distance 49.27 km.
+2024-10-06 21:43:59,298 - Validator 16Uiu2HAkzyn2khWVB6E9MYNGtpgwPPFEPA4FqaYRNYzeoj7uebYC merged with server 229 at distance 32.80 km.
+2024-10-06 21:43:59,316 - Validator 16Uiu2HAm8nrmt2DFTsgfXcJJZtkZ51XVeS3H6nuKDJtSffHydBSc merged with server 229 at distance 45.71 km.
+2024-10-06 21:43:59,334 - Validator 16Uiu2HAmDwUNYmrCwpbdihEAvTbZxm7TDxhcQEzZ6YVJGMNnaZyK merged with server 153 at distance 6.90 km.
+2024-10-06 21:43:59,352 - Validator 16Uiu2HAmLV6im7PQxgVmAa5qXR5hq5SkkyJmbfDGgt15C1CqgJA1 merged with server 11 at distance 24.16 km.
+2024-10-06 21:43:59,369 - Validator 16Uiu2HAmB1abY2pydToKSTqKQeWkBzCBU7VnA84fx9eKqoRaYRFi merged with server 156 at distance 3.71 km.
+2024-10-06 21:43:59,387 - Validator 16Uiu2HAmS3ZkYjLwpwcRLPs41FKpQB1Mg2zRieuqh6M1iSUNsiCS merged with server 43 at distance 9.55 km.
+2024-10-06 21:43:59,404 - Validator 16Uiu2HAmR5PS6u788hXpPheWmPbPRie6ZFiBgpNUbBX3SLFJw3ZV merged with server 247 at distance 11.26 km.
+2024-10-06 21:43:59,422 - Validator 16Uiu2HAkzvwNKnsGuYT5jndaAqg7yGBrcTgFxhs1hJWPhYr8t2rW merged with server 247 at distance 35.87 km.
+2024-10-06 21:43:59,439 - Validator 16Uiu2HAmQXbkSnwNXPgZosAe2kdNozHWSNcKVoEetDF1vQx2sPd1 merged with server 264 at distance 91.81 km.
+2024-10-06 21:43:59,457 - Validator 16Uiu2HAmCuU16U6wcY8N2MPiAGSc2qKktfUxVscxbQxhWzkSG6RL merged with server 157 at distance 68.41 km.
+2024-10-06 21:43:59,475 - Validator 16Uiu2HAmEf7eGqCLR39qoKvyy45w1S9JNE9k1TJYrgb4pzcigS6p merged with server 156 at distance 62.35 km.
+2024-10-06 21:43:59,492 - Validator 16Uiu2HAm95Be4pjEYJ2z8LPu46KQeCd9eyAJ9apu5baYwQPQ5wyn merged with server 229 at distance 5.09 km.
+2024-10-06 21:43:59,509 - Validator 16Uiu2HAmVRskHH3crihvjBzmCTQWNGsNzpFYjL4temkFZgvwXm9q merged with server 153 at distance 44.70 km.
+2024-10-06 21:43:59,527 - Validator 16Uiu2HAm8k2SieK97dJ9pQcs1BJDjiAZGBhwfXyNvc5XFLiBnaxB merged with server 153 at distance 18.58 km.
+2024-10-06 21:43:59,544 - Validator 16Uiu2HAm5NUuPY82kiW6jre5XVHyZWArVRBug8kbcbjB3yEwbp5a merged with server 153 at distance 46.82 km.
+2024-10-06 21:43:59,562 - Validator 16Uiu2HAm3ZUbtNKSpKZfCPoP8Mxk6DJkeSiXzDQoNFA3vdVH3PQB merged with server 228 at distance 5.13 km.
+2024-10-06 21:43:59,580 - Validator 16Uiu2HAmNMwerR3jPRHr4KMDrFv9YZZ6PVBUt5Gcme7SGEo7Smhv merged with server 11 at distance 62.08 km.
+2024-10-06 21:43:59,597 - Validator 16Uiu2HAmGJ1d7GKwAgfnSaytmV5pQpGda1Sf38UracHyebGqzG1d merged with server 156 at distance 28.02 km.
+2024-10-06 21:43:59,615 - Validator 16Uiu2HAmJPeu5kAGNPyU4YXLW4zeyzTRUoGc43ZCfHieDdCtTFvn merged with server 43 at distance 40.58 km.
+2024-10-06 21:43:59,632 - Validator 16Uiu2HAmD6rep6iyFzdGxAdd3wBzmujAc93kLp9veJEsBCCEMdK7 merged with server 247 at distance 32.02 km.
+2024-10-06 21:43:59,650 - Validator 16Uiu2HAm3RBsf2gH9tAwcFXfUvbCkZLN1CqcQ3eGw31qxwuiCASQ merged with server 264 at distance 184.45 km.
+2024-10-06 21:43:59,667 - Validator 16Uiu2HAm3xGPqK32UiPtNuz7SN1ETVg96UQjD2ucCfXvdnHSTMnS merged with server 264 at distance 118.61 km.
+2024-10-06 21:43:59,684 - Validator 16Uiu2HAmVH1nfBj9rxa5TeLsww6AmkKDzR3q6YG1Hn8mwruwcAxP merged with server 191 at distance 51.39 km.
+2024-10-06 21:43:59,702 - Validator 16Uiu2HAmEbwSDxQyN4d5haFyaUj8oLGdNRfEV478D23pSuscJ7Ey merged with server 191 at distance 15.30 km.
+2024-10-06 21:43:59,720 - Validator 16Uiu2HAmJ2EikvKjEjJkCCYwV6GAJFxPEk12YPVhY8D1b4gvfkyU merged with server 11 at distance 16.30 km.
+2024-10-06 21:43:59,737 - Validator 16Uiu2HAmBjMeEBiXamrsZvZV8f6Jp7HQc6UvsmomWULHCGwunPTd merged with server 229 at distance 31.13 km.
+2024-10-06 21:43:59,755 - Validator 16Uiu2HAmJbsQe3drf65aAXKJcZyFgAbepjpTFRvG3abmCWiJR6cy merged with server 153 at distance 64.42 km.
+2024-10-06 21:43:59,772 - Validator 16Uiu2HAmFaLJ1Q17iDbTwiQoiQBCG4rBRbCpiMnLeo3XjX5bgWc8 merged with server 263 at distance 22.83 km.
+2024-10-06 21:43:59,790 - Validator 16Uiu2HAmAS6pZx1yRCaTS4bE9fbDh1fUr3Y2ARyTLDCjwLtzKdHH merged with server 153 at distance 149.45 km.
+2024-10-06 21:43:59,807 - Validator 16Uiu2HAkupHuLjsDLGD76RMWgKe2r3Mpq5qbxQzjnGBNdaqR1icn merged with server 32 at distance 228.40 km.
+2024-10-06 21:43:59,824 - Validator 16Uiu2HAkz3cosXUqAgbs7aFtKuuM5A7iAgN8Ho63tvr13GckyhdZ merged with server 9 at distance 462.86 km.
+2024-10-06 21:43:59,842 - Validator 16Uiu2HAm4JEy7HDMzyyteLWBj295ijoUC8LUWzcH8Ukti3f2pqG4 merged with server 263 at distance 54.76 km.
+2024-10-06 21:43:59,860 - Validator 16Uiu2HAm5vhC7CV7uo5LqoExsLjM7RxK5aVzChXAG6g3NHHUDmP7 merged with server 11 at distance 37.47 km.
+2024-10-06 21:43:59,877 - Validator 16Uiu2HAkyhNKA4eL2SEZaFHMHsjjaTA3MCrwsTtFCGbfwLQuGMfv merged with server 11 at distance 34.56 km.
+2024-10-06 21:43:59,895 - Validator 16Uiu2HAmLnuqStzQxrm6sLpZEU9XCQmacxx9No1An5LMmzSQPEKH merged with server 156 at distance 74.96 km.
+2024-10-06 21:43:59,912 - Validator 16Uiu2HAkyKZpRcSqSWKSy9iprGybLiWGaPQGW7LKkd41o84ygeBZ merged with server 215 at distance 8.18 km.
+2024-10-06 21:43:59,930 - Validator 16Uiu2HAkzeCAGXKGMdbUgWZr4WijTLAKbx2ebvHRQ7YCCp6XNsV6 merged with server 229 at distance 49.78 km.
+2024-10-06 21:43:59,948 - Validator 16Uiu2HAm2LJaZh3rhURDakoEG4Eve4hfMNS1cryVRskrUnH164cw merged with server 264 at distance 168.45 km.
+2024-10-06 21:43:59,966 - Validator 16Uiu2HAmHhgGBWpchhnKPcZsg2RW1NhwxUvHgTMs9XHuQjEYxikj merged with server 260 at distance 149.11 km.
+2024-10-06 21:43:59,984 - Validator 16Uiu2HAmAd45VWzXmtgU9jxuvy73BPGW2rQ9xofnxJsUhkCT7qd6 merged with server 198 at distance 20.73 km.
+2024-10-06 21:44:00,001 - Validator 16Uiu2HAm1w8HYFLujRwoubXnauqKidjR9gv4QxtisGAwyACtj197 merged with server 229 at distance 51.79 km.
+2024-10-06 21:44:00,019 - Validator 16Uiu2HAmJSnictZnXdzm9VG3bdxPgHRy1zG8WRfGMvpBVQU2mYp3 merged with server 153 at distance 78.79 km.
+2024-10-06 21:44:00,037 - Validator 16Uiu2HAmEcDu4MhHQ6JX7jALLWouTwqBUrJBEd2fcNkAZYufhpk9 merged with server 153 at distance 134.41 km.
+2024-10-06 21:44:00,054 - Validator 16Uiu2HAmFygFiNFFQVDTgMwzS3oXsyoExYzpZVKqFhWxdGDWBjnD merged with server 153 at distance 164.44 km.
+2024-10-06 21:44:00,072 - Validator 16Uiu2HAky5VFAZVTRM93eFvK63PSzheDUGCyihJGBTVioYhwtgsg merged with server 32 at distance 136.08 km.
+2024-10-06 21:44:00,089 - Validator 16Uiu2HAmG2Yu1TV8gSTCGWrSwJNEUq9mTbdDGJGicNuywjN12sfd merged with server 91 at distance 66.50 km.
+2024-10-06 21:44:00,107 - Validator 16Uiu2HAmU2enVq82xYwGHYP1R732vKH8vBJkzRhwqHnFZuUz6jRD merged with server 215 at distance 40.63 km.
+2024-10-06 21:44:00,124 - Validator 16Uiu2HAm7iU2vPjLR1kuPETf2HFhHHQes3E7fBHwQR9m7Tqs2RQs merged with server 153 at distance 102.35 km.
+2024-10-06 21:44:00,141 - Validator 16Uiu2HAmB8fA9Vti3K6RiCbNYuaNHdGwNVLGNmuh5XuFBLgP2tAM merged with server 203 at distance 180.50 km.
+2024-10-06 21:44:00,159 - Validator 16Uiu2HAmQYqNUtBCfyWcu1n4vxN47uZBdhyPMgqz4Q8UXLJwHNtX merged with server 11 at distance 70.31 km.
+2024-10-06 21:44:00,176 - Validator 16Uiu2HAmH1fmav89k4K2GEpgKbShWz3xfirJ7Wrm1UaycRb5VtZk merged with server 11 at distance 73.66 km.
+2024-10-06 21:44:00,194 - Validator 16Uiu2HAmLCfZ8ZCtrmAy1qq8MPR8wg4mCf1VriFRuWksNuzVgU4j merged with server 156 at distance 103.15 km.
+2024-10-06 21:44:00,211 - Validator 16Uiu2HAkzeCqMZ9K5PvADdwNS8PWEh3oYjQZggk3R321M1jrPYKt merged with server 32 at distance 184.57 km.
+2024-10-06 21:44:00,228 - Validator 16Uiu2HAmCpvvYDgXv7g9tphHRBPmC2WqkCaiJYewaxuSzRBQSm4z merged with server 263 at distance 34.47 km.
+2024-10-06 21:44:00,246 - Validator 16Uiu2HAm63tSAgFTQEgNxK15ckPbRqkbomjXppkz6eDkaGRsez5K merged with server 91 at distance 26.52 km.
+2024-10-06 21:44:00,263 - Validator 16Uiu2HAmBVVyuGLL5jbdH7Pc7juapSe4Zvq889ucznU5sSGvfFMg merged with server 11 at distance 76.33 km.
+2024-10-06 21:44:00,280 - Validator 16Uiu2HAmV3BrMJT4W1ZwWSMVUtwvtEypC2nr7PpTtLYerG1rDTe7 merged with server 7 at distance 11.13 km.
+2024-10-06 21:44:00,298 - Validator 16Uiu2HAmL3e3Dx4U8x8cN9JgbfhusJG2YxddWje2qAVgCgUE7BZM merged with server 196 at distance 41.32 km.
+2024-10-06 21:44:00,315 - Validator 16Uiu2HAmFZfUriyJAUwY7C7ZdWGZnA8eBt7p27Ex7g1HHtKyK9tN merged with server 196 at distance 40.18 km.
+2024-10-06 21:44:00,332 - Validator 16Uiu2HAm9J5RrYWjkcNMCWoqfftDsU5YZDV38YcaijGwFjMAMegN merged with server 203 at distance 151.94 km.
+2024-10-06 21:44:00,349 - Validator 16Uiu2HAmQHHADpba9MCgXxaMr5rwWoCUJ3jhpwFDoS2x3Q6n1JzS merged with server 3 at distance 247.38 km.
+2024-10-06 21:44:00,367 - Validator 16Uiu2HAmSJ2XW8ZXLy7rLZ4gUw3WQqoNbYqq8SmSnca6faAxUkpT merged with server 32 at distance 3.42 km.
+2024-10-06 21:44:00,385 - Validator 16Uiu2HAmKmdALXo7ddo6pZVkVaqeNANJLnKTfT9fKkgBbdE2ip4a merged with server 196 at distance 71.13 km.
+2024-10-06 21:44:00,402 - Validator 16Uiu2HAmFtGZY8fhvr2D8qyRXoFPNsoaHK1BPVdSzK9AGymprTFe merged with server 197 at distance 140.60 km.
+2024-10-06 21:44:00,419 - Validator 16Uiu2HAm9q58LnAQUz2JAvYfZYrpNjLRFU6VgZ68gu1ERxuCQosk merged with server 197 at distance 155.23 km.
+2024-10-06 21:44:00,437 - Validator 16Uiu2HAmT3p5DmkVBP8Qg2Z2Bo2hmCHHNcEQMD3MK4deD2GZcRhu merged with server 203 at distance 143.34 km.
+2024-10-06 21:44:00,455 - Validator 16Uiu2HAmHTii6FqhtfwXFtySRSChHNVD5MZTFa8DDH9fX2y9uP5u merged with server 176 at distance 1438.52 km.
+2024-10-06 21:44:00,472 - Validator 16Uiu2HAmMK7ttSozNFWj7jRhR9rSnKgvwbqrQsCDTxXkbmi6vv6p merged with server 91 at distance 1.15 km.
+2024-10-06 21:44:00,490 - Validator 16Uiu2HAmNNp7R4hbb7p7qzTEpwEpieuhxY9fSonoPKQ5ELcXCU9g merged with server 91 at distance 55.17 km.
+2024-10-06 21:44:00,508 - Validator 16Uiu2HAkxBtx1XqT4G2ZAf7J9KEirQ4PjPZZbiEnKv2QnzhStKhy merged with server 203 at distance 131.25 km.
+2024-10-06 21:44:00,526 - Validator 16Uiu2HAmLtyvJF9JYYq38jHXLkQ8UzPRyTpkCzHZ5e5ch5jn11H6 merged with server 264 at distance 220.18 km.
+2024-10-06 21:44:00,544 - Validator 16Uiu2HAmPC4BBDUZD1qFjHkm1hRd75RYquSD9sZxRH9a4ogQHf4U merged with server 206 at distance 248.95 km.
+2024-10-06 21:44:00,562 - Validator 16Uiu2HAm7ANtXckyHQuyYSJKW63a44dcw3bmPhpwmvjJvsT2N8jY merged with server 91 at distance 41.35 km.
+2024-10-06 21:44:00,580 - Validator 16Uiu2HAkziarFDEyaTeJGY7j1x5qVxGQkbkPMRksrpXVYNUPHme4 merged with server 217 at distance 13.33 km.
+2024-10-06 21:44:00,598 - Validator 16Uiu2HAmQCbJG88fa1gdvK9Dn9DpjGsmvKGqRxWDjjkvx6kvGXwi merged with server 217 at distance 16.06 km.
+2024-10-06 21:44:00,616 - Validator 16Uiu2HAmLBCbKUtNazWsGdwYG4TMtAMfYEmd1upTkk66YTLPa4jp merged with server 196 at distance 26.09 km.
+2024-10-06 21:44:00,633 - Validator 16Uiu2HAm15Eic6nGGbB6iQDSp5AhDED5KjYUrYFanBSZuu8vAcKp merged with server 203 at distance 125.17 km.
+2024-10-06 21:44:00,651 - Validator 16Uiu2HAm3hmWzaSAK2feG3tu2TJQQoM6siEmajEmAQCTjihmTGHQ merged with server 91 at distance 91.52 km.
+2024-10-06 21:44:00,669 - Validator 16Uiu2HAm7WmvjTH7UvD7CJxZvVyjKQUVp9M7T52Z8hfmrio6Mt3C merged with server 91 at distance 68.51 km.
+2024-10-06 21:44:00,686 - Validator 16Uiu2HAmTxDeCXGrgWPfyDpV41qDCcu4m1DmmDFWQnhyaEMx7hoc merged with server 217 at distance 32.77 km.
+2024-10-06 21:44:00,703 - Validator 16Uiu2HAmJ3KF3TWerUwmw7dhN1Nv38jsdggE2BmvyojR62hTFn2T merged with server 9 at distance 419.67 km.
+2024-10-06 21:44:00,721 - Validator 16Uiu2HAmD1QsRTqB8rcAMqw1HdvtWGAAufVT3xEocLLh2aiMw18q merged with server 91 at distance 48.42 km.
+2024-10-06 21:44:00,739 - Validator 16Uiu2HAm3rpGhb9VBuSZcgKmApqYdj7swhhE4nW9dpqnC3UZaSWr merged with server 77 at distance 61.62 km.
+2024-10-06 21:44:00,757 - Validator 16Uiu2HAmV8LCWj28DZdq4vEFfYcRScDaKZoygMJTN5rArNE9hYmQ merged with server 197 at distance 50.74 km.
+2024-10-06 21:44:00,774 - Validator 16Uiu2HAmG1Se31CFmAHFbYmw2T9Yi6Jjd91GR2LE6MbvyRg1PztC merged with server 203 at distance 118.26 km.
+2024-10-06 21:44:00,791 - Validator 16Uiu2HAmDYvSD4BUEconJHgVYk7y4HjLCek56ssKWiCvg5mADNKh merged with server 203 at distance 101.88 km.
+2024-10-06 21:44:00,808 - Validator 16Uiu2HAmGKmVUxoDHCmJ9u6oiXYmQxJgT7Sp5EKABPXqAw55Bm7V merged with server 197 at distance 15.75 km.
+2024-10-06 21:44:00,826 - Validator 16Uiu2HAmQ7AGmGGtxztYkw8m4YFv1Sq9mAbXVxREdfRxS2qw9S8w merged with server 197 at distance 110.02 km.
+2024-10-06 21:44:00,843 - Validator 16Uiu2HAkxKfejBSqpeVAhESmxz87ddg4GnJhiFxgdYSw6BuuxCqo merged with server 197 at distance 51.26 km.
+2024-10-06 21:44:00,861 - Validator 16Uiu2HAmLj3iMUNDSjsXGhMyMQ2uyL8oNQ5UVcDMaj1CeZSSaJRy merged with server 197 at distance 62.38 km.
+2024-10-06 21:44:00,878 - Validator 16Uiu2HAm6QutRntWBCS6bZ6Uba6JUepdAtVkqrqzTM6gx1RvXX3G merged with server 194 at distance 296.47 km.
+2024-10-06 21:44:00,896 - Validator 16Uiu2HAmM96Bj9jH4EWfXgkMjYyhzBm2m6Khd5YsCpNT3u7evAZg merged with server 19 at distance 5.96 km.
+2024-10-06 21:44:00,914 - Validator 16Uiu2HAmMDC4ekZPejRLuGk9ftzhDccwGgWHnUjQr1ziQpTAfDXY merged with server 203 at distance 39.67 km.
+2024-10-06 21:44:00,932 - Validator 16Uiu2HAmDt5RzUBhVTTWjyDuX2Zb6im7tKuRk97WgvhRKnmspgcL merged with server 9 at distance 343.27 km.
+2024-10-06 21:44:00,950 - Validator 16Uiu2HAmDNLbF1juhHByjrUb8PhAk2378muuK7MBczZSPAT5pGVg merged with server 19 at distance 36.43 km.
+2024-10-06 21:44:00,968 - Validator 16Uiu2HAmFv3PAXXexjUqqsDZZig8EsqUyQfDcBghmakQJQ93CLhJ merged with server 77 at distance 51.28 km.
+2024-10-06 21:44:00,986 - Validator 16Uiu2HAkwVdPcrJTsCZCCVvX5B8ofaUVWAgRfQtb55TeEQNDtSEE merged with server 77 at distance 25.53 km.
+2024-10-06 21:44:01,004 - Validator 16Uiu2HAm4jy5VWcDLkAv1b3narrmpeN1iXd3WBMdQMeiUXGpqak8 merged with server 197 at distance 20.52 km.
+2024-10-06 21:44:01,021 - Validator 16Uiu2HAmBVKEjNVKdrzbkqir1CDB8srp9xxw3RsePgS2Sv7FN5f1 merged with server 103 at distance 23.80 km.
+2024-10-06 21:44:01,038 - Validator 16Uiu2HAm3pzrwcLzTMyHjrckrTMbz5ZmSXoPjveuqGn4ch4TvZqu merged with server 197 at distance 58.12 km.
+2024-10-06 21:44:01,055 - Validator 16Uiu2HAm1ijmLqcF4gTp1bACnWKQBNFP2AeMGZsnzmzCnWEdGa5j merged with server 203 at distance 60.21 km.
+2024-10-06 21:44:01,073 - Validator 16Uiu2HAmJ81iwtjNcxJir3bsFFMmyAhCm5tctxzfJQ3zSeiKd43Y merged with server 103 at distance 8.95 km.
+2024-10-06 21:44:01,090 - Validator 16Uiu2HAmBTSTBHHJQTzJR34fywkwffTdsAB2UgzoKYTxRLoWcD14 merged with server 19 at distance 45.55 km.
+2024-10-06 21:44:01,107 - Validator 16Uiu2HAmAfe7EeWbSQjQuypYnLYqLsfdYQVZYhf98gptTS3mUqwK merged with server 203 at distance 3.86 km.
+2024-10-06 21:44:01,125 - Validator 16Uiu2HAm8huJpjmmRngxmCXXzy1Zpv9htCWiGMtGCgF4VhrSvv9H merged with server 77 at distance 54.78 km.
+2024-10-06 21:44:01,142 - Validator 16Uiu2HAmE63P5W9YbasP89DamoLASbF9332Fz6uETptABXJrDiFC merged with server 203 at distance 24.80 km.
+2024-10-06 21:44:01,159 - Validator 16Uiu2HAmMbwAHxbTcYxLMzn1e3kk6yQ6o1YF61WV2WxR3crWKsrF merged with server 77 at distance 46.84 km.
+2024-10-06 21:44:01,176 - Validator 16Uiu2HAmF1XxX8KmL6xgnjgUr2KUeQ3KKF3g2aRQH61EMixtMU3y merged with server 77 at distance 45.99 km.
+2024-10-06 21:44:01,193 - Validator 16Uiu2HAm4r6WdPb4QbGuS3xwVA9dNdWqWDM1LAdWaUA7NDsSHQNN merged with server 260 at distance 196.99 km.
+2024-10-06 21:44:01,211 - Validator 16Uiu2HAmPKr5f19ZommWttCz3kBPBfwcMe489R8FRAwjYa2wNyiM merged with server 170 at distance 174.23 km.
+2024-10-06 21:44:01,228 - Validator 16Uiu2HAmRiykCDWM9oWdps3RjdVgicYCwpNDQAUhaj176rS7d9tx merged with server 194 at distance 172.42 km.
+2024-10-06 21:44:01,245 - Validator 16Uiu2HAmCJ5RKCWJPoKnedMLwEUiQk7LLQs9euvwAQTh2kw7UXH4 merged with server 204 at distance 37.53 km.
+2024-10-06 21:44:01,262 - Validator 16Uiu2HAmKoufn6rT6paEYBRm4adLet6SGjwAP2PJLC9rdyTZtmbm merged with server 206 at distance 10.30 km.
+2024-10-06 21:44:01,279 - Validator 16Uiu2HAmPBswLZq3iFGWJ8XaLVhs1EH6m6HewN2YXDFb85D4U7Dm merged with server 88 at distance 53.81 km.
+2024-10-06 21:44:01,296 - Validator 16Uiu2HAmKh79T6kdDazzjRjSgTEMrwn3ZazcCSMjSwReRpNc1RsP merged with server 9 at distance 162.73 km.
+2024-10-06 21:44:01,313 - Validator 16Uiu2HAkv8Ykfd3fr4NfAxsGDSu68eyLkE67y9wYC4dgFkkwbMEz merged with server 204 at distance 1.97 km.
+2024-10-06 21:44:01,330 - Validator 16Uiu2HAmFNxmFWnttVvQ7Lt6oWmHGJTHp9dBn1znQXC3MFhkYMuL merged with server 291 at distance 81.18 km.
+2024-10-06 21:44:01,348 - Validator 16Uiu2HAmSG5HPzuYEWH4hMQGBh79qHcMRUzu9fC5i6wpBXxxjert merged with server 88 at distance 49.28 km.
+2024-10-06 21:44:01,365 - Validator 16Uiu2HAmLU3V12JzEX1WJJTZoiUWLfG8JXC3mYEddYcpNxR6bnnt merged with server 9 at distance 184.48 km.
+2024-10-06 21:44:01,383 - Validator 16Uiu2HAmJ2PkRnHBQwWrf2WUN7jzKAAa1dDpZWq5FGxmx7RUCAAb merged with server 170 at distance 2.15 km.
+2024-10-06 21:44:01,400 - Validator 16Uiu2HAm3HaEDBDSTLkvEdQhGswEybtPRxycCH2rHARjeD9bUhJe merged with server 194 at distance 453.00 km.
+2024-10-06 21:44:01,417 - Validator 16Uiu2HAmTpYdyhbqeufj6Lhe4iSt8HScHG9zEr3hSsXJPsg14wFM merged with server 26 at distance 106.29 km.
+2024-10-06 21:44:01,434 - Validator 16Uiu2HAm4ncUvN3LtP4KVRibKZZghiPdJct4pL2j3NmUNaaK1JQK merged with server 88 at distance 10.70 km.
+2024-10-06 21:44:01,451 - Validator 16Uiu2HAmPDmMBuR3pt5szY4e3Py2v4yseuDrBdoqF1xnWjjeia2N merged with server 203 at distance 149.14 km.
+2024-10-06 21:44:01,469 - Validator 16Uiu2HAmC1jjjtK38xFhG1JFmRedEXhU8GpNod2CXiZ4eZesnssx merged with server 9 at distance 98.46 km.
+2024-10-06 21:44:01,487 - Validator 16Uiu2HAmJNPFczeKkqfk25HnSMDxCyFif2Ez9cBEyXDfREKQ4A8H merged with server 194 at distance 699.60 km.
+2024-10-06 21:44:01,505 - Validator 16Uiu2HAm61Z5233x9RrRhEoNHirxnKHrbobj5hzEvg3GhyHZM17B merged with server 176 at distance 2.83 km.
+2024-10-06 21:44:01,522 - Validator 16Uiu2HAmLcbE4R5UKDH6gwQWSxPnV1PmV47q3ecoStYrr9wG7oco merged with server 26 at distance 140.30 km.
+2024-10-06 21:44:01,539 - Validator 16Uiu2HAmDpXH79oYARussvpYZLy4Awm8fjwkSGwL3meswTSnKHt8 merged with server 9 at distance 40.81 km.
+2024-10-06 21:44:01,556 - Validator 16Uiu2HAm8y3aNs9PrfcFXETyUvSKhHPrVr8KMbXMiwQBtoP82s7d merged with server 26 at distance 13.51 km.
+2024-10-06 21:44:01,573 - Validator 16Uiu2HAm9cXaNiGhK5tRDoMHRSEz2sZRNRAPCKvkcU6SAM75yVKx merged with server 26 at distance 28.42 km.
+2024-10-06 21:44:01,590 - Validator 16Uiu2HAm7crrKhSWwnjUqkn5fHHeT73VLkxv3FmFfJjiRUPWVgYa merged with server 9 at distance 31.24 km.
+2024-10-06 21:44:01,607 - Validator 16Uiu2HAm8XLzup4oGfhWT5nn97qShbvfiAXgLtVqMRv7KCMcYDfR merged with server 126 at distance 39.91 km.
+2024-10-06 21:44:01,624 - Validator 16Uiu2HAmKVwraSRyNYLv5VL4VRMWCVeQ9QP2UDF3XP55zJ2ePeJu merged with server 187 at distance 65.54 km.
+2024-10-06 21:44:01,641 - Validator 16Uiu2HAmP41cmL8XrLrf6ZxVSmNmTRWUDne6Ynm14X48ruihSTHx merged with server 26 at distance 32.56 km.
+2024-10-06 21:44:01,658 - Validator 16Uiu2HAmGg4Skr5ttRSYNXmKcEsvw2AAk1GRy2cPeHaKyGvPuw6A merged with server 9 at distance 26.76 km.
+2024-10-06 21:44:01,675 - Validator 16Uiu2HAmKyV9HR3f4PjsufCxSiPK6gQiDMpYJf9atopgSe6o5CFg merged with server 9 at distance 5.49 km.
+2024-10-06 21:44:01,692 - Validator 16Uiu2HAmKVLACUvmg3hPNt52yrpHPqWwnNCqY5XmuvZeco467mfg merged with server 126 at distance 3.85 km.
+2024-10-06 21:44:01,710 - Validator 16Uiu2HAmLJagKQeC1DPcK4fyK9g1mDxv1tiW2FPTJAfdym1a5N33 merged with server 9 at distance 24.20 km.
+2024-10-06 21:44:01,728 - Validator 16Uiu2HAmBuvvHYoawWVhhtuZATHHpuC2pf8M3wqfHoSmRtn2guqp merged with server 9 at distance 28.61 km.
+2024-10-06 21:44:01,745 - Validator 16Uiu2HAmAXW6vruP93aRsBTMYBfJf4bh6xqrpVC5xgGjD3rAXJ21 merged with server 26 at distance 252.77 km.
+2024-10-06 21:44:01,762 - Validator 16Uiu2HAm7pbNgbXwNTgRVF2zYJbxBhEAtzQqjdi3aujYnScZyRCb merged with server 26 at distance 155.58 km.
+2024-10-06 21:44:01,780 - Validator 16Uiu2HAmP6eFEkSZ7ju56moopn3aEnGe4qN37QqSbht6ct2mPrUu merged with server 194 at distance 119.70 km.
+2024-10-06 21:44:01,797 - Validator 16Uiu2HAm3WvFo3LCzYRZUmzQhWahTAf6EYLEp9FK7LPdUbQfHhYJ merged with server 26 at distance 176.71 km.
+2024-10-06 21:44:01,814 - Validator 16Uiu2HAm1Dp5SbCzTEZs9MsEPay5Rx8WWf2W4hniky72yKuCT7Ux merged with server 26 at distance 62.01 km.
+2024-10-06 21:44:01,831 - Validator 16Uiu2HAm5pMq53eNzA1QFtdQ8USySSonXiU145PNJobyzSHC9vBL merged with server 26 at distance 180.41 km.
+2024-10-06 21:44:01,848 - Validator 16Uiu2HAm2DkLeWefNkMdmLoxk8aoxWBzsgztYhjMkGKYEn5RCh5Y merged with server 9 at distance 68.05 km.
+2024-10-06 21:44:01,866 - Validator 16Uiu2HAmVHRJuCWX1fyWLnC219wSveXUdzeEPBN6WQGUjyZ7vAdU merged with server 194 at distance 711.76 km.
+2024-10-06 21:44:01,882 - Validator 16Uiu2HAmDnPsbSK7Fsm4AwivxwcWtwk2eec2K3XnNGQWxdefdGxX merged with server 127 at distance 13.70 km.
+2024-10-06 21:44:01,900 - Validator 16Uiu2HAkxvTH29Nm6tArDjdsasbkqsVnrcyWo5geeFU1yoSCzZ7N merged with server 194 at distance 737.97 km.
+2024-10-06 21:44:01,917 - Validator 16Uiu2HAkveUAzspAc9kDEp5jJJsaCKx1jzDiv3JYLxpLyAsCGBch merged with server 174 at distance 963.47 km.
+2024-10-06 21:44:01,935 - Validator 16Uiu2HAmPkPDbSQ4czcFuPFXaGpYnzydCarmKovByDDrZTbHz7AS merged with server 164 at distance 1.99 km.
+2024-10-06 21:44:01,952 - Validator 16Uiu2HAm8JFM5ZtdMDSfJMeZ7iiRB97voJAWM42nipxWXDT5caLs merged with server 164 at distance 133.44 km.
+2024-10-06 21:44:01,968 - Validator 16Uiu2HAkwh1EhdHQWEnTVvrTFwhoD7ggZQz5UmxvDP22XMvvdUTC merged with server 149 at distance 265.80 km.
+2024-10-06 21:44:01,986 - Validator 16Uiu2HAmC1afVnzUxiAeJGeNmqPBc1EzwivPd1yjuuu1h7VvTFW2 merged with server 194 at distance 500.87 km.
+2024-10-06 21:44:02,003 - Validator 16Uiu2HAmTZSPei2pJkjaRvQNhYrRL2iSwpyrE15yonrQC7PKJh6a merged with server 164 at distance 209.97 km.
+2024-10-06 21:44:02,020 - Validator 16Uiu2HAmCw51p8NqYH3irkUxuHCtMj2hsHpNPmBV6giGoKp8LkRz merged with server 129 at distance 196.17 km.
+2024-10-06 21:44:02,037 - Validator 16Uiu2HAmCw4chRUyXNLoUBLSGjL3LaRDiWSYkeW94eXgDijCikF6 merged with server 164 at distance 199.81 km.
+2024-10-06 21:44:02,055 - Validator 16Uiu2HAmEmqtKebWioyc5oUu8mhrjVuc5issZcEs22e942m6sK14 merged with server 48 at distance 187.74 km.
+2024-10-06 21:44:02,072 - Validator 16Uiu2HAmUWhnERUXadzr9egBC8EpGHky1XaxMEtCe2A54ymqde84 merged with server 48 at distance 166.13 km.
+2024-10-06 21:44:02,089 - Validator 16Uiu2HAkyGPwdKHomQeKvv3rm5C4fNkfLprLWN8Y2v5YujKHDoin merged with server 10 at distance 48.04 km.
+2024-10-06 21:44:02,106 - Validator 16Uiu2HAmG2ZSZoCLn5jK8JBFp7zei48R95aWQAG3yZsRC4fVDNMD merged with server 129 at distance 99.68 km.
+2024-10-06 21:44:02,123 - Validator 16Uiu2HAkzxjyVZ9KAJKfWKiKqipJ4Tpgpw6rqScwDAS8X1kvCvSs merged with server 10 at distance 30.98 km.
+2024-10-06 21:44:02,140 - Validator 16Uiu2HAmMaMS1Z7J8du1Wq6vzFura8zsi6WggWbHHEG7S6QoKNRi merged with server 25 at distance 4.90 km.
+2024-10-06 21:44:02,157 - Validator 16Uiu2HAmQm2n572nb3eCCL6wrTifTxKUv4FNQLZK3yE4w4AZAk9u merged with server 10 at distance 21.00 km.
+2024-10-06 21:44:02,174 - Validator 16Uiu2HAkzGdRqTRrr48jfKsXpYVsFjhG47RQaPnYcQNeXuBMjPEn merged with server 10 at distance 90.06 km.
+2024-10-06 21:44:02,192 - Validator 16Uiu2HAm1SXyYyaQBXYkQh9jdQPduoNK418U9at1FgYQdTzqYVCu merged with server 129 at distance 41.56 km.
+2024-10-06 21:44:02,209 - Validator 16Uiu2HAmGYkQ9qVuQ3vpDfVNvSLXxJnYLARC6gFPYWgoYjD8m3VQ merged with server 129 at distance 16.94 km.
+2024-10-06 21:44:02,226 - Validator 16Uiu2HAm6dzrsjDVGNV6fHdsTE4AN1yoxqQqwxytar53rPPg4zYg merged with server 129 at distance 20.35 km.
+2024-10-06 21:44:02,243 - Validator 16Uiu2HAm2ZqjdKFheqSAgVroHzuTDUFrCXbhuToLPsnZmRGYgcsx merged with server 10 at distance 70.29 km.
+2024-10-06 21:44:02,260 - Validator 16Uiu2HAmAzKGLSq31RELbMspVMEcvUg7uyQ35XrHB7o1MpCUT1m5 merged with server 149 at distance 5.57 km.
+2024-10-06 21:44:02,277 - Validator 16Uiu2HAkuhRFaZzJGgQJEmReZ4rQnE1MsUJgCdRhFxnN8YUC2Qyk merged with server 129 at distance 15.03 km.
+2024-10-06 21:44:02,294 - Validator 16Uiu2HAm5vG3y6QGM9XcMCCMZz1o5eTpJ97MsQzp7LFU5otBXWmA merged with server 45 at distance 54.71 km.
+2024-10-06 21:44:02,311 - Validator 16Uiu2HAmTJ7hhcVicugHLaPynJdMtmZjHASuXeJCm2Ls61yWeNqv merged with server 45 at distance 2.48 km.
+2024-10-06 21:44:02,328 - Validator 16Uiu2HAmQy1eMVQGjfMVrFHrnjafz7qhkKKm8wt2BFQ7VNFmHj46 merged with server 48 at distance 9.18 km.
+2024-10-06 21:44:02,345 - Validator 16Uiu2HAmQPAB7EZgmVet6JeyTBeMfBrB9bbXZw5tevCKmjgRLRg3 merged with server 45 at distance 28.31 km.
+2024-10-06 21:44:02,362 - Validator 16Uiu2HAm4UG7BXVjK71MseXmK3YR8WAZqRUuTpXYckNj2VYvhoYJ merged with server 10 at distance 199.81 km.
+2024-10-06 21:44:02,379 - Validator 16Uiu2HAmQm4tNgRUubcGbBLoP4hZgGvzMgZKLjF7gp8T9FPxjxcd merged with server 45 at distance 45.42 km.
+2024-10-06 21:44:02,396 - Validator 16Uiu2HAmS4N61ANQ9QzeVJiJt5HuCHyUj1vQ6xFtohhzZ93Y9DYd merged with server 149 at distance 172.37 km.
+2024-10-06 21:44:02,414 - Validator 16Uiu2HAmDhDopRFpvzFAN3cUuMdbuKha6jvCMDwuDHncpY5c2SXE merged with server 53 at distance 2136.33 km.
+2024-10-06 21:44:02,431 - Validator 16Uiu2HAmAwcCh9tbTq7tM2MBm1Ag4Ybo5nxhGf2qWJ7EvVVsGEFp merged with server 45 at distance 151.15 km.
+2024-10-06 21:44:02,448 - Validator 16Uiu2HAmHMyL9gnUg3d8BdBQ1pSpg4oVR8FucBksbv7ARZkSXEif merged with server 53 at distance 2118.89 km.
+2024-10-06 21:44:02,465 - Validator 16Uiu2HAmVYHnu1yJKYsXuY3r8CnSWJwgtbrX1KDDjhZyrrfXTi8x merged with server 45 at distance 228.68 km.
+2024-10-06 21:44:02,483 - Validator 16Uiu2HAmKCL5zQSZcNdo2GMoBXGZJyXQxafA73jnjMUgCZ31i9uN merged with server 76 at distance 4.05 km.
+2024-10-06 21:44:02,500 - Validator 16Uiu2HAmE9gRYqxpM2DnWHMJusmjWcHEtchmRLUCfwd5vW2k277y merged with server 45 at distance 535.60 km.
+2024-10-06 21:44:02,518 - Validator 16Uiu2HAm2MJqUybDTo5o8RPWUuUtQiU9E8MD7KR4EY4j3K4eMyhV merged with server 45 at distance 792.29 km.
+2024-10-06 21:44:02,519 - Max distance: 2350.61 km, Min distance: 0.00 km, Average distance: 129.87 km
+2024-10-06 21:44:02,522 - Number of validators after initial merge: 218
+2024-10-06 21:44:02,522 - Number of validators is greater than 64. Starting second round of merging.
+2024-10-06 21:44:04,425 - Merged validators at index 4 and 205, with distance 4.73 km.
+2024-10-06 21:44:04,425 - New validator count after merge: 217
+2024-10-06 21:44:06,339 - Merged validators at index 103 and 149, with distance 9.15 km.
+2024-10-06 21:44:06,339 - New validator count after merge: 216
+2024-10-06 21:44:08,234 - Merged validators at index 168 and 183, with distance 11.73 km.
+2024-10-06 21:44:08,234 - New validator count after merge: 215
+2024-10-06 21:44:10,094 - Merged validators at index 5 and 183, with distance 14.38 km.
+2024-10-06 21:44:10,094 - New validator count after merge: 214
+2024-10-06 21:44:11,955 - Merged validators at index 21 and 28, with distance 21.74 km.
+2024-10-06 21:44:11,955 - New validator count after merge: 213
+2024-10-06 21:44:13,830 - Merged validators at index 11 and 102, with distance 27.11 km.
+2024-10-06 21:44:13,831 - New validator count after merge: 212
+2024-10-06 21:44:15,673 - Merged validators at index 64 and 182, with distance 29.16 km.
+2024-10-06 21:44:15,673 - New validator count after merge: 211
+2024-10-06 21:44:17,471 - Merged validators at index 174 and 201, with distance 41.26 km.
+2024-10-06 21:44:17,471 - New validator count after merge: 210
+2024-10-06 21:44:19,272 - Merged validators at index 160 and 187, with distance 41.50 km.
+2024-10-06 21:44:19,272 - New validator count after merge: 209
+2024-10-06 21:44:21,004 - Merged validators at index 5 and 166, with distance 44.80 km.
+2024-10-06 21:44:21,004 - New validator count after merge: 208
+2024-10-06 21:44:22,760 - Merged validators at index 12 and 122, with distance 49.14 km.
+2024-10-06 21:44:22,760 - New validator count after merge: 207
+2024-10-06 21:44:24,501 - Merged validators at index 9 and 133, with distance 51.94 km.
+2024-10-06 21:44:24,501 - New validator count after merge: 206
+2024-10-06 21:44:26,270 - Merged validators at index 136 and 155, with distance 54.31 km.
+2024-10-06 21:44:26,270 - New validator count after merge: 205
+2024-10-06 21:44:28,029 - Merged validators at index 18 and 126, with distance 55.29 km.
+2024-10-06 21:44:28,029 - New validator count after merge: 204
+2024-10-06 21:44:29,699 - Merged validators at index 38 and 48, with distance 58.70 km.
+2024-10-06 21:44:29,700 - New validator count after merge: 203
+2024-10-06 21:44:31,371 - Merged validators at index 21 and 89, with distance 62.15 km.
+2024-10-06 21:44:31,371 - New validator count after merge: 202
+2024-10-06 21:44:33,052 - Merged validators at index 25 and 170, with distance 62.47 km.
+2024-10-06 21:44:33,052 - New validator count after merge: 201
+2024-10-06 21:44:34,733 - Merged validators at index 81 and 198, with distance 68.66 km.
+2024-10-06 21:44:34,733 - New validator count after merge: 200
+2024-10-06 21:44:36,364 - Merged validators at index 184 and 186, with distance 68.83 km.
+2024-10-06 21:44:36,364 - New validator count after merge: 199
+2024-10-06 21:44:37,954 - Merged validators at index 11 and 112, with distance 71.51 km.
+2024-10-06 21:44:37,954 - New validator count after merge: 198
+2024-10-06 21:44:39,526 - Merged validators at index 17 and 194, with distance 72.66 km.
+2024-10-06 21:44:39,526 - New validator count after merge: 197
+2024-10-06 21:44:41,077 - Merged validators at index 5 and 157, with distance 73.27 km.
+2024-10-06 21:44:41,077 - New validator count after merge: 196
+2024-10-06 21:44:42,615 - Merged validators at index 14 and 37, with distance 75.13 km.
+2024-10-06 21:44:42,615 - New validator count after merge: 195
+2024-10-06 21:44:44,136 - Merged validators at index 71 and 113, with distance 85.99 km.
+2024-10-06 21:44:44,136 - New validator count after merge: 194
+2024-10-06 21:44:45,646 - Merged validators at index 23 and 39, with distance 86.63 km.
+2024-10-06 21:44:45,646 - New validator count after merge: 193
+2024-10-06 21:44:47,212 - Merged validators at index 37 and 162, with distance 88.34 km.
+2024-10-06 21:44:47,212 - New validator count after merge: 192
+2024-10-06 21:44:48,764 - Merged validators at index 169 and 173, with distance 90.33 km.
+2024-10-06 21:44:48,764 - New validator count after merge: 191
+2024-10-06 21:44:50,287 - Merged validators at index 128 and 161, with distance 92.34 km.
+2024-10-06 21:44:50,287 - New validator count after merge: 190
+2024-10-06 21:44:51,831 - Merged validators at index 1 and 84, with distance 94.77 km.
+2024-10-06 21:44:51,831 - New validator count after merge: 189
+2024-10-06 21:44:53,310 - Merged validators at index 32 and 175, with distance 95.03 km.
+2024-10-06 21:44:53,311 - New validator count after merge: 188
+2024-10-06 21:44:54,872 - Merged validators at index 60 and 103, with distance 98.65 km.
+2024-10-06 21:44:54,872 - New validator count after merge: 187
+2024-10-06 21:44:56,299 - Merged validators at index 14 and 181, with distance 102.91 km.
+2024-10-06 21:44:56,299 - New validator count after merge: 186
+2024-10-06 21:44:57,675 - Merged validators at index 157 and 185, with distance 106.09 km.
+2024-10-06 21:44:57,675 - New validator count after merge: 185
+2024-10-06 21:44:59,034 - Merged validators at index 9 and 124, with distance 107.35 km.
+2024-10-06 21:44:59,034 - New validator count after merge: 184
+2024-10-06 21:45:00,376 - Merged validators at index 122 and 165, with distance 107.82 km.
+2024-10-06 21:45:00,376 - New validator count after merge: 183
+2024-10-06 21:45:01,721 - Merged validators at index 18 and 152, with distance 111.68 km.
+2024-10-06 21:45:01,721 - New validator count after merge: 182
+2024-10-06 21:45:03,093 - Merged validators at index 126 and 174, with distance 114.51 km.
+2024-10-06 21:45:03,093 - New validator count after merge: 181
+2024-10-06 21:45:04,464 - Merged validators at index 43 and 115, with distance 116.39 km.
+2024-10-06 21:45:04,464 - New validator count after merge: 180
+2024-10-06 21:45:05,759 - Merged validators at index 26 and 119, with distance 117.43 km.
+2024-10-06 21:45:05,759 - New validator count after merge: 179
+2024-10-06 21:45:07,146 - Merged validators at index 20 and 86, with distance 117.88 km.
+2024-10-06 21:45:07,146 - New validator count after merge: 178
+2024-10-06 21:45:08,421 - Merged validators at index 104 and 105, with distance 123.13 km.
+2024-10-06 21:45:08,421 - New validator count after merge: 177
+2024-10-06 21:45:09,686 - Merged validators at index 77 and 84, with distance 124.52 km.
+2024-10-06 21:45:09,686 - New validator count after merge: 176
+2024-10-06 21:45:10,926 - Merged validators at index 11 and 165, with distance 128.07 km.
+2024-10-06 21:45:10,926 - New validator count after merge: 175
+2024-10-06 21:45:12,173 - Merged validators at index 66 and 79, with distance 128.97 km.
+2024-10-06 21:45:12,173 - New validator count after merge: 174
+2024-10-06 21:45:13,387 - Merged validators at index 2 and 153, with distance 131.32 km.
+2024-10-06 21:45:13,387 - New validator count after merge: 173
+2024-10-06 21:45:14,581 - Merged validators at index 91 and 100, with distance 132.10 km.
+2024-10-06 21:45:14,581 - New validator count after merge: 172
+2024-10-06 21:45:15,766 - Merged validators at index 26 and 50, with distance 133.47 km.
+2024-10-06 21:45:15,766 - New validator count after merge: 171
+2024-10-06 21:45:16,935 - Merged validators at index 115 and 117, with distance 134.54 km.
+2024-10-06 21:45:16,935 - New validator count after merge: 170
+2024-10-06 21:45:18,093 - Merged validators at index 17 and 146, with distance 140.71 km.
+2024-10-06 21:45:18,093 - New validator count after merge: 169
+2024-10-06 21:45:19,234 - Merged validators at index 21 and 79, with distance 142.14 km.
+2024-10-06 21:45:19,234 - New validator count after merge: 168
+2024-10-06 21:45:20,389 - Merged validators at index 32 and 132, with distance 146.21 km.
+2024-10-06 21:45:20,389 - New validator count after merge: 167
+2024-10-06 21:45:21,517 - Merged validators at index 115 and 166, with distance 146.47 km.
+2024-10-06 21:45:21,517 - New validator count after merge: 166
+2024-10-06 21:45:22,628 - Merged validators at index 75 and 133, with distance 148.21 km.
+2024-10-06 21:45:22,628 - New validator count after merge: 165
+2024-10-06 21:45:23,730 - Merged validators at index 115 and 145, with distance 150.67 km.
+2024-10-06 21:45:23,730 - New validator count after merge: 164
+2024-10-06 21:45:24,855 - Merged validators at index 11 and 56, with distance 154.79 km.
+2024-10-06 21:45:24,855 - New validator count after merge: 163
+2024-10-06 21:45:25,958 - Merged validators at index 5 and 37, with distance 157.43 km.
+2024-10-06 21:45:25,958 - New validator count after merge: 162
+2024-10-06 21:45:27,018 - Merged validators at index 67 and 102, with distance 158.05 km.
+2024-10-06 21:45:27,018 - New validator count after merge: 161
+2024-10-06 21:45:28,063 - Merged validators at index 26 and 138, with distance 159.34 km.
+2024-10-06 21:45:28,063 - New validator count after merge: 160
+2024-10-06 21:45:29,090 - Merged validators at index 101 and 148, with distance 159.61 km.
+2024-10-06 21:45:29,090 - New validator count after merge: 159
+2024-10-06 21:45:30,106 - Merged validators at index 64 and 87, with distance 160.83 km.
+2024-10-06 21:45:30,106 - New validator count after merge: 158
+2024-10-06 21:45:31,106 - Merged validators at index 66 and 100, with distance 161.76 km.
+2024-10-06 21:45:31,106 - New validator count after merge: 157
+2024-10-06 21:45:32,099 - Merged validators at index 5 and 134, with distance 162.13 km.
+2024-10-06 21:45:32,099 - New validator count after merge: 156
+2024-10-06 21:45:33,077 - Merged validators at index 70 and 124, with distance 165.53 km.
+2024-10-06 21:45:33,077 - New validator count after merge: 155
+2024-10-06 21:45:34,046 - Merged validators at index 43 and 152, with distance 167.81 km.
+2024-10-06 21:45:34,046 - New validator count after merge: 154
+2024-10-06 21:45:34,996 - Merged validators at index 63 and 73, with distance 172.72 km.
+2024-10-06 21:45:34,996 - New validator count after merge: 153
+2024-10-06 21:45:35,933 - Merged validators at index 49 and 107, with distance 178.80 km.
+2024-10-06 21:45:35,933 - New validator count after merge: 152
+2024-10-06 21:45:36,856 - Merged validators at index 34 and 59, with distance 179.45 km.
+2024-10-06 21:45:36,857 - New validator count after merge: 151
+2024-10-06 21:45:37,776 - Merged validators at index 124 and 125, with distance 182.24 km.
+2024-10-06 21:45:37,776 - New validator count after merge: 150
+2024-10-06 21:45:38,679 - Merged validators at index 11 and 84, with distance 185.37 km.
+2024-10-06 21:45:38,679 - New validator count after merge: 149
+2024-10-06 21:45:39,571 - Merged validators at index 93 and 115, with distance 186.97 km.
+2024-10-06 21:45:39,572 - New validator count after merge: 148
+2024-10-06 21:45:40,450 - Merged validators at index 27 and 106, with distance 188.07 km.
+2024-10-06 21:45:40,450 - New validator count after merge: 147
+2024-10-06 21:45:41,325 - Merged validators at index 27 and 49, with distance 190.58 km.
+2024-10-06 21:45:41,325 - New validator count after merge: 146
+2024-10-06 21:45:42,206 - Merged validators at index 22 and 44, with distance 191.34 km.
+2024-10-06 21:45:42,206 - New validator count after merge: 145
+2024-10-06 21:45:43,047 - Merged validators at index 12 and 116, with distance 194.20 km.
+2024-10-06 21:45:43,047 - New validator count after merge: 144
+2024-10-06 21:45:43,879 - Merged validators at index 61 and 105, with distance 195.20 km.
+2024-10-06 21:45:43,879 - New validator count after merge: 143
+2024-10-06 21:45:44,698 - Merged validators at index 52 and 53, with distance 197.83 km.
+2024-10-06 21:45:44,698 - New validator count after merge: 142
+2024-10-06 21:45:45,509 - Merged validators at index 98 and 134, with distance 197.93 km.
+2024-10-06 21:45:45,509 - New validator count after merge: 141
+2024-10-06 21:45:46,311 - Merged validators at index 57 and 69, with distance 200.63 km.
+2024-10-06 21:45:46,311 - New validator count after merge: 140
+2024-10-06 21:45:47,101 - Merged validators at index 57 and 134, with distance 201.30 km.
+2024-10-06 21:45:47,101 - New validator count after merge: 139
+2024-10-06 21:45:47,881 - Merged validators at index 123 and 132, with distance 203.64 km.
+2024-10-06 21:45:47,881 - New validator count after merge: 138
+2024-10-06 21:45:48,647 - Merged validators at index 9 and 116, with distance 213.69 km.
+2024-10-06 21:45:48,648 - New validator count after merge: 137
+2024-10-06 21:45:49,406 - Merged validators at index 78 and 96, with distance 214.34 km.
+2024-10-06 21:45:49,406 - New validator count after merge: 136
+2024-10-06 21:45:50,152 - Merged validators at index 18 and 39, with distance 215.29 km.
+2024-10-06 21:45:50,152 - New validator count after merge: 135
+2024-10-06 21:45:50,885 - Merged validators at index 25 and 32, with distance 217.64 km.
+2024-10-06 21:45:50,885 - New validator count after merge: 134
+2024-10-06 21:45:51,603 - Merged validators at index 39 and 103, with distance 223.50 km.
+2024-10-06 21:45:51,603 - New validator count after merge: 133
+2024-10-06 21:45:52,310 - Merged validators at index 11 and 94, with distance 224.54 km.
+2024-10-06 21:45:52,310 - New validator count after merge: 132
+2024-10-06 21:45:53,008 - Merged validators at index 24 and 100, with distance 228.49 km.
+2024-10-06 21:45:53,008 - New validator count after merge: 131
+2024-10-06 21:45:53,697 - Merged validators at index 82 and 97, with distance 230.53 km.
+2024-10-06 21:45:53,697 - New validator count after merge: 130
+2024-10-06 21:45:54,373 - Merged validators at index 41 and 127, with distance 232.21 km.
+2024-10-06 21:45:54,373 - New validator count after merge: 129
+2024-10-06 21:45:55,038 - Merged validators at index 22 and 62, with distance 233.37 km.
+2024-10-06 21:45:55,038 - New validator count after merge: 128
+2024-10-06 21:45:55,694 - Merged validators at index 76 and 117, with distance 249.09 km.
+2024-10-06 21:45:55,694 - New validator count after merge: 127
+2024-10-06 21:45:56,337 - Merged validators at index 2 and 18, with distance 252.61 km.
+2024-10-06 21:45:56,337 - New validator count after merge: 126
+2024-10-06 21:45:56,972 - Merged validators at index 24 and 95, with distance 253.74 km.
+2024-10-06 21:45:56,972 - New validator count after merge: 125
+2024-10-06 21:45:57,600 - Merged validators at index 83 and 90, with distance 258.89 km.
+2024-10-06 21:45:57,600 - New validator count after merge: 124
+2024-10-06 21:45:58,215 - Merged validators at index 9 and 56, with distance 262.10 km.
+2024-10-06 21:45:58,215 - New validator count after merge: 123
+2024-10-06 21:45:58,821 - Merged validators at index 58 and 101, with distance 262.76 km.
+2024-10-06 21:45:58,821 - New validator count after merge: 122
+2024-10-06 21:45:59,422 - Merged validators at index 41 and 120, with distance 262.92 km.
+2024-10-06 21:45:59,422 - New validator count after merge: 121
+2024-10-06 21:46:00,012 - Merged validators at index 58 and 59, with distance 263.27 km.
+2024-10-06 21:46:00,012 - New validator count after merge: 120
+2024-10-06 21:46:00,589 - Merged validators at index 78 and 103, with distance 270.14 km.
+2024-10-06 21:46:00,589 - New validator count after merge: 119
+2024-10-06 21:46:01,157 - Merged validators at index 11 and 12, with distance 281.96 km.
+2024-10-06 21:46:01,157 - New validator count after merge: 118
+2024-10-06 21:46:01,718 - Merged validators at index 27 and 105, with distance 284.22 km.
+2024-10-06 21:46:01,718 - New validator count after merge: 117
+2024-10-06 21:46:02,271 - Merged validators at index 22 and 104, with distance 287.45 km.
+2024-10-06 21:46:02,271 - New validator count after merge: 116
+2024-10-06 21:46:02,813 - Merged validators at index 18 and 71, with distance 295.97 km.
+2024-10-06 21:46:02,813 - New validator count after merge: 115
+2024-10-06 21:46:03,347 - Merged validators at index 18 and 67, with distance 298.06 km.
+2024-10-06 21:46:03,347 - New validator count after merge: 114
+2024-10-06 21:46:03,872 - Merged validators at index 42 and 64, with distance 300.80 km.
+2024-10-06 21:46:03,872 - New validator count after merge: 113
+2024-10-06 21:46:04,385 - Merged validators at index 26 and 30, with distance 301.67 km.
+2024-10-06 21:46:04,385 - New validator count after merge: 112
+2024-10-06 21:46:04,886 - Merged validators at index 14 and 41, with distance 302.54 km.
+2024-10-06 21:46:04,886 - New validator count after merge: 111
+2024-10-06 21:46:05,381 - Merged validators at index 86 and 104, with distance 303.05 km.
+2024-10-06 21:46:05,381 - New validator count after merge: 110
+2024-10-06 21:46:05,871 - Merged validators at index 35 and 78, with distance 304.08 km.
+2024-10-06 21:46:05,871 - New validator count after merge: 109
+2024-10-06 21:46:06,349 - Merged validators at index 41 and 80, with distance 304.22 km.
+2024-10-06 21:46:06,349 - New validator count after merge: 108
+2024-10-06 21:46:06,818 - Merged validators at index 99 and 102, with distance 304.36 km.
+2024-10-06 21:46:06,818 - New validator count after merge: 107
+2024-10-06 21:46:07,281 - Merged validators at index 32 and 37, with distance 305.56 km.
+2024-10-06 21:46:07,281 - New validator count after merge: 106
+2024-10-06 21:46:07,737 - Merged validators at index 71 and 98, with distance 306.11 km.
+2024-10-06 21:46:07,737 - New validator count after merge: 105
+2024-10-06 21:46:08,182 - Merged validators at index 10 and 73, with distance 306.93 km.
+2024-10-06 21:46:08,182 - New validator count after merge: 104
+2024-10-06 21:46:08,618 - Merged validators at index 23 and 91, with distance 307.14 km.
+2024-10-06 21:46:08,618 - New validator count after merge: 103
+2024-10-06 21:46:09,045 - Merged validators at index 73 and 98, with distance 316.43 km.
+2024-10-06 21:46:09,045 - New validator count after merge: 102
+2024-10-06 21:46:09,464 - Merged validators at index 21 and 80, with distance 317.44 km.
+2024-10-06 21:46:09,464 - New validator count after merge: 101
+2024-10-06 21:46:09,874 - Merged validators at index 58 and 90, with distance 334.25 km.
+2024-10-06 21:46:09,874 - New validator count after merge: 100
+2024-10-06 21:46:10,278 - Merged validators at index 5 and 9, with distance 341.96 km.
+2024-10-06 21:46:10,278 - New validator count after merge: 99
+2024-10-06 21:46:10,673 - Merged validators at index 43 and 90, with distance 351.13 km.
+2024-10-06 21:46:10,673 - New validator count after merge: 98
+2024-10-06 21:46:11,059 - Merged validators at index 29 and 52, with distance 360.63 km.
+2024-10-06 21:46:11,059 - New validator count after merge: 97
+2024-10-06 21:46:11,437 - Merged validators at index 44 and 62, with distance 361.26 km.
+2024-10-06 21:46:11,437 - New validator count after merge: 96
+2024-10-06 21:46:11,810 - Merged validators at index 9 and 31, with distance 361.82 km.
+2024-10-06 21:46:11,810 - New validator count after merge: 95
+2024-10-06 21:46:12,174 - Merged validators at index 14 and 50, with distance 364.52 km.
+2024-10-06 21:46:12,174 - New validator count after merge: 94
+2024-10-06 21:46:12,542 - Merged validators at index 5 and 24, with distance 369.34 km.
+2024-10-06 21:46:12,542 - New validator count after merge: 93
+2024-10-06 21:46:12,897 - Merged validators at index 10 and 12, with distance 374.58 km.
+2024-10-06 21:46:12,897 - New validator count after merge: 92
+2024-10-06 21:46:13,239 - Merged validators at index 8 and 19, with distance 378.93 km.
+2024-10-06 21:46:13,239 - New validator count after merge: 91
+2024-10-06 21:46:13,592 - Merged validators at index 33 and 52, with distance 383.52 km.
+2024-10-06 21:46:13,592 - New validator count after merge: 90
+2024-10-06 21:46:13,922 - Merged validators at index 4 and 63, with distance 403.58 km.
+2024-10-06 21:46:13,922 - New validator count after merge: 89
+2024-10-06 21:46:14,247 - Merged validators at index 3 and 5, with distance 415.87 km.
+2024-10-06 21:46:14,247 - New validator count after merge: 88
+2024-10-06 21:46:14,564 - Merged validators at index 19 and 20, with distance 418.74 km.
+2024-10-06 21:46:14,564 - New validator count after merge: 87
+2024-10-06 21:46:14,870 - Merged validators at index 27 and 77, with distance 428.75 km.
+2024-10-06 21:46:14,870 - New validator count after merge: 86
+2024-10-06 21:46:15,171 - Merged validators at index 21 and 63, with distance 438.90 km.
+2024-10-06 21:46:15,171 - New validator count after merge: 85
+2024-10-06 21:46:15,467 - Merged validators at index 15 and 45, with distance 444.40 km.
+2024-10-06 21:46:15,467 - New validator count after merge: 84
+2024-10-06 21:46:15,763 - Merged validators at index 37 and 38, with distance 445.38 km.
+2024-10-06 21:46:15,763 - New validator count after merge: 83
+2024-10-06 21:46:16,047 - Merged validators at index 12 and 42, with distance 458.39 km.
+2024-10-06 21:46:16,047 - New validator count after merge: 82
+2024-10-06 21:46:16,320 - Merged validators at index 22 and 72, with distance 461.76 km.
+2024-10-06 21:46:16,320 - New validator count after merge: 81
+2024-10-06 21:46:16,586 - Merged validators at index 17 and 65, with distance 494.59 km.
+2024-10-06 21:46:16,586 - New validator count after merge: 80
+2024-10-06 21:46:16,938 - Merged validators at index 50 and 65, with distance 495.81 km.
+2024-10-06 21:46:16,938 - New validator count after merge: 79
+2024-10-06 21:46:17,199 - Merged validators at index 16 and 24, with distance 496.94 km.
+2024-10-06 21:46:17,199 - New validator count after merge: 78
+2024-10-06 21:46:17,448 - Merged validators at index 1 and 29, with distance 508.30 km.
+2024-10-06 21:46:17,448 - New validator count after merge: 77
+2024-10-06 21:46:17,691 - Merged validators at index 35 and 55, with distance 513.85 km.
+2024-10-06 21:46:17,691 - New validator count after merge: 76
+2024-10-06 21:46:17,941 - Merged validators at index 2 and 21, with distance 519.21 km.
+2024-10-06 21:46:17,941 - New validator count after merge: 75
+2024-10-06 21:46:18,175 - Merged validators at index 7 and 18, with distance 523.46 km.
+2024-10-06 21:46:18,175 - New validator count after merge: 74
+2024-10-06 21:46:18,408 - Merged validators at index 43 and 56, with distance 531.72 km.
+2024-10-06 21:46:18,408 - New validator count after merge: 73
+2024-10-06 21:46:18,642 - Merged validators at index 35 and 56, with distance 533.44 km.
+2024-10-06 21:46:18,642 - New validator count after merge: 72
+2024-10-06 21:46:18,857 - Merged validators at index 31 and 64, with distance 539.59 km.
+2024-10-06 21:46:18,857 - New validator count after merge: 71
+2024-10-06 21:46:19,065 - Merged validators at index 12 and 53, with distance 564.84 km.
+2024-10-06 21:46:19,065 - New validator count after merge: 70
+2024-10-06 21:46:19,269 - Merged validators at index 1 and 9, with distance 575.33 km.
+2024-10-06 21:46:19,269 - New validator count after merge: 69
+2024-10-06 21:46:19,474 - Merged validators at index 39 and 43, with distance 593.59 km.
+2024-10-06 21:46:19,474 - New validator count after merge: 68
+2024-10-06 21:46:19,665 - Merged validators at index 34 and 40, with distance 597.50 km.
+2024-10-06 21:46:19,665 - New validator count after merge: 67
+2024-10-06 21:46:19,850 - Merged validators at index 22 and 29, with distance 638.35 km.
+2024-10-06 21:46:19,850 - New validator count after merge: 66
+2024-10-06 21:46:20,026 - Merged validators at index 3 and 17, with distance 642.26 km.
+2024-10-06 21:46:20,026 - New validator count after merge: 65
+2024-10-06 21:46:20,198 - Merged validators at index 0 and 42, with distance 654.20 km.
+2024-10-06 21:46:20,198 - New validator count after merge: 64
+2024-10-06 21:46:20,200 - Merging and aggregation complete. Output saved to 'merged_validators_final.csv'.

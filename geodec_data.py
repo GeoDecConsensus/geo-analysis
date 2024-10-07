@@ -1,5 +1,6 @@
 import logging
 import os
+import uuid
 
 import haversine as hs  # Install using: pip install haversine
 import pandas as pd
@@ -89,6 +90,10 @@ class ValidatorMerger:
                 "distance_km": "mean",  # Average distance for logging purposes
             }
         )
+
+        # New uuid for each aggregated server
+        self.aggregated_df["uuid"] = [str(uuid.uuid4()) for _ in range(len(self.aggregated_df))]
+
         self.logger(f"Total validators after initial aggregation: {len(self.aggregated_df)}")
 
     def merge_validators_incrementally(self, target_count=64, initial_threshold=200, increment=100):
@@ -141,7 +146,7 @@ class ValidatorMerger:
 
             # Merge idx2 into idx1
             self.aggregated_df.at[idx1, "stake_weight"] += self.aggregated_df.at[idx2, "stake_weight"]
-            self.aggregated_df.at[idx1, "uuid"] += "," + self.aggregated_df.at[idx2, "uuid"]
+            # self.aggregated_df.at[idx1, "uuid"] += "," + self.aggregated_df.at[idx2, "uuid"]
 
             # Mark idx2 for dropping
             indices_to_drop.add(idx2)

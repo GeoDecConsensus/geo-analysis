@@ -100,5 +100,6 @@ class Preprocessing:
         print(f"Log saved to: {log_file}")
 
 # USAGE
-preprocessing = Preprocessing(require_country=True,key='6b69ba29f2a546eb98e391c423257def') # Replace with your OpenCage API key if you need country data, else you do not need it. 
+preprocessing = Preprocessing() 
+# preprocessing = Preprocessing(require_country=True,key='key') # Replace with your OpenCage API key if you need country data, else you do not need it. 
 preprocessing.process_files()

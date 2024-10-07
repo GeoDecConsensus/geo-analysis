@@ -1,9 +1,9 @@
 sui.csv rows: 48
 Dropping 0 rows with 0.00% of total stake.
-Number of rows merged due to same latitude, longitude: 5
-No. of rows post data cleaning: 43
-No. of rows post close proximity merge, under 20km: 42
-GDI calculation completed. DataFrame size: 42 rows
+Number of rows merged due to same latitude, longitude: 0
+No. of rows post data cleaning: 48
+No. of rows post close proximity merge, under 20km: 47
+GDI calculation completed. DataFrame size: 47 rows
 Added country data using OpenCage API
 File saved: data/pre_processed_data/sui.csv
 

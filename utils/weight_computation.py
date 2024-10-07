@@ -1,4 +1,5 @@
 import pandas as pd
+from utils.normalization import Normalization
 
 class WeightComputation:
     def __init__(self, df):
@@ -35,6 +36,21 @@ class WeightComputation:
         
         :return: Updated DataFrame.
         """
+        # Use self.df instead of df
+        self.df = Normalization.normalize_column(self.df, col='stake_weight')
+        self.df = Normalization.normalize_column(self.df, col='GDI')
+        print(self.df.head())
+        
+        # Calculate weights
         self.compute_linear_weight()
         self.compute_exponential_weight()
+        
+        # self.df = Normalization.normalize_columnToInteger(self.df, col='stake_weight')
+        
         return self.df
+
+
+# USAGE
+# wc = WeightComputation(df)
+# df = wc.get_updated_df()
+# print(df.head())

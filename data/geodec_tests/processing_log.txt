@@ -1,0 +1,16 @@
+2024-10-08 01:17:27,516 - Reading CSV file...
+2024-10-08 01:17:27,519 - Calculating GDI...
+2024-10-08 01:17:27,568 - Computing weights...
+2024-10-08 01:17:27,573 - Statistics of calculated weights:
+2024-10-08 01:17:27,573 - stake_weight: Mean=15624.56
+2024-10-08 01:17:27,573 - 0.9linear_weight: Mean=15624.45
+2024-10-08 01:17:27,573 - 0.8linear_weight: Mean=15624.47
+2024-10-08 01:17:27,573 - 0.7linear_weight: Mean=15624.50
+2024-10-08 01:17:27,574 - 0.6linear_weight: Mean=15624.47
+2024-10-08 01:17:27,574 - 0.5linear_weight: Mean=15624.50
+2024-10-08 01:17:27,574 - 0.9exponential_weight: Mean=15624.45
+2024-10-08 01:17:27,574 - 0.8exponential_weight: Mean=15624.53
+2024-10-08 01:17:27,574 - 0.7exponential_weight: Mean=15624.52
+2024-10-08 01:17:27,574 - 0.6exponential_weight: Mean=15624.50
+2024-10-08 01:17:27,574 - 0.5exponential_weight: Mean=15624.50
+2024-10-08 01:17:27,576 - Results saved to data/geodec_tests/solana.csv

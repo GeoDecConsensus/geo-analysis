@@ -59,9 +59,9 @@ class ValidatorMerger:
                 {
                     "uuid": v_uuid,
                     "stake_weight": validator["stake_weight"],
-                    "server_id": nearest_server_id,
-                    "server_latitude": nearest_server_coords[0],
-                    "server_longitude": nearest_server_coords[1],
+                    "id": nearest_server_id,
+                    "latitude": nearest_server_coords[0],
+                    "longitude": nearest_server_coords[1],
                     "distance_km": min_distance,
                 }
             )
@@ -81,9 +81,7 @@ class ValidatorMerger:
         """
         Aggregates stake weights for validators mapped to the same server.
         """
-        self.aggregated_df = self.mapped_df.groupby(
-            ["server_id", "server_latitude", "server_longitude"], as_index=False
-        ).agg(
+        self.aggregated_df = self.mapped_df.groupby(["id", "latitude", "longitude"], as_index=False).agg(
             {
                 "stake_weight": "sum",
                 "uuid": lambda x: ",".join(x),
@@ -173,7 +171,7 @@ class ValidatorMerger:
         :param df: DataFrame with 'server_latitude' and 'server_longitude'.
         :return: A symmetric DataFrame representing pairwise distances.
         """
-        coords = list(zip(df["server_latitude"], df["server_longitude"]))
+        coords = list(zip(df["latitude"], df["longitude"]))
         dist_matrix = pd.DataFrame(index=range(len(coords)), columns=range(len(coords)))
 
         for i in range(len(coords)):

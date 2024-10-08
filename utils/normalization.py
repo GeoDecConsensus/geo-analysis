@@ -22,7 +22,7 @@ class Normalization:
     @staticmethod
     def normalize_column(df, col):
         if col not in df.columns:
-            raise ValueError(f"'{col}' column is missing. Both 'GDI' and 'stake_weight' columns are required.")
+            raise ValueError(f"'{col}' column is missing. ")
         
         df[col] = df[col] / df[col].sum()
         
@@ -39,8 +39,8 @@ class Normalization:
         return df
 
 # Example usage
-df = pd.read_csv('data/pre_processed_data/sui.csv')
-print(df.head())
+# df = pd.read_csv('data/pre_processed_data/sui.csv')
+# print(df.head())
 # df = Normalization.normalize_column(df, 'GDI')
 # df = Normalization.normalize_columnToInteger(df,'stake_weight')
 # print(df.head())

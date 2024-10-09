@@ -45,7 +45,7 @@ class WeightComputation:
 
         # Calculate weights
         self.compute_linear_weight()
-        self.compute_exponential_weight()
+        # self.compute_exponential_weight()
 
         # self.df = Normalization.normalize_columnToInteger(self.df, col="stake_weight")
 

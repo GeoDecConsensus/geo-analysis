@@ -1,0 +1,1083 @@
+ubuntu@geodec-tm-main:~/geodec$ python3 benchmark/geo_runs_stake.py
+2024-10-08 17:01:35,658 - Processing consensus mechanism: Aptos
+2024-10-08 17:01:35,659 - Updating geo_input to /home/ubuntu/geodec/rundata/aptos.csv for Aptos.
+2024-10-08 17:01:35,659 - JSON configuration saved successfully.
+2024-10-08 17:01:35,659 - Reading input file: /home/ubuntu/geodec/rundata/aptos.csv
+2024-10-08 17:01:35,662 - Found 11 weight columns: ['stake_weight', '0.9linear_weight', '0.8linear_weight', '0.7linear_weight', '0.6linear_weight', '0.5linear_weight', '0.9exponen
+tial_weight', '0.8exponential_weight', '0.7exponential_weight', '0.6exponential_weight', '0.5exponential_weight']
+2024-10-08 17:01:35,662 - ==============================================================
+2024-10-08 17:01:35,662 - 2024-10-08 17:01:35.662690 Running test for weight column 'stake_weight':
+2024-10-08 17:01:35,662 - Renaming column 'stake_weight' to 'stake'
+2024-10-08 17:01:35,664 - Running subprocess for stake_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+Delete qdisc configurations...
+Delay qdisc initalization...
+Added delay: 192.168.41.211
+Added delay: 192.168.41.67
+Added delay: 192.168.41.158
+Added delay: 192.168.41.120
+Added delay: 192.168.41.242
+Added delay: 192.168.41.159
+Added delay: 192.168.41.38
+Added delay: 192.168.41.136
+Added delay: 192.168.41.90
+Added delay: 192.168.41.202
+Added delay: 192.168.41.250
+Added delay: 192.168.41.35
+Added delay: 192.168.41.23
+Added delay: 192.168.41.19
+Added delay: 192.168.41.57
+Added delay: 192.168.41.64
+Added delay: 192.168.41.156
+Added delay: 192.168.41.29
+Added delay: 192.168.41.246
+Added delay: 192.168.41.217
+Added delay: 192.168.41.209
+Added delay: 192.168.41.34
+Added delay: 192.168.41.179
+Added delay: 192.168.41.161
+Added delay: 192.168.41.247
+Added delay: 192.168.41.249
+Added delay: 192.168.41.94
+Added delay: 192.168.41.99
+Added delay: 192.168.41.229
+Added delay: 192.168.41.123
+Added delay: 192.168.41.183
+Added delay: 192.168.41.89
+Added delay: 192.168.41.15
+Added delay: 192.168.41.74
+Added delay: 192.168.41.165
+Added delay: 192.168.41.14
+Added delay: 192.168.41.204
+Added delay: 192.168.41.230
+Added delay: 192.168.41.174
+Added delay: 192.168.41.222
+Added delay: 192.168.41.210
+Added delay: 192.168.41.198
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 747
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 5 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 17:09:03
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 76,959 tx/s
+ Consensus BPS: 9,850,691 B/s
+ Consensus latency: 465 ms
+
+ End-to-end TPS: 76,811 tx/s
+ End-to-end BPS: 9,831,831 B/s
+ End-to-end latency: 1,137 ms
+-----------------------------------------
+
+2024-10-08 17:09:04,059 - Reverting column name back to 'stake_weight'
+2024-10-08 17:09:04,060 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 17:09:14,070 - ==============================================================
+2024-10-08 17:09:14,070 - 2024-10-08 17:09:14.070470 Running test for weight column '0.9linear_weight':
+2024-10-08 17:09:14,070 - Renaming column '0.9linear_weight' to 'stake'
+2024-10-08 17:09:14,072 - Running subprocess for 0.9linear_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 749
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 5 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 17:15:44
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,631 tx/s
+ Consensus BPS: 10,192,711 B/s
+ Consensus latency: 444 ms
+
+ End-to-end TPS: 79,518 tx/s
+ End-to-end BPS: 10,178,302 B/s
+ End-to-end latency: 1,228 ms
+-----------------------------------------
+
+2024-10-08 17:15:45,170 - Reverting column name back to '0.9linear_weight'
+2024-10-08 17:15:45,171 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 17:15:55,181 - ==============================================================
+2024-10-08 17:15:55,181 - 2024-10-08 17:15:55.181642 Running test for weight column '0.8linear_weight':
+2024-10-08 17:15:55,182 - Renaming column '0.8linear_weight' to 'stake'
+2024-10-08 17:15:55,184 - Running subprocess for 0.8linear_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 751
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 3 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 17:22:24
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,642 tx/s
+ Consensus BPS: 10,194,196 B/s
+ Consensus latency: 537 ms
+
+ End-to-end TPS: 79,449 tx/s
+ End-to-end BPS: 10,169,456 B/s
+ End-to-end latency: 1,172 ms
+-----------------------------------------
+
+2024-10-08 17:22:24,681 - Reverting column name back to '0.8linear_weight'
+2024-10-08 17:22:24,682 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 17:22:34,692 - ==============================================================
+2024-10-08 17:22:34,693 - 2024-10-08 17:22:34.692755 Running test for weight column '0.7linear_weight':
+2024-10-08 17:22:34,693 - Renaming column '0.7linear_weight' to 'stake'
+2024-10-08 17:22:34,695 - Running subprocess for 0.7linear_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 753
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 4 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 17:29:05
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,765 tx/s
+ Consensus BPS: 10,209,969 B/s
+ Consensus latency: 469 ms
+
+ End-to-end TPS: 79,539 tx/s
+ End-to-end BPS: 10,180,995 B/s
+ End-to-end latency: 1,098 ms
+-----------------------------------------
+
+2024-10-08 17:29:05,875 - Reverting column name back to '0.7linear_weight'
+2024-10-08 17:29:05,875 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 17:29:15,882 - ==============================================================
+2024-10-08 17:29:15,883 - 2024-10-08 17:29:15.882788 Running test for weight column '0.6linear_weight':
+2024-10-08 17:29:15,883 - Renaming column '0.6linear_weight' to 'stake'
+2024-10-08 17:29:15,885 - Running subprocess for 0.6linear_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 755
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 4 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 17:35:45
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,739 tx/s
+ Consensus BPS: 10,206,592 B/s
+ Consensus latency: 499 ms
+
+ End-to-end TPS: 79,519 tx/s
+ End-to-end BPS: 10,178,473 B/s
+ End-to-end latency: 1,130 ms
+-----------------------------------------
+
+2024-10-08 17:35:45,376 - Reverting column name back to '0.6linear_weight'
+2024-10-08 17:35:45,376 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 17:35:55,387 - ==============================================================
+2024-10-08 17:35:55,387 - 2024-10-08 17:35:55.386964 Running test for weight column '0.5linear_weight':
+2024-10-08 17:35:55,387 - Renaming column '0.5linear_weight' to 'stake'
+2024-10-08 17:35:55,389 - Running subprocess for 0.5linear_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 757
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 3 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 17:42:25
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,609 tx/s
+ Consensus BPS: 10,189,891 B/s
+ Consensus latency: 536 ms
+
+ End-to-end TPS: 79,511 tx/s
+ End-to-end BPS: 10,177,444 B/s
+ End-to-end latency: 1,171 ms
+-----------------------------------------
+
+2024-10-08 17:42:26,209 - Reverting column name back to '0.5linear_weight'
+2024-10-08 17:42:26,209 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 17:42:36,220 - ==============================================================
+2024-10-08 17:42:36,220 - 2024-10-08 17:42:36.220423 Running test for weight column '0.9exponential_weight':
+2024-10-08 17:42:36,220 - Renaming column '0.9exponential_weight' to 'stake'
+2024-10-08 17:42:36,223 - Running subprocess for 0.9exponential_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 759
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Clients missed their target rate 1 time(s)
+WARN: Nodes timed out 8 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 17:49:07
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,594 tx/s
+ Consensus BPS: 10,188,050 B/s
+ Consensus latency: 502 ms
+
+ End-to-end TPS: 79,398 tx/s
+ End-to-end BPS: 10,162,981 B/s
+ End-to-end latency: 1,530 ms
+-----------------------------------------
+
+2024-10-08 17:49:07,831 - Reverting column name back to '0.9exponential_weight'
+2024-10-08 17:49:07,831 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 17:49:17,842 - ==============================================================
+2024-10-08 17:49:17,842 - 2024-10-08 17:49:17.842246 Running test for weight column '0.8exponential_weight':
+2024-10-08 17:49:17,842 - Renaming column '0.8exponential_weight' to 'stake'
+2024-10-08 17:49:17,845 - Running subprocess for 0.8exponential_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 761
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 3 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 17:55:47
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,827 tx/s
+ Consensus BPS: 10,217,911 B/s
+ Consensus latency: 439 ms
+
+ End-to-end TPS: 79,519 tx/s
+ End-to-end BPS: 10,178,415 B/s
+ End-to-end latency: 1,048 ms
+-----------------------------------------
+
+2024-10-08 17:55:48,001 - Reverting column name back to '0.8exponential_weight'
+2024-10-08 17:55:48,002 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 17:55:58,012 - ==============================================================
+2024-10-08 17:55:58,012 - 2024-10-08 17:55:58.012535 Running test for weight column '0.7exponential_weight':
+2024-10-08 17:55:58,012 - Renaming column '0.7exponential_weight' to 'stake'
+2024-10-08 17:55:58,014 - Running subprocess for 0.7exponential_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 763
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 4 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 18:02:27
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,657 tx/s
+ Consensus BPS: 10,196,079 B/s
+ Consensus latency: 473 ms
+
+ End-to-end TPS: 79,482 tx/s
+ End-to-end BPS: 10,173,738 B/s
+ End-to-end latency: 1,096 ms
+-----------------------------------------
+
+2024-10-08 18:02:27,662 - Reverting column name back to '0.7exponential_weight'
+2024-10-08 18:02:27,662 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 18:02:37,673 - ==============================================================
+2024-10-08 18:02:37,673 - 2024-10-08 18:02:37.673303 Running test for weight column '0.6exponential_weight':
+2024-10-08 18:02:37,673 - Renaming column '0.6exponential_weight' to 'stake'
+2024-10-08 18:02:37,676 - Running subprocess for 0.6exponential_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 765
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 6 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 18:09:08
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,527 tx/s
+ Consensus BPS: 10,179,463 B/s
+ Consensus latency: 674 ms
+
+ End-to-end TPS: 79,427 tx/s
+ End-to-end BPS: 10,166,675 B/s
+ End-to-end latency: 1,514 ms
+-----------------------------------------
+
+2024-10-08 18:09:08,645 - Reverting column name back to '0.6exponential_weight'
+2024-10-08 18:09:08,645 - ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2024-10-08 18:09:18,656 - ==============================================================
+2024-10-08 18:09:18,656 - 2024-10-08 18:09:18.655979 Running test for weight column '0.5exponential_weight':
+2024-10-08 18:09:18,656 - Renaming column '0.5exponential_weight' to 'stake'
+2024-10-08 18:09:18,658 - Running subprocess for 0.5exponential_weight
+Starting hotstuff remote benchmark
+Updating 42 nodes (branch "main")...
+
+Selected servers:
+            ip  id         name  latitude  longitude
+192.168.41.211   6        Tokyo   35.6833   139.7667
+ 192.168.41.67   9       Moscow   55.7517    37.6178
+192.168.41.158  10    Stockholm   59.3200    18.0900
+192.168.41.120  11       London   51.5171    -0.1062
+192.168.41.242  12       Dallas   32.7828   -96.8039
+192.168.41.159  15        Miami   25.7650   -80.2000
+ 192.168.41.38  16   Washington   38.9694   -77.3864
+192.168.41.136  19       Dublin   53.3478    -6.2597
+ 192.168.41.90  29    Frankfurt   50.1167     8.6833
+192.168.41.202  30      Fremont   37.5483  -121.9875
+192.168.41.250  32       Warsaw   52.2300    21.0108
+ 192.168.41.35  36     Malaysia    3.1333   101.6833
+ 192.168.41.23  37   LosAngeles   34.0522  -118.2428
+ 192.168.41.19  42     CapeTown  -33.9767    18.4244
+ 192.168.41.57  45     Helsinki   60.2100    24.6600
+ 192.168.41.64  50  BuenosAires  -34.6036   -58.3817
+192.168.41.156  52     Montreal   45.5081   -73.5550
+ 192.168.41.29  53    Vancouver   49.2505  -123.1119
+192.168.41.246  54      Roubaix   50.6900     3.1817
+192.168.41.217  65        Hanoi   21.0409   105.7981
+192.168.41.209  72     HongKong   22.3000   114.1667
+ 192.168.41.34  77   Manchester   53.4800    -2.2400
+192.168.41.179  80     Columbus   39.9611   -82.9989
+192.168.41.161  82     Portland   45.5236  -122.6750
+192.168.41.247  91     Coventry   52.4081    -1.5106
+192.168.41.249 107       Sydney  -33.8683   151.2086
+ 192.168.41.94 111         Pune   18.5236    73.8478
+ 192.168.41.99 113        Seoul   37.5665   126.9780
+192.168.41.229 125     SaoPaulo  -23.5500   -46.6333
+192.168.41.123 127         Riga   56.9489    24.1064
+192.168.41.183 130   Piscataway   40.5456   -74.4608
+ 192.168.41.89 140   NewOrleans   29.9667   -90.0500
+ 192.168.41.15 158    Nuremberg   49.4500    11.0833
+ 192.168.41.74 171     Secaucus   40.7820   -74.0676
+192.168.41.165 175 Johannesburg  -26.2044    28.0456
+ 192.168.41.14 185   Strasbourg   48.5734     7.7521
+192.168.41.204 197    Groningen   53.2167     6.5667
+192.168.41.230 210       Munich   48.1333    11.5667
+192.168.41.174 217    Westpoort   52.4058     4.8211
+192.168.41.222 239     Savannah   32.0835   -81.0998
+192.168.41.210 259      Lincoln   40.8258   -96.6852
+192.168.41.198 264  Falkenstein   50.4750    12.3650
+
+Running 42 nodes (input rate: 80,000 tx/s)
+Generating configuration files...
+Uploading config files: |██████████████████████████████| 100.0%
+Run 1/1 with run_id 767
+Booting testbed...
+Waiting for the nodes to synchronize...
+Running benchmark (300 sec): |██████████████████████████████| 100.0%
+Downloading logs: |██████████████████████████████| 100.0%
+Parsing logs and computing performance...
+WARN: Nodes timed out 4 time(s)
+-----------------------------------------
+ HOTSTUFF SUMMARY:
+-----------------------------------------
+ Date and Time: 2024-10-08 18:15:49
+-----------------------------------------
+ + CONFIG:
+ Faults: 0 nodes
+ Committee size: 42 nodes
+ Input rate: 80,010 tx/s
+ Transaction size: 128 B
+ Execution time: 301 s
+
+ Consensus timeout delay: 5,000 ms
+ Consensus sync retry delay: 5,000 ms
+ Mempool GC depth: 50 rounds
+ Mempool sync retry delay: 5,000 ms
+ Mempool sync retry nodes: 3 nodes
+ Mempool batch size: 150,000 B
+ Mempool max batch delay: 5,000 ms
+
+ + RESULTS:
+ Consensus TPS: 79,762 tx/s
+ Consensus BPS: 10,209,564 B/s
+ Consensus latency: 487 ms
+
+ End-to-end TPS: 79,543 tx/s
+ End-to-end BPS: 10,181,508 B/s
+ End-to-end latency: 1,174 ms
+-----------------------------------------

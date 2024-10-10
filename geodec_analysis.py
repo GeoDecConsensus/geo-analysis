@@ -76,8 +76,8 @@ def plot_and_save(csv_file_path, output_folder):
     print(f"Plots saved to {plot_filename}")
 
 # Define the input and output folders
-input_folder = 'data/geodec_run'
-output_folder_base = 'data/geodec_run/plots'
+input_folder = 'data/geodec_run_2'
+output_folder_base = 'data/geodec_run_2/plots'
 
 # Get all CSV files from the input folder
 csv_files = get_all_files(input_folder)

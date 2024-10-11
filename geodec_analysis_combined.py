@@ -80,7 +80,8 @@ def process_csv_file(csv_file_path, agg_type):
     df_grouped = df_clean.groupby('runs').agg(agg_funcs).reset_index()
 
     # Define titles for each run
-    titles = ['1 (PoS)', '0.9linear_weight', '0.8linear_weight', '0.7linear_weight', '0.6linear_weight', '0.5linear_weight']
+    titles = ['1 (PoS)', r'$\lambda = 0.9$', r'$\lambda = 0.8$', 
+              r'$\lambda = 0.7$', r'$\lambda = 0.6$', r'$\lambda = 0.5$']
     df_grouped['title'] = titles
 
     return df_grouped

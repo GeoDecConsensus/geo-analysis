@@ -1,45 +1,44 @@
-import matplotlib.pyplot as plt
-import os
 import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.colors as mcolors
 
-# Enable LaTeX and set fonts for better formatting
-plt.rcParams['text.usetex'] = True
-plt.rcParams['font.family'] = 'serif'
-plt.rcParams['font.serif'] = ['Times New Roman']  # LNCS compatible font
-plt.rcParams['axes.titlesize'] = 12  # Title size
-plt.rcParams['axes.labelsize'] = 10  # Axis labels size
-plt.rcParams['xtick.labelsize'] = 8  # X-tick size
-plt.rcParams['ytick.labelsize'] = 8  # Y-tick size
-plt.rcParams['legend.fontsize'] = 10  # Legend font size
-plt.rcParams['figure.titlesize'] = 12  # Figure title size
+# Read the data from the CSV file
+df = pd.read_csv('results/gini_wc.csv')
 
-# Load the CSV file containing Gini coefficients
-file_path = 'results/gini.csv'  # Update this with your actual file path
-df = pd.read_csv(file_path)
+# Sort the DataFrame alphabetically by the 'file' column
+df = df.sort_values(by='file')
 
-# Clean up the blockchain names
-df['blockchain'] = df['blockchain'].str.replace('.csv', '', regex=False).str.title()  # Remove .csv and capitalize first letter
-df['blockchain'] = df['blockchain'].replace('Ethernodes', 'Ethereum Nodes')  # Replace with proper naming
+# Define the chains and the weights to plot
+chains = df['file']
+weights = ['stake_weight', '0.9linear_weight', '0.8linear_weight', '0.7linear_weight', '0.6linear_weight', '0.5linear_weight']
+weight_labels = ['PoS', 'Lambda = 0.9', 'Lambda = 0.8', 'Lambda = 0.7', 'Lambda = 0.6', 'Lambda = 0.5']
 
-# Sort the DataFrame by blockchain names
-df.sort_values(by='blockchain', inplace=True)
+# Set up the bar plot
+x = np.arange(len(chains))  # Label locations
+width = 0.12  # Width of each bar
 
-# Create a bar chart of Gini coefficients for all blockchains
-plt.figure(figsize=(10, 6))
-bars = plt.bar(df['blockchain'], df['gini'], color='lightcoral')  # Calmer color
+# Define color shades within lightcoral for the bars
+base_color = mcolors.to_rgba('lightcoral')
+colors = [mcolors.to_rgba(base_color, alpha=1 - i*0.15) for i in range(len(weights))]
 
-# Adding Gini values inside each bar with increased font size
-for bar in bars:
-    yval = bar.get_height()
-    plt.text(bar.get_x() + bar.get_width()/2, yval - 0.05, round(yval, 2), ha='center', va='top', color='black', fontsize=36)
+fig, ax = plt.subplots(figsize=(12, 8))
 
-plt.xlabel(r'\textbf{Blockchain}', fontsize=24)
-plt.ylabel(r'\textbf{Gini Coefficient}', fontsize=24)
-plt.title(r'\textbf{Geospatial Gini Coefficients- Country}', fontsize=36)
-plt.xticks(fontsize=18)  # Rotate labels for better readability
-plt.yticks(fontsize=24)
+# Plot each weight's Gini coefficient as a bar
+for i, (weight, label, color) in enumerate(zip(weights, weight_labels, colors)):
+    ax.bar(x + i * width, df[weight], width, label=label, color=color)
+
+# Add labels and title
+ax.set_xlabel('Blockchain')
+ax.set_ylabel('Gini Coefficient')
+ax.set_title('Gini Coefficient Comparison Across Chains for PoS and GPoS (Varying Lambda)')
+ax.set_xticks(x + width * 2.5)  # Adjust x-ticks to center
+ax.set_xticklabels(chains)
+ax.legend(title='Weight Type')
+
+# Show grid and tight layout
+plt.grid(True, which='both', linestyle='--', linewidth=0.5, alpha=0.7)
 plt.tight_layout()
-# Save the plot
-plot_file_path = os.path.join('results/', f'gini_hitsogram.pdf')  # Save as PDF
-plt.savefig(plot_file_path, format='pdf', dpi=300, transparent=True)
-plt.close()  # Close the plot to free memory
+
+# Show the plot
+plt.show()

@@ -16,6 +16,14 @@ plt.rcParams['figure.titlesize'] = 12  # Figure title size
 # Load the centrality scores
 loaded_centrality_scores_list = np.load('results/centrality_scores.npy', allow_pickle=True)
 
+def gini_coefficient(values):
+    """Calculate the Gini coefficient of a numpy array."""
+    if len(values) == 0:
+        return 0
+    mean = np.mean(values)
+    sum_diff = np.sum(np.abs(np.subtract.outer(values, values)))
+    return (sum_diff / (2 * len(values)**2 * mean)) if mean != 0 else 0
+
 # Define the blockchain names for labeling
 chains = ['Sui', 'Ethereum Nodes', 'Solana', 'Aptos', 'Ethereum', 'Avalanche']
 
@@ -24,8 +32,8 @@ sorted_indices = sorted(range(len(chains)), key=lambda k: chains[k])
 sorted_chains = [chains[i] for i in sorted_indices]
 sorted_scores = [loaded_centrality_scores_list[i] for i in sorted_indices]
 
-# Define Gini values for each blockchain (replace with actual calculated values)
-gini_values = [0.475, 0.421, 0.369, 0.325, 0.298, 0.300]  # Example values
+# Calculate Gini values for each blockchain from centrality scores
+gini_values = [gini_coefficient(scores) for scores in sorted_scores]
 
 # Define a lighter to darker coral color palette
 colors = ['#f08080', '#ef5350', '#f44336', '#e57373', '#c62828', '#d32f2f']  # Different shades of coral
@@ -53,7 +61,7 @@ for i, box_patch in enumerate(box['boxes']):
                              color=sorted_colors[i],  # Set the color
                              alpha=0.7,  # Set transparency
                              hatch='/',  # Set hatch pattern
-                             edgecolor='black')  # Set edgae color
+                             edgecolor='black')  # Set edge color
 
     # Add the rectangle patch to the plot
     plt.gca().add_patch(box_rect)
@@ -66,11 +74,10 @@ for i in range(len(sorted_scores)):
     plt.scatter([i + 1], [median_centrality], color='red', label='Median' if i == 0 else "", zorder=5, s=100)
 
     # Display Gini value below the corresponding box
-    plt.text(i + 1, -0.1 * np.max(sorted_scores[i]), f'G = {gini_values[i]:.3f}', 
-             fontsize=10, ha='center', color='black')
+    plt.text(i + 1, 0.0000014, f'G = {gini_values[i]:.3f}', 
+             fontsize=20, ha='center', color='black')
 
 # Adding titles and labels with larger font sizes
-# plt.xlabel('Blockchains', fontsize=20)
 plt.ylabel('Eigenvector Centrality Scores (Log Scale)', fontsize=24)
 
 # Set logarithmic scale

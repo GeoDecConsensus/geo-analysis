@@ -45,7 +45,7 @@ def plot_category_across_files(all_data, category, output_folder, agg_type):
     
     # Configure labels and legend
     plt.ylabel(r'\textbf{' + category.replace("_", " ").capitalize() + '}', fontsize=14)
-    plt.xticks(rotation=45, ha="right", fontsize=12)
+    plt.xticks(fontsize=12)
     plt.yticks(fontsize=12)
     
     # Place legend outside the plot for better clarity
@@ -96,14 +96,14 @@ def plot_and_save_all_categories(all_data, output_folder, agg_type):
         plot_category_across_files(all_data, category, output_folder, agg_type)
 
 # Define the input and output folders
-input_folder = 'data/geodec_hotstuff_2'
-output_folder_base = 'data/geodec_hotstuff_2/plots'
+input_folder = 'data/geodec_cometbft'
+output_folder_base = 'data/geodec_cometbft/plots'
 
 # Get all CSV files from the input folder
 csv_files = get_all_files(input_folder)
 
 # Choose aggregation type ('median' or 'max')
-agg_type = 'max'  # Set to 'max' if you want to plot the max values
+agg_type = 'min'  # Set to 'max' if you want to plot the max values
 
 # List to store data from all CSV files
 all_data = []

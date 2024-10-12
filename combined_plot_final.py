@@ -1,7 +1,8 @@
 import os
+
 import matplotlib.pyplot as plt
-import pandas as pd
 import numpy as np
+import pandas as pd
 
 plt.rcParams['text.usetex'] = True
 plt.rcParams['font.family'] = 'serif'

@@ -52,7 +52,19 @@ class WeightComputation:
         return self.df
 
 
-# USAGE
-# wc = WeightComputation(df)
-# df = wc.get_updated_df()
-# print(df.head())
+#### USED THIS To GENERATE FILES IN data/wc
+# def get_all_files(folder_path):
+#     """Returns a list of all CSV files in the specified folder."""
+#     return [f for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f)) and f.endswith('.csv')]
+
+
+# files = get_all_files('data/pre_processed_data/')
+# output_folder = 'data/wc/'
+# for file in files:
+#     df = pd.read_csv(f'data/pre_processed_data/{file}')
+#     print(f'File: {file}')
+#     wc = WeightComputation(df)
+#     df =wc.get_updated_df()    
+#     # Save the data to CSV
+#     output_file_path = os.path.join(output_folder, file)
+#     df.to_csv(output_file_path, index=False)

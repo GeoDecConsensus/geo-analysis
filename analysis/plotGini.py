@@ -41,7 +41,6 @@ plt.title(r'\textbf{Geospatial Gini Coefficients- Country}', fontsize=36)
 plt.xticks(fontsize=18)  # Rotate labels for better readability
 plt.yticks(fontsize=24)
 plt.tight_layout()
-# Save the plot
-plot_file_path = os.path.join('results/', f'gini_hitsogram.pdf')  # Save as PDF
-plt.savefig(plot_file_path, format='pdf', dpi=300, transparent=True)
-plt.close()  # Close the plot to free memory
+
+# Show the plot
+plt.show()

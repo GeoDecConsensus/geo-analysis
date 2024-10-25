@@ -1,7 +1,9 @@
-import matplotlib.pyplot as plt
 import os
+
+import matplotlib.pyplot as plt
 import pandas as pd
 
+plt.rcParams.update(plt.rcParamsDefault)
 # Enable LaTeX and set fonts for better formatting
 plt.rcParams['text.usetex'] = True
 plt.rcParams['font.family'] = 'serif'

@@ -1,0 +1,1 @@
+This directory contains the data obtained by mapping validators to servers location and merging nearby validators until the number of validators comes down to 64.

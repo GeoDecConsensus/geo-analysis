@@ -1,0 +1,1 @@
+This directory contains the resuls got from running various tests for HotStuff consensus protocol on the Geodec emulator.

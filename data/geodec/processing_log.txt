@@ -1,735 +1,742 @@
-2024-10-07 10:42:51,213 - Processing file: sui.csv
-2024-10-07 10:42:51,213 - Initial number of validators: 47
-2024-10-07 10:42:51,330 - Validators exceeding threshold: 0
-2024-10-07 10:42:51,333 - Total validators after initial aggregation: 40
-2024-10-07 10:42:51,333 - Validator count is within limit after initial mapping: 40
-2024-10-07 10:42:51,334 - Results saved to data/geodec/sui.csv
-2024-10-07 10:42:51,334 - Finished processing file: sui.csv
+2024-10-09 10:59:32,307 - Processing file: sui.csv
+2024-10-09 10:59:32,308 - Initial number of validators: 47
+2024-10-09 10:59:32,420 - Validators exceeding threshold: 0
+2024-10-09 10:59:32,425 - Total validators after initial aggregation: 40
+2024-10-09 10:59:32,425 - Validator count is within limit after initial mapping: 40
+2024-10-09 10:59:32,426 - Results saved to data/geodec/sui.csv
+2024-10-09 10:59:32,426 - Finished processing file: sui.csv
 
-2024-10-07 10:42:51,334 - Processing file: ethernodes.csv
-2024-10-07 10:42:51,335 - Initial number of validators: 875
-2024-10-07 10:42:51,344 - Validator d68b0c9f-b397-48df-81f6-a558920b0f15 exceeds server threshold with distance 600.94 km.
-2024-10-07 10:42:51,389 - Validator dc1cb6c1-0d73-481a-b2c5-e55cecc2e085 exceeds server threshold with distance 644.24 km.
-2024-10-07 10:42:51,399 - Validator ecd93f1a-0bfb-4c0e-8117-65cb2709c4d3 exceeds server threshold with distance 1047.95 km.
-2024-10-07 10:42:51,402 - Validator 45ec3c41-42eb-41e0-8369-3e9c36f8336f exceeds server threshold with distance 1093.52 km.
-2024-10-07 10:42:51,415 - Validator 3e6bb34e-19f3-41a9-b170-42b73d3e9e69 exceeds server threshold with distance 2340.81 km.
-2024-10-07 10:42:51,417 - Validator f90d4ea4-c664-4853-bbf0-59014beaeec1 exceeds server threshold with distance 2462.66 km.
-2024-10-07 10:42:51,422 - Validator 6a50efe6-8e73-40e0-89f0-40037f21e3b9 exceeds server threshold with distance 509.22 km.
-2024-10-07 10:42:51,432 - Validator 9123aac7-09e2-435a-b7f3-c9d1fd639334 exceeds server threshold with distance 974.58 km.
-2024-10-07 10:42:51,435 - Validator e5220c14-7768-4f2c-95e5-53c2d74d636a exceeds server threshold with distance 674.22 km.
-2024-10-07 10:42:51,448 - Validator e2dc858e-4b29-4eb5-8199-15af61e33a5c exceeds server threshold with distance 718.00 km.
-2024-10-07 10:42:51,463 - Validator 0360df9f-bd58-4c27-957a-479e06e848e5 exceeds server threshold with distance 641.84 km.
-2024-10-07 10:42:51,466 - Validator 5a3b0f37-a1b5-4eeb-8c24-46c41acc32c8 exceeds server threshold with distance 668.81 km.
-2024-10-07 10:42:51,491 - Validator 229e14bb-da40-4870-8065-12295dad1caf exceeds server threshold with distance 837.81 km.
-2024-10-07 10:42:51,494 - Validator 3d643989-f768-4abd-bc27-1e5c6244effb exceeds server threshold with distance 582.83 km.
-2024-10-07 10:42:51,499 - Validator a5cd9ce1-5d4a-4fac-9724-6247abc7b0c1 exceeds server threshold with distance 771.25 km.
-2024-10-07 10:42:51,512 - Validator 307a73e8-e27e-4ee8-b32f-61744d06ec3c exceeds server threshold with distance 650.99 km.
-2024-10-07 10:42:51,554 - Validator f7518943-9d76-41eb-9d8f-8283469df424 exceeds server threshold with distance 544.87 km.
-2024-10-07 10:42:51,604 - Validator ba6120ff-45a3-4c61-87d6-1759f12a81a7 exceeds server threshold with distance 1190.64 km.
-2024-10-07 10:42:51,610 - Validator 5888cf2e-4d2f-4871-89a0-abe477663b9f exceeds server threshold with distance 1235.17 km.
-2024-10-07 10:42:51,626 - Validator 9ff901ad-2d05-4a5a-b34b-9d0a7c5aacac exceeds server threshold with distance 541.28 km.
-2024-10-07 10:42:51,636 - Validator 125b1329-cb58-4dd2-bb16-834c954951ea exceeds server threshold with distance 950.38 km.
-2024-10-07 10:42:51,674 - Validator bab60669-0aa8-4443-8a50-e7b628748abe exceeds server threshold with distance 508.96 km.
-2024-10-07 10:42:51,688 - Validator 04a57731-1e45-4410-9499-7094f9986106 exceeds server threshold with distance 1084.22 km.
-2024-10-07 10:42:51,735 - Validator c8902297-8b2b-4194-8208-da7f45a8948a exceeds server threshold with distance 510.35 km.
-2024-10-07 10:42:51,827 - Validator 5d754db1-b5fc-4d96-9221-a65d18a2edd6 exceeds server threshold with distance 893.92 km.
-2024-10-07 10:42:51,922 - Validator 4a6f9fd3-07f4-402a-af17-8bbef00b8334 exceeds server threshold with distance 550.78 km.
-2024-10-07 10:42:52,477 - Validator 80f97f76-7043-4b41-8ec8-aaae0b22d6fc exceeds server threshold with distance 785.95 km.
-2024-10-07 10:42:52,494 - Validator f6e59e01-8297-40c2-9695-b67cdfd5518f exceeds server threshold with distance 511.08 km.
-2024-10-07 10:42:52,583 - Validator bb9a0404-3303-4950-971c-c106250a2072 exceeds server threshold with distance 631.82 km.
-2024-10-07 10:42:52,613 - Validator 9f5b749c-4817-490d-9dd2-34406866c29f exceeds server threshold with distance 600.38 km.
-2024-10-07 10:42:52,775 - Validator bbde3412-67b7-4452-91c8-96a046aad68a exceeds server threshold with distance 734.72 km.
-2024-10-07 10:42:52,916 - Validator fc2df25b-afb6-44cc-9ede-fafc120118a0 exceeds server threshold with distance 636.53 km.
-2024-10-07 10:42:53,123 - Validator ed9e70a3-629d-4e7a-8806-089759d53ea4 exceeds server threshold with distance 525.08 km.
-2024-10-07 10:42:53,134 - Validator 3176d50c-79bf-49ea-8ce4-13b6c9072bf9 exceeds server threshold with distance 588.73 km.
-2024-10-07 10:42:53,193 - Validator 26916ae7-bf9d-4915-a7a9-8f43433e112a exceeds server threshold with distance 515.35 km.
-2024-10-07 10:42:53,280 - Validator fed5c262-448b-4c42-87f1-7d6ed10bc2d6 exceeds server threshold with distance 1433.80 km.
-2024-10-07 10:42:53,342 - Validator 3e32de3d-f6c3-43fb-9d55-0877dc5cf9b7 exceeds server threshold with distance 758.83 km.
-2024-10-07 10:42:53,409 - Validator 5583c45a-0f29-4865-b12b-96e4e92721d0 exceeds server threshold with distance 696.77 km.
-2024-10-07 10:42:53,444 - Validator f4433271-47ee-4c8d-9205-644540a3e057 exceeds server threshold with distance 634.63 km.
-2024-10-07 10:42:53,449 - Validator 2acbe1de-b7c3-44a0-a69b-a63e43f40436 exceeds server threshold with distance 1177.19 km.
-2024-10-07 10:42:53,462 - Validator ad52686e-b51c-425a-a89b-216bb368232e exceeds server threshold with distance 716.62 km.
-2024-10-07 10:42:53,464 - Validator a01125d9-ae15-4393-8d80-cd03d3b416e8 exceeds server threshold with distance 676.72 km.
-2024-10-07 10:42:53,472 - Validator a4d3bdbf-aa3f-4ee0-9a5c-e0c3e8c8fb12 exceeds server threshold with distance 956.67 km.
-2024-10-07 10:42:53,532 - Validator c9ac72e2-8616-49c1-ae1f-a908a78f8393 exceeds server threshold with distance 2131.87 km.
-2024-10-07 10:42:53,540 - Validator 30f16321-0751-41e9-b7d5-69bce1cb764e exceeds server threshold with distance 1235.09 km.
-2024-10-07 10:42:53,547 - Validator 6d9bfee0-3d4d-43c3-a978-7dd154a7026b exceeds server threshold with distance 610.78 km.
-2024-10-07 10:42:53,550 - Validator 76715d84-30e2-4f2a-bd4e-c91d3e8d8df6 exceeds server threshold with distance 794.46 km.
-2024-10-07 10:42:53,550 - Validators exceeding threshold: 47
-2024-10-07 10:42:53,553 - Total validators after initial aggregation: 194
-2024-10-07 10:42:53,553 - Validator count exceeds 64 after initial mapping: 194
-2024-10-07 10:42:53,553 - Current validator count: 194. Trying to merge with threshold: 200 km.
-2024-10-07 10:42:53,766 - Merged validators at index 93 and 133, distance 9.13 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 193
-2024-10-07 10:42:53,766 - Merged validators at index 6 and 162, distance 14.35 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 192
-2024-10-07 10:42:53,766 - Merged validators at index 12 and 93, distance 27.05 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 191
-2024-10-07 10:42:53,766 - Merged validators at index 61 and 164, distance 29.25 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 190
-2024-10-07 10:42:53,766 - Merged validators at index 160 and 161, distance 33.19 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 189
-2024-10-07 10:42:53,766 - Merged validators at index 145 and 170, distance 41.37 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 188
-2024-10-07 10:42:53,766 - Merged validators at index 28 and 85, distance 45.54 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 187
-2024-10-07 10:42:53,766 - Merged validators at index 6 and 160, distance 48.30 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 186
-2024-10-07 10:42:53,766 - Merged validators at index 13 and 112, distance 49.18 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 185
-2024-10-07 10:42:53,766 - Merged validators at index 10 and 124, distance 51.82 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 184
-2024-10-07 10:42:53,766 - Merged validators at index 127 and 143, distance 54.23 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 183
-2024-10-07 10:42:53,766 - Merged validators at index 19 and 117, distance 55.13 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 182
-2024-10-07 10:42:53,766 - Merged validators at index 37 and 48, distance 58.68 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 181
-2024-10-07 10:42:53,766 - Merged validators at index 77 and 192, distance 68.55 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 180
-2024-10-07 10:42:53,766 - Merged validators at index 176 and 178, distance 68.84 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 179
-2024-10-07 10:42:53,766 - Merged validators at index 12 and 104, distance 71.35 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 178
-2024-10-07 10:42:53,766 - Merged validators at index 18 and 190, distance 72.53 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 177
-2024-10-07 10:42:53,766 - Merged validators at index 6 and 149, distance 73.05 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 176
-2024-10-07 10:42:53,766 - Merged validators at index 15 and 35, distance 75.01 km.
-2024-10-07 10:42:53,766 - Validator count after merging: 175
-2024-10-07 10:42:53,766 - Merged validators at index 171 and 186, distance 78.15 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 174
-2024-10-07 10:42:53,767 - Merged validators at index 68 and 107, distance 86.00 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 173
-2024-10-07 10:42:53,767 - Merged validators at index 23 and 39, distance 86.46 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 172
-2024-10-07 10:42:53,767 - Merged validators at index 166 and 171, distance 90.28 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 171
-2024-10-07 10:42:53,767 - Merged validators at index 2 and 82, distance 94.79 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 170
-2024-10-07 10:42:53,767 - Merged validators at index 31 and 176, distance 94.82 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 169
-2024-10-07 10:42:53,767 - Merged validators at index 15 and 187, distance 102.86 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 168
-2024-10-07 10:42:53,767 - Merged validators at index 122 and 166, distance 107.59 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 167
-2024-10-07 10:42:53,767 - Merged validators at index 19 and 151, distance 111.66 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 166
-2024-10-07 10:42:53,767 - Merged validators at index 127 and 181, distance 114.25 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 165
-2024-10-07 10:42:53,767 - Merged validators at index 45 and 114, distance 116.52 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 164
-2024-10-07 10:42:53,767 - Merged validators at index 26 and 120, distance 117.11 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 163
-2024-10-07 10:42:53,767 - Merged validators at index 21 and 86, distance 117.58 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 162
-2024-10-07 10:42:53,767 - Merged validators at index 28 and 79, distance 122.78 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 161
-2024-10-07 10:42:53,767 - Merged validators at index 75 and 83, distance 124.47 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 160
-2024-10-07 10:42:53,767 - Merged validators at index 12 and 175, distance 128.02 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 159
-2024-10-07 10:42:53,767 - Merged validators at index 65 and 77, distance 128.82 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 158
-2024-10-07 10:42:53,767 - Merged validators at index 3 and 157, distance 131.28 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 157
-2024-10-07 10:42:53,767 - Merged validators at index 90 and 100, distance 131.85 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 156
-2024-10-07 10:42:53,767 - Merged validators at index 26 and 53, distance 133.39 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 155
-2024-10-07 10:42:53,767 - Merged validators at index 123 and 126, distance 134.30 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 154
-2024-10-07 10:42:53,767 - Merged validators at index 31 and 141, distance 146.14 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 153
-2024-10-07 10:42:53,767 - Merged validators at index 125 and 193, distance 146.27 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 152
-2024-10-07 10:42:53,767 - Merged validators at index 74 and 142, distance 147.88 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 151
-2024-10-07 10:42:53,767 - Merged validators at index 125 and 156, distance 150.63 km.
-2024-10-07 10:42:53,767 - Validator count after merging: 150
-2024-10-07 10:42:53,768 - Merged validators at index 12 and 59, distance 154.58 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 149
-2024-10-07 10:42:53,768 - Merged validators at index 6 and 37, distance 157.17 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 148
-2024-10-07 10:42:53,768 - Merged validators at index 68 and 109, distance 157.75 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 147
-2024-10-07 10:42:53,768 - Merged validators at index 26 and 153, distance 158.93 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 146
-2024-10-07 10:42:53,768 - Merged validators at index 108 and 172, distance 159.36 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 145
-2024-10-07 10:42:53,768 - Merged validators at index 67 and 108, distance 161.59 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 144
-2024-10-07 10:42:53,768 - Merged validators at index 6 and 150, distance 161.76 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 143
-2024-10-07 10:42:53,768 - Merged validators at index 71 and 138, distance 165.53 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 142
-2024-10-07 10:42:53,768 - Merged validators at index 46 and 188, distance 167.33 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 141
-2024-10-07 10:42:53,768 - Merged validators at index 65 and 74, distance 172.52 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 140
-2024-10-07 10:42:53,768 - Merged validators at index 54 and 122, distance 178.69 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 139
-2024-10-07 10:42:53,768 - Merged validators at index 33 and 62, distance 179.65 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 138
-2024-10-07 10:42:53,768 - Merged validators at index 27 and 125, distance 187.57 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 137
-2024-10-07 10:42:53,768 - Merged validators at index 27 and 54, distance 190.03 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 136
-2024-10-07 10:42:53,768 - Merged validators at index 22 and 47, distance 191.28 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 135
-2024-10-07 10:42:53,768 - Merged validators at index 13 and 139, distance 194.23 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 134
-2024-10-07 10:42:53,768 - Merged validators at index 116 and 177, distance 197.42 km.
-2024-10-07 10:42:53,768 - Validator count after merging: 133
-2024-10-07 10:42:53,769 - Current validator count: 133. Trying to merge with threshold: 300 km.
-2024-10-07 10:42:53,868 - Merged validators at index 10 and 109, distance 213.02 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 132
-2024-10-07 10:42:53,868 - Merged validators at index 72 and 91, distance 213.87 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 131
-2024-10-07 10:42:53,868 - Merged validators at index 19 and 38, distance 214.74 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 130
-2024-10-07 10:42:53,868 - Merged validators at index 25 and 31, distance 217.67 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 129
-2024-10-07 10:42:53,868 - Merged validators at index 12 and 92, distance 224.80 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 128
-2024-10-07 10:42:53,868 - Merged validators at index 24 and 100, distance 228.15 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 127
-2024-10-07 10:42:53,868 - Merged validators at index 79 and 96, distance 230.77 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 126
-2024-10-07 10:42:53,868 - Merged validators at index 22 and 60, distance 233.43 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 125
-2024-10-07 10:42:53,868 - Merged validators at index 40 and 116, distance 247.73 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 124
-2024-10-07 10:42:53,868 - Merged validators at index 3 and 19, distance 252.34 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 123
-2024-10-07 10:42:53,868 - Merged validators at index 25 and 97, distance 253.10 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 122
-2024-10-07 10:42:53,868 - Merged validators at index 10 and 56, distance 261.71 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 121
-2024-10-07 10:42:53,868 - Merged validators at index 58 and 107, distance 262.14 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 120
-2024-10-07 10:42:53,868 - Merged validators at index 44 and 131, distance 262.82 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 119
-2024-10-07 10:42:53,868 - Merged validators at index 58 and 59, distance 263.59 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 118
-2024-10-07 10:42:53,868 - Merged validators at index 17 and 74, distance 265.56 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 117
-2024-10-07 10:42:53,868 - Merged validators at index 79 and 111, distance 269.53 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 116
-2024-10-07 10:42:53,868 - Merged validators at index 23 and 84, distance 278.92 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 115
-2024-10-07 10:42:53,868 - Merged validators at index 12 and 13, distance 281.67 km.
-2024-10-07 10:42:53,868 - Validator count after merging: 114
-2024-10-07 10:42:53,869 - Merged validators at index 29 and 115, distance 283.77 km.
-2024-10-07 10:42:53,869 - Validator count after merging: 113
-2024-10-07 10:42:53,869 - Merged validators at index 24 and 114, distance 286.93 km.
-2024-10-07 10:42:53,869 - Validator count after merging: 112
-2024-10-07 10:42:53,869 - Merged validators at index 21 and 72, distance 295.22 km.
-2024-10-07 10:42:53,869 - Validator count after merging: 111
-2024-10-07 10:42:53,869 - Current validator count: 111. Trying to merge with threshold: 400 km.
-2024-10-07 10:42:53,938 - Merged validators at index 42 and 61, distance 300.18 km.
-2024-10-07 10:42:53,938 - Validator count after merging: 110
-2024-10-07 10:42:53,938 - Merged validators at index 15 and 42, distance 302.35 km.
-2024-10-07 10:42:53,938 - Validator count after merging: 109
-2024-10-07 10:42:53,938 - Merged validators at index 35 and 75, distance 302.99 km.
-2024-10-07 10:42:53,938 - Validator count after merging: 108
-2024-10-07 10:42:53,939 - Merged validators at index 85 and 100, distance 303.30 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 107
-2024-10-07 10:42:53,939 - Merged validators at index 96 and 101, distance 303.67 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 106
-2024-10-07 10:42:53,939 - Merged validators at index 43 and 78, distance 304.14 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 105
-2024-10-07 10:42:53,939 - Merged validators at index 31 and 38, distance 304.99 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 104
-2024-10-07 10:42:53,939 - Merged validators at index 70 and 96, distance 306.53 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 103
-2024-10-07 10:42:53,939 - Merged validators at index 11 and 72, distance 307.61 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 102
-2024-10-07 10:42:53,939 - Merged validators at index 21 and 82, distance 316.31 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 101
-2024-10-07 10:42:53,939 - Merged validators at index 13 and 58, distance 329.69 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 100
-2024-10-07 10:42:53,939 - Merged validators at index 57 and 93, distance 334.69 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 99
-2024-10-07 10:42:53,939 - Merged validators at index 6 and 10, distance 340.92 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 98
-2024-10-07 10:42:53,939 - Merged validators at index 47 and 95, distance 350.40 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 97
-2024-10-07 10:42:53,939 - Merged validators at index 16 and 105, distance 358.45 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 96
-2024-10-07 10:42:53,939 - Merged validators at index 30 and 52, distance 360.46 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 95
-2024-10-07 10:42:53,939 - Merged validators at index 11 and 31, distance 362.61 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 94
-2024-10-07 10:42:53,939 - Merged validators at index 6 and 25, distance 368.60 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 93
-2024-10-07 10:42:53,939 - Merged validators at index 12 and 14, distance 374.05 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 92
-2024-10-07 10:42:53,939 - Merged validators at index 9 and 21, distance 377.56 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 91
-2024-10-07 10:42:53,939 - Merged validators at index 40 and 59, distance 382.61 km.
-2024-10-07 10:42:53,939 - Validator count after merging: 90
-2024-10-07 10:42:53,939 - Current validator count: 90. Trying to merge with threshold: 500 km.
-2024-10-07 10:42:53,986 - Merged validators at index 5 and 60, distance 402.81 km.
-2024-10-07 10:42:53,986 - Validator count after merging: 89
-2024-10-07 10:42:53,986 - Merged validators at index 4 and 6, distance 415.52 km.
-2024-10-07 10:42:53,986 - Validator count after merging: 88
-2024-10-07 10:42:53,986 - Merged validators at index 20 and 21, distance 417.59 km.
-2024-10-07 10:42:53,986 - Validator count after merging: 87
-2024-10-07 10:42:53,986 - Merged validators at index 17 and 45, distance 443.64 km.
-2024-10-07 10:42:53,986 - Validator count after merging: 86
-2024-10-07 10:42:53,986 - Merged validators at index 61 and 66, distance 447.40 km.
-2024-10-07 10:42:53,986 - Validator count after merging: 85
-2024-10-07 10:42:53,986 - Merged validators at index 20 and 77, distance 477.22 km.
-2024-10-07 10:42:53,987 - Validator count after merging: 84
-2024-10-07 10:42:53,987 - Merged validators at index 18 and 70, distance 494.80 km.
-2024-10-07 10:42:53,987 - Validator count after merging: 83
-2024-10-07 10:42:53,987 - Current validator count: 83. Trying to merge with threshold: 600 km.
-2024-10-07 10:42:54,026 - Merged validators at index 2 and 31, distance 507.18 km.
-2024-10-07 10:42:54,026 - Validator count after merging: 82
-2024-10-07 10:42:54,026 - Merged validators at index 38 and 56, distance 512.55 km.
-2024-10-07 10:42:54,026 - Validator count after merging: 81
-2024-10-07 10:42:54,026 - Merged validators at index 20 and 24, distance 514.86 km.
-2024-10-07 10:42:54,026 - Validator count after merging: 80
-2024-10-07 10:42:54,026 - Merged validators at index 3 and 21, distance 517.87 km.
-2024-10-07 10:42:54,026 - Validator count after merging: 79
-2024-10-07 10:42:54,026 - Merged validators at index 41 and 49, distance 518.37 km.
-2024-10-07 10:42:54,026 - Validator count after merging: 78
-2024-10-07 10:42:54,026 - Merged validators at index 12 and 78, distance 520.72 km.
-2024-10-07 10:42:54,026 - Validator count after merging: 77
-2024-10-07 10:42:54,026 - Merged validators at index 8 and 18, distance 522.24 km.
-2024-10-07 10:42:54,026 - Validator count after merging: 76
-2024-10-07 10:42:54,026 - Merged validators at index 47 and 60, distance 531.49 km.
-2024-10-07 10:42:54,027 - Validator count after merging: 75
-2024-10-07 10:42:54,027 - Merged validators at index 13 and 75, distance 541.84 km.
-2024-10-07 10:42:54,027 - Validator count after merging: 74
-2024-10-07 10:42:54,027 - Merged validators at index 13 and 64, distance 558.00 km.
-2024-10-07 10:42:54,027 - Validator count after merging: 73
-2024-10-07 10:42:54,027 - Merged validators at index 2 and 10, distance 574.49 km.
-2024-10-07 10:42:54,027 - Validator count after merging: 72
-2024-10-07 10:42:54,027 - Merged validators at index 44 and 48, distance 595.47 km.
-2024-10-07 10:42:54,027 - Validator count after merging: 71
-2024-10-07 10:42:54,027 - Current validator count: 71. Trying to merge with threshold: 700 km.
-2024-10-07 10:42:54,056 - Merged validators at index 22 and 30, distance 638.71 km.
-2024-10-07 10:42:54,056 - Validator count after merging: 70
-2024-10-07 10:42:54,056 - Merged validators at index 40 and 49, distance 640.83 km.
-2024-10-07 10:42:54,056 - Validator count after merging: 69
-2024-10-07 10:42:54,056 - Merged validators at index 4 and 17, distance 641.08 km.
-2024-10-07 10:42:54,056 - Validator count after merging: 68
-2024-10-07 10:42:54,056 - Merged validators at index 1 and 43, distance 653.36 km.
-2024-10-07 10:42:54,056 - Validator count after merging: 67
-2024-10-07 10:42:54,056 - Merged validators at index 15 and 27, distance 660.74 km.
-2024-10-07 10:42:54,056 - Validator count after merging: 66
-2024-10-07 10:42:54,056 - Merged validators at index 15 and 42, distance 666.04 km.
-2024-10-07 10:42:54,056 - Validator count after merging: 65
-2024-10-07 10:42:54,056 - Merged validators at index 12 and 52, distance 680.09 km.
-2024-10-07 10:42:54,056 - Validator count after merging: 64
-2024-10-07 10:42:54,057 - Results saved to data/geodec/ethernodes.csv
-2024-10-07 10:42:54,057 - Finished processing file: ethernodes.csv
+2024-10-09 10:59:32,426 - Processing file: ethernodes.csv
+2024-10-09 10:59:32,427 - Initial number of validators: 875
+2024-10-09 10:59:32,435 - Validator d68b0c9f-b397-48df-81f6-a558920b0f15 exceeds server threshold with distance 600.94 km.
+2024-10-09 10:59:32,479 - Validator dc1cb6c1-0d73-481a-b2c5-e55cecc2e085 exceeds server threshold with distance 644.24 km.
+2024-10-09 10:59:32,488 - Validator ecd93f1a-0bfb-4c0e-8117-65cb2709c4d3 exceeds server threshold with distance 1047.95 km.
+2024-10-09 10:59:32,491 - Validator 45ec3c41-42eb-41e0-8369-3e9c36f8336f exceeds server threshold with distance 1093.52 km.
+2024-10-09 10:59:32,493 - Validator d8125e48-c348-41ec-a608-ed2c95a63044 exceeds server threshold with distance 871.93 km.
+2024-10-09 10:59:32,496 - Validator 242021f5-1384-4374-be1b-e94cacafbbcf exceeds server threshold with distance 931.73 km.
+2024-10-09 10:59:32,498 - Validator a1719964-8b26-4861-9cc7-a3aedf7e7651 exceeds server threshold with distance 795.43 km.
+2024-10-09 10:59:32,501 - Validator 46fb2be2-2cf4-4881-8194-c7e159572bfd exceeds server threshold with distance 690.26 km.
+2024-10-09 10:59:32,503 - Validator 3e6bb34e-19f3-41a9-b170-42b73d3e9e69 exceeds server threshold with distance 2340.81 km.
+2024-10-09 10:59:32,506 - Validator f90d4ea4-c664-4853-bbf0-59014beaeec1 exceeds server threshold with distance 2462.66 km.
+2024-10-09 10:59:32,508 - Validator 2f12ace7-1916-462f-a2fe-adc7397c4694 exceeds server threshold with distance 577.89 km.
+2024-10-09 10:59:32,511 - Validator 6a50efe6-8e73-40e0-89f0-40037f21e3b9 exceeds server threshold with distance 614.38 km.
+2024-10-09 10:59:32,521 - Validator 9123aac7-09e2-435a-b7f3-c9d1fd639334 exceeds server threshold with distance 974.58 km.
+2024-10-09 10:59:32,524 - Validator e5220c14-7768-4f2c-95e5-53c2d74d636a exceeds server threshold with distance 674.22 km.
+2024-10-09 10:59:32,537 - Validator e2dc858e-4b29-4eb5-8199-15af61e33a5c exceeds server threshold with distance 718.00 km.
+2024-10-09 10:59:32,552 - Validator 0360df9f-bd58-4c27-957a-479e06e848e5 exceeds server threshold with distance 641.84 km.
+2024-10-09 10:59:32,555 - Validator 5a3b0f37-a1b5-4eeb-8c24-46c41acc32c8 exceeds server threshold with distance 668.81 km.
+2024-10-09 10:59:32,579 - Validator 229e14bb-da40-4870-8065-12295dad1caf exceeds server threshold with distance 837.81 km.
+2024-10-09 10:59:32,581 - Validator 3d643989-f768-4abd-bc27-1e5c6244effb exceeds server threshold with distance 582.83 km.
+2024-10-09 10:59:32,586 - Validator a5cd9ce1-5d4a-4fac-9724-6247abc7b0c1 exceeds server threshold with distance 771.25 km.
+2024-10-09 10:59:32,598 - Validator 307a73e8-e27e-4ee8-b32f-61744d06ec3c exceeds server threshold with distance 650.99 km.
+2024-10-09 10:59:32,637 - Validator f7518943-9d76-41eb-9d8f-8283469df424 exceeds server threshold with distance 544.87 km.
+2024-10-09 10:59:32,681 - Validator ba6120ff-45a3-4c61-87d6-1759f12a81a7 exceeds server threshold with distance 1190.64 km.
+2024-10-09 10:59:32,686 - Validator 5888cf2e-4d2f-4871-89a0-abe477663b9f exceeds server threshold with distance 1235.17 km.
+2024-10-09 10:59:32,700 - Validator 9ff901ad-2d05-4a5a-b34b-9d0a7c5aacac exceeds server threshold with distance 541.28 km.
+2024-10-09 10:59:32,710 - Validator 125b1329-cb58-4dd2-bb16-834c954951ea exceeds server threshold with distance 950.38 km.
+2024-10-09 10:59:32,722 - Validator 020c90b4-14a8-4f0e-a308-5b2da30309fe exceeds server threshold with distance 538.73 km.
+2024-10-09 10:59:32,744 - Validator bab60669-0aa8-4443-8a50-e7b628748abe exceeds server threshold with distance 508.96 km.
+2024-10-09 10:59:32,757 - Validator 04a57731-1e45-4410-9499-7094f9986106 exceeds server threshold with distance 1084.22 km.
+2024-10-09 10:59:32,767 - Validator 3a2f27ce-5201-4fcf-943f-e5587c5b0cba exceeds server threshold with distance 688.21 km.
+2024-10-09 10:59:32,777 - Validator 969ecfd7-74ac-4b63-93d7-b13801d2ad09 exceeds server threshold with distance 826.46 km.
+2024-10-09 10:59:32,780 - Validator c8902297-8b2b-4194-8208-da7f45a8948a exceeds server threshold with distance 510.35 km.
+2024-10-09 10:59:32,873 - Validator 5d754db1-b5fc-4d96-9221-a65d18a2edd6 exceeds server threshold with distance 1424.57 km.
+2024-10-09 10:59:32,964 - Validator 4a6f9fd3-07f4-402a-af17-8bbef00b8334 exceeds server threshold with distance 610.43 km.
+2024-10-09 10:59:33,184 - Validator 705c8b06-3fc1-4b6f-bd0f-f5e64d94f833 exceeds server threshold with distance 953.26 km.
+2024-10-09 10:59:33,493 - Validator 80f97f76-7043-4b41-8ec8-aaae0b22d6fc exceeds server threshold with distance 785.95 km.
+2024-10-09 10:59:33,509 - Validator f6e59e01-8297-40c2-9695-b67cdfd5518f exceeds server threshold with distance 511.08 km.
+2024-10-09 10:59:33,596 - Validator bb9a0404-3303-4950-971c-c106250a2072 exceeds server threshold with distance 631.82 km.
+2024-10-09 10:59:33,624 - Validator 9f5b749c-4817-490d-9dd2-34406866c29f exceeds server threshold with distance 600.38 km.
+2024-10-09 10:59:33,781 - Validator bbde3412-67b7-4452-91c8-96a046aad68a exceeds server threshold with distance 734.72 km.
+2024-10-09 10:59:33,916 - Validator fc2df25b-afb6-44cc-9ede-fafc120118a0 exceeds server threshold with distance 636.53 km.
+2024-10-09 10:59:34,113 - Validator ed9e70a3-629d-4e7a-8806-089759d53ea4 exceeds server threshold with distance 525.08 km.
+2024-10-09 10:59:34,122 - Validator 3176d50c-79bf-49ea-8ce4-13b6c9072bf9 exceeds server threshold with distance 588.73 km.
+2024-10-09 10:59:34,179 - Validator 26916ae7-bf9d-4915-a7a9-8f43433e112a exceeds server threshold with distance 515.35 km.
+2024-10-09 10:59:34,262 - Validator fed5c262-448b-4c42-87f1-7d6ed10bc2d6 exceeds server threshold with distance 1433.80 km.
+2024-10-09 10:59:34,322 - Validator 3e32de3d-f6c3-43fb-9d55-0877dc5cf9b7 exceeds server threshold with distance 758.83 km.
+2024-10-09 10:59:34,386 - Validator 5583c45a-0f29-4865-b12b-96e4e92721d0 exceeds server threshold with distance 696.77 km.
+2024-10-09 10:59:34,419 - Validator f4433271-47ee-4c8d-9205-644540a3e057 exceeds server threshold with distance 634.63 km.
+2024-10-09 10:59:34,424 - Validator 2acbe1de-b7c3-44a0-a69b-a63e43f40436 exceeds server threshold with distance 1177.19 km.
+2024-10-09 10:59:34,436 - Validator ad52686e-b51c-425a-a89b-216bb368232e exceeds server threshold with distance 716.62 km.
+2024-10-09 10:59:34,439 - Validator a01125d9-ae15-4393-8d80-cd03d3b416e8 exceeds server threshold with distance 676.72 km.
+2024-10-09 10:59:34,446 - Validator a4d3bdbf-aa3f-4ee0-9a5c-e0c3e8c8fb12 exceeds server threshold with distance 956.67 km.
+2024-10-09 10:59:34,503 - Validator c9ac72e2-8616-49c1-ae1f-a908a78f8393 exceeds server threshold with distance 2131.87 km.
+2024-10-09 10:59:34,511 - Validator 30f16321-0751-41e9-b7d5-69bce1cb764e exceeds server threshold with distance 1235.09 km.
+2024-10-09 10:59:34,518 - Validator 6d9bfee0-3d4d-43c3-a978-7dd154a7026b exceeds server threshold with distance 610.78 km.
+2024-10-09 10:59:34,520 - Validator 76715d84-30e2-4f2a-bd4e-c91d3e8d8df6 exceeds server threshold with distance 794.46 km.
+2024-10-09 10:59:34,521 - Validators exceeding threshold: 56
+2024-10-09 10:59:34,523 - Total validators after initial aggregation: 189
+2024-10-09 10:59:34,523 - Validator count exceeds 64 after initial mapping: 189
+2024-10-09 10:59:34,523 - Current validator count: 189. Trying to merge with threshold: 200 km.
+2024-10-09 10:59:34,724 - Merged validators at index 92 and 131, distance 9.13 km.
+2024-10-09 10:59:34,724 - Validator count after merging: 188
+2024-10-09 10:59:34,724 - Merged validators at index 6 and 159, distance 14.35 km.
+2024-10-09 10:59:34,724 - Validator count after merging: 187
+2024-10-09 10:59:34,724 - Merged validators at index 12 and 92, distance 27.05 km.
+2024-10-09 10:59:34,724 - Validator count after merging: 186
+2024-10-09 10:59:34,724 - Merged validators at index 157 and 158, distance 33.19 km.
+2024-10-09 10:59:34,724 - Validator count after merging: 185
+2024-10-09 10:59:34,724 - Merged validators at index 142 and 166, distance 41.37 km.
+2024-10-09 10:59:34,724 - Validator count after merging: 184
+2024-10-09 10:59:34,724 - Merged validators at index 28 and 84, distance 45.54 km.
+2024-10-09 10:59:34,724 - Validator count after merging: 183
+2024-10-09 10:59:34,724 - Merged validators at index 6 and 157, distance 48.30 km.
+2024-10-09 10:59:34,724 - Validator count after merging: 182
+2024-10-09 10:59:34,724 - Merged validators at index 13 and 110, distance 49.18 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 181
+2024-10-09 10:59:34,725 - Merged validators at index 10 and 122, distance 51.82 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 180
+2024-10-09 10:59:34,725 - Merged validators at index 125 and 140, distance 54.23 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 179
+2024-10-09 10:59:34,725 - Merged validators at index 19 and 115, distance 55.13 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 178
+2024-10-09 10:59:34,725 - Merged validators at index 37 and 48, distance 58.68 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 177
+2024-10-09 10:59:34,725 - Merged validators at index 76 and 187, distance 68.55 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 176
+2024-10-09 10:59:34,725 - Merged validators at index 172 and 174, distance 68.84 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 175
+2024-10-09 10:59:34,725 - Merged validators at index 12 and 102, distance 71.35 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 174
+2024-10-09 10:59:34,725 - Merged validators at index 18 and 186, distance 72.53 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 173
+2024-10-09 10:59:34,725 - Merged validators at index 6 and 146, distance 73.05 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 172
+2024-10-09 10:59:34,725 - Merged validators at index 15 and 35, distance 75.01 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 171
+2024-10-09 10:59:34,725 - Merged validators at index 167 and 182, distance 78.15 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 170
+2024-10-09 10:59:34,725 - Merged validators at index 68 and 105, distance 86.00 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 169
+2024-10-09 10:59:34,725 - Merged validators at index 23 and 39, distance 86.46 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 168
+2024-10-09 10:59:34,725 - Merged validators at index 162 and 167, distance 90.28 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 167
+2024-10-09 10:59:34,725 - Merged validators at index 2 and 81, distance 94.79 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 166
+2024-10-09 10:59:34,725 - Merged validators at index 31 and 172, distance 94.82 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 165
+2024-10-09 10:59:34,725 - Merged validators at index 15 and 183, distance 102.86 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 164
+2024-10-09 10:59:34,725 - Merged validators at index 120 and 162, distance 107.59 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 163
+2024-10-09 10:59:34,725 - Merged validators at index 19 and 148, distance 111.66 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 162
+2024-10-09 10:59:34,725 - Merged validators at index 125 and 177, distance 114.25 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 161
+2024-10-09 10:59:34,725 - Merged validators at index 45 and 112, distance 116.52 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 160
+2024-10-09 10:59:34,725 - Merged validators at index 26 and 118, distance 117.11 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 159
+2024-10-09 10:59:34,725 - Merged validators at index 21 and 85, distance 117.58 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 158
+2024-10-09 10:59:34,725 - Merged validators at index 28 and 78, distance 122.78 km.
+2024-10-09 10:59:34,725 - Validator count after merging: 157
+2024-10-09 10:59:34,726 - Merged validators at index 74 and 82, distance 124.47 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 156
+2024-10-09 10:59:34,726 - Merged validators at index 12 and 171, distance 128.02 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 155
+2024-10-09 10:59:34,726 - Merged validators at index 65 and 76, distance 128.82 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 154
+2024-10-09 10:59:34,726 - Merged validators at index 3 and 154, distance 131.28 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 153
+2024-10-09 10:59:34,726 - Merged validators at index 89 and 99, distance 131.85 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 152
+2024-10-09 10:59:34,726 - Merged validators at index 26 and 53, distance 133.39 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 151
+2024-10-09 10:59:34,726 - Merged validators at index 121 and 124, distance 134.30 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 150
+2024-10-09 10:59:34,726 - Merged validators at index 31 and 138, distance 146.14 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 149
+2024-10-09 10:59:34,726 - Merged validators at index 123 and 188, distance 146.27 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 148
+2024-10-09 10:59:34,726 - Merged validators at index 73 and 139, distance 147.88 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 147
+2024-10-09 10:59:34,726 - Merged validators at index 123 and 153, distance 150.63 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 146
+2024-10-09 10:59:34,726 - Merged validators at index 12 and 59, distance 154.58 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 145
+2024-10-09 10:59:34,726 - Merged validators at index 6 and 37, distance 157.17 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 144
+2024-10-09 10:59:34,726 - Merged validators at index 68 and 107, distance 157.75 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 143
+2024-10-09 10:59:34,726 - Merged validators at index 26 and 150, distance 158.93 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 142
+2024-10-09 10:59:34,726 - Merged validators at index 106 and 168, distance 159.36 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 141
+2024-10-09 10:59:34,726 - Merged validators at index 67 and 106, distance 161.59 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 140
+2024-10-09 10:59:34,726 - Merged validators at index 6 and 147, distance 161.76 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 139
+2024-10-09 10:59:34,726 - Merged validators at index 46 and 184, distance 167.33 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 138
+2024-10-09 10:59:34,726 - Merged validators at index 65 and 73, distance 172.52 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 137
+2024-10-09 10:59:34,726 - Merged validators at index 54 and 120, distance 178.69 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 136
+2024-10-09 10:59:34,726 - Merged validators at index 33 and 62, distance 179.65 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 135
+2024-10-09 10:59:34,726 - Merged validators at index 27 and 123, distance 187.57 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 134
+2024-10-09 10:59:34,726 - Merged validators at index 27 and 54, distance 190.03 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 133
+2024-10-09 10:59:34,726 - Merged validators at index 22 and 47, distance 191.28 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 132
+2024-10-09 10:59:34,726 - Merged validators at index 13 and 136, distance 194.23 km.
+2024-10-09 10:59:34,726 - Validator count after merging: 131
+2024-10-09 10:59:34,727 - Merged validators at index 114 and 173, distance 197.42 km.
+2024-10-09 10:59:34,727 - Validator count after merging: 130
+2024-10-09 10:59:34,727 - Current validator count: 130. Trying to merge with threshold: 300 km.
+2024-10-09 10:59:34,822 - Merged validators at index 10 and 107, distance 213.02 km.
+2024-10-09 10:59:34,822 - Validator count after merging: 129
+2024-10-09 10:59:34,822 - Merged validators at index 71 and 89, distance 213.87 km.
+2024-10-09 10:59:34,822 - Validator count after merging: 128
+2024-10-09 10:59:34,822 - Merged validators at index 19 and 38, distance 214.74 km.
+2024-10-09 10:59:34,822 - Validator count after merging: 127
+2024-10-09 10:59:34,823 - Merged validators at index 25 and 31, distance 217.67 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 126
+2024-10-09 10:59:34,823 - Merged validators at index 12 and 90, distance 224.80 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 125
+2024-10-09 10:59:34,823 - Merged validators at index 24 and 98, distance 228.15 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 124
+2024-10-09 10:59:34,823 - Merged validators at index 78 and 94, distance 230.77 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 123
+2024-10-09 10:59:34,823 - Merged validators at index 22 and 60, distance 233.43 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 122
+2024-10-09 10:59:34,823 - Merged validators at index 40 and 114, distance 247.73 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 121
+2024-10-09 10:59:34,823 - Merged validators at index 3 and 19, distance 252.34 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 120
+2024-10-09 10:59:34,823 - Merged validators at index 25 and 95, distance 253.10 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 119
+2024-10-09 10:59:34,823 - Merged validators at index 10 and 56, distance 261.71 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 118
+2024-10-09 10:59:34,823 - Merged validators at index 58 and 105, distance 262.14 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 117
+2024-10-09 10:59:34,823 - Merged validators at index 44 and 129, distance 262.82 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 116
+2024-10-09 10:59:34,823 - Merged validators at index 58 and 59, distance 263.59 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 115
+2024-10-09 10:59:34,823 - Merged validators at index 17 and 73, distance 265.56 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 114
+2024-10-09 10:59:34,823 - Merged validators at index 78 and 109, distance 269.53 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 113
+2024-10-09 10:59:34,823 - Merged validators at index 23 and 82, distance 278.92 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 112
+2024-10-09 10:59:34,823 - Merged validators at index 12 and 13, distance 281.67 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 111
+2024-10-09 10:59:34,823 - Merged validators at index 29 and 113, distance 283.77 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 110
+2024-10-09 10:59:34,823 - Merged validators at index 24 and 112, distance 286.93 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 109
+2024-10-09 10:59:34,823 - Merged validators at index 21 and 71, distance 295.22 km.
+2024-10-09 10:59:34,823 - Validator count after merging: 108
+2024-10-09 10:59:34,824 - Current validator count: 108. Trying to merge with threshold: 400 km.
+2024-10-09 10:59:34,889 - Merged validators at index 42 and 60, distance 300.18 km.
+2024-10-09 10:59:34,889 - Validator count after merging: 107
+2024-10-09 10:59:34,890 - Merged validators at index 15 and 42, distance 302.35 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 106
+2024-10-09 10:59:34,890 - Merged validators at index 35 and 73, distance 302.99 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 105
+2024-10-09 10:59:34,890 - Merged validators at index 83 and 98, distance 303.30 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 104
+2024-10-09 10:59:34,890 - Merged validators at index 94 and 99, distance 303.67 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 103
+2024-10-09 10:59:34,890 - Merged validators at index 43 and 76, distance 304.14 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 102
+2024-10-09 10:59:34,890 - Merged validators at index 31 and 38, distance 304.99 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 101
+2024-10-09 10:59:34,890 - Merged validators at index 69 and 94, distance 306.53 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 100
+2024-10-09 10:59:34,890 - Merged validators at index 11 and 71, distance 307.61 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 99
+2024-10-09 10:59:34,890 - Merged validators at index 21 and 80, distance 316.31 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 98
+2024-10-09 10:59:34,890 - Merged validators at index 13 and 57, distance 329.69 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 97
+2024-10-09 10:59:34,890 - Merged validators at index 56 and 91, distance 334.69 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 96
+2024-10-09 10:59:34,890 - Merged validators at index 6 and 10, distance 340.92 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 95
+2024-10-09 10:59:34,890 - Merged validators at index 47 and 93, distance 350.40 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 94
+2024-10-09 10:59:34,890 - Merged validators at index 16 and 103, distance 358.45 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 93
+2024-10-09 10:59:34,890 - Merged validators at index 30 and 52, distance 360.46 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 92
+2024-10-09 10:59:34,890 - Merged validators at index 11 and 31, distance 362.61 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 91
+2024-10-09 10:59:34,890 - Merged validators at index 6 and 25, distance 368.60 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 90
+2024-10-09 10:59:34,890 - Merged validators at index 12 and 14, distance 374.05 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 89
+2024-10-09 10:59:34,890 - Merged validators at index 9 and 21, distance 377.56 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 88
+2024-10-09 10:59:34,890 - Merged validators at index 40 and 58, distance 382.61 km.
+2024-10-09 10:59:34,890 - Validator count after merging: 87
+2024-10-09 10:59:34,891 - Current validator count: 87. Trying to merge with threshold: 500 km.
+2024-10-09 10:59:34,934 - Merged validators at index 5 and 59, distance 402.81 km.
+2024-10-09 10:59:34,934 - Validator count after merging: 86
+2024-10-09 10:59:34,934 - Merged validators at index 4 and 6, distance 415.52 km.
+2024-10-09 10:59:34,934 - Validator count after merging: 85
+2024-10-09 10:59:34,934 - Merged validators at index 20 and 21, distance 417.59 km.
+2024-10-09 10:59:34,934 - Validator count after merging: 84
+2024-10-09 10:59:34,934 - Merged validators at index 17 and 45, distance 443.64 km.
+2024-10-09 10:59:34,934 - Validator count after merging: 83
+2024-10-09 10:59:34,934 - Merged validators at index 60 and 64, distance 447.40 km.
+2024-10-09 10:59:34,934 - Validator count after merging: 82
+2024-10-09 10:59:34,934 - Merged validators at index 20 and 75, distance 477.22 km.
+2024-10-09 10:59:34,934 - Validator count after merging: 81
+2024-10-09 10:59:34,934 - Merged validators at index 18 and 68, distance 494.80 km.
+2024-10-09 10:59:34,934 - Validator count after merging: 80
+2024-10-09 10:59:34,934 - Current validator count: 80. Trying to merge with threshold: 600 km.
+2024-10-09 10:59:34,971 - Merged validators at index 2 and 31, distance 507.18 km.
+2024-10-09 10:59:34,971 - Validator count after merging: 79
+2024-10-09 10:59:34,972 - Merged validators at index 38 and 55, distance 512.55 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 78
+2024-10-09 10:59:34,972 - Merged validators at index 20 and 24, distance 514.86 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 77
+2024-10-09 10:59:34,972 - Merged validators at index 3 and 21, distance 517.87 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 76
+2024-10-09 10:59:34,972 - Merged validators at index 41 and 48, distance 518.37 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 75
+2024-10-09 10:59:34,972 - Merged validators at index 12 and 76, distance 520.72 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 74
+2024-10-09 10:59:34,972 - Merged validators at index 8 and 18, distance 522.24 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 73
+2024-10-09 10:59:34,972 - Merged validators at index 46 and 58, distance 531.49 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 72
+2024-10-09 10:59:34,972 - Merged validators at index 13 and 73, distance 541.84 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 71
+2024-10-09 10:59:34,972 - Merged validators at index 13 and 62, distance 558.00 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 70
+2024-10-09 10:59:34,972 - Merged validators at index 2 and 10, distance 574.49 km.
+2024-10-09 10:59:34,972 - Validator count after merging: 69
+2024-10-09 10:59:34,972 - Current validator count: 69. Trying to merge with threshold: 700 km.
+2024-10-09 10:59:35,000 - Merged validators at index 22 and 30, distance 638.71 km.
+2024-10-09 10:59:35,000 - Validator count after merging: 68
+2024-10-09 10:59:35,000 - Merged validators at index 39 and 49, distance 640.83 km.
+2024-10-09 10:59:35,000 - Validator count after merging: 67
+2024-10-09 10:59:35,000 - Merged validators at index 4 and 17, distance 641.08 km.
+2024-10-09 10:59:35,000 - Validator count after merging: 66
+2024-10-09 10:59:35,000 - Merged validators at index 1 and 43, distance 653.36 km.
+2024-10-09 10:59:35,000 - Validator count after merging: 65
+2024-10-09 10:59:35,000 - Merged validators at index 15 and 27, distance 660.74 km.
+2024-10-09 10:59:35,000 - Validator count after merging: 64
+2024-10-09 10:59:35,001 - Results saved to data/geodec/ethernodes.csv
+2024-10-09 10:59:35,001 - Finished processing file: ethernodes.csv
 
-2024-10-07 10:42:54,057 - Processing file: solana.csv
-2024-10-07 10:42:54,058 - Initial number of validators: 118
-2024-10-07 10:42:54,350 - Validator 4vdWYn2KbmQ3Dns5wVBfz4CFQDds4b7CpsC8MHBhHAib exceeds server threshold with distance 623.85 km.
-2024-10-07 10:42:54,355 - Validator 2RwFJJkhr4tCTuQnZN1CFpAtn5s9pTzakagvu326W1FT exceeds server threshold with distance 777.09 km.
-2024-10-07 10:42:54,378 - Validator 7BTbVD8t98eYH3XV17Azui4cUMLyfvheoJ6w6VtWivfW exceeds server threshold with distance 716.68 km.
-2024-10-07 10:42:54,396 - Validators exceeding threshold: 3
-2024-10-07 10:42:54,397 - Total validators after initial aggregation: 83
-2024-10-07 10:42:54,397 - Validator count exceeds 64 after initial mapping: 83
-2024-10-07 10:42:54,397 - Current validator count: 83. Trying to merge with threshold: 200 km.
-2024-10-07 10:42:54,437 - Merged validators at index 49 and 63, distance 9.13 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 82
-2024-10-07 10:42:54,437 - Merged validators at index 9 and 49, distance 27.05 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 81
-2024-10-07 10:42:54,437 - Merged validators at index 20 and 45, distance 45.54 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 80
-2024-10-07 10:42:54,437 - Merged validators at index 77 and 78, distance 49.65 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 79
-2024-10-07 10:42:54,437 - Merged validators at index 15 and 57, distance 55.13 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 78
-2024-10-07 10:42:54,437 - Merged validators at index 9 and 54, distance 71.35 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 77
-2024-10-07 10:42:54,437 - Merged validators at index 1 and 43, distance 94.79 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 76
-2024-10-07 10:42:54,437 - Merged validators at index 77 and 81, distance 96.24 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 75
-2024-10-07 10:42:54,437 - Merged validators at index 73 and 77, distance 106.70 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 74
-2024-10-07 10:42:54,437 - Merged validators at index 15 and 74, distance 111.66 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 73
-2024-10-07 10:42:54,437 - Merged validators at index 7 and 41, distance 138.11 km.
-2024-10-07 10:42:54,437 - Validator count after merging: 72
-2024-10-07 10:42:54,438 - Merged validators at index 2 and 82, distance 152.15 km.
-2024-10-07 10:42:54,438 - Validator count after merging: 71
-2024-10-07 10:42:54,438 - Merged validators at index 9 and 33, distance 154.58 km.
-2024-10-07 10:42:54,438 - Validator count after merging: 70
-2024-10-07 10:42:54,438 - Merged validators at index 60 and 73, distance 160.39 km.
-2024-10-07 10:42:54,438 - Validator count after merging: 69
-2024-10-07 10:42:54,438 - Merged validators at index 31 and 68, distance 171.43 km.
-2024-10-07 10:42:54,438 - Validator count after merging: 68
-2024-10-07 10:42:54,438 - Merged validators at index 31 and 60, distance 178.69 km.
-2024-10-07 10:42:54,438 - Validator count after merging: 67
-2024-10-07 10:42:54,438 - Merged validators at index 24 and 36, distance 179.65 km.
-2024-10-07 10:42:54,438 - Validator count after merging: 66
-2024-10-07 10:42:54,438 - Merged validators at index 19 and 31, distance 190.03 km.
-2024-10-07 10:42:54,438 - Validator count after merging: 65
-2024-10-07 10:42:54,438 - Merged validators at index 17 and 29, distance 191.28 km.
-2024-10-07 10:42:54,438 - Validator count after merging: 64
-2024-10-07 10:42:54,439 - Results saved to data/geodec/solana.csv
-2024-10-07 10:42:54,439 - Finished processing file: solana.csv
+2024-10-09 10:59:35,001 - Processing file: solana.csv
+2024-10-09 10:59:35,002 - Initial number of validators: 118
+2024-10-09 10:59:35,012 - Validator simpRo1FrQYGa1moicfgnPDp6KyE38d4gYrZzhjXYJb exceeds server threshold with distance 871.87 km.
+2024-10-09 10:59:35,241 - Validator 4vdWYn2KbmQ3Dns5wVBfz4CFQDds4b7CpsC8MHBhHAib exceeds server threshold with distance 623.85 km.
+2024-10-09 10:59:35,246 - Validator 2RwFJJkhr4tCTuQnZN1CFpAtn5s9pTzakagvu326W1FT exceeds server threshold with distance 777.09 km.
+2024-10-09 10:59:35,268 - Validator 7BTbVD8t98eYH3XV17Azui4cUMLyfvheoJ6w6VtWivfW exceeds server threshold with distance 716.68 km.
+2024-10-09 10:59:35,285 - Validators exceeding threshold: 4
+2024-10-09 10:59:35,286 - Total validators after initial aggregation: 83
+2024-10-09 10:59:35,286 - Validator count exceeds 64 after initial mapping: 83
+2024-10-09 10:59:35,286 - Current validator count: 83. Trying to merge with threshold: 200 km.
+2024-10-09 10:59:35,326 - Merged validators at index 49 and 62, distance 9.13 km.
+2024-10-09 10:59:35,326 - Validator count after merging: 82
+2024-10-09 10:59:35,327 - Merged validators at index 9 and 49, distance 27.05 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 81
+2024-10-09 10:59:35,327 - Merged validators at index 20 and 45, distance 45.54 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 80
+2024-10-09 10:59:35,327 - Merged validators at index 76 and 77, distance 49.65 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 79
+2024-10-09 10:59:35,327 - Merged validators at index 15 and 56, distance 55.13 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 78
+2024-10-09 10:59:35,327 - Merged validators at index 9 and 53, distance 71.35 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 77
+2024-10-09 10:59:35,327 - Merged validators at index 1 and 43, distance 94.79 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 76
+2024-10-09 10:59:35,327 - Merged validators at index 76 and 81, distance 96.24 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 75
+2024-10-09 10:59:35,327 - Merged validators at index 72 and 76, distance 106.70 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 74
+2024-10-09 10:59:35,327 - Merged validators at index 15 and 73, distance 111.66 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 73
+2024-10-09 10:59:35,327 - Merged validators at index 7 and 41, distance 138.11 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 72
+2024-10-09 10:59:35,327 - Merged validators at index 2 and 82, distance 152.15 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 71
+2024-10-09 10:59:35,327 - Merged validators at index 9 and 33, distance 154.58 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 70
+2024-10-09 10:59:35,327 - Merged validators at index 59 and 72, distance 160.39 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 69
+2024-10-09 10:59:35,327 - Merged validators at index 31 and 67, distance 171.43 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 68
+2024-10-09 10:59:35,327 - Merged validators at index 31 and 59, distance 178.69 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 67
+2024-10-09 10:59:35,327 - Merged validators at index 24 and 36, distance 179.65 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 66
+2024-10-09 10:59:35,327 - Merged validators at index 19 and 31, distance 190.03 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 65
+2024-10-09 10:59:35,327 - Merged validators at index 17 and 29, distance 191.28 km.
+2024-10-09 10:59:35,327 - Validator count after merging: 64
+2024-10-09 10:59:35,329 - Results saved to data/geodec/solana.csv
+2024-10-09 10:59:35,329 - Finished processing file: solana.csv
 
-2024-10-07 10:42:54,439 - Processing file: aptos.csv
-2024-10-07 10:42:54,440 - Initial number of validators: 46
-2024-10-07 10:42:54,554 - Validators exceeding threshold: 0
-2024-10-07 10:42:54,556 - Total validators after initial aggregation: 42
-2024-10-07 10:42:54,556 - Validator count is within limit after initial mapping: 42
-2024-10-07 10:42:54,556 - Results saved to data/geodec/aptos.csv
-2024-10-07 10:42:54,556 - Finished processing file: aptos.csv
+2024-10-09 10:59:35,329 - Processing file: aptos.csv
+2024-10-09 10:59:35,330 - Initial number of validators: 46
+2024-10-09 10:59:35,342 - Validator 0x52b48fb6e6883d4cdf244cde8d7e972ea2d8ece9b5e484ed5085aacef0e306a1 exceeds server threshold with distance 871.93 km.
+2024-10-09 10:59:35,440 - Validators exceeding threshold: 1
+2024-10-09 10:59:35,442 - Total validators after initial aggregation: 42
+2024-10-09 10:59:35,442 - Validator count is within limit after initial mapping: 42
+2024-10-09 10:59:35,443 - Results saved to data/geodec/aptos.csv
+2024-10-09 10:59:35,443 - Finished processing file: aptos.csv
 
-2024-10-07 10:42:54,556 - Processing file: ethereum.csv
-2024-10-07 10:42:54,558 - Initial number of validators: 1046
-2024-10-07 10:42:54,625 - Validator 16Uiu2HAmV3eCWRupBwXDCHt2fVVu4Z6LEKnkf6oG4st4cd8jJ3h9 exceeds server threshold with distance 1037.24 km.
-2024-10-07 10:42:54,638 - Validator 16Uiu2HAmMEgxzCkiJ6BfmoKxkzYVK3kZYgiQQzwiNEWzjrEgdQ2s exceeds server threshold with distance 2354.05 km.
-2024-10-07 10:42:54,643 - Validator 16Uiu2HAmBK8ZsRzoxjg1AZkqxFcpUgXZXhoiVcaAGvVjhHKuUUC7 exceeds server threshold with distance 1556.88 km.
-2024-10-07 10:42:54,646 - Validator 16Uiu2HAmHjvoJ9RjeQPn7u5WnQrkMRf4h23KGqr58sMxj5UpsVaf exceeds server threshold with distance 977.58 km.
-2024-10-07 10:42:54,648 - Validator 16Uiu2HAmEY7bUYkScmLMerU8VmiU8ns6Jrik76YFUmXi9XcomQA7 exceeds server threshold with distance 678.61 km.
-2024-10-07 10:42:54,678 - Validator 16Uiu2HAmEqJrH7CtusjZ3K9G7SB3JtTSr5BSdktiPkaQUEDmNCMt exceeds server threshold with distance 642.58 km.
-2024-10-07 10:42:54,706 - Validator 16Uiu2HAmSG99gMhqr5k93iqiySsUgESp48EL9ZQWVpJQDBRSY1TN exceeds server threshold with distance 604.89 km.
-2024-10-07 10:42:54,711 - Validator 16Uiu2HAmBfGK4NzN4BdvqsPX82TjFSCfKidqsyjEJCjXEXpA7ot7 exceeds server threshold with distance 855.53 km.
-2024-10-07 10:42:54,714 - Validator 16Uiu2HAmEVKWbta1xcVfcAiHhrnEG4XWhbXABTTWrhfxujXutEwy exceeds server threshold with distance 891.99 km.
-2024-10-07 10:42:54,716 - Validator 16Uiu2HAm9RJ75JWLXQiFheG7VdBpHbXtMroHfyDd2t5qhrAZmCAo exceeds server threshold with distance 895.90 km.
-2024-10-07 10:42:54,719 - Validator 16Uiu2HAkzZnxpZWgYu9MeTsEGft6is4xQZ4Jm5VEy9b6fifLmz2J exceeds server threshold with distance 583.41 km.
-2024-10-07 10:42:54,722 - Validator 16Uiu2HAmBiC4c711cPAoda4K1tZMYCkwuuaBZjuEgZXgX65gCGbH exceeds server threshold with distance 569.64 km.
-2024-10-07 10:42:54,727 - Validator 16Uiu2HAmL3fP6z9h6g8nGRSbEgrBvKcCnhZ9ith37Qr1VhwH24Q4 exceeds server threshold with distance 775.14 km.
-2024-10-07 10:42:54,732 - Validator 16Uiu2HAmJRFKevwupMMX2BDLbzmvD2su5uAWiAkFmZK9e47aHxmi exceeds server threshold with distance 685.93 km.
-2024-10-07 10:42:54,747 - Validator 16Uiu2HAm41VGro58KmJq7fCdZX1fwnYHTaac3p3NNobw4UY8x2hf exceeds server threshold with distance 579.41 km.
-2024-10-07 10:42:54,819 - Validator 16Uiu2HAmKtmo31g3Kg8jzwi7p53pvkXNWe1fbGpP4johWcT39Bwj exceeds server threshold with distance 643.59 km.
-2024-10-07 10:42:54,844 - Validator 16Uiu2HAmGTraXktCGyvzJaqwHcGXB7KTtbyAWaSod34Q6wSvDZrE exceeds server threshold with distance 675.41 km.
-2024-10-07 10:42:54,852 - Validator 16Uiu2HAmKhHRfjBczqLjCbRUgEpZKPRwGX38GGaRCgbxxQ7K2tfb exceeds server threshold with distance 1202.87 km.
-2024-10-07 10:42:54,857 - Validator 16Uiu2HAkz14mPUKF3wPbNQ6vQUVVJKcH7i2BAKGbzLzF2Nc3Grxv exceeds server threshold with distance 1189.56 km.
-2024-10-07 10:42:54,865 - Validator 16Uiu2HAmHye9oKcHxMHWE3zctPt6HBDURBJWGCTQZaB9azAmUvxV exceeds server threshold with distance 637.92 km.
-2024-10-07 10:42:54,872 - Validator 16Uiu2HAkyUzqXxyUQVRATEmmPcwsJCkZaLzWGq38qckWB7xfc7CF exceeds server threshold with distance 1236.98 km.
-2024-10-07 10:42:54,892 - Validator 16Uiu2HAm62ZPxSpt882o1ia4kEM6EjAbRGAZHPse9rkDp5e7qVFD exceeds server threshold with distance 534.26 km.
-2024-10-07 10:42:54,933 - Validator 16Uiu2HAmAL388Csojyzvvavzv1L759YJHWArJzeG3sjYhbJEqWfU exceeds server threshold with distance 620.44 km.
-2024-10-07 10:42:54,966 - Validator 16Uiu2HAmMxQ1or8ZinXJsFPZjJZiTz3y43uwC1mH4uzQhqy339L5 exceeds server threshold with distance 1087.35 km.
-2024-10-07 10:42:55,016 - Validator 16Uiu2HAm82ENuKqR8Gndkw4uTy4atnmxikt1LJ1GhGRxm5ZQkS14 exceeds server threshold with distance 963.99 km.
-2024-10-07 10:42:55,221 - Validator 16Uiu2HAm5uo7Q8vwJkkz8Q9dmXjzz4L85PuqKDiQAQi4c36k12T6 exceeds server threshold with distance 1090.34 km.
-2024-10-07 10:42:55,246 - Validator 16Uiu2HAmAf7T8waqKJhtUHn7hPLoSuPA5DSGHgayYGhd8c8BeiR2 exceeds server threshold with distance 554.27 km.
-2024-10-07 10:42:55,719 - Validator 16Uiu2HAkyMH2jxzY5Ja9iuQ4fRUrra4w8sgV6m3xz6TR9Zk4DBhT exceeds server threshold with distance 997.47 km.
-2024-10-07 10:42:55,976 - Validator 16Uiu2HAmLKaisvGnnLzm7ppkkvQm4HnHWJPUMoJpA41KnCGfRNFe exceeds server threshold with distance 508.13 km.
-2024-10-07 10:42:56,040 - Validator 16Uiu2HAmEpDJjnmJ6iNKGN1bLaABvkqoSE8yt3crFfKeyWSCdh4T exceeds server threshold with distance 597.17 km.
-2024-10-07 10:42:56,112 - Validator 16Uiu2HAmULjR76u4H7Yz16yzQV5ppE3zpMjUJsQbhMaV9ah1cWAd exceeds server threshold with distance 595.93 km.
-2024-10-07 10:42:56,165 - Validator 16Uiu2HAm9XbL6xDwTtBzHY19SxEHoHrWnZfkvGppw5oBxjBVf1dB exceeds server threshold with distance 555.04 km.
-2024-10-07 10:42:56,249 - Validator 16Uiu2HAm9yTMcY5A8xEfVfmGw9AfZos7DnREtJ6E1KPibmvfu1qc exceeds server threshold with distance 504.31 km.
-2024-10-07 10:42:56,264 - Validator 16Uiu2HAmQwtawiueoi2ncGrYhcZMWqpgzoGoyZ2sbaHXMjQWYVkk exceeds server threshold with distance 670.41 km.
-2024-10-07 10:42:56,309 - Validator 16Uiu2HAmJy2pph5VntknaVATJKdThJ33392Z6P1dPUKvAhFU6MKW exceeds server threshold with distance 732.91 km.
-2024-10-07 10:42:56,403 - Validator 16Uiu2HAmRFEE2EK36V1aLjRtSnJgWpjrAMiqJXAB7NHoKpZiP4sd exceeds server threshold with distance 602.10 km.
-2024-10-07 10:42:56,591 - Validator 16Uiu2HAmKWS1J5CY7TLbq8Bft8b7WLUW6HEF3NArxHg49ooMfd91 exceeds server threshold with distance 863.22 km.
-2024-10-07 10:42:56,631 - Validator 16Uiu2HAmUJPzm938oztvMNthFPGZxwdXdcvqsRDn17oU9R45zdhh exceeds server threshold with distance 527.81 km.
-2024-10-07 10:42:56,678 - Validator 16Uiu2HAmEr2g58oJrgNoe954FvPi7teh6AHnfi1x8bRHD48nPtBR exceeds server threshold with distance 586.09 km.
-2024-10-07 10:42:56,681 - Validator 16Uiu2HAkupdfqomZwFpS8Zqxu7sEpAnbJ35JRB6i47U4ncoTQhT9 exceeds server threshold with distance 524.55 km.
-2024-10-07 10:42:56,866 - Validator 16Uiu2HAmHTii6FqhtfwXFtySRSChHNVD5MZTFa8DDH9fX2y9uP5u exceeds server threshold with distance 1433.94 km.
-2024-10-07 10:42:56,947 - Validator 16Uiu2HAmBVKEjNVKdrzbkqir1CDB8srp9xxw3RsePgS2Sv7FN5f1 exceeds server threshold with distance 507.97 km.
-2024-10-07 10:42:57,014 - Validator 16Uiu2HAmJNPFczeKkqfk25HnSMDxCyFif2Ez9cBEyXDfREKQ4A8H exceeds server threshold with distance 697.25 km.
-2024-10-07 10:42:57,070 - Validator 16Uiu2HAmVHRJuCWX1fyWLnC219wSveXUdzeEPBN6WQGUjyZ7vAdU exceeds server threshold with distance 709.36 km.
-2024-10-07 10:42:57,075 - Validator 16Uiu2HAkxvTH29Nm6tArDjdsasbkqsVnrcyWo5geeFU1yoSCzZ7N exceeds server threshold with distance 735.48 km.
-2024-10-07 10:42:57,077 - Validator 16Uiu2HAkveUAzspAc9kDEp5jJJsaCKx1jzDiv3JYLxpLyAsCGBch exceeds server threshold with distance 961.97 km.
-2024-10-07 10:42:57,150 - Validator 16Uiu2HAmDhDopRFpvzFAN3cUuMdbuKha6jvCMDwuDHncpY5c2SXE exceeds server threshold with distance 2130.96 km.
-2024-10-07 10:42:57,155 - Validator 16Uiu2HAmHMyL9gnUg3d8BdBQ1pSpg4oVR8FucBksbv7ARZkSXEif exceeds server threshold with distance 2113.69 km.
-2024-10-07 10:42:57,163 - Validator 16Uiu2HAmE9gRYqxpM2DnWHMJusmjWcHEtchmRLUCfwd5vW2k277y exceeds server threshold with distance 534.34 km.
-2024-10-07 10:42:57,166 - Validator 16Uiu2HAm2MJqUybDTo5o8RPWUuUtQiU9E8MD7KR4EY4j3K4eMyhV exceeds server threshold with distance 790.27 km.
-2024-10-07 10:42:57,166 - Validators exceeding threshold: 50
-2024-10-07 10:42:57,170 - Total validators after initial aggregation: 194
-2024-10-07 10:42:57,170 - Validator count exceeds 64 after initial mapping: 194
-2024-10-07 10:42:57,170 - Current validator count: 194. Trying to merge with threshold: 200 km.
-2024-10-07 10:42:57,380 - Merged validators at index 90 and 130, distance 9.13 km.
-2024-10-07 10:42:57,380 - Validator count after merging: 193
-2024-10-07 10:42:57,380 - Merged validators at index 149 and 162, distance 11.70 km.
-2024-10-07 10:42:57,380 - Validator count after merging: 192
-2024-10-07 10:42:57,380 - Merged validators at index 5 and 163, distance 14.35 km.
-2024-10-07 10:42:57,380 - Validator count after merging: 191
-2024-10-07 10:42:57,380 - Merged validators at index 11 and 90, distance 27.05 km.
-2024-10-07 10:42:57,380 - Validator count after merging: 190
-2024-10-07 10:42:57,381 - Merged validators at index 58 and 164, distance 29.25 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 189
-2024-10-07 10:42:57,381 - Merged validators at index 143 and 170, distance 41.37 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 188
-2024-10-07 10:42:57,381 - Merged validators at index 5 and 149, distance 44.76 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 187
-2024-10-07 10:42:57,381 - Merged validators at index 27 and 82, distance 45.54 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 186
-2024-10-07 10:42:57,381 - Merged validators at index 12 and 109, distance 49.18 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 185
-2024-10-07 10:42:57,381 - Merged validators at index 9 and 121, distance 51.82 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 184
-2024-10-07 10:42:57,381 - Merged validators at index 124 and 141, distance 54.23 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 183
-2024-10-07 10:42:57,381 - Merged validators at index 18 and 114, distance 55.13 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 182
-2024-10-07 10:42:57,381 - Merged validators at index 35 and 45, distance 58.68 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 181
-2024-10-07 10:42:57,381 - Merged validators at index 74 and 191, distance 68.55 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 180
-2024-10-07 10:42:57,381 - Merged validators at index 176 and 178, distance 68.84 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 179
-2024-10-07 10:42:57,381 - Merged validators at index 11 and 101, distance 71.35 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 178
-2024-10-07 10:42:57,381 - Merged validators at index 17 and 189, distance 72.53 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 177
-2024-10-07 10:42:57,381 - Merged validators at index 5 and 147, distance 73.05 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 176
-2024-10-07 10:42:57,381 - Merged validators at index 14 and 34, distance 75.01 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 175
-2024-10-07 10:42:57,381 - Merged validators at index 171 and 185, distance 78.15 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 174
-2024-10-07 10:42:57,381 - Merged validators at index 65 and 104, distance 86.00 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 173
-2024-10-07 10:42:57,381 - Merged validators at index 22 and 37, distance 86.46 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 172
-2024-10-07 10:42:57,381 - Merged validators at index 166 and 171, distance 90.28 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 171
-2024-10-07 10:42:57,381 - Merged validators at index 123 and 156, distance 92.29 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 170
-2024-10-07 10:42:57,381 - Merged validators at index 1 and 79, distance 94.79 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 169
-2024-10-07 10:42:57,381 - Merged validators at index 30 and 176, distance 94.82 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 168
-2024-10-07 10:42:57,381 - Merged validators at index 14 and 186, distance 102.86 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 167
-2024-10-07 10:42:57,381 - Merged validators at index 154 and 193, distance 105.79 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 166
-2024-10-07 10:42:57,381 - Merged validators at index 119 and 166, distance 107.59 km.
-2024-10-07 10:42:57,381 - Validator count after merging: 165
-2024-10-07 10:42:57,382 - Merged validators at index 18 and 150, distance 111.66 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 164
-2024-10-07 10:42:57,382 - Merged validators at index 124 and 181, distance 114.25 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 163
-2024-10-07 10:42:57,382 - Merged validators at index 42 and 111, distance 116.52 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 162
-2024-10-07 10:42:57,382 - Merged validators at index 25 and 117, distance 117.11 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 161
-2024-10-07 10:42:57,382 - Merged validators at index 20 and 83, distance 117.58 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 160
-2024-10-07 10:42:57,382 - Merged validators at index 27 and 76, distance 122.78 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 159
-2024-10-07 10:42:57,382 - Merged validators at index 72 and 80, distance 124.47 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 158
-2024-10-07 10:42:57,382 - Merged validators at index 11 and 175, distance 128.02 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 157
-2024-10-07 10:42:57,382 - Merged validators at index 62 and 74, distance 128.82 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 156
-2024-10-07 10:42:57,382 - Merged validators at index 2 and 159, distance 131.28 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 155
-2024-10-07 10:42:57,382 - Merged validators at index 87 and 97, distance 131.85 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 154
-2024-10-07 10:42:57,382 - Merged validators at index 25 and 50, distance 133.39 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 153
-2024-10-07 10:42:57,382 - Merged validators at index 120 and 123, distance 134.30 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 152
-2024-10-07 10:42:57,382 - Merged validators at index 17 and 154, distance 140.57 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 151
-2024-10-07 10:42:57,382 - Merged validators at index 30 and 138, distance 146.14 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 150
-2024-10-07 10:42:57,382 - Merged validators at index 122 and 192, distance 146.27 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 149
-2024-10-07 10:42:57,382 - Merged validators at index 71 and 140, distance 147.88 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 148
-2024-10-07 10:42:57,382 - Merged validators at index 122 and 158, distance 150.63 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 147
-2024-10-07 10:42:57,382 - Merged validators at index 11 and 56, distance 154.58 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 146
-2024-10-07 10:42:57,382 - Merged validators at index 5 and 35, distance 157.17 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 145
-2024-10-07 10:42:57,382 - Merged validators at index 65 and 106, distance 157.75 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 144
-2024-10-07 10:42:57,382 - Merged validators at index 25 and 152, distance 158.93 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 143
-2024-10-07 10:42:57,382 - Merged validators at index 105 and 172, distance 159.36 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 142
-2024-10-07 10:42:57,382 - Merged validators at index 64 and 105, distance 161.59 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 141
-2024-10-07 10:42:57,382 - Merged validators at index 5 and 148, distance 161.76 km.
-2024-10-07 10:42:57,382 - Validator count after merging: 140
-2024-10-07 10:42:57,383 - Merged validators at index 68 and 135, distance 165.53 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 139
-2024-10-07 10:42:57,383 - Merged validators at index 43 and 187, distance 167.33 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 138
-2024-10-07 10:42:57,383 - Merged validators at index 62 and 71, distance 172.52 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 137
-2024-10-07 10:42:57,383 - Merged validators at index 51 and 119, distance 178.69 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 136
-2024-10-07 10:42:57,383 - Merged validators at index 32 and 59, distance 179.65 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 135
-2024-10-07 10:42:57,383 - Merged validators at index 26 and 122, distance 187.57 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 134
-2024-10-07 10:42:57,383 - Merged validators at index 26 and 51, distance 190.03 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 133
-2024-10-07 10:42:57,383 - Merged validators at index 21 and 44, distance 191.28 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 132
-2024-10-07 10:42:57,383 - Merged validators at index 12 and 136, distance 194.23 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 131
-2024-10-07 10:42:57,383 - Merged validators at index 113 and 177, distance 197.42 km.
-2024-10-07 10:42:57,383 - Validator count after merging: 130
-2024-10-07 10:42:57,383 - Current validator count: 130. Trying to merge with threshold: 300 km.
-2024-10-07 10:42:57,478 - Merged validators at index 114 and 122, distance 203.59 km.
-2024-10-07 10:42:57,478 - Validator count after merging: 129
-2024-10-07 10:42:57,479 - Merged validators at index 9 and 107, distance 213.02 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 128
-2024-10-07 10:42:57,479 - Merged validators at index 69 and 88, distance 213.87 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 127
-2024-10-07 10:42:57,479 - Merged validators at index 18 and 36, distance 214.74 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 126
-2024-10-07 10:42:57,479 - Merged validators at index 24 and 30, distance 217.67 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 125
-2024-10-07 10:42:57,479 - Merged validators at index 11 and 89, distance 224.80 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 124
-2024-10-07 10:42:57,479 - Merged validators at index 23 and 97, distance 228.15 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 123
-2024-10-07 10:42:57,479 - Merged validators at index 76 and 93, distance 230.77 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 122
-2024-10-07 10:42:57,479 - Merged validators at index 21 and 57, distance 233.43 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 121
-2024-10-07 10:42:57,479 - Merged validators at index 2 and 18, distance 252.34 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 120
-2024-10-07 10:42:57,479 - Merged validators at index 24 and 94, distance 253.10 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 119
-2024-10-07 10:42:57,479 - Merged validators at index 9 and 53, distance 261.71 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 118
-2024-10-07 10:42:57,479 - Merged validators at index 55 and 104, distance 262.14 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 117
-2024-10-07 10:42:57,479 - Merged validators at index 41 and 128, distance 262.82 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 116
-2024-10-07 10:42:57,479 - Merged validators at index 55 and 56, distance 263.59 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 115
-2024-10-07 10:42:57,479 - Merged validators at index 16 and 71, distance 265.56 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 114
-2024-10-07 10:42:57,479 - Merged validators at index 76 and 109, distance 269.53 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 113
-2024-10-07 10:42:57,479 - Merged validators at index 22 and 81, distance 278.92 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 112
-2024-10-07 10:42:57,479 - Merged validators at index 11 and 12, distance 281.67 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 111
-2024-10-07 10:42:57,479 - Merged validators at index 28 and 113, distance 283.77 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 110
-2024-10-07 10:42:57,479 - Merged validators at index 23 and 112, distance 286.93 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 109
-2024-10-07 10:42:57,479 - Merged validators at index 20 and 69, distance 295.22 km.
-2024-10-07 10:42:57,479 - Validator count after merging: 108
-2024-10-07 10:42:57,480 - Current validator count: 108. Trying to merge with threshold: 400 km.
-2024-10-07 10:42:57,546 - Merged validators at index 39 and 58, distance 300.18 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 107
-2024-10-07 10:42:57,546 - Merged validators at index 14 and 39, distance 302.35 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 106
-2024-10-07 10:42:57,546 - Merged validators at index 33 and 72, distance 302.99 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 105
-2024-10-07 10:42:57,546 - Merged validators at index 82 and 99, distance 303.30 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 104
-2024-10-07 10:42:57,546 - Merged validators at index 96 and 100, distance 303.67 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 103
-2024-10-07 10:42:57,546 - Merged validators at index 40 and 75, distance 304.14 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 102
-2024-10-07 10:42:57,546 - Merged validators at index 30 and 35, distance 304.99 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 101
-2024-10-07 10:42:57,546 - Merged validators at index 67 and 96, distance 306.53 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 100
-2024-10-07 10:42:57,546 - Merged validators at index 10 and 69, distance 307.61 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 99
-2024-10-07 10:42:57,546 - Merged validators at index 20 and 79, distance 316.31 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 98
-2024-10-07 10:42:57,546 - Merged validators at index 12 and 55, distance 329.69 km.
-2024-10-07 10:42:57,546 - Validator count after merging: 97
-2024-10-07 10:42:57,546 - Merged validators at index 54 and 91, distance 334.69 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 96
-2024-10-07 10:42:57,547 - Merged validators at index 5 and 9, distance 340.92 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 95
-2024-10-07 10:42:57,547 - Merged validators at index 44 and 93, distance 350.40 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 94
-2024-10-07 10:42:57,547 - Merged validators at index 15 and 103, distance 358.45 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 93
-2024-10-07 10:42:57,547 - Merged validators at index 29 and 49, distance 360.46 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 92
-2024-10-07 10:42:57,547 - Merged validators at index 10 and 30, distance 362.61 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 91
-2024-10-07 10:42:57,547 - Merged validators at index 5 and 24, distance 368.60 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 90
-2024-10-07 10:42:57,547 - Merged validators at index 11 and 13, distance 374.05 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 89
-2024-10-07 10:42:57,547 - Merged validators at index 8 and 20, distance 377.56 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 88
-2024-10-07 10:42:57,547 - Merged validators at index 37 and 56, distance 382.61 km.
-2024-10-07 10:42:57,547 - Validator count after merging: 87
-2024-10-07 10:42:57,547 - Current validator count: 87. Trying to merge with threshold: 500 km.
-2024-10-07 10:42:57,591 - Merged validators at index 4 and 57, distance 402.81 km.
-2024-10-07 10:42:57,591 - Validator count after merging: 86
-2024-10-07 10:42:57,591 - Merged validators at index 3 and 5, distance 415.52 km.
-2024-10-07 10:42:57,591 - Validator count after merging: 85
-2024-10-07 10:42:57,591 - Merged validators at index 19 and 20, distance 417.59 km.
-2024-10-07 10:42:57,591 - Validator count after merging: 84
-2024-10-07 10:42:57,591 - Merged validators at index 27 and 74, distance 429.18 km.
-2024-10-07 10:42:57,591 - Validator count after merging: 83
-2024-10-07 10:42:57,591 - Merged validators at index 16 and 42, distance 443.64 km.
-2024-10-07 10:42:57,591 - Validator count after merging: 82
-2024-10-07 10:42:57,591 - Merged validators at index 58 and 63, distance 447.40 km.
-2024-10-07 10:42:57,591 - Validator count after merging: 81
-2024-10-07 10:42:57,591 - Merged validators at index 19 and 75, distance 477.22 km.
-2024-10-07 10:42:57,591 - Validator count after merging: 80
-2024-10-07 10:42:57,591 - Merged validators at index 17 and 67, distance 494.80 km.
-2024-10-07 10:42:57,591 - Validator count after merging: 79
-2024-10-07 10:42:57,591 - Current validator count: 79. Trying to merge with threshold: 600 km.
-2024-10-07 10:42:57,627 - Merged validators at index 1 and 28, distance 507.18 km.
-2024-10-07 10:42:57,627 - Validator count after merging: 78
-2024-10-07 10:42:57,627 - Merged validators at index 35 and 53, distance 512.55 km.
-2024-10-07 10:42:57,627 - Validator count after merging: 77
-2024-10-07 10:42:57,627 - Merged validators at index 19 and 23, distance 514.86 km.
-2024-10-07 10:42:57,627 - Validator count after merging: 76
-2024-10-07 10:42:57,627 - Merged validators at index 2 and 20, distance 517.87 km.
-2024-10-07 10:42:57,627 - Validator count after merging: 75
-2024-10-07 10:42:57,627 - Merged validators at index 7 and 17, distance 522.24 km.
-2024-10-07 10:42:57,628 - Validator count after merging: 74
-2024-10-07 10:42:57,628 - Merged validators at index 44 and 57, distance 531.49 km.
-2024-10-07 10:42:57,628 - Validator count after merging: 73
-2024-10-07 10:42:57,628 - Merged validators at index 33 and 69, distance 539.60 km.
-2024-10-07 10:42:57,628 - Validator count after merging: 72
-2024-10-07 10:42:57,628 - Merged validators at index 12 and 73, distance 541.84 km.
-2024-10-07 10:42:57,628 - Validator count after merging: 71
-2024-10-07 10:42:57,628 - Merged validators at index 12 and 61, distance 558.00 km.
-2024-10-07 10:42:57,628 - Validator count after merging: 70
-2024-10-07 10:42:57,628 - Merged validators at index 1 and 9, distance 574.49 km.
-2024-10-07 10:42:57,628 - Validator count after merging: 69
-2024-10-07 10:42:57,628 - Merged validators at index 41 and 45, distance 595.47 km.
-2024-10-07 10:42:57,628 - Validator count after merging: 68
-2024-10-07 10:42:57,628 - Current validator count: 68. Trying to merge with threshold: 700 km.
-2024-10-07 10:42:57,655 - Merged validators at index 20 and 27, distance 638.71 km.
-2024-10-07 10:42:57,655 - Validator count after merging: 67
-2024-10-07 10:42:57,655 - Merged validators at index 37 and 47, distance 640.83 km.
-2024-10-07 10:42:57,655 - Validator count after merging: 66
-2024-10-07 10:42:57,655 - Merged validators at index 3 and 16, distance 641.08 km.
-2024-10-07 10:42:57,655 - Validator count after merging: 65
-2024-10-07 10:42:57,655 - Merged validators at index 0 and 41, distance 653.36 km.
-2024-10-07 10:42:57,655 - Validator count after merging: 64
-2024-10-07 10:42:57,656 - Results saved to data/geodec/ethereum.csv
-2024-10-07 10:42:57,656 - Finished processing file: ethereum.csv
+2024-10-09 10:59:35,443 - Processing file: ethereum.csv
+2024-10-09 10:59:35,445 - Initial number of validators: 1046
+2024-10-09 10:59:35,503 - Validator 16Uiu2HAmLi8oDnYzBGWppmR34QdmjhmXke7CevGdMe9yhLqMnagy exceeds server threshold with distance 1220.15 km.
+2024-10-09 10:59:35,511 - Validator 16Uiu2HAmV3eCWRupBwXDCHt2fVVu4Z6LEKnkf6oG4st4cd8jJ3h9 exceeds server threshold with distance 1037.24 km.
+2024-10-09 10:59:35,513 - Validator 16Uiu2HAm6SCbi2Wv7fDHAFUeiGxu9v5wbCKnWPB87oSwbeCzSGgd exceeds server threshold with distance 862.99 km.
+2024-10-09 10:59:35,516 - Validator 16Uiu2HAkwX9C57toWBfDvUcmnVqRNUD6D98NrCNnCMbsdqtBRu3e exceeds server threshold with distance 867.28 km.
+2024-10-09 10:59:35,518 - Validator 16Uiu2HAmTdtbzt86YWdddq2j2CcGAQVLX4fCVmKQb6P4LkvLP8zw exceeds server threshold with distance 930.15 km.
+2024-10-09 10:59:35,521 - Validator 16Uiu2HAm7FmuHHb7nddRbXU5KXjJ3Ukh4UqHdUzn37MNEGTu3Q2C exceeds server threshold with distance 696.45 km.
+2024-10-09 10:59:35,523 - Validator 16Uiu2HAmMEgxzCkiJ6BfmoKxkzYVK3kZYgiQQzwiNEWzjrEgdQ2s exceeds server threshold with distance 2354.05 km.
+2024-10-09 10:59:35,528 - Validator 16Uiu2HAmBK8ZsRzoxjg1AZkqxFcpUgXZXhoiVcaAGvVjhHKuUUC7 exceeds server threshold with distance 1556.88 km.
+2024-10-09 10:59:35,530 - Validator 16Uiu2HAmHjvoJ9RjeQPn7u5WnQrkMRf4h23KGqr58sMxj5UpsVaf exceeds server threshold with distance 977.58 km.
+2024-10-09 10:59:35,533 - Validator 16Uiu2HAmEY7bUYkScmLMerU8VmiU8ns6Jrik76YFUmXi9XcomQA7 exceeds server threshold with distance 678.61 km.
+2024-10-09 10:59:35,562 - Validator 16Uiu2HAmEqJrH7CtusjZ3K9G7SB3JtTSr5BSdktiPkaQUEDmNCMt exceeds server threshold with distance 642.58 km.
+2024-10-09 10:59:35,588 - Validator 16Uiu2HAmSG99gMhqr5k93iqiySsUgESp48EL9ZQWVpJQDBRSY1TN exceeds server threshold with distance 604.89 km.
+2024-10-09 10:59:35,593 - Validator 16Uiu2HAmBfGK4NzN4BdvqsPX82TjFSCfKidqsyjEJCjXEXpA7ot7 exceeds server threshold with distance 855.53 km.
+2024-10-09 10:59:35,596 - Validator 16Uiu2HAmEVKWbta1xcVfcAiHhrnEG4XWhbXABTTWrhfxujXutEwy exceeds server threshold with distance 891.99 km.
+2024-10-09 10:59:35,598 - Validator 16Uiu2HAm9RJ75JWLXQiFheG7VdBpHbXtMroHfyDd2t5qhrAZmCAo exceeds server threshold with distance 895.90 km.
+2024-10-09 10:59:35,601 - Validator 16Uiu2HAkzZnxpZWgYu9MeTsEGft6is4xQZ4Jm5VEy9b6fifLmz2J exceeds server threshold with distance 583.41 km.
+2024-10-09 10:59:35,603 - Validator 16Uiu2HAmBiC4c711cPAoda4K1tZMYCkwuuaBZjuEgZXgX65gCGbH exceeds server threshold with distance 569.64 km.
+2024-10-09 10:59:35,608 - Validator 16Uiu2HAmL3fP6z9h6g8nGRSbEgrBvKcCnhZ9ith37Qr1VhwH24Q4 exceeds server threshold with distance 775.14 km.
+2024-10-09 10:59:35,613 - Validator 16Uiu2HAmJRFKevwupMMX2BDLbzmvD2su5uAWiAkFmZK9e47aHxmi exceeds server threshold with distance 685.93 km.
+2024-10-09 10:59:35,641 - Validator 16Uiu2HAm41VGro58KmJq7fCdZX1fwnYHTaac3p3NNobw4UY8x2hf exceeds server threshold with distance 579.41 km.
+2024-10-09 10:59:35,714 - Validator 16Uiu2HAmKtmo31g3Kg8jzwi7p53pvkXNWe1fbGpP4johWcT39Bwj exceeds server threshold with distance 643.59 km.
+2024-10-09 10:59:35,738 - Validator 16Uiu2HAmGTraXktCGyvzJaqwHcGXB7KTtbyAWaSod34Q6wSvDZrE exceeds server threshold with distance 675.41 km.
+2024-10-09 10:59:35,746 - Validator 16Uiu2HAmKhHRfjBczqLjCbRUgEpZKPRwGX38GGaRCgbxxQ7K2tfb exceeds server threshold with distance 1202.87 km.
+2024-10-09 10:59:35,751 - Validator 16Uiu2HAkz14mPUKF3wPbNQ6vQUVVJKcH7i2BAKGbzLzF2Nc3Grxv exceeds server threshold with distance 1189.56 km.
+2024-10-09 10:59:35,758 - Validator 16Uiu2HAmHye9oKcHxMHWE3zctPt6HBDURBJWGCTQZaB9azAmUvxV exceeds server threshold with distance 666.45 km.
+2024-10-09 10:59:35,765 - Validator 16Uiu2HAkyUzqXxyUQVRATEmmPcwsJCkZaLzWGq38qckWB7xfc7CF exceeds server threshold with distance 1236.98 km.
+2024-10-09 10:59:35,785 - Validator 16Uiu2HAm62ZPxSpt882o1ia4kEM6EjAbRGAZHPse9rkDp5e7qVFD exceeds server threshold with distance 534.26 km.
+2024-10-09 10:59:35,805 - Validator 16Uiu2HAmR1reusqJZuMFF6rKWr7C2dtrsuV4KENto7RibVWPwmAP exceeds server threshold with distance 541.16 km.
+2024-10-09 10:59:35,824 - Validator 16Uiu2HAmAL388Csojyzvvavzv1L759YJHWArJzeG3sjYhbJEqWfU exceeds server threshold with distance 620.44 km.
+2024-10-09 10:59:35,834 - Validator 16Uiu2HAmMggEZYEkumAdwmoGrLh5nXdzTGY6uReW9KWAzUc12CsM exceeds server threshold with distance 600.15 km.
+2024-10-09 10:59:35,856 - Validator 16Uiu2HAmMxQ1or8ZinXJsFPZjJZiTz3y43uwC1mH4uzQhqy339L5 exceeds server threshold with distance 1087.35 km.
+2024-10-09 10:59:35,858 - Validator 16Uiu2HAmUrWuwSZC99Y9KQArTEsigKJo1kexWE7yuDrF8oXNz9QP exceeds server threshold with distance 645.26 km.
+2024-10-09 10:59:35,868 - Validator 16Uiu2HAkyZA9H4nQhjBqypYSsgxP7dveUDLisZpCSU28LN8jJp5L exceeds server threshold with distance 685.71 km.
+2024-10-09 10:59:35,881 - Validator 16Uiu2HAmCX8UFpf9swiBM7WUFTw7EaRwhqjPH9q1skc5N5qQjeqY exceeds server threshold with distance 868.24 km.
+2024-10-09 10:59:35,888 - Validator 16Uiu2HAm79jpCMopEJfTEzSQX64uNxnVwyEnjaTYM9r9vMT8uyTz exceeds server threshold with distance 829.78 km.
+2024-10-09 10:59:35,905 - Validator 16Uiu2HAm82ENuKqR8Gndkw4uTy4atnmxikt1LJ1GhGRxm5ZQkS14 exceeds server threshold with distance 963.99 km.
+2024-10-09 10:59:36,106 - Validator 16Uiu2HAm5uo7Q8vwJkkz8Q9dmXjzz4L85PuqKDiQAQi4c36k12T6 exceeds server threshold with distance 1649.43 km.
+2024-10-09 10:59:36,130 - Validator 16Uiu2HAmAf7T8waqKJhtUHn7hPLoSuPA5DSGHgayYGhd8c8BeiR2 exceeds server threshold with distance 607.57 km.
+2024-10-09 10:59:36,257 - Validator 16Uiu2HAm27sNbapFvdu9d91LUyx9YFh3Ei8d2VemWXL5TZsTErsj exceeds server threshold with distance 1096.82 km.
+2024-10-09 10:59:36,427 - Validator 16Uiu2HAmP2zPEdmoZjALHQtshkXi7iC2YrdWrqgJdfcZzGwuqqRC exceeds server threshold with distance 952.84 km.
+2024-10-09 10:59:36,450 - Validator 16Uiu2HAm8MgL5kstPNAxEbuq6n7TxbmGD7Fg3gChLHL8CuQLNg9B exceeds server threshold with distance 1216.44 km.
+2024-10-09 10:59:36,524 - Validator 16Uiu2HAm9dgm3zQE3GxBHbHvoEgwLoAMEnEqNiuUVGQrzmXcXGtU exceeds server threshold with distance 1363.01 km.
+2024-10-09 10:59:36,584 - Validator 16Uiu2HAkyMH2jxzY5Ja9iuQ4fRUrra4w8sgV6m3xz6TR9Zk4DBhT exceeds server threshold with distance 997.47 km.
+2024-10-09 10:59:36,830 - Validator 16Uiu2HAmLKaisvGnnLzm7ppkkvQm4HnHWJPUMoJpA41KnCGfRNFe exceeds server threshold with distance 508.13 km.
+2024-10-09 10:59:36,893 - Validator 16Uiu2HAmEpDJjnmJ6iNKGN1bLaABvkqoSE8yt3crFfKeyWSCdh4T exceeds server threshold with distance 597.17 km.
+2024-10-09 10:59:36,962 - Validator 16Uiu2HAmULjR76u4H7Yz16yzQV5ppE3zpMjUJsQbhMaV9ah1cWAd exceeds server threshold with distance 595.93 km.
+2024-10-09 10:59:37,011 - Validator 16Uiu2HAm9XbL6xDwTtBzHY19SxEHoHrWnZfkvGppw5oBxjBVf1dB exceeds server threshold with distance 555.04 km.
+2024-10-09 10:59:37,093 - Validator 16Uiu2HAm9yTMcY5A8xEfVfmGw9AfZos7DnREtJ6E1KPibmvfu1qc exceeds server threshold with distance 504.31 km.
+2024-10-09 10:59:37,107 - Validator 16Uiu2HAmQwtawiueoi2ncGrYhcZMWqpgzoGoyZ2sbaHXMjQWYVkk exceeds server threshold with distance 670.41 km.
+2024-10-09 10:59:37,150 - Validator 16Uiu2HAmJy2pph5VntknaVATJKdThJ33392Z6P1dPUKvAhFU6MKW exceeds server threshold with distance 732.91 km.
+2024-10-09 10:59:37,242 - Validator 16Uiu2HAmRFEE2EK36V1aLjRtSnJgWpjrAMiqJXAB7NHoKpZiP4sd exceeds server threshold with distance 602.10 km.
+2024-10-09 10:59:37,423 - Validator 16Uiu2HAmKWS1J5CY7TLbq8Bft8b7WLUW6HEF3NArxHg49ooMfd91 exceeds server threshold with distance 863.22 km.
+2024-10-09 10:59:37,461 - Validator 16Uiu2HAmUJPzm938oztvMNthFPGZxwdXdcvqsRDn17oU9R45zdhh exceeds server threshold with distance 527.81 km.
+2024-10-09 10:59:37,507 - Validator 16Uiu2HAmEr2g58oJrgNoe954FvPi7teh6AHnfi1x8bRHD48nPtBR exceeds server threshold with distance 586.09 km.
+2024-10-09 10:59:37,510 - Validator 16Uiu2HAkupdfqomZwFpS8Zqxu7sEpAnbJ35JRB6i47U4ncoTQhT9 exceeds server threshold with distance 524.55 km.
+2024-10-09 10:59:37,689 - Validator 16Uiu2HAmHTii6FqhtfwXFtySRSChHNVD5MZTFa8DDH9fX2y9uP5u exceeds server threshold with distance 1433.94 km.
+2024-10-09 10:59:37,766 - Validator 16Uiu2HAmBVKEjNVKdrzbkqir1CDB8srp9xxw3RsePgS2Sv7FN5f1 exceeds server threshold with distance 507.97 km.
+2024-10-09 10:59:37,830 - Validator 16Uiu2HAmJNPFczeKkqfk25HnSMDxCyFif2Ez9cBEyXDfREKQ4A8H exceeds server threshold with distance 697.25 km.
+2024-10-09 10:59:37,883 - Validator 16Uiu2HAmVHRJuCWX1fyWLnC219wSveXUdzeEPBN6WQGUjyZ7vAdU exceeds server threshold with distance 709.36 km.
+2024-10-09 10:59:37,887 - Validator 16Uiu2HAkxvTH29Nm6tArDjdsasbkqsVnrcyWo5geeFU1yoSCzZ7N exceeds server threshold with distance 735.48 km.
+2024-10-09 10:59:37,890 - Validator 16Uiu2HAkveUAzspAc9kDEp5jJJsaCKx1jzDiv3JYLxpLyAsCGBch exceeds server threshold with distance 961.97 km.
+2024-10-09 10:59:37,959 - Validator 16Uiu2HAmDhDopRFpvzFAN3cUuMdbuKha6jvCMDwuDHncpY5c2SXE exceeds server threshold with distance 2130.96 km.
+2024-10-09 10:59:37,964 - Validator 16Uiu2HAmHMyL9gnUg3d8BdBQ1pSpg4oVR8FucBksbv7ARZkSXEif exceeds server threshold with distance 2113.69 km.
+2024-10-09 10:59:37,971 - Validator 16Uiu2HAmE9gRYqxpM2DnWHMJusmjWcHEtchmRLUCfwd5vW2k277y exceeds server threshold with distance 534.34 km.
+2024-10-09 10:59:37,974 - Validator 16Uiu2HAm2MJqUybDTo5o8RPWUuUtQiU9E8MD7KR4EY4j3K4eMyhV exceeds server threshold with distance 790.27 km.
+2024-10-09 10:59:37,974 - Validators exceeding threshold: 65
+2024-10-09 10:59:37,977 - Total validators after initial aggregation: 189
+2024-10-09 10:59:37,977 - Validator count exceeds 64 after initial mapping: 189
+2024-10-09 10:59:37,977 - Current validator count: 189. Trying to merge with threshold: 200 km.
+2024-10-09 10:59:38,179 - Merged validators at index 89 and 128, distance 9.13 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 188
+2024-10-09 10:59:38,179 - Merged validators at index 146 and 159, distance 11.70 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 187
+2024-10-09 10:59:38,179 - Merged validators at index 5 and 160, distance 14.35 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 186
+2024-10-09 10:59:38,179 - Merged validators at index 11 and 89, distance 27.05 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 185
+2024-10-09 10:59:38,179 - Merged validators at index 140 and 166, distance 41.37 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 184
+2024-10-09 10:59:38,179 - Merged validators at index 5 and 146, distance 44.76 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 183
+2024-10-09 10:59:38,179 - Merged validators at index 27 and 81, distance 45.54 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 182
+2024-10-09 10:59:38,179 - Merged validators at index 12 and 107, distance 49.18 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 181
+2024-10-09 10:59:38,179 - Merged validators at index 9 and 119, distance 51.82 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 180
+2024-10-09 10:59:38,179 - Merged validators at index 122 and 138, distance 54.23 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 179
+2024-10-09 10:59:38,179 - Merged validators at index 18 and 112, distance 55.13 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 178
+2024-10-09 10:59:38,179 - Merged validators at index 35 and 45, distance 58.68 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 177
+2024-10-09 10:59:38,179 - Merged validators at index 73 and 186, distance 68.55 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 176
+2024-10-09 10:59:38,179 - Merged validators at index 172 and 174, distance 68.84 km.
+2024-10-09 10:59:38,179 - Validator count after merging: 175
+2024-10-09 10:59:38,180 - Merged validators at index 11 and 99, distance 71.35 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 174
+2024-10-09 10:59:38,180 - Merged validators at index 17 and 185, distance 72.53 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 173
+2024-10-09 10:59:38,180 - Merged validators at index 5 and 144, distance 73.05 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 172
+2024-10-09 10:59:38,180 - Merged validators at index 14 and 34, distance 75.01 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 171
+2024-10-09 10:59:38,180 - Merged validators at index 167 and 181, distance 78.15 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 170
+2024-10-09 10:59:38,180 - Merged validators at index 65 and 102, distance 86.00 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 169
+2024-10-09 10:59:38,180 - Merged validators at index 22 and 37, distance 86.46 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 168
+2024-10-09 10:59:38,180 - Merged validators at index 162 and 167, distance 90.28 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 167
+2024-10-09 10:59:38,180 - Merged validators at index 121 and 153, distance 92.29 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 166
+2024-10-09 10:59:38,180 - Merged validators at index 1 and 78, distance 94.79 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 165
+2024-10-09 10:59:38,180 - Merged validators at index 30 and 172, distance 94.82 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 164
+2024-10-09 10:59:38,180 - Merged validators at index 14 and 182, distance 102.86 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 163
+2024-10-09 10:59:38,180 - Merged validators at index 151 and 188, distance 105.79 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 162
+2024-10-09 10:59:38,180 - Merged validators at index 117 and 162, distance 107.59 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 161
+2024-10-09 10:59:38,180 - Merged validators at index 18 and 147, distance 111.66 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 160
+2024-10-09 10:59:38,180 - Merged validators at index 122 and 177, distance 114.25 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 159
+2024-10-09 10:59:38,180 - Merged validators at index 42 and 109, distance 116.52 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 158
+2024-10-09 10:59:38,180 - Merged validators at index 25 and 115, distance 117.11 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 157
+2024-10-09 10:59:38,180 - Merged validators at index 20 and 82, distance 117.58 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 156
+2024-10-09 10:59:38,180 - Merged validators at index 27 and 75, distance 122.78 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 155
+2024-10-09 10:59:38,180 - Merged validators at index 71 and 79, distance 124.47 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 154
+2024-10-09 10:59:38,180 - Merged validators at index 11 and 171, distance 128.02 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 153
+2024-10-09 10:59:38,180 - Merged validators at index 62 and 73, distance 128.82 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 152
+2024-10-09 10:59:38,180 - Merged validators at index 2 and 156, distance 131.28 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 151
+2024-10-09 10:59:38,180 - Merged validators at index 86 and 96, distance 131.85 km.
+2024-10-09 10:59:38,180 - Validator count after merging: 150
+2024-10-09 10:59:38,181 - Merged validators at index 25 and 50, distance 133.39 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 149
+2024-10-09 10:59:38,181 - Merged validators at index 118 and 121, distance 134.30 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 148
+2024-10-09 10:59:38,181 - Merged validators at index 17 and 151, distance 140.57 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 147
+2024-10-09 10:59:38,181 - Merged validators at index 30 and 135, distance 146.14 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 146
+2024-10-09 10:59:38,181 - Merged validators at index 120 and 187, distance 146.27 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 145
+2024-10-09 10:59:38,181 - Merged validators at index 70 and 137, distance 147.88 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 144
+2024-10-09 10:59:38,181 - Merged validators at index 120 and 155, distance 150.63 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 143
+2024-10-09 10:59:38,181 - Merged validators at index 11 and 56, distance 154.58 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 142
+2024-10-09 10:59:38,181 - Merged validators at index 5 and 35, distance 157.17 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 141
+2024-10-09 10:59:38,181 - Merged validators at index 65 and 104, distance 157.75 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 140
+2024-10-09 10:59:38,181 - Merged validators at index 25 and 149, distance 158.93 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 139
+2024-10-09 10:59:38,181 - Merged validators at index 103 and 168, distance 159.36 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 138
+2024-10-09 10:59:38,181 - Merged validators at index 64 and 103, distance 161.59 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 137
+2024-10-09 10:59:38,181 - Merged validators at index 5 and 145, distance 161.76 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 136
+2024-10-09 10:59:38,181 - Merged validators at index 43 and 183, distance 167.33 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 135
+2024-10-09 10:59:38,181 - Merged validators at index 62 and 70, distance 172.52 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 134
+2024-10-09 10:59:38,181 - Merged validators at index 51 and 117, distance 178.69 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 133
+2024-10-09 10:59:38,181 - Merged validators at index 32 and 59, distance 179.65 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 132
+2024-10-09 10:59:38,181 - Merged validators at index 26 and 120, distance 187.57 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 131
+2024-10-09 10:59:38,181 - Merged validators at index 26 and 51, distance 190.03 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 130
+2024-10-09 10:59:38,181 - Merged validators at index 21 and 44, distance 191.28 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 129
+2024-10-09 10:59:38,181 - Merged validators at index 12 and 133, distance 194.23 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 128
+2024-10-09 10:59:38,181 - Merged validators at index 111 and 173, distance 197.42 km.
+2024-10-09 10:59:38,181 - Validator count after merging: 127
+2024-10-09 10:59:38,182 - Current validator count: 127. Trying to merge with threshold: 300 km.
+2024-10-09 10:59:38,272 - Merged validators at index 112 and 120, distance 203.59 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 126
+2024-10-09 10:59:38,272 - Merged validators at index 9 and 105, distance 213.02 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 125
+2024-10-09 10:59:38,272 - Merged validators at index 68 and 86, distance 213.87 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 124
+2024-10-09 10:59:38,272 - Merged validators at index 18 and 36, distance 214.74 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 123
+2024-10-09 10:59:38,272 - Merged validators at index 24 and 30, distance 217.67 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 122
+2024-10-09 10:59:38,272 - Merged validators at index 11 and 87, distance 224.80 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 121
+2024-10-09 10:59:38,272 - Merged validators at index 23 and 95, distance 228.15 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 120
+2024-10-09 10:59:38,272 - Merged validators at index 75 and 91, distance 230.77 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 119
+2024-10-09 10:59:38,272 - Merged validators at index 21 and 57, distance 233.43 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 118
+2024-10-09 10:59:38,272 - Merged validators at index 2 and 18, distance 252.34 km.
+2024-10-09 10:59:38,272 - Validator count after merging: 117
+2024-10-09 10:59:38,272 - Merged validators at index 24 and 92, distance 253.10 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 116
+2024-10-09 10:59:38,273 - Merged validators at index 9 and 53, distance 261.71 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 115
+2024-10-09 10:59:38,273 - Merged validators at index 55 and 102, distance 262.14 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 114
+2024-10-09 10:59:38,273 - Merged validators at index 41 and 126, distance 262.82 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 113
+2024-10-09 10:59:38,273 - Merged validators at index 55 and 56, distance 263.59 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 112
+2024-10-09 10:59:38,273 - Merged validators at index 16 and 70, distance 265.56 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 111
+2024-10-09 10:59:38,273 - Merged validators at index 75 and 107, distance 269.53 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 110
+2024-10-09 10:59:38,273 - Merged validators at index 22 and 79, distance 278.92 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 109
+2024-10-09 10:59:38,273 - Merged validators at index 11 and 12, distance 281.67 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 108
+2024-10-09 10:59:38,273 - Merged validators at index 28 and 111, distance 283.77 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 107
+2024-10-09 10:59:38,273 - Merged validators at index 23 and 110, distance 286.93 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 106
+2024-10-09 10:59:38,273 - Merged validators at index 20 and 68, distance 295.22 km.
+2024-10-09 10:59:38,273 - Validator count after merging: 105
+2024-10-09 10:59:38,273 - Current validator count: 105. Trying to merge with threshold: 400 km.
+2024-10-09 10:59:38,336 - Merged validators at index 39 and 57, distance 300.18 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 104
+2024-10-09 10:59:38,336 - Merged validators at index 14 and 39, distance 302.35 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 103
+2024-10-09 10:59:38,336 - Merged validators at index 33 and 70, distance 302.99 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 102
+2024-10-09 10:59:38,336 - Merged validators at index 80 and 97, distance 303.30 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 101
+2024-10-09 10:59:38,336 - Merged validators at index 94 and 98, distance 303.67 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 100
+2024-10-09 10:59:38,336 - Merged validators at index 40 and 73, distance 304.14 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 99
+2024-10-09 10:59:38,336 - Merged validators at index 30 and 35, distance 304.99 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 98
+2024-10-09 10:59:38,336 - Merged validators at index 66 and 94, distance 306.53 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 97
+2024-10-09 10:59:38,336 - Merged validators at index 10 and 68, distance 307.61 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 96
+2024-10-09 10:59:38,336 - Merged validators at index 20 and 77, distance 316.31 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 95
+2024-10-09 10:59:38,336 - Merged validators at index 12 and 54, distance 329.69 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 94
+2024-10-09 10:59:38,336 - Merged validators at index 53 and 89, distance 334.69 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 93
+2024-10-09 10:59:38,336 - Merged validators at index 5 and 9, distance 340.92 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 92
+2024-10-09 10:59:38,336 - Merged validators at index 44 and 91, distance 350.40 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 91
+2024-10-09 10:59:38,336 - Merged validators at index 15 and 101, distance 358.45 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 90
+2024-10-09 10:59:38,336 - Merged validators at index 29 and 49, distance 360.46 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 89
+2024-10-09 10:59:38,336 - Merged validators at index 10 and 30, distance 362.61 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 88
+2024-10-09 10:59:38,336 - Merged validators at index 5 and 24, distance 368.60 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 87
+2024-10-09 10:59:38,336 - Merged validators at index 11 and 13, distance 374.05 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 86
+2024-10-09 10:59:38,336 - Merged validators at index 8 and 20, distance 377.56 km.
+2024-10-09 10:59:38,336 - Validator count after merging: 85
+2024-10-09 10:59:38,337 - Merged validators at index 37 and 55, distance 382.61 km.
+2024-10-09 10:59:38,337 - Validator count after merging: 84
+2024-10-09 10:59:38,337 - Current validator count: 84. Trying to merge with threshold: 500 km.
+2024-10-09 10:59:38,378 - Merged validators at index 4 and 56, distance 402.81 km.
+2024-10-09 10:59:38,378 - Validator count after merging: 83
+2024-10-09 10:59:38,378 - Merged validators at index 3 and 5, distance 415.52 km.
+2024-10-09 10:59:38,378 - Validator count after merging: 82
+2024-10-09 10:59:38,378 - Merged validators at index 19 and 20, distance 417.59 km.
+2024-10-09 10:59:38,378 - Validator count after merging: 81
+2024-10-09 10:59:38,379 - Merged validators at index 27 and 72, distance 429.18 km.
+2024-10-09 10:59:38,379 - Validator count after merging: 80
+2024-10-09 10:59:38,379 - Merged validators at index 16 and 42, distance 443.64 km.
+2024-10-09 10:59:38,379 - Validator count after merging: 79
+2024-10-09 10:59:38,379 - Merged validators at index 57 and 61, distance 447.40 km.
+2024-10-09 10:59:38,379 - Validator count after merging: 78
+2024-10-09 10:59:38,379 - Merged validators at index 19 and 73, distance 477.22 km.
+2024-10-09 10:59:38,379 - Validator count after merging: 77
+2024-10-09 10:59:38,379 - Merged validators at index 17 and 65, distance 494.80 km.
+2024-10-09 10:59:38,379 - Validator count after merging: 76
+2024-10-09 10:59:38,379 - Current validator count: 76. Trying to merge with threshold: 600 km.
+2024-10-09 10:59:38,413 - Merged validators at index 1 and 28, distance 507.18 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 75
+2024-10-09 10:59:38,413 - Merged validators at index 35 and 52, distance 512.55 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 74
+2024-10-09 10:59:38,413 - Merged validators at index 19 and 23, distance 514.86 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 73
+2024-10-09 10:59:38,413 - Merged validators at index 2 and 20, distance 517.87 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 72
+2024-10-09 10:59:38,413 - Merged validators at index 7 and 17, distance 522.24 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 71
+2024-10-09 10:59:38,413 - Merged validators at index 43 and 55, distance 531.49 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 70
+2024-10-09 10:59:38,413 - Merged validators at index 33 and 67, distance 539.60 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 69
+2024-10-09 10:59:38,413 - Merged validators at index 12 and 71, distance 541.84 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 68
+2024-10-09 10:59:38,413 - Merged validators at index 12 and 59, distance 558.00 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 67
+2024-10-09 10:59:38,413 - Merged validators at index 1 and 9, distance 574.49 km.
+2024-10-09 10:59:38,413 - Validator count after merging: 66
+2024-10-09 10:59:38,413 - Current validator count: 66. Trying to merge with threshold: 700 km.
+2024-10-09 10:59:38,438 - Merged validators at index 20 and 27, distance 638.71 km.
+2024-10-09 10:59:38,438 - Validator count after merging: 65
+2024-10-09 10:59:38,438 - Merged validators at index 36 and 47, distance 640.83 km.
+2024-10-09 10:59:38,438 - Validator count after merging: 64
+2024-10-09 10:59:38,440 - Results saved to data/geodec/ethereum.csv
+2024-10-09 10:59:38,440 - Finished processing file: ethereum.csv
 
-2024-10-07 10:42:57,656 - Processing file: avalanche.csv
-2024-10-07 10:42:57,657 - Initial number of validators: 99
-2024-10-07 10:42:57,901 - Validators exceeding threshold: 0
-2024-10-07 10:42:57,902 - Total validators after initial aggregation: 71
-2024-10-07 10:42:57,903 - Validator count exceeds 64 after initial mapping: 71
-2024-10-07 10:42:57,903 - Current validator count: 71. Trying to merge with threshold: 200 km.
-2024-10-07 10:42:57,932 - Merged validators at index 46 and 54, distance 42.32 km.
-2024-10-07 10:42:57,932 - Validator count after merging: 70
-2024-10-07 10:42:57,932 - Merged validators at index 60 and 61, distance 49.65 km.
-2024-10-07 10:42:57,932 - Validator count after merging: 69
-2024-10-07 10:42:57,932 - Merged validators at index 4 and 51, distance 51.82 km.
-2024-10-07 10:42:57,932 - Validator count after merging: 68
-2024-10-07 10:42:57,932 - Merged validators at index 62 and 67, distance 78.15 km.
-2024-10-07 10:42:57,932 - Validator count after merging: 67
-2024-10-07 10:42:57,932 - Merged validators at index 28 and 46, distance 88.98 km.
-2024-10-07 10:42:57,932 - Validator count after merging: 66
-2024-10-07 10:42:57,932 - Merged validators at index 27 and 58, distance 92.46 km.
-2024-10-07 10:42:57,932 - Validator count after merging: 65
-2024-10-07 10:42:57,932 - Merged validators at index 49 and 62, distance 94.14 km.
-2024-10-07 10:42:57,932 - Validator count after merging: 64
-2024-10-07 10:42:57,933 - Results saved to data/geodec/avalanche.csv
-2024-10-07 10:42:57,933 - Finished processing file: avalanche.csv
+2024-10-09 10:59:38,440 - Processing file: avalanche.csv
+2024-10-09 10:59:38,441 - Initial number of validators: 99
+2024-10-09 10:59:38,451 - Validator NodeID-3yiw3g5Rer7repmzoJaATJpkf7GnWD5j9 exceeds server threshold with distance 871.93 km.
+2024-10-09 10:59:38,680 - Validators exceeding threshold: 1
+2024-10-09 10:59:38,681 - Total validators after initial aggregation: 71
+2024-10-09 10:59:38,683 - Validator count exceeds 64 after initial mapping: 71
+2024-10-09 10:59:38,683 - Current validator count: 71. Trying to merge with threshold: 200 km.
+2024-10-09 10:59:38,712 - Merged validators at index 45 and 53, distance 42.32 km.
+2024-10-09 10:59:38,712 - Validator count after merging: 70
+2024-10-09 10:59:38,712 - Merged validators at index 59 and 60, distance 49.65 km.
+2024-10-09 10:59:38,712 - Validator count after merging: 69
+2024-10-09 10:59:38,712 - Merged validators at index 4 and 50, distance 51.82 km.
+2024-10-09 10:59:38,712 - Validator count after merging: 68
+2024-10-09 10:59:38,712 - Merged validators at index 61 and 67, distance 78.15 km.
+2024-10-09 10:59:38,712 - Validator count after merging: 67
+2024-10-09 10:59:38,712 - Merged validators at index 28 and 45, distance 88.98 km.
+2024-10-09 10:59:38,712 - Validator count after merging: 66
+2024-10-09 10:59:38,712 - Merged validators at index 27 and 57, distance 92.46 km.
+2024-10-09 10:59:38,713 - Validator count after merging: 65
+2024-10-09 10:59:38,713 - Merged validators at index 48 and 61, distance 94.14 km.
+2024-10-09 10:59:38,713 - Validator count after merging: 64
+2024-10-09 10:59:38,714 - Results saved to data/geodec/avalanche.csv
+2024-10-09 10:59:38,714 - Finished processing file: avalanche.csv
 
-2024-10-07 10:42:57,933 - All files processed. Results saved in data/geodec/
+2024-10-09 10:59:38,714 - All files processed. Results saved in data/geodec/

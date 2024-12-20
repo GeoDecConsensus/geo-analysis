@@ -10,7 +10,7 @@ from utils.weight_computation import WeightComputation
 
 
 class Preprocessing:
-    def __init__(self, input_folder="data/geodec/", output_folder="data/geodec_tests/"):
+    def __init__(self, input_folder="data/geodec_merged/", output_folder="data/geodec_tests_2/"):
         self.input_folder = input_folder
         self.output_folder = output_folder
         self.files = self._get_all_files()

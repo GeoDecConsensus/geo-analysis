@@ -154,7 +154,7 @@ def plot_combined(all_data_hotstuff, all_data_cometbft, output_folder):
 
 
 # Define the input and output folders for Hotstuff and CometBFT
-input_folder_hotstuff = 'data/geodec_hotstuff_2'
+input_folder_hotstuff = 'data/geodec_hotstuff'
 input_folder_cometbft = 'data/geodec_cometbft'
 output_folder_base = 'results/geodec/plots'
 
@@ -195,8 +195,8 @@ for csv_file in csv_files_cometbft:
 # Sort all_data by blockchain name for CometBFT
 all_data_cometbft.sort(key=lambda x: x[0]['blockchain'].iloc[0])  
 
-# print(all_data_hotstuff)
-# print(all_data_cometbft)
+print(all_data_hotstuff)
+print(all_data_cometbft)
 
 # # Create an output folder if it doesn't exist
 if not os.path.exists(output_folder_base):

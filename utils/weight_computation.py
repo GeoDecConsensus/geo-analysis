@@ -12,7 +12,7 @@ class WeightComputation:
         """
         self.df = df
 
-    def compute_linear_weight(self, lambdas=[0.9, 0.8, 0.7, 0.6, 0.5]):
+    def compute_linear_weight(self, lambdas=[0.8, 0.6, 0.4, 0.2, 0]):
         """
         Compute lambda * stake_weight + (1 - lambda) * GDI and add as new columns.
 
@@ -22,7 +22,7 @@ class WeightComputation:
             column_name = f"{lam}linear_weight"
             self.df[column_name] = lam * self.df["stake_weight"] + (1 - lam) * self.df["GDI"]
 
-    def compute_exponential_weight(self, alphas=[0.9, 0.8, 0.7, 0.6, 0.5]):
+    def compute_exponential_weight(self, alphas=[0.8, 0.6, 0.4, 0.2, 0]):
         """
         Compute (stake_weight^alpha) * (GDI^(1 - alpha)) and add as new columns.
 

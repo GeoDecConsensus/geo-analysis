@@ -2,3 +2,7 @@
 __pycache__/
 .DS_Storegit
 .DS_Store 
+
+# Virtual environment
+venv/
+env/

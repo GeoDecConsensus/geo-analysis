@@ -18,9 +18,9 @@ class WeightComputation:
 
         :param lambdas: List of lambda values for linear weighting.
         """
-        for lam in lambdas:
-            column_name = f"{lam}linear_weight"
-            self.df[column_name] = lam * self.df["stake_weight"] + (1 - lam) * self.df["GDI"]
+        for i in lambdas:
+            column_name = f"{i}linear_weight"
+            self.df[column_name] = i * self.df["stake_weight"] + (1 - i) * self.df["GDI"]
 
     def compute_exponential_weight(self, alphas=[0.8, 0.6, 0.4, 0.2, 0]):
         """

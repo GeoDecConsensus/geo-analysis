@@ -1,5 +1,7 @@
 import haversine as hs  # Install using: pip install haversine
 import pandas as pd
+import numpy as np
+from joblib import Parallel, delayed
 
 
 class GDI_Calculator:
@@ -14,23 +16,48 @@ class GDI_Calculator:
         self.dist_matrix = self._getDistanceMatrix()
         self.logger = logger if logger else print  # Default to print if no logger provided
 
+    def _compute_row_parallel(self, i, coords, uuids):
+        """
+        Compute a single row of the distance matrix in parallel.
+        Only computes upper triangle to exploit symmetry.
+        """
+        n = len(coords)
+        row = np.zeros(n)
+        for j in range(i+1, n):
+            row[j] = hs.haversine(coords[i], coords[j])
+        return i, row
+
     def _getDistanceMatrix(self):
         """
-        Calculates the distance matrix between servers using the Haversine formula.
+        Calculates the distance matrix between servers using optimized parallel Haversine computation.
+        Uses joblib for parallelization and numpy for efficiency.
 
         :return: A pandas DataFrame representing the distance matrix between all servers.
         """
-        dist = pd.DataFrame(columns=self.df["uuid"], index=self.df["uuid"])
-
-        for source in self.df.index:
-            s_uuid = self.df["uuid"][source]
-            s_coords = (self.df["latitude"][source], self.df["longitude"][source])
-            for destination in self.df.index:
-                d_uuid = self.df["uuid"][destination]
-                d_coords = (self.df["latitude"][destination], self.df["longitude"][destination])
-                # Calculate distance using Haversine formula
-                dist.at[s_uuid, d_uuid] = hs.haversine(s_coords, d_coords)
-        return dist
+        # Extract coordinates and UUIDs for efficient processing
+        coords = [(lat, lon) for lat, lon in zip(self.df["latitude"], self.df["longitude"])]
+        uuids = self.df["uuid"].tolist()
+        n = len(coords)
+        
+        # Initialize distance matrix
+        dist_matrix = np.zeros((n, n))
+        
+        # Parallel computation of upper triangle only (exploit symmetry)
+        results = Parallel(n_jobs=-1)(delayed(self._compute_row_parallel)(i, coords, uuids) for i in range(n))
+        
+        # Fill the distance matrix with results
+        for i, row in results:
+            dist_matrix[i] = row
+        
+        # Fill lower triangle using symmetry (distance is symmetric)
+        for i in range(n):
+            for j in range(i+1, n):
+                dist_matrix[j, i] = dist_matrix[i, j]
+        
+        # Convert back to pandas DataFrame with UUID indexing for compatibility
+        dist_df = pd.DataFrame(dist_matrix, columns=uuids, index=uuids)
+        
+        return dist_df
 
     def merge_closest_validators(self, threshold_distance=20):
         """
